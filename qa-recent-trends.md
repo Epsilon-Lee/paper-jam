@@ -9,6 +9,7 @@
 - [Entity-Based Knowledge Conflicts in Question Answering](https://arxiv.org/pdf/2109.05052.pdf), Sameer Singh et al. `analysis`
 - [SPARTA: Efficient Open-Domain Question Answering via Sparse Transformer Matching Retrieval](https://aclanthology.org/2021.naacl-main.47.pdf), `naacl2021`
 - [Mr. TYDI: A Multi-lingual Benchmark for Dense Retrieval](https://arxiv.org/pdf/2108.08787.pdf), Jimmy Lin's group, `dense retrieval` `evaluation`
+- [Question and Answer Test-Train Overlap in Open-Domain Question Answering Datasets](https://aclanthology.org/2021.eacl-main.86.pdf), `eacl`
 
 ### Knowledge-Base Question Answering
 
@@ -29,3 +30,8 @@
 ### Visual Question Answering
 
 - [Abductive Visual Question Answering for Label Efficient Learning](https://karans.github.io/assets/pdf/Papers/AB-VQA.pdf), Le Song's group. `abduction`
+
+
+### Long-anwer Question Answering
+
+- [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://owainevans.github.io/pdfs/truthfulQA_lin_evans.pdf), OpenAI, Oxford Univ. `benchmark`
