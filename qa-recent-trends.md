@@ -10,6 +10,8 @@
 - [SPARTA: Efficient Open-Domain Question Answering via Sparse Transformer Matching Retrieval](https://aclanthology.org/2021.naacl-main.47.pdf), `naacl2021`
 - [Mr. TYDI: A Multi-lingual Benchmark for Dense Retrieval](https://arxiv.org/pdf/2108.08787.pdf), Jimmy Lin's group, `dense retrieval` `evaluation`
 - [Question and Answer Test-Train Overlap in Open-Domain Question Answering Datasets](https://aclanthology.org/2021.eacl-main.86.pdf), `eacl`
+- [Relation-Guided Pre-Training for Open-Domain Question Answering](https://arxiv.org/pdf/2109.10346.pdf), Kai-Wei Chang's group.
+
 
 ### Knowledge-Base Question Answering
 
@@ -21,6 +23,7 @@
 
 - [Numerical reasoning in machine reading comprehension tasks: are we there yet?](https://arxiv.org/abs/2109.08207), `emnlp2021`
 - [Improving Unsupervised Question Answering via Summarization-Informed Question Generation](https://arxiv.org/pdf/2109.07954.pdf), `emnlp2021` `qg`
+
 
 ### Reasoning, Commonsense and Knowledge
 
