@@ -1,1 +1,30 @@
 
+### Scaling Up
+
+- [Scaling Laws for Neural Machine Translation](https://arxiv.org/pdf/2109.07740.pdf), Google.
+- 
+
+### Quality Estimation
+
+- [Levenshtein Training for Word-level Quality Estimation](https://arxiv.org/pdf/2109.05611.pdf), Shuoyang Ding et al.
+- [Beyond Glass-Box Features: Uncertainty Quantification Enhanced Quality Estimation for Neural Machine Translation](https://arxiv.org/pdf/2109.07141.pdf), Alibaba Group.
+
+
+### Translationese
+
+- [Comparing Feature-Engineering and Feature-Learning Approaches for Multilingual Translationese Classification](https://arxiv.org/pdf/2109.07604.pdf).
+
+
+### Training Strategy
+
+- [Improving Neural Machine Translation by Bidirectional Training](https://arxiv.org/pdf/2109.07780.pdf), Liang Ding et al.
+
+
+### Analysis and Evaluation
+
+- [Translation Transformers Rediscover Inherent Data Domains](https://arxiv.org/pdf/2109.07864.pdf).
+- [On the Limits of Minimal Pairs in Contrastive Evaluation](https://arxiv.org/pdf/2109.07465.pdf).
+
+### Discourse
+
+- [When Does Translation Require Context? A Data-driven, Multilingual Exploration](https://arxiv.org/pdf/2109.07446.pdf).
