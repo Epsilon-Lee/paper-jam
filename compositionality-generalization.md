@@ -44,6 +44,7 @@
 - [Compositional Generalization and Natural Language Variation: Can a Semantic Parsing Approach Handle Both?](https://arxiv.org/pdf/2010.12725), 2020.
 - [Inducing Transformer's Compositional Generalization Ability via Auxiliary Sequence Prediction Tasks](https://arxiv.org/abs/2109.15256), `emnlp` 2021.
 - [Making Transformers Solve Compositional Tasks](https://arxiv.org/pdf/2108.04378.pdf), Google Research 2021.
+- [Unlocking Compositional Generalization in Pre-trained Models Using Intermediate Representations](https://arxiv.org/pdf/2104.07478.pdf), 2021.
 
 #### Data augmentation based approach
 
@@ -51,10 +52,13 @@
 - [Learning data manipulation for augmentation and weighting](https://arxiv.org/pdf/1910.12795), `nips` 2019.
 - [Learning to recombine and resample data for compositional generalization](https://arxiv.org/pdf/2010.03706), `iclr` 2020.
 - [Good-Enough Compositional Data Augmentation](https://aclanthology.org/2020.acl-main.676.pdf), `acl` 2020.
+- [Improving Compositional Generalization in Semantic Parsing](https://arxiv.org/pdf/2010.05647.pdf), 2020.
 - [Neural Data Augmentation via Example Extrapolation](https://arxiv.org/pdf/2102.01335.pdf), 2021.
 - [Revisiting Iterative Back-Translation from the Perspective of Compositional Generalization](https://arxiv.org/pdf/2012.04276.pdf), `aaai` 2021.
 
 ### Compositionality and interpretability
 
 - [L-Shapley and C-Shapley: Efficient Model Interpretation for Structured Data](https://arxiv.org/pdf/1808.02610.pdf), 2018.
+- [Compositional explanations of neurons](https://arxiv.org/pdf/2006.14032), `nips` 2020.
 - [Attention vs Non-attention for a Shapley-based Explanation Method](https://aclanthology.org/2021.deelio-1.13.pdf), `naacl` 2021.
+- [Syntactic Perturbations Reveal Representational Correlates of Hierarchical Phrase Structure in Pretrained Language Models](https://arxiv.org/pdf/2104.07578.pdf), 2021.
