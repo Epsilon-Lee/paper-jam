@@ -43,6 +43,7 @@
 - [Location Attention for Extrapolation to Longer Sequences](https://www.aclweb.org/anthology/2020.acl-main.39.pdf), `acl` 2020.
 - [Compositional Generalization and Natural Language Variation: Can a Semantic Parsing Approach Handle Both?](https://arxiv.org/pdf/2010.12725), 2020.
 - [Inducing Transformer's Compositional Generalization Ability via Auxiliary Sequence Prediction Tasks](https://arxiv.org/abs/2109.15256), `emnlp` 2021.
+- [Making Transformers Solve Compositional Tasks](https://arxiv.org/pdf/2108.04378.pdf), Google Research 2021.
 
 #### Data augmentation based approach
 
@@ -50,6 +51,8 @@
 - [Learning data manipulation for augmentation and weighting](https://arxiv.org/pdf/1910.12795), `nips` 2019.
 - [Learning to recombine and resample data for compositional generalization](https://arxiv.org/pdf/2010.03706), `iclr` 2020.
 - [Good-Enough Compositional Data Augmentation](https://aclanthology.org/2020.acl-main.676.pdf), `acl` 2020.
+- [Neural Data Augmentation via Example Extrapolation](https://arxiv.org/pdf/2102.01335.pdf), 2021.
+- [Revisiting Iterative Back-Translation from the Perspective of Compositional Generalization](https://arxiv.org/pdf/2012.04276.pdf), `aaai` 2021.
 
 ### Compositionality and interpretability
 
