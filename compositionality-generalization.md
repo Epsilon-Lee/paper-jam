@@ -1,3 +1,8 @@
+### Measuring compositionality
+
+- [Measuring Compositional Generalization: A comprehensive method on realistic data](https://arxiv.org/pdf/1912.09713.pdf), ICLR 2020, Google Brain.
+  - They propose a realistic benchmark for evaluating compositional generalization on question answering task that 1) **maximizes compound divergence**, 2) **mininizes atom divergence**
+
 
 ### Compositionality and Neural Machine Translation
 
@@ -8,6 +13,10 @@
   - They find that `inadequate temporal processing` in the form of poor encoder representations is a bottleneck for both productivity and systematicity.
   - They also propose simple pretraining mechanism which leads to significant BLEU improvement.
 - [On Compositional Generalization of Neural Machine Translation](https://aclanthology.org/2021.acl-long.368.pdf), `acl` 2021.
+  - *"our compositional generalization test set consists of 2,160 novel compounds, with up to 5 atoms and 7 words [...] generalization ability can be evaluated based on compound translation error rate"*
+  - **Problem Definition**: *atoms*, primitive elements in the train set whereas *compounds* are obtained by composing *atoms*; due to hardness of generating sentence-level compounds, the authors constrain compounds to syntactic constituents, and define atoms as basic semantic components in constituents, and assign randomly multiple sentential contexts for investigating each compounds.
+  - **Test a model**: train Transformer on standard benchmark, e.g. WMT17 En-Zh, test it on the constructed dataset, to see its performance on those compounds within the test sentence.
+  - **Analysis**: investigating factors - compound frequency, compound length, atom frequency, atom co-occurrence, linguistic factors, external context. 
 - [The paradox of the compositionality of natural language: a neural machine translation case study](https://arxiv.org/pdf/2108.05885.pdf), 2021.
 
 
@@ -25,8 +34,11 @@
 ### Impose compositionality on (neural) models
 
 - [On the Realization of Compositionality in Neural Networks](https://www.aclweb.org/anthology/W19-4814), 2019.
+- [Compositional Generalization for Primitive Substitutions](https://aclanthology.org/D19-1438.pdf), `emnlp` 2019.
+- [Compositional Generalization via Neural-Symbolic Stack Machines](https://papers.nips.cc/paper/2020/file/12b1e42dc0746f22cf361267de07073f-Paper.pdf), `nips` 2020.
 - [Location Attention for Extrapolation to Longer Sequences](https://www.aclweb.org/anthology/2020.acl-main.39.pdf), `acl` 2020.
 - [Inducing Transformer's Compositional Generalization Ability via Auxiliary Sequence Prediction Tasks](https://arxiv.org/abs/2109.15256), `emnlp` 2021.
+
 
 ### Compositionality and interpretability
 
