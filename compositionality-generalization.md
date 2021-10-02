@@ -39,16 +39,16 @@
 - [On the Realization of Compositionality in Neural Networks](https://www.aclweb.org/anthology/W19-4814), 2019.
 - [Compositional Generalization for Primitive Substitutions](https://aclanthology.org/D19-1438.pdf), `emnlp` 2019.
 - [Compositional Generalization via Neural-Symbolic Stack Machines](https://papers.nips.cc/paper/2020/file/12b1e42dc0746f22cf361267de07073f-Paper.pdf), `nips` 2020.
-- [Learning compositional rules via neural program synthesis](https://arxiv.org/pdf/2003.05562).
 - [Compositional generalization in semantic parsing: Pre-training vs. specialized architectures](https://arxiv.org/pdf/2007.08970), 2020.
 - [Location Attention for Extrapolation to Longer Sequences](https://www.aclweb.org/anthology/2020.acl-main.39.pdf), `acl` 2020.
 - [Compositional Generalization and Natural Language Variation: Can a Semantic Parsing Approach Handle Both?](https://arxiv.org/pdf/2010.12725), 2020.
-- [Learning to recombine and resample data for compositional generalization](https://arxiv.org/pdf/2010.03706), `iclr` 2020.
 - [Inducing Transformer's Compositional Generalization Ability via Auxiliary Sequence Prediction Tasks](https://arxiv.org/abs/2109.15256), `emnlp` 2021.
 
 #### Data augmentation based approach
 
+- [Learning compositional rules via neural program synthesis](https://arxiv.org/pdf/2003.05562), 2020.
 - [Learning data manipulation for augmentation and weighting](https://arxiv.org/pdf/1910.12795), `nips` 2019.
+- [Learning to recombine and resample data for compositional generalization](https://arxiv.org/pdf/2010.03706), `iclr` 2020.
 - [Good-Enough Compositional Data Augmentation](https://aclanthology.org/2020.acl-main.676.pdf), `acl` 2020.
 
 ### Compositionality and interpretability
