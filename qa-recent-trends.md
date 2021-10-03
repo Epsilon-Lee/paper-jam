@@ -11,6 +11,7 @@
 - [Mr. TYDI: A Multi-lingual Benchmark for Dense Retrieval](https://arxiv.org/pdf/2108.08787.pdf), Jimmy Lin's group, `dense retrieval` `evaluation`
 - [Question and Answer Test-Train Overlap in Open-Domain Question Answering Datasets](https://aclanthology.org/2021.eacl-main.86.pdf), `eacl`
 - [Relation-Guided Pre-Training for Open-Domain Question Answering](https://arxiv.org/pdf/2109.10346.pdf), Kai-Wei Chang's group.
+- [Single-dataset Experts for Multi-dataset Question Answering](https://arxiv.org/pdf/2109.13880.pdf), `emnlp2021`
 
 
 ### Knowledge-Base Question Answering
@@ -39,3 +40,8 @@
 ### Long-anwer Question Answering
 
 - [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://owainevans.github.io/pdfs/truthfulQA_lin_evans.pdf), OpenAI, Oxford Univ. `benchmark`
+
+
+### Analysis
+
+- [The Effect of Natural Distribution Shift on Question Answering Models](http://proceedings.mlr.press/v119/miller20a/miller20a.pdf), `icml2020`
