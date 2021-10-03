@@ -62,3 +62,4 @@
 - [Compositional explanations of neurons](https://arxiv.org/pdf/2006.14032), `nips` 2020.
 - [Attention vs Non-attention for a Shapley-based Explanation Method](https://aclanthology.org/2021.deelio-1.13.pdf), `naacl` 2021.
 - [Syntactic Perturbations Reveal Representational Correlates of Hierarchical Phrase Structure in Pretrained Language Models](https://arxiv.org/pdf/2104.07578.pdf), 2021.
+- [Compositional generalization in semantic parsing with pretrained transformers](https://arxiv.org/pdf/2109.15101.pdf), 2021 `pretraining`.
