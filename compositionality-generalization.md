@@ -64,3 +64,4 @@
 - [Syntactic Perturbations Reveal Representational Correlates of Hierarchical Phrase Structure in Pretrained Language Models](https://arxiv.org/pdf/2104.07578.pdf), 2021.
 - [Compositional generalization in semantic parsing with pretrained transformers](https://arxiv.org/pdf/2109.15101.pdf), 2021 `pretraining`.
 - [Can Transformers Jump Around Right in Natural Language? Assessing Performance Transfer from SCAN](https://arxiv.org/pdf/2107.01366.pdf), 2021 `analysis`
+- [Symbolic Brittleness in Sequence Models: on Systematic Generalization in Symbolic Mathematics](https://arxiv.org/pdf/2109.13986.pdf), 2021.
