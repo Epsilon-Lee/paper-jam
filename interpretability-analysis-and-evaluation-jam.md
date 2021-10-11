@@ -3,6 +3,10 @@
 
 - [Fine-Grained Neural Network Explanation by Identifying Input Features with Predictive Information](https://arxiv.org/pdf/2110.01471.pdf), `nips` `attribution`.
 
+#### Leveraging interpretation
+
+- [Influence Tuning: Demoting Spurious Correlations via Instance Attribution and Instance-Driven Updates](https://arxiv.org/pdf/2110.03212.pdf), `emnlp2021` with `code`.
+
 
 ### Analysis
 
