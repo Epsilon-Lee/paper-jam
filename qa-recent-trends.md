@@ -13,6 +13,7 @@
 - [Question and Answer Test-Train Overlap in Open-Domain Question Answering Datasets](https://aclanthology.org/2021.eacl-main.86.pdf), `eacl`
 - [Relation-Guided Pre-Training for Open-Domain Question Answering](https://arxiv.org/pdf/2109.10346.pdf), Kai-Wei Chang's group.
 - [Single-dataset Experts for Multi-dataset Question Answering](https://arxiv.org/pdf/2109.13880.pdf), `emnlp2021`
+- [Adversarial Retriever-Reranker for Dense Text Retrieval](https://arxiv.org/pdf/2110.03611.pdf), iclr2022  submitted.
 
 
 ### Knowledge-Base Question Answering
