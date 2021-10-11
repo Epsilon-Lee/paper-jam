@@ -1,3 +1,7 @@
+### Low-resource
+
+- [The Low-Resource Double Bind: An Empirical Study of Pruning for Low-Resource Machine Translation](https://arxiv.org/pdf/2110.03036.pdf), `pruning` `emnlp2021`
+
 
 ### Scaling Up
 
