@@ -46,6 +46,7 @@
 - [Making Transformers Solve Compositional Tasks](https://arxiv.org/pdf/2108.04378.pdf), Google Research 2021.
 - [Unlocking Compositional Generalization in Pre-trained Models Using Intermediate Representations](https://arxiv.org/pdf/2104.07478.pdf), 2021.
 
+
 #### Data augmentation based approach
 
 - [Learning compositional rules via neural program synthesis](https://arxiv.org/pdf/2003.05562), 2020.
@@ -56,6 +57,7 @@
 - [Neural Data Augmentation via Example Extrapolation](https://arxiv.org/pdf/2102.01335.pdf), 2021.
 - [Revisiting Iterative Back-Translation from the Perspective of Compositional Generalization](https://arxiv.org/pdf/2012.04276.pdf), `aaai` 2021.
 
+
 ### Compositionality and interpretability
 
 - [L-Shapley and C-Shapley: Efficient Model Interpretation for Structured Data](https://arxiv.org/pdf/1808.02610.pdf), 2018.
@@ -65,3 +67,4 @@
 - [Compositional generalization in semantic parsing with pretrained transformers](https://arxiv.org/pdf/2109.15101.pdf), 2021 `pretraining`.
 - [Can Transformers Jump Around Right in Natural Language? Assessing Performance Transfer from SCAN](https://arxiv.org/pdf/2107.01366.pdf), 2021 `analysis`
 - [Symbolic Brittleness in Sequence Models: on Systematic Generalization in Symbolic Mathematics](https://arxiv.org/pdf/2109.13986.pdf), 2021.
+- [Systematic Generalization on gSCAN: What is Nearly Solved and What is Next?](https://arxiv.org/pdf/2109.12243.pdf), Fei Sha et al. `compositionality` `systematicality`
