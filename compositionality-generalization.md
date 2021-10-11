@@ -45,6 +45,7 @@
 - [Inducing Transformer's Compositional Generalization Ability via Auxiliary Sequence Prediction Tasks](https://arxiv.org/abs/2109.15256), `emnlp` 2021.
 - [Making Transformers Solve Compositional Tasks](https://arxiv.org/pdf/2108.04378.pdf), Google Research 2021.
 - [Unlocking Compositional Generalization in Pre-trained Models Using Intermediate Representations](https://arxiv.org/pdf/2104.07478.pdf), 2021.
+- [Iterative Decoding for Compositional Generalization in Transformers](https://arxiv.org/abs/2110.04169), `iclr2022` submitted.
 
 
 #### Data augmentation based approach
