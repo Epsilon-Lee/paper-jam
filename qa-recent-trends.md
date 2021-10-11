@@ -1,6 +1,7 @@
 
 ### Open-Domain Question Answering
 
+- [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/pdf/1906.00300.pdf), `emnlp2019` `inverse close task` `pretraining`
 - [Simple Entity-Centric Questions Challenge Dense Retrievers](https://arxiv.org/pdf/2109.08535.pdf), Danqi Chen et al. `emnlp2021`
 - [Phrase-retrieval Learns Passage Retrieval, Too](https://arxiv.org/abs/2109.08133), Danqi Chen et al. `emnlp2021`
 - [Unsupervised Open Domain Question Answering](https://arxiv.org/pdf/2108.13817.pdf), Hai Zhao's group.
