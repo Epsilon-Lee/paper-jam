@@ -1,6 +1,14 @@
 
 ### Interpretability
 
+#### Definition of interpretability
+
+- [The Mythos of Model Interpretability](https://arxiv.org/pdf/1606.03490.pdf), 2016.
+- [Machine Learning Interpretability: A Survey on Methods and Metrics](https://www.mdpi.com/2079-9292/8/8/832), 2019.
+- [Interpretable machine learning: definitions, methods, and applications](https://arxiv.org/pdf/1901.04592.pdf), 2019.
+- [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/), 2019.
+  - "It is difficult to (mathematically) define interpretability. A non-mathematical definition of interpretability that I like by Miller 2017 is: **interpretability is the degree to which a human can understand the cause of decision**", and another one by Been Kim is "**interpretability is the degree to which a human can consistently predict the model's result**"
+
 - [Fine-Grained Neural Network Explanation by Identifying Input Features with Predictive Information](https://arxiv.org/pdf/2110.01471.pdf), `nips` `attribution`.
 - [Consistent Counterfactuals for Deep Models](https://arxiv.org/pdf/2110.03109.pdf), `evaluation of interpretability` `iclr` submitted.
 
