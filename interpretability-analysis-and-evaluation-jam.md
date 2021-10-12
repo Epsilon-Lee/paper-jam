@@ -2,6 +2,7 @@
 ### Interpretability
 
 - [Fine-Grained Neural Network Explanation by Identifying Input Features with Predictive Information](https://arxiv.org/pdf/2110.01471.pdf), `nips` `attribution`.
+- [Consistent Counterfactuals for Deep Models](https://arxiv.org/pdf/2110.03109.pdf), `evaluation of interpretability` `iclr` submitted.
 
 #### Leveraging interpretation
 
