@@ -14,7 +14,6 @@
 ### Scaling Up
 
 - [Scaling Laws for Neural Machine Translation](https://arxiv.org/pdf/2109.07740.pdf), Google.
-- 
 
 ### Quality Estimation
 
