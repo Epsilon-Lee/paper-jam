@@ -1,3 +1,7 @@
+### Multilinguality
+
+- [Beyond Distillation: Task-level Mixture-of-Experts for Efficient Inference](https://arxiv.org/pdf/2110.03742.pdf), `emnlp2021`
+
 ### Efficiency
 
 - [ABC: Attention with Bounded-Memory Control](https://arxiv.org/pdf/2110.02488.pdf), `deepmind`
