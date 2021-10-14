@@ -46,7 +46,7 @@
 - [Making Transformers Solve Compositional Tasks](https://arxiv.org/pdf/2108.04378.pdf), Google Research 2021.
 - [Unlocking Compositional Generalization in Pre-trained Models Using Intermediate Representations](https://arxiv.org/pdf/2104.07478.pdf), 2021.
 - [Iterative Decoding for Compositional Generalization in Transformers](https://arxiv.org/abs/2110.04169), `iclr2022` submitted.
-
+- [Skill Induction and Planning with Latent Language](https://arxiv.org/pdf/2110.01517.pdf), `emnlp2021` Jacob Andreas' group.
 
 #### Data augmentation based approach
 
