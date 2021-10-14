@@ -34,6 +34,7 @@
 
 ### Analysis and Evaluation
 
+- [Relations between comprehensibility and adequacy errors in machine translation output](https://aclanthology.org/2020.conll-1.19.pdf), `error analysis`.
 - [Beyond Noise: Mitigating the Impact of Fine-grained Semantic Divergences on Neural Machine Translation](https://aclanthology.org/2021.acl-long.562.pdf), `acl2021`.
 - [Translation Transformers Rediscover Inherent Data Domains](https://arxiv.org/pdf/2109.07864.pdf), 2021.
 - [On the Limits of Minimal Pairs in Contrastive Evaluation](https://arxiv.org/pdf/2109.07465.pdf), 2021
