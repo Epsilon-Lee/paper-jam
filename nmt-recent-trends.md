@@ -43,3 +43,8 @@
 ### Discourse
 
 - [When Does Translation Require Context? A Data-driven, Multilingual Exploration](https://arxiv.org/pdf/2109.07446.pdf).
+
+
+### New Paradigm
+
+- [Nearest Neighbor Machine Translation](https://arxiv.org/pdf/2010.00710.pdf), `iclr 2021`
