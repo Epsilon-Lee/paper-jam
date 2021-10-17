@@ -34,3 +34,4 @@
 - [Paradigm Shift in Natural Language Processing](https://arxiv.org/pdf/2109.12575.pdf), Xipeng Qiu et al. `unify methodology`
 - [Finding a Balanced Degree of Automation for Summary Evaluation](https://arxiv.org/pdf/2109.11503.pdf), Mohit Bansal et al. `evaluation`
 - [Sample Efficient Model Evaluation](https://arxiv.org/pdf/2109.12043.pdf), David Barber et al. `evaluation`
+- [The Curse of Performance Instability in Analysis Datasets: Consequences, Source, and Suggestions](https://aclanthology.org/2020.emnlp-main.659.pdf), `emnlp2020`
