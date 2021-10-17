@@ -47,6 +47,7 @@
 - [Unlocking Compositional Generalization in Pre-trained Models Using Intermediate Representations](https://arxiv.org/pdf/2104.07478.pdf), 2021.
 - [Iterative Decoding for Compositional Generalization in Transformers](https://arxiv.org/abs/2110.04169), `iclr2022` submitted.
 - [Skill Induction and Planning with Latent Language](https://arxiv.org/pdf/2110.01517.pdf), `emnlp2021` Jacob Andreas' group.
+- [Compositional Generalization in Dependency Parsing](https://arxiv.org/pdf/2110.06843.pdf), Oct. 13 2021.
 
 #### Data augmentation based approach
 
