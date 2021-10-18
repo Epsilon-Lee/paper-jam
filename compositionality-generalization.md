@@ -48,6 +48,7 @@
 - [Iterative Decoding for Compositional Generalization in Transformers](https://arxiv.org/abs/2110.04169), `iclr2022` submitted.
 - [Skill Induction and Planning with Latent Language](https://arxiv.org/pdf/2110.01517.pdf), `emnlp2021` Jacob Andreas' group.
 - [Compositional Generalization in Dependency Parsing](https://arxiv.org/pdf/2110.06843.pdf), Oct. 13 2021.
+- [The Neural Data Router: Adaptive Control Flow in Transformers Improves Systematic Generalization](https://arxiv.org/abs/2110.07732), Oct. 2021.
 
 #### Data augmentation based approach
 
