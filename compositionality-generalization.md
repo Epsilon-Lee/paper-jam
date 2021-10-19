@@ -21,6 +21,8 @@
 - [The paradox of the compositionality of natural language: a neural machine translation case study](https://arxiv.org/pdf/2108.05885.pdf), 2021.
   - **Question**
   - **Methodology**: testing *systematicity, substitutivity, overgeneralization*, 
+- [Disentangled Sequence to Sequence Learning for Compositional Generalization](https://arxiv.org/pdf/2110.04655.pdf), Oct. 9 2021.
+
 
 
 ### Define compositionality, or generalize compositionally
