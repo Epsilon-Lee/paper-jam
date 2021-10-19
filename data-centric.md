@@ -1,6 +1,7 @@
 
 ### Data Valuation
 
+- [Rissanen Data Analysis: Examining Dataset Characteristics via Description Length](https://arxiv.org/abs/2103.03872), Feb. 2021.
 - [Information-Theoretic Measures of Dataset Difficulty](https://kawine.github.io/assets/dataset_difficulty.pdf), `acl 2022` submitted.
 
 
