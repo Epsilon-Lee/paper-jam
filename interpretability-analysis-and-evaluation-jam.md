@@ -15,7 +15,8 @@
 
 #### Interpretation methods
 
-- [Evaluating the Faithfulness of Importance Measures in NLP by Recursively Masking Allegedly Important Tokens and Retraining](https://arxiv.org/pdf/2110.08412.pdf), `recursive remove and retrain`
+- [A Benchmark for Interpretability Methods in Deep Neural Networks](https://arxiv.org/pdf/1806.10758.pdf), `nips2019` `remove and retrain`
+- [Evaluating the Faithfulness of Importance Measures in NLP by Recursively Masking Allegedly Important Tokens and Retraining](https://arxiv.org/pdf/2110.08412.pdf), Oct. 15 `recursive remove and retrain`
 
 #### Leveraging interpretation
 
