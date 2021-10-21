@@ -1,11 +1,28 @@
+
+
+### Char NMT
+
+- [Why don’t people use character-level machine translation?](https://arxiv.org/pdf/2110.08191.pdf), `analysis`
+
+
+### Multilingual NMT
+
+- [Alternative Input Signals Ease Transfer in Multilingual Machine Translation](https://arxiv.org/pdf/2110.07804.pdf), Oct. 15 2021 `analysis` of transfer ability of multilingual nmt models
+- [Breaking Down Multilingual Machine Translation](https://arxiv.org/pdf/2110.08130.pdf), Oct. 15 `analysis` plus improvement methods
+- [Tricks for Training Sparse Translation Models](https://arxiv.org/pdf/2110.08246.pdf), Oct. 15 `multitask learning` `unbalanced learning`
+- [Multilingual Neural Machine Translation: Can Linguistic Hierarchies Help?](https://arxiv.org/pdf/2110.07816.pdf), Oct. 15, proposed a new training paradigm taking into account the language hierarchy, handling `negative transfer`
+
+
 ### Multilinguality
 
 - [Beyond Distillation: Task-level Mixture-of-Experts for Efficient Inference](https://arxiv.org/pdf/2110.03742.pdf), `emnlp2021`
 - [Using Optimal Transport as Alignment Objective for fine-tuning Multilingual Contextualized Embeddings](https://arxiv.org/pdf/2110.02887.pdf), `emnlp2021`
 
+
 ### Efficiency
 
 - [ABC: Attention with Bounded-Memory Control](https://arxiv.org/pdf/2110.02488.pdf), `deepmind`
+
 
 ### Low-resource
 
@@ -15,6 +32,7 @@
 ### Scaling Up
 
 - [Scaling Laws for Neural Machine Translation](https://arxiv.org/pdf/2109.07740.pdf), Google.
+
 
 ### Quality Estimation
 
@@ -39,6 +57,7 @@
 - [Translation Transformers Rediscover Inherent Data Domains](https://arxiv.org/pdf/2109.07864.pdf), 2021.
 - [On the Limits of Minimal Pairs in Contrastive Evaluation](https://arxiv.org/pdf/2109.07465.pdf), 2021
 - [On Neurons Invariant To Sentence Structural Changes in Neural Machine Translation](https://arxiv.org/pdf/2110.03067.pdf), `iclr`, 2021.
+
 
 ### Discourse
 
