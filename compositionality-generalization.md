@@ -21,8 +21,6 @@
 - [The paradox of the compositionality of natural language: a neural machine translation case study](https://arxiv.org/pdf/2108.05885.pdf), 2021.
   - **Question**
   - **Methodology**: testing *systematicity, substitutivity, overgeneralization*, 
-- [Disentangled Sequence to Sequence Learning for Compositional Generalization](https://arxiv.org/pdf/2110.04655.pdf), Oct. 9 2021.
-- [LAGr: Labeling Aligned Graphs for Improving Systematic Generalization in Semantic Parsing](https://arxiv.org/pdf/2110.07572.pdf), Oct. 14 2021.
 
 
 ### Define compositionality, or generalize compositionally
@@ -51,6 +49,9 @@
 - [Skill Induction and Planning with Latent Language](https://arxiv.org/pdf/2110.01517.pdf), `emnlp2021` Jacob Andreas' group.
 - [Compositional Generalization in Dependency Parsing](https://arxiv.org/pdf/2110.06843.pdf), Oct. 13 2021.
 - [The Neural Data Router: Adaptive Control Flow in Transformers Improves Systematic Generalization](https://arxiv.org/abs/2110.07732), Oct. 2021.
+- [Disentangled Sequence to Sequence Learning for Compositional Generalization](https://arxiv.org/pdf/2110.04655.pdf), Oct. 9 2021.
+- [LAGr: Labeling Aligned Graphs for Improving Systematic Generalization in Semantic Parsing](https://arxiv.org/pdf/2110.07572.pdf), Oct. 14 2021.
+
 
 #### Data augmentation based approach
 
