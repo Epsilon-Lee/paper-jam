@@ -22,7 +22,7 @@
   - **Question**
   - **Methodology**: testing *systematicity, substitutivity, overgeneralization*, 
 - [Disentangled Sequence to Sequence Learning for Compositional Generalization](https://arxiv.org/pdf/2110.04655.pdf), Oct. 9 2021.
-
+- [LAGr: Labeling Aligned Graphs for Improving Systematic Generalization in Semantic Parsing](https://arxiv.org/pdf/2110.07572.pdf), Oct. 14 2021.
 
 
 ### Define compositionality, or generalize compositionally
