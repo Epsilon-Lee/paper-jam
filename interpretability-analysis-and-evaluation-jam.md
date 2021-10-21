@@ -12,6 +12,11 @@
 - [Fine-Grained Neural Network Explanation by Identifying Input Features with Predictive Information](https://arxiv.org/pdf/2110.01471.pdf), `nips` `attribution`.
 - [Consistent Counterfactuals for Deep Models](https://arxiv.org/pdf/2110.03109.pdf), `evaluation of interpretability` `iclr` submitted.
 
+
+#### Interpretation methods
+
+- [Evaluating the Faithfulness of Importance Measures in NLP by Recursively Masking Allegedly Important Tokens and Retraining](https://arxiv.org/pdf/2110.08412.pdf), `recursive remove and retrain`
+
 #### Leveraging interpretation
 
 - [Influence Tuning: Demoting Spurious Correlations via Instance Attribution and Instance-Driven Updates](https://arxiv.org/pdf/2110.03212.pdf), `emnlp2021` with `code`.
