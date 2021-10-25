@@ -51,7 +51,7 @@
 - [The Neural Data Router: Adaptive Control Flow in Transformers Improves Systematic Generalization](https://arxiv.org/abs/2110.07732), Oct. 2021.
 - [Disentangled Sequence to Sequence Learning for Compositional Generalization](https://arxiv.org/pdf/2110.04655.pdf), Oct. 9 2021.
 - [LAGr: Labeling Aligned Graphs for Improving Systematic Generalization in Semantic Parsing](https://arxiv.org/pdf/2110.07572.pdf), Oct. 14 2021.
-
+- [Illiterate DALL-E Learns to Compose](https://arxiv.org/pdf/2110.11405.pdf), Oct. 17 2021.
 
 #### Data augmentation based approach
 
