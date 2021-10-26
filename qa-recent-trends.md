@@ -15,6 +15,7 @@
 - [Single-dataset Experts for Multi-dataset Question Answering](https://arxiv.org/pdf/2109.13880.pdf), `emnlp2021`
 - [Adversarial Retriever-Reranker for Dense Text Retrieval](https://arxiv.org/pdf/2110.03611.pdf), iclr2022  submitted.
 - [Distantly-Supervised Evidence Retrieval Enables Question Answering without Evidence Annotation](https://arxiv.org/pdf/2110.04889.pdf), `Hal Daume III`, Oct. 10 2021. [code](https://github.com/henryzhao5852/DistDR). 
+- [CONTRAQA: QUESTION ANSWERING UNDER CONTRADICTING CONTEXTS](https://arxiv.org/pdf/2110.07803.pdf), `dataset creation`
 
 ### Knowledge-Base Question Answering
 
