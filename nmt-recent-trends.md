@@ -38,7 +38,7 @@
 
 - [Levenshtein Training for Word-level Quality Estimation](https://arxiv.org/pdf/2109.05611.pdf), Shuoyang Ding et al.
 - [Beyond Glass-Box Features: Uncertainty Quantification Enhanced Quality Estimation for Neural Machine Translation](https://arxiv.org/pdf/2109.07141.pdf), Alibaba Group.
-
+- [Practical Perspectives on Quality Estimation for Machine Translation](https://arxiv.org/pdf/2005.03519.pdf), CMU & Google Inc. May 2 2020.
 
 ### Translationese
 
