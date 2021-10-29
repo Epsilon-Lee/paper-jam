@@ -11,7 +11,8 @@
 - [Breaking Down Multilingual Machine Translation](https://arxiv.org/pdf/2110.08130.pdf), Oct. 15 `analysis` plus improvement methods
 - [Tricks for Training Sparse Translation Models](https://arxiv.org/pdf/2110.08246.pdf), Oct. 15 `multitask learning` `unbalanced learning`
 - [Multilingual Neural Machine Translation: Can Linguistic Hierarchies Help?](https://arxiv.org/pdf/2110.07816.pdf), Oct. 15, proposed a new training paradigm taking into account the language hierarchy, handling `negative transfer`
-
+- [Multilingual Domain Adaptation for NMT: Decoupling Language and Domain Information with Adapters](https://arxiv.org/abs/2110.09574), Oct. 18 2021. `wmt2021`
+- [Continual Learning in Multilingual NMT via Language-Specific Embeddings](https://arxiv.org/abs/2110.10478), Oct. 20 2021. `wmt2021`
 
 ### Multilinguality
 
