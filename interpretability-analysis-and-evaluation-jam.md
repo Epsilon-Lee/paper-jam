@@ -18,6 +18,8 @@
 - [A Benchmark for Interpretability Methods in Deep Neural Networks](https://arxiv.org/pdf/1806.10758.pdf), `nips2019` `remove and retrain`
 - [Evaluating the Faithfulness of Importance Measures in NLP by Recursively Masking Allegedly Important Tokens and Retraining](https://arxiv.org/pdf/2110.08412.pdf), Oct. 15 `recursive remove and retrain`
 - [Interpreting Deep Learning Models in Natural Language Processing: A Review](https://arxiv.org/pdf/2110.10470.pdf), Oct. 25 2021.
+- [Where do Models go Wrong? Parameter-Space Saliency Maps for Explainability](https://arxiv.org/pdf/2108.01335.pdf), Aug. 3 2021.
+
 
 #### Leveraging interpretation
 
