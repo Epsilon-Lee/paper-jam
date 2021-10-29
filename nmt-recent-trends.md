@@ -3,7 +3,7 @@
 ### Char NMT
 
 - [Why don’t people use character-level machine translation?](https://arxiv.org/pdf/2110.08191.pdf), `analysis`
-
+- [Noisy UGC Translation at the Character Level: Revisiting Open-Vocabulary Capabilities and Robustness of Char-Based Models](https://arxiv.org/pdf/2110.12552.pdf), `evaluation under noise`.
 
 ### Multilingual NMT
 
@@ -57,7 +57,7 @@
 - [Translation Transformers Rediscover Inherent Data Domains](https://arxiv.org/pdf/2109.07864.pdf), 2021.
 - [On the Limits of Minimal Pairs in Contrastive Evaluation](https://arxiv.org/pdf/2109.07465.pdf), 2021
 - [On Neurons Invariant To Sentence Structural Changes in Neural Machine Translation](https://arxiv.org/pdf/2110.03067.pdf), `iclr`, 2021.
-
+- [Understanding the Impact of UGC Specificities on Translation Quality](https://arxiv.org/pdf/2110.12551.pdf), Oct. 24 2021.
 
 ### Discourse
 
