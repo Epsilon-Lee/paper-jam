@@ -17,6 +17,7 @@
 
 - [A Benchmark for Interpretability Methods in Deep Neural Networks](https://arxiv.org/pdf/1806.10758.pdf), `nips2019` `remove and retrain`
 - [Evaluating the Faithfulness of Importance Measures in NLP by Recursively Masking Allegedly Important Tokens and Retraining](https://arxiv.org/pdf/2110.08412.pdf), Oct. 15 `recursive remove and retrain`
+- [Interpreting Deep Learning Models in Natural Language Processing: A Review](https://arxiv.org/pdf/2110.10470.pdf), Oct. 25 2021.
 
 #### Leveraging interpretation
 
@@ -45,3 +46,4 @@
 - [Finding a Balanced Degree of Automation for Summary Evaluation](https://arxiv.org/pdf/2109.11503.pdf), Mohit Bansal et al. `evaluation`
 - [Sample Efficient Model Evaluation](https://arxiv.org/pdf/2109.12043.pdf), David Barber et al. `evaluation`
 - [The Curse of Performance Instability in Analysis Datasets: Consequences, Source, and Suggestions](https://aclanthology.org/2020.emnlp-main.659.pdf), `emnlp2020`
+- [Better than Average: Paired Evaluation of NLP Systems](https://arxiv.org/pdf/2110.10746.pdf), Oct. 20 2021.
