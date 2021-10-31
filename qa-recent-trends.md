@@ -18,7 +18,7 @@
 - [CONTRAQA: QUESTION ANSWERING UNDER CONTRADICTING CONTEXTS](https://arxiv.org/pdf/2110.07803.pdf), `dataset creation`, Oct. 2021.
 - [Open Domain Question Answering over Virtual Documents: A Unified Approach for Data and Text](https://arxiv.org/pdf/2110.08417.pdf), Oct. 16 2021.
 - [Simple and Effective Unsupervised Redundancy Elimination to Compress Denses for Passage Retrieval](https://cs.uwaterloo.ca/~jimmylin/publications/Ma_etal_EMNLP2021.pdf), `emnlp2021`, Jimmy Lin's group.
-
+- [Domain-matched Pre-training Tasks for Dense Retrieval](https://arxiv.org/pdf/2107.13602.pdf), Jul. 28 2021. [github, dpr-scale](https://github.com/facebookresearch/dpr-scale).
 
 ### Knowledge-Base Question Answering
 
