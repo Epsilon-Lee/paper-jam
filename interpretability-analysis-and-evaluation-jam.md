@@ -36,6 +36,8 @@
 - [Self-conditioning pre-trained language models](https://arxiv.org/pdf/2110.02802.pdf), `neuron-level analysis`
 - [How BPE Affects Memorization in Transformers](https://arxiv.org/pdf/2110.02782.pdf), Facebook AI.
 - [Capturing Structural Locality in Non-parametric Language Models](https://arxiv.org/pdf/2110.02870.pdf), CMU data `locality`
+- [Understanding How Encoder-Decoder Architectures Attend](https://arxiv.org/pdf/2110.15253.pdf), Oct. 28 2021. `dynamics of attention`
+
 
 ### Probing
 
