@@ -21,6 +21,7 @@
 - [Where do Models go Wrong? Parameter-Space Saliency Maps for Explainability](https://arxiv.org/pdf/2108.01335.pdf), Aug. 3 2021.
 - [Partial order: Finding Consensus among Uncertain Feature Attributions](https://arxiv.org/pdf/2110.13369.pdf), Oct. 26 2021.
 - [Understanding Interlocking Dynamics of Cooperative Rationalization](https://arxiv.org/pdf/2110.13880.pdf), Oct. 26 2021.
+- [Rationales for sequential prediction](https://arxiv.org/pdf/2109.06387.pdf), Sep. 14 2021. `emnlp` `attribution`
 
 #### Leveraging interpretation
 
