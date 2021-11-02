@@ -18,7 +18,7 @@
 
 - [Beyond Distillation: Task-level Mixture-of-Experts for Efficient Inference](https://arxiv.org/pdf/2110.03742.pdf), `emnlp2021`
 - [Using Optimal Transport as Alignment Objective for fine-tuning Multilingual Contextualized Embeddings](https://arxiv.org/pdf/2110.02887.pdf), `emnlp2021`
-
+- [When is BERT Multilingual? Isolating Crucial Ingredients for Cross-lingual Transfer](https://arxiv.org/pdf/2110.14782.pdf), Oct. 27, `emnlp2021`
 
 ### Efficiency
 
