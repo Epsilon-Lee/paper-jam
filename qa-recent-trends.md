@@ -19,12 +19,13 @@
 - [Open Domain Question Answering over Virtual Documents: A Unified Approach for Data and Text](https://arxiv.org/pdf/2110.08417.pdf), Oct. 16 2021.
 - [Simple and Effective Unsupervised Redundancy Elimination to Compress Denses for Passage Retrieval](https://cs.uwaterloo.ca/~jimmylin/publications/Ma_etal_EMNLP2021.pdf), `emnlp2021`, Jimmy Lin's group.
 - [Domain-matched Pre-training Tasks for Dense Retrieval](https://arxiv.org/pdf/2107.13602.pdf), Jul. 28 2021. [github, dpr-scale](https://github.com/facebookresearch/dpr-scale).
+- [Answering Open-Domain Questions of Varying Reasoning Steps from Text](https://arxiv.org/pdf/2010.12527.pdf), Oct. 29 2021, `emnlp2021`, [code & benchmark](https://beerqa.github.io/)
 
-### Knowledge-Base Question Answering
+### Knowledge-Base Question Answering, KB Completion
 
 - [RNG-KBQA: Generation Augmented Iterative Ranking for Knowledge Base Question Answering](https://arxiv.org/pdf/2109.08678.pdf), Caiming Xiong et al. `arXiv`
 - [Benchmarking the Combinatorial Generalizability of Complex Query Answering on Knowledge Graphs](https://arxiv.org/pdf/2109.08925.pdf), Yangqiu Song et al. `nips2021`
-
+- [SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs](https://arxiv.org/pdf/2110.14890.pdf), Oct. 28 2021, `nips2021`. [code](https://github.com/google-research/smore)
 
 ### Machine Reading Comprehension
 
@@ -33,11 +34,12 @@
 - [Using Knowledge Distillation and Active Learning](https://arxiv.org/pdf/2109.12662.pdf), `arXiv 2021 Sep`
 - [GNN is a Counter: Revisiting GNN for Question Answering](https://arxiv.org/pdf/2110.03192.pdf), iclr2022  submitted.
 - [A Dataset for Answering Time-Sensitive Questions](https://arxiv.org/pdf/2108.06314.pdf), `nips2021`.
+- [Improving Question Answering Model Robustness with Synthetic Adversarial Data Generation](https://arxiv.org/pdf/2104.08678.pdf), Sep. 16 2021, `emnlp2021` `adversarial` `robustness`
 
 ### Reasoning, Commonsense and Knowledge
 
 - [Conversational Multi-Hop Reasoning with Neural Commonsense Knowledge and Symbolic Logic Rules](https://arxiv.org/pdf/2109.08544.pdf), `emnlp2021`
-
+- [How Much Coffee Was Consumed During EMNLP 2019? Fermi Problems: A New Reasoning Challenge for AI](https://arxiv.org/pdf/2110.14207.pdf), Oct. 27, `emnlp2021`. [data](https://allenai.org/data/fermi)
 
 ### Visual Question Answering
 
