@@ -9,6 +9,10 @@
 - [A Fine-grained Analysis on Distribution Shift](https://arxiv.org/pdf/2110.11328.pdf), Oct. 21 2021.
 - [Understanding the Role of Self-Supervised Learning in Out-of-Distribution Detection Task](https://arxiv.org/pdf/2110.13435.pdf), Oct. 26 2021.
 - [Exploring the Limits of Out-of-Distribution Detection](https://arxiv.org/pdf/2106.03004.pdf), `landscape` `nips2021`
+- [Type of Out-of-Distribution Texts and How to Detect Them](https://arxiv.org/pdf/2109.06827.pdf), Sep. 2021. Udit Arora et al. `emnlp2021` `ood issue` `analysis`
+  - Motivation is "there is little consensus on formal def. of OOD examples";
+  - Propose a categorization of OOD instances according to ***background shift*** or ***semantic shift***
+  - Methods like *calibration* and density estimation for *OOD detection* are evaluated over 14 datasets
 
 ### Robustness and Adversarial Examples/Training
 
