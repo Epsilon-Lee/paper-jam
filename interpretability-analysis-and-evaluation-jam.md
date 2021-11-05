@@ -22,6 +22,7 @@
 - [Partial order: Finding Consensus among Uncertain Feature Attributions](https://arxiv.org/pdf/2110.13369.pdf), Oct. 26 2021.
 - [Understanding Interlocking Dynamics of Cooperative Rationalization](https://arxiv.org/pdf/2110.13880.pdf), Oct. 26 2021.
 - [Rationales for sequential prediction](https://arxiv.org/pdf/2109.06387.pdf), Sep. 14 2021. `emnlp` `attribution`
+- [From global to local MDI variable importances for random forests and when they are Shapley values](https://arxiv.org/pdf/2111.02218.pdf), Nov. 3 2021. `shapley values` `random forest` `nips2021`
 
 #### Leveraging interpretation
 
