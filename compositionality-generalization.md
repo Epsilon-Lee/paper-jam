@@ -53,6 +53,7 @@
 - [LAGr: Labeling Aligned Graphs for Improving Systematic Generalization in Semantic Parsing](https://arxiv.org/pdf/2110.07572.pdf), Oct. 14 2021.
 - [Illiterate DALL-E Learns to Compose](https://arxiv.org/pdf/2110.11405.pdf), Oct. 17 2021.
 - [Controllable and Compositional Generation with Latent-Space Energy-Based Models](https://arxiv.org/pdf/2110.10873.pdf), Oct. 21 2021. NVIDIA.
+- [Unsupervised Learning of Compositional Energy Concepts](https://arxiv.org/pdf/2111.03042.pdf), Nov. 4 2021. `nips2021`
 
 #### Data augmentation based approach
 
