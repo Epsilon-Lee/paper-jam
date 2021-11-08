@@ -18,6 +18,7 @@
   - Motivation is "there is little consensus on formal def. of OOD examples";
   - Propose a categorization of OOD instances according to ***background shift*** or ***semantic shift***
   - Methods like *calibration* and density estimation for *OOD detection* are evaluated over 14 datasets
+- [Can multi-label classification networks know what they don’t know?](https://arxiv.org/pdf/2109.14162.pdf), Sep. 2021. `ood detection`
 
 ### Robustness and Adversarial Examples/Training
 
