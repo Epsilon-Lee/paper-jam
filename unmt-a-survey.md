@@ -14,3 +14,4 @@
 - [Unsupervised Neural Machine Translation for Low-Resource Domains via Meta-Learning](https://aclanthology.org/2021.acl-long.225/), `acl2021`.
 - [Unsupervised NMT with Generative Language Models Only](https://arxiv.org/pdf/2110.05448.pdf), `iclr 2022` submitted.
 - [Multilingual Unsupervised Neural Machine Translation with Denoising Adapters](https://arxiv.org/pdf/2110.10472.pdf), Oct. 20 2021, NAVER Lab Europe. [tweet](https://twitter.com/ahmetustun89/status/1451501787450576901).
+- [Exploiting Curriculum Learning in Unsupervised Neural Machine Translation](https://arxiv.org/pdf/2109.11177.pdf), `unsupervised nmt`
