@@ -1,4 +1,9 @@
 
+### Data Summarization
+
+- [Data Summarization via Bilevel Optimization](https://arxiv.org/pdf/2109.12534.pdf), Sep. 2021. `knowledge tracing`
+
+
 ### Data Valuation
 
 - [Rissanen Data Analysis: Examining Dataset Characteristics via Description Length](https://arxiv.org/abs/2103.03872), Feb. 2021.
