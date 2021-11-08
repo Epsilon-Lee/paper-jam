@@ -1,5 +1,6 @@
 ### Measuring compositionality
 
+- [Why Fodor and Pylyshyn Were Wrong: A Simplest Refutation](https://uh.edu/~garson/Chalmers.PDF), `compositionality` 1990s.
 - [A benchmark for systematic generalization in grounded language understanding](https://arxiv.org/pdf/2003.05161), `icml` 2020.
 - [Measuring Compositional Generalization: A comprehensive method on realistic data](https://arxiv.org/pdf/1912.09713.pdf), ICLR 2020, Google Brain.
   - They propose a realistic benchmark for evaluating compositional generalization on question answering task that 1) **maximizes compound divergence**, 2) **mininizes atom divergence**
@@ -54,6 +55,8 @@
 - [Illiterate DALL-E Learns to Compose](https://arxiv.org/pdf/2110.11405.pdf), Oct. 17 2021.
 - [Controllable and Compositional Generation with Latent-Space Energy-Based Models](https://arxiv.org/pdf/2110.10873.pdf), Oct. 21 2021. NVIDIA.
 - [Unsupervised Learning of Compositional Energy Concepts](https://arxiv.org/pdf/2111.03042.pdf), Nov. 4 2021. `nips2021`
+- [ProTo: Program-Guided Transformer for Program-Guided Tasks](https://arxiv.org/pdf/2110.00804.pdf), Oct. 2021. `compositionality`
+- [BeliefBank: Adding Memory to a Pre-Trained Language Model for a Systematic Notion of Belief](https://arxiv.org/pdf/2109.14723.pdf), Sep. 2021.
 
 #### Data augmentation based approach
 
