@@ -26,6 +26,10 @@
   - information intactness of passage formulation of DPR
 - [Joint Passage Ranking for Diverse Multi-Answer Retrieval](https://arxiv.org/pdf/2104.08445.pdf), Sep. 21 2021.
 
+#### Retriever
+
+- [Condenser: a Pre-training Architecture for Dense Retrieval](https://aclanthology.org/2021.emnlp-main.75.pdf), `emnlp2021`
+
 ### Knowledge-Base Question Answering, KB Completion
 
 - [RNG-KBQA: Generation Augmented Iterative Ranking for Knowledge Base Question Answering](https://arxiv.org/pdf/2109.08678.pdf), Caiming Xiong et al. `arXiv`
