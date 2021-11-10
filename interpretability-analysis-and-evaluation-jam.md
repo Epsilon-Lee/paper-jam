@@ -42,9 +42,10 @@
 - [How BPE Affects Memorization in Transformers](https://arxiv.org/pdf/2110.02782.pdf), Facebook AI.
 - [Capturing Structural Locality in Non-parametric Language Models](https://arxiv.org/pdf/2110.02870.pdf), CMU data `locality`
 - [Understanding How Encoder-Decoder Architectures Attend](https://arxiv.org/pdf/2110.15253.pdf), Oct. 28 2021. `dynamics of attention`
+- [The Low-Dimensional Linear Geometry of Contextualized Word Representations](https://arxiv.org/pdf/2105.07109.pdf), Sep. 14 2021.
 
 
-### Probing
+### Probing methodology
 
 - [Probing as Quantifying the Inductive Bias of Pre-trained Representations](https://arxiv.org/pdf/2110.08388.pdf), Oct. 15 2021.
 
