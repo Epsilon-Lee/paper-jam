@@ -1,4 +1,10 @@
+### Pretraining-based NMT
 
+- [Language Models are Good Translators](https://arxiv.org/pdf/2106.13627.pdf), Jun. 25.
+
+### Data Augmentation for NMT
+
+- [mixSeq: A Simple Data Augmentation Method for Neural Machine Translation](https://aclanthology.org/2021.iwslt-1.23.pdf), IWSLT 2021.
 
 ### Char NMT
 
@@ -24,16 +30,13 @@
 
 - [ABC: Attention with Bounded-Memory Control](https://arxiv.org/pdf/2110.02488.pdf), `deepmind`
 
-
 ### Low-resource
 
 - [The Low-Resource Double Bind: An Empirical Study of Pruning for Low-Resource Machine Translation](https://arxiv.org/pdf/2110.03036.pdf), `pruning` `emnlp2021`
 
-
 ### Scaling Up
 
 - [Scaling Laws for Neural Machine Translation](https://arxiv.org/pdf/2109.07740.pdf), Google.
-
 
 ### Quality Estimation
 
@@ -45,11 +48,9 @@
 
 - [Comparing Feature-Engineering and Feature-Learning Approaches for Multilingual Translationese Classification](https://arxiv.org/pdf/2109.07604.pdf).
 
-
 ### Training Strategy
 
 - [Improving Neural Machine Translation by Bidirectional Training](https://arxiv.org/pdf/2109.07780.pdf), Liang Ding et al.
-
 
 ### Analysis and Evaluation
 
@@ -63,7 +64,6 @@
 ### Discourse
 
 - [When Does Translation Require Context? A Data-driven, Multilingual Exploration](https://arxiv.org/pdf/2109.07446.pdf).
-
 
 ### New Paradigm
 
