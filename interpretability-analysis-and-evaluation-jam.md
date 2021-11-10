@@ -23,6 +23,8 @@
 - [Understanding Interlocking Dynamics of Cooperative Rationalization](https://arxiv.org/pdf/2110.13880.pdf), Oct. 26 2021.
 - [Rationales for sequential prediction](https://arxiv.org/pdf/2109.06387.pdf), Sep. 14 2021. `emnlp` `attribution`
 - [From global to local MDI variable importances for random forests and when they are Shapley values](https://arxiv.org/pdf/2111.02218.pdf), Nov. 3 2021. `shapley values` `random forest` `nips2021`
+- [Natural Language Descriptions of Deep Features](https://openreview.net/forum?id=NudBMY-tzDr), `iclr2022 submit`
+- [Joint Shapley values: a measure of joint feature importance](https://openreview.net/forum?id=vcUmUvQCloe), `iclr2022 submit`
 
 #### Leveraging interpretation
 
