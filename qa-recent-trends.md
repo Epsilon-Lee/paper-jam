@@ -42,6 +42,7 @@
 - [GNN is a Counter: Revisiting GNN for Question Answering](https://arxiv.org/pdf/2110.03192.pdf), iclr2022  submitted.
 - [A Dataset for Answering Time-Sensitive Questions](https://arxiv.org/pdf/2108.06314.pdf), `nips2021`.
 - [Improving Question Answering Model Robustness with Synthetic Adversarial Data Generation](https://arxiv.org/pdf/2104.08678.pdf), Sep. 16 2021, `emnlp2021` `adversarial` `robustness`
+- [Do We Know What We Don’t Know? Studying Unanswerable Questions beyond SQuAD 2.0](https://aclanthology.org/2021.findings-emnlp.385/), `emnlp2021`
 
 ### Reasoning, Commonsense and Knowledge
 
