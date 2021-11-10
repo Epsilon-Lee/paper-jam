@@ -33,6 +33,7 @@
 ### Low-resource
 
 - [The Low-Resource Double Bind: An Empirical Study of Pruning for Low-Resource Machine Translation](https://arxiv.org/pdf/2110.03036.pdf), `pruning` `emnlp2021`
+- [Phrase-level Active Learning for Neural Machine Translation](https://arxiv.org/abs/2106.11375#), Jun. 21 2021.
 
 ### Scaling Up
 
