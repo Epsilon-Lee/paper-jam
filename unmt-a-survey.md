@@ -15,5 +15,5 @@
 - [Unsupervised NMT with Generative Language Models Only](https://arxiv.org/pdf/2110.05448.pdf), `iclr 2022` submitted.
 - [Multilingual Unsupervised Neural Machine Translation with Denoising Adapters](https://arxiv.org/pdf/2110.10472.pdf), Oct. 20 2021, NAVER Lab Europe. [tweet](https://twitter.com/ahmetustun89/status/1451501787450576901).
 - [Exploiting Curriculum Learning in Unsupervised Neural Machine Translation](https://arxiv.org/pdf/2109.11177.pdf), `unsupervised nmt`
-- [UNSUPERVISED NEURAL MACHINE TRANSLATION WITH GENERATIVE LANGUAGE MODELS ONLY](https://openreview.net/pdf?id=SVwbKmEg7M), `unmt` `iclr21 submit`
-- [CONTRASTIVE CLUSTERING TO MINE PSEUDO PARALLEL DATA FOR UNSUPERVISED TRANSLATION](https://openreview.net/pdf?id=pN1JOdrSY9), `unmt` `iclr21 submit`
+- [Unsupervised Neural Machine Translation with Generative Language Models Only](https://openreview.net/pdf?id=SVwbKmEg7M), `unmt` `iclr21 submit`
+- [Contrastive Clustering to Mine Psuedo Parallel Data for Unsupervised Translation](https://openreview.net/pdf?id=pN1JOdrSY9), `unmt` `iclr21 submit`
