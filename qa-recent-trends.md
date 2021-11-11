@@ -53,6 +53,7 @@
 - [BeliefBank: Adding Memory to a Pre-Trained Language Model for a Systematic Notion of Belief](https://arxiv.org/pdf/2109.14723.pdf), Sep. 2021. `compositionality`
 - [Conversational Multi-Hop Reasoning with Neural Commonsense Knowledge and Symbolic Logic Rules](https://arxiv.org/pdf/2109.08544.pdf), `emnlp2021`
 - [How Much Coffee Was Consumed During EMNLP 2019? Fermi Problems: A New Reasoning Challenge for AI](https://arxiv.org/pdf/2110.14207.pdf), Oct. 27, `emnlp2021`. [data](https://allenai.org/data/fermi)
+- [Symbolic Knowledge Distillation: from General Language Models to Commonsense Models](https://arxiv.org/pdf/2110.07178.pdf), Oct. 14 2021.
 
 ### Visual Question Answering
 
