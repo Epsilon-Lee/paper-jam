@@ -58,6 +58,7 @@
 - [ProTo: Program-Guided Transformer for Program-Guided Tasks](https://arxiv.org/pdf/2110.00804.pdf), Oct. 2021. `compositionality`
 - [BeliefBank: Adding Memory to a Pre-Trained Language Model for a Systematic Notion of Belief](https://arxiv.org/pdf/2109.14723.pdf), Sep. 2021.
 - [Learning to Generalize Compositionally by Transferring Across Semantic Parsing Tasks](https://arxiv.org/pdf/2111.05013.pdf), Nov. 9 2021.
+- [Grounded Graph Decoding Improves Compositional Generalization in Question Answering](https://arxiv.org/pdf/2111.03642.pdf), Nov. 5 2021. `semantic parsing`
 
 #### Data augmentation based approach
 
