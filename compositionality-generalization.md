@@ -57,6 +57,7 @@
 - [Unsupervised Learning of Compositional Energy Concepts](https://arxiv.org/pdf/2111.03042.pdf), Nov. 4 2021. `nips2021`
 - [ProTo: Program-Guided Transformer for Program-Guided Tasks](https://arxiv.org/pdf/2110.00804.pdf), Oct. 2021. `compositionality`
 - [BeliefBank: Adding Memory to a Pre-Trained Language Model for a Systematic Notion of Belief](https://arxiv.org/pdf/2109.14723.pdf), Sep. 2021.
+- [Learning to Generalize Compositionally by Transferring Across Semantic Parsing Tasks](https://arxiv.org/pdf/2111.05013.pdf), Nov. 9 2021.
 
 #### Data augmentation based approach
 
