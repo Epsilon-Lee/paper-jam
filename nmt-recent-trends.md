@@ -2,6 +2,7 @@
 
 - [Language Models are Good Translators](https://arxiv.org/pdf/2106.13627.pdf), Jun. 25.
 - [Cross-Attention is All You Need: Adapting Pretrained Transformers for Machine Translation](https://aclanthology.org/2021.emnlp-main.132.pdf), `emnlp2021`
+- [BERT, MBERT, or BIBERT? A Study on Contextualized Embeddings for Neural Machine Translation](https://aclanthology.org/2021.emnlp-main.534.pdf), `emnlp2021` [code](https://github.com/fe1ixxu/BiBERT).
 
 ### Data Augmentation for NMT
 
