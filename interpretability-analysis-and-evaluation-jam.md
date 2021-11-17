@@ -26,6 +26,7 @@
 - [Natural Language Descriptions of Deep Features](https://openreview.net/forum?id=NudBMY-tzDr), `iclr2022 submit`
 - [Joint Shapley values: a measure of joint feature importance](https://openreview.net/forum?id=vcUmUvQCloe), `iclr2022 submit`
 - [Beyond Importance Scores: Interpreting Tabular ML by Visualizing Feature Semantics](https://arxiv.org/pdf/2111.05898.pdf), Nov. 10 2021 `nips2021`
+- [Fast Axiomatic Attribution for Neural Networks](https://arxiv.org/pdf/2111.07668.pdf), Nov. 15 2021. `nips2021`
 
 #### Leveraging interpretation
 
