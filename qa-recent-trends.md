@@ -26,6 +26,23 @@
   - information intactness of passage formulation of DPR
 - [Joint Passage Ranking for Diverse Multi-Answer Retrieval](https://arxiv.org/pdf/2104.08445.pdf), Sep. 21 2021.
 
+#### Improved DPR Training
+
+**Negative sample selection**
+
+- [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://arxiv.org/pdf/2007.00808.pdf), Oct. 20 2021. `iclr2020`
+  - problems of in-batch negatives: uninformative negatives --> diminishing gradient norms, large stochastic gradient variances and slow learning convergence.
+- [RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2010.08191.pdf), May 12 2021. `emnlp2021`
+  - interactive q-p encoder to supervise (denoise) negative examples for DPR training
+  - semi-supervised learning supervised by interactive q-p encoder
+
+**Semi-supervised learning**
+
+- RocketQA paper
+- [Relevance-guided Supervision for OpenQA with ColBERT](https://arxiv.org/pdf/2007.00814.pdf), Aug. 2 2021. `tacl2021`
+
+
+
 #### Retriever
 
 - [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://dl.acm.org/doi/pdf/10.1145/3397271.3401075?casa_token=Er5SHkW6pggAAAAA:i0UwW9LxTMZmoF5k-HM6leeqIezjih8X9KBXb0ZXrt5PGZ05d-oX2Lur_TC5nkVEHzG_Pb1TV4Wfuvo), `sigir2020`.
