@@ -5,10 +5,9 @@ Some directions and topics:
 - **Low-storage cost retriever**: passage embedding compression
 - **Various data (question) settings**: entity-centric questions, questions with contradicting contexts, questions requires multiple evidence passages
 - **Improved formulation for retriever**: phrase retrieval, document-passage interactive model, retriever-reranker-reader formulation
-- **Improved training of DPR**: negative example selection, semi-supervised, weakly-supervised training
+- **Improved (unsupervised/pre or supervised-) training of DPR**: negative example selection, semi-supervised, weakly-supervised training
 - **Novel information retrieval methods**
-- **opdq over structured data**: KG-based data, Table-based data etc.
-
+- **odqa over structured data**: KG-based data, Table-based data etc.
 
 ---
 
