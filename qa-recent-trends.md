@@ -6,7 +6,7 @@ Some directions and topics:
 - **Various data (question) settings**: entity-centric questions, questions with contradicting contexts, questions requires multiple evidence passages
 - **Improved formulation for retriever**: phrase retrieval, document-passage interactive model, retriever-reranker-reader formulation
 - **Improved training of DPR**: negative example selection, semi-supervised, weakly-supervised training
-
+- **Novel information retrieval methods**
 ---
 
 - [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/pdf/1906.00300.pdf), `emnlp2019` `inverse close task` `pretraining`
@@ -56,6 +56,10 @@ Some directions and topics:
 - [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://dl.acm.org/doi/pdf/10.1145/3397271.3401075?casa_token=Er5SHkW6pggAAAAA:i0UwW9LxTMZmoF5k-HM6leeqIezjih8X9KBXb0ZXrt5PGZ05d-oX2Lur_TC5nkVEHzG_Pb1TV4Wfuvo), `sigir2020`.
   - "crucially, ColBERT's pruning-friendly interaction mechanism enables leveraging vector-similarity indexes for end-to-end retrieval directly from millions of documents."
 - [Condenser: a Pre-training Architecture for Dense Retrieval](https://aclanthology.org/2021.emnlp-main.75.pdf), `emnlp2021`.
+
+#### Information retrieval
+
+- [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663), Oct. 21 2021. `nips2021`
 
 ### Knowledge-Base Question Answering, KB Completion
 
