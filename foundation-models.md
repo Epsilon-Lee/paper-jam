@@ -1,3 +1,7 @@
+### Survey
+
+- [Which BERT? A Survey Organizing Contextualized Encoders](https://arxiv.org/pdf/2010.00854.pdf), Oct. 2 2020. `emnlp2020`
+
 ### Hyper-parameter/Training revisited
 
 - [The MultiBERTs: BERT Reproductions for Robustness Analysis](https://openreview.net/forum?id=K0E_F0gFDgA), `iclr2022 submit`
