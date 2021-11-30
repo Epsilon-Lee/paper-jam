@@ -2,9 +2,10 @@
 ### Open-Domain Question Answering
 
 Some directions and topics:
-- Low-storage cost retriever
-- Various question setting, e.g. entity-centric questions, questions with contradicting contexts, questions requires multiple evidence passages
-- Improved training and formulation for retriever
+- Low-storage cost retriever: passage embedding compression
+- Various data (question) settings: entity-centric questions, questions with contradicting contexts, questions requires multiple evidence passages
+- Improved formulation for retriever: phrase retrieval, document-passage interactive model
+- Improved training of DPR: negative example selection, semi-supervised, weakly-supervised training
 
 ---
 
