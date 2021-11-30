@@ -37,7 +37,7 @@ Some directions and topics:
   - information intactness of passage formulation of DPR
 - [Joint Passage Ranking for Diverse Multi-Answer Retrieval](https://arxiv.org/pdf/2104.08445.pdf), Sep. 21 2021.
 
-#### Improved DPR Training
+#### Improved DPR training
 
 **Negative sample selection**
 
