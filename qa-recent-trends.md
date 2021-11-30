@@ -7,6 +7,9 @@ Some directions and topics:
 - **Improved formulation for retriever**: phrase retrieval, document-passage interactive model, retriever-reranker-reader formulation
 - **Improved training of DPR**: negative example selection, semi-supervised, weakly-supervised training
 - **Novel information retrieval methods**
+- **opdq over structured data**: KG-based data, Table-based data etc.
+
+
 ---
 
 - [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/pdf/1906.00300.pdf), `emnlp2019` `inverse close task` `pretraining`
