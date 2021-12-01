@@ -30,7 +30,7 @@ Some directions and topics:
 - [Simple and Effective Unsupervised Redundancy Elimination to Compress Denses for Passage Retrieval](https://cs.uwaterloo.ca/~jimmylin/publications/Ma_etal_EMNLP2021.pdf), `emnlp2021`, Jimmy Lin's group.
 - [Domain-matched Pre-training Tasks for Dense Retrieval](https://arxiv.org/pdf/2107.13602.pdf), Jul. 28 2021. [github, dpr-scale](https://github.com/facebookresearch/dpr-scale).
 - [Answering Open-Domain Questions of Varying Reasoning Steps from Text](https://arxiv.org/pdf/2010.12527.pdf), Oct. 29 2021, `emnlp2021`, [code & benchmark](https://beerqa.github.io/)
-- [End-to-End Training of Multi-Document Reader and Retriever for Open-Domain Question Answering](https://arxiv.org/pdf/2106.05346.pdf), Jun. 9 2021.
+- [End-to-End Training of Multi-Document Reader and Retriever for Open-Domain Question Answering](https://arxiv.org/pdf/2106.05346.pdf), Jun. 9 2021. `acl2021`
 - [One Question Answering Model for Many Languages with Cross-lingual Dense Passage Retrieval](https://arxiv.org/pdf/2107.11976.pdf), Oct. 28 2021. [code](https://github.com/AkariAsai/CORA).
 - [Dense Hierarchical Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2110.15439.pdf), Oct. 28 2021.
   - information intactness of passage formulation of DPR
