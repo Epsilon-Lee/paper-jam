@@ -81,7 +81,10 @@ Some directions and topics:
 - [Entity-Conditioned Question Generation for Robust Attention Distribution in Neural Information Retrieval](https://openreview.net/forum?id=dEDH-_vQ2Wb)
 - [Question Answering Infused Pre-training of General-Purpose Contextualized Representations](https://openreview.net/forum?id=WmU4nT2Avy-)
 - [Delving Deep into Extractive Question Answering Data](https://openreview.net/forum?id=mgu6JpUzgD)
-- 
+- [A Simple and Effective Model for Multi-Hop Question Generation](https://openreview.net/forum?id=IV5YUaQ4pzG)
+- [A Unified Abstractive Model for Generating Question-Answer Pairs](https://openreview.net/forum?id=WO4a5buL8OV)
+- [C-MORE: Pretraining to Answer Open-Domain Questions by Consulting Millions of References](https://openreview.net/forum?id=kL8xTwwFMCT)
+- [A Copy-Augmented Generative Model for Open-Domain Question Answering](https://openreview.net/forum?id=9RHCjj-vhq3)
 
 ### Knowledge-Base Question Answering, KB Completion
 
