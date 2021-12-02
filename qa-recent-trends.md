@@ -70,7 +70,18 @@ Some directions and topics:
 - [Retrieval Data Augmentation Informed by Downstream Question Answering Performance](https://openreview.net/forum?id=e3ujixkK9yS)
 - [Sentence-aware Contrastive Learning for Open-Domain Passage Retrieval](https://openreview.net/forum?id=t4RMD0mI_k)
 - [Salient Phrase Aware Dense Retrieval: Can a Dense Retriever Imitate a Sparse One?](https://openreview.net/forum?id=bkagwUGBYU1)
-
+- [Answering Open-Domain Multi-Answer Questions via a Recall-then-Verify Framework](https://openreview.net/forum?id=MVcv5KxTqu_)
+- [What Makes Machine Reading Comprehension Questions Difficult? Investigating Variation in Passage Sources and Question Types](https://openreview.net/forum?id=npVogfg9Vuw)
+- [CCQA: A New Web-Scale Question Answering Dataset for Model Pre-Training](https://openreview.net/forum?id=4CwYXIpRYe0)
+- [Probing Difficulty and Discrimination of Natural Language Questions With Item Response Theory](https://openreview.net/forum?id=fUahDQidjl_)
+- [Modeling Multi-hop Question Answering as Single Sequence Prediction](https://openreview.net/forum?id=C1XEENowywW)
+- [ArchivalQA: A Large-scale Benchmark Dataset for Open Domain Question Answering over Archival News Collections](https://openreview.net/forum?id=4zUWJyt0Ja4)
+- [Synthetic Question Value Estimation for Domain Adaptation of Question Answering](https://openreview.net/forum?id=U-e3OTlgXwW)
+- [Last to Learn Bias: Analyzing and Mitigating a Shortcut in Question Matching](https://openreview.net/forum?id=peJrpYeuzEA)
+- [Entity-Conditioned Question Generation for Robust Attention Distribution in Neural Information Retrieval](https://openreview.net/forum?id=dEDH-_vQ2Wb)
+- [Question Answering Infused Pre-training of General-Purpose Contextualized Representations](https://openreview.net/forum?id=WmU4nT2Avy-)
+- [Delving Deep into Extractive Question Answering Data](https://openreview.net/forum?id=mgu6JpUzgD)
+- 
 
 ### Knowledge-Base Question Answering, KB Completion
 
