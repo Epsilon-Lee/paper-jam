@@ -63,6 +63,15 @@ Some directions and topics:
 
 - [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663), Oct. 21 2021. `nips2021`
 
+#### ACL ARR 2021
+
+- [Hyperlink-induced Pre-training for Passage Retrieval of Open-domain Question Answering](https://openreview.net/forum?id=5BtSP5Wi7gn)
+- [Augmenting Document Representations for Dense Retrieval with Interpolation and Perturbation](https://openreview.net/forum?id=AgGygsClU1a)
+- [Retrieval Data Augmentation Informed by Downstream Question Answering Performance](https://openreview.net/forum?id=e3ujixkK9yS)
+- [Sentence-aware Contrastive Learning for Open-Domain Passage Retrieval](https://openreview.net/forum?id=t4RMD0mI_k)
+- [Salient Phrase Aware Dense Retrieval: Can a Dense Retriever Imitate a Sparse One?](https://openreview.net/forum?id=bkagwUGBYU1)
+
+
 ### Knowledge-Base Question Answering, KB Completion
 
 - [RNG-KBQA: Generation Augmented Iterative Ranking for Knowledge Base Question Answering](https://arxiv.org/pdf/2109.08678.pdf), Caiming Xiong et al. `arXiv`
