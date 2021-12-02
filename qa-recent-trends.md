@@ -70,7 +70,6 @@ Some directions and topics:
 - [Augmenting Document Representations for Dense Retrieval with Interpolation and Perturbation](https://openreview.net/forum?id=AgGygsClU1a)
 - [Retrieval Data Augmentation Informed by Downstream Question Answering Performance](https://openreview.net/forum?id=e3ujixkK9yS)
 - [Sentence-aware Contrastive Learning for Open-Domain Passage Retrieval](https://openreview.net/forum?id=t4RMD0mI_k)
-- [Salient Phrase Aware Dense Retrieval: Can a Dense Retriever Imitate a Sparse One?](https://openreview.net/forum?id=bkagwUGBYU1)
 - [CCQA: A New Web-Scale Question Answering Dataset for Model Pre-Training](https://openreview.net/forum?id=4CwYXIpRYe0)
 - [C-MORE: Pretraining to Answer Open-Domain Questions by Consulting Millions of References](https://openreview.net/forum?id=kL8xTwwFMCT)
 - [Question Answering Infused Pre-training of General-Purpose Contextualized Representations](https://openreview.net/forum?id=WmU4nT2Avy-)
@@ -86,7 +85,7 @@ Some directions and topics:
 - [ArchivalQA: A Large-scale Benchmark Dataset for Open Domain Question Answering over Archival News Collections](https://openreview.net/forum?id=4zUWJyt0Ja4)
 
 **Analysis**
-
+- [Salient Phrase Aware Dense Retrieval: Can a Dense Retriever Imitate a Sparse One?](https://openreview.net/forum?id=bkagwUGBYU1)
 - [What Makes Machine Reading Comprehension Questions Difficult? Investigating Variation in Passage Sources and Question Types](https://openreview.net/forum?id=npVogfg9Vuw)
 - [Probing Difficulty and Discrimination of Natural Language Questions With Item Response Theory](https://openreview.net/forum?id=fUahDQidjl_)
 - [Last to Learn Bias: Analyzing and Mitigating a Shortcut in Question Matching](https://openreview.net/forum?id=peJrpYeuzEA)
