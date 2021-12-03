@@ -19,6 +19,6 @@ The biggest question I am feeling about after reading the abstract of PAQ is:
 
 To answer the above question, I think we should understand how the PAQ paper creates the 65M qa-pair dataset.
 
-Several properties of PQA are listed below:
+Several properties of PAQ are listed below:
 - PAQ is automatically constructed using a question generation model and Wikipedia;
 - questions are generated such that they are likely to appear in ODQA datasets.
