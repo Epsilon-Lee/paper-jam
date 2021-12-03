@@ -25,3 +25,7 @@ Several properties of PAQ are listed below:
 
 The astonishing result of RePAQ makes think about why this memorizing appoach can be on par with or even better than retrieve-and-read paradigm. This leads to a very hard question in question-answering research:
 - How does the model generalize? Or what can a model leverage for its generalization?
+
+In analogy of a human student, she could have two ways to generalize to new questions in examinations:
+1. practice with a huge amount of questions and memorize how to work out their answers, so that in examinations, she can find that most of the questions in the exam are previously encountered;
+2. practice with a systematic category of questions and learn about how to solve certain category of questions methodologically, so that in examinations, when encountered with question that belongs to certain previously studied question category, she can solve it as well.
