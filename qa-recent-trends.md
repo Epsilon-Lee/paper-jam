@@ -55,6 +55,7 @@ Some directions and topics:
 
 - [Question and Answer Test-Train Overlap in Open-Domain Question Answering Datasets](https://arxiv.org/pdf/2008.02637.pdf), Aug. 6 2020.
 - [Undersensitivity in Neural Reading Comprehension](https://arxiv.org/pdf/2003.04808.pdf), Feb. 15 2020.
+- [Challenges in Generalization in Open Domain Question Answering](https://arxiv.org/pdf/2109.01156.pdf), Sep. 2 2021. 
 
 #### Retriever
 
