@@ -51,7 +51,10 @@ Some directions and topics:
 - RocketQA paper
 - [Relevance-guided Supervision for OpenQA with ColBERT](https://arxiv.org/pdf/2007.00814.pdf), Aug. 2 2021. `tacl2021`
 
+#### Understanding datasets
 
+- [Question and Answer Test-Train Overlap in Open-Domain Question Answering Datasets](https://arxiv.org/pdf/2008.02637.pdf), Aug. 6 2020.
+- [Undersensitivity in Neural Reading Comprehension](https://arxiv.org/pdf/2003.04808.pdf), Feb. 15 2020.
 
 #### Retriever
 
@@ -73,6 +76,7 @@ Some directions and topics:
 - [CCQA: A New Web-Scale Question Answering Dataset for Model Pre-Training](https://openreview.net/forum?id=4CwYXIpRYe0)
 - [C-MORE: Pretraining to Answer Open-Domain Questions by Consulting Millions of References](https://openreview.net/forum?id=kL8xTwwFMCT)
 - [Question Answering Infused Pre-training of General-Purpose Contextualized Representations](https://openreview.net/forum?id=WmU4nT2Avy-)
+- [Domain-matched Pre-training Tasks for Dense Retrieval](https://arxiv.org/pdf/2107.13602.pdf), Jul. 28 2021.
 
 **QG**
 - [A Simple and Effective Model for Multi-Hop Question Generation](https://openreview.net/forum?id=IV5YUaQ4pzG)
