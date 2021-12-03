@@ -1,5 +1,5 @@
 
-## Shocking moments of `ODQA`
+# Shocking moments of `ODQA`
 
 This log gives a summary of my impression on big events/improvements on `ODQA`. Several judgements are drawn only via comparing performance of retriever (e.g. recall@20) and reader (exact match), so be critical about my comments here!
 
@@ -18,3 +18,7 @@ The biggest question I am feeling about after reading the abstract of PAQ is:
 - ***Have our current evaluation benchmarks been broken?*** 
 
 To answer the above question, I think we should understand how the PAQ paper creates the 65M qa-pair dataset.
+
+Several properties of PQA are listed below:
+- PAQ is automatically constructed using a question generation model and Wikipedia;
+- questions are generated such that they are likely to appear in ODQA datasets.
