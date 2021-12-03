@@ -1,4 +1,6 @@
 
+## Shocking moments of `ODQA`
+
 This log gives a summary of my impression on big events/improvements on `ODQA`. Several judgements are drawn only via comparing performance of retriever (e.g. recall@20) and reader (exact match), so be critical about my comments here!
 
 I am shocked by the results of the following paper on NQ (EM: 52.3 for qa pair retriever > 47.8 of [colBERT-based ODQA](https://arxiv.org/pdf/2007.00814.pdf))
