@@ -59,6 +59,7 @@
 - [BeliefBank: Adding Memory to a Pre-Trained Language Model for a Systematic Notion of Belief](https://arxiv.org/pdf/2109.14723.pdf), Sep. 2021.
 - [Learning to Generalize Compositionally by Transferring Across Semantic Parsing Tasks](https://arxiv.org/pdf/2111.05013.pdf), Nov. 9 2021.
 - [Grounded Graph Decoding Improves Compositional Generalization in Question Answering](https://arxiv.org/pdf/2111.03642.pdf), Nov. 5 2021. `semantic parsing`
+- [Systematic Generalization with Edge Transformers](https://arxiv.org/abs/2112.00578), Dec. 1 2021 `nips2021`
 
 #### Data augmentation based approach
 
