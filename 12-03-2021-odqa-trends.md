@@ -22,3 +22,6 @@ To answer the above question, I think we should understand how the PAQ paper cre
 Several properties of PAQ are listed below:
 - PAQ is automatically constructed using a question generation model and Wikipedia;
 - questions are generated such that they are likely to appear in ODQA datasets.
+
+The astonishing result of RePAQ makes think about why this memorizing appoach can be on par with or even better than retrieve-and-read paradigm. This leads to a very hard question in question-answering research:
+- How does the model generalize? Or what can a model leverage for its generalization?
