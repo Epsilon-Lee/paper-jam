@@ -48,6 +48,8 @@ In the original [DPR](https://arxiv.org/pdf/2004.04906.pdf) paper, the qa pairs 
 With a total number of about (58880+60413+2474+1125+70096=)192,988 << 65,000,000. (65M/192988~=336). So, as a guess:
 - finetuning on this 65M (336 times larger) qa-pair datasets **can** bring **large improments** over original DPR.
 
+And the following figure extracted from the original DPR paper also demostrates the *scaling law* of increasing **number of training qa pairs**.
+![image](https://user-images.githubusercontent.com/7335618/144692905-910ddf8f-154f-4ed0-998d-b470fa7faa01.png)
 
 
 ### How PAQ generate and filter qa pairs?
