@@ -32,8 +32,6 @@ In analogy of a human student who works hard for perform excellent in exams, she
 
 ### How about use the PAQ qa pairs to finetune state-of-the-art retrieve-and-read models?
 
-- [Domain-matched Pre-training Tasks for Dense Retrieval](https://arxiv.org/pdf/2107.13602.pdf), Jul. 28 2021.
-
 It is natural to use the 65M qa pairs for finetuning **both retriever and reader** of certain retrieve-and-read model.
 In the original [DPR](https://arxiv.org/pdf/2004.04906.pdf) paper, the qa pairs used to finetune the retriever and reader modules are listed here in the table below.
 
@@ -48,8 +46,17 @@ In the original [DPR](https://arxiv.org/pdf/2004.04906.pdf) paper, the qa pairs 
 With a total number of about (58880+60413+2474+1125+70096=)192,988 << 65,000,000. (65M/192988~=336). So, as a guess:
 - finetuning on this 65M (336 times larger) qa-pair datasets **can** bring **large improments** over original DPR.
 
-And the following figure extracted from the original DPR paper also demostrates the *scaling law* of increasing **number of training qa pairs**.
-![image](https://user-images.githubusercontent.com/7335618/144692905-910ddf8f-154f-4ed0-998d-b470fa7faa01.png)
+![image](https://user-images.githubusercontent.com/7335618/144694538-52e1f744-1fc8-4c2e-b602-c9ac068fde3b.png)
+
+And the above figure extracted from the original DPR paper also demostrates the *scaling law* of increasing **number of training qa pairs**.
+That is, if we draw vertical lines on this figure, we can find that there is a large jump moving from 1k to 10k training examples, and also a smaller but nonnegligible jump moving from 10k to 40k training examples.
+
+The following paper also from Facebook AI starts to use PAQ for finetuning the original DPR checkpoint. And the results of retriever finetuning is shown in the following table from this paper.
+> Note that, since this paper focus on pretraining of DPR, it does not experiment with the reader module and compare final EM scores. 
+
+- [Domain-matched Pre-training Tasks for Dense Retrieval](https://arxiv.org/pdf/2107.13602.pdf), Jul. 28 2021.
+
+![image](https://user-images.githubusercontent.com/7335618/144693287-d2d26e52-e1ec-4594-8c69-662a096d7b82.png)
 
 
 ### How PAQ generate and filter qa pairs?
