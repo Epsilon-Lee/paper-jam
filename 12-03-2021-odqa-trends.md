@@ -3,7 +3,7 @@
 
 This log gives a summary of my impression on big events/improvements on `ODQA`. Several judgements are drawn only via comparing performance of retriever (e.g. recall@20) and reader (exact match), so be critical about my comments here!
 
-I am shocked by the results of the following paper on NQ (EM: 52.3 for qa pair retriever > 47.8 of [colBERT-based ODQA](https://arxiv.org/pdf/2007.00814.pdf))
+I am shocked by the results of the following paper on NQ (**EM**: **52.3** for qa pair retriever > **47.8** of [colBERT-based ODQA](https://arxiv.org/pdf/2007.00814.pdf))
 
 - [PAQ: 65 Million Probably-Asked Questions and What You Can Do With Them](https://arxiv.org/pdf/2102.07033.pdf), Feb. 13 2021.
 
@@ -24,8 +24,31 @@ Several properties of PAQ are listed below:
 - questions are generated such that they are likely to appear in ODQA datasets.
 
 The astonishing result of RePAQ makes think about why this memorizing appoach can be on par with or even better than retrieve-and-read paradigm. This leads to a very hard question in question-answering research:
-- How does the model generalize? Or what can a model leverage for its generalization?
+- **How does the model generalize? Or what can a model leverage for its generalization?**
 
-In analogy of a human student, she could have two ways to generalize to new questions in examinations:
-1. practice with a huge amount of questions and memorize how to work out their answers, so that in examinations, she can find that most of the questions in the exam are previously encountered;
-2. practice with a systematic category of questions and learn about how to solve certain category of questions methodologically, so that in examinations, when encountered with question that belongs to certain previously studied question category, she can solve it as well.
+In analogy of a human student who works hard for perform excellent in exams, she could have two ways to generalize to new questions:
+1. *practice with a huge amount of questions and memorize how to work out their answers, so that in examinations*, she can find that most of the questions in the exam are previously encountered;
+2. *practice with systematic categories of questions and learn about how to solve certain category inductively*, so that in examinations, when encountered with question that belongs to certain previously studied category, she could solve it as well.
+
+### How about use the PAQ qa pairs to finetune state-of-the-art retrieve-and-read models?
+
+- [Domain-matched Pre-training Tasks for Dense Retrieval](https://arxiv.org/pdf/2107.13602.pdf), Jul. 28 2021.
+
+It is natural to use the 65M qa pairs for finetuning **both retriever and reader** of certain retrieve-and-read model.
+In the original [DPR](https://arxiv.org/pdf/2004.04906.pdf) paper, the qa pairs used to finetune the retriever and reader modules are listed here in the table below.
+
+| dataset | #train |
+| ----    | ----   |
+| NQ      | 79168/58880  |
+| TQ      | 78785/60413  |
+| WQ      | 3417/2474    |
+| cTREC   | 1353/1125    |
+| SQuAD   | 78713/70096  |
+
+With a total number of about (58880+60413+2474+1125+70096=)192,988 << 65,000,000. (65M/192988~=336). So, as a guess:
+- finetuning on this 65M (336 times larger) qa-pair datasets **can** bring **large improments** over original DPR.
+
+
+
+### How PAQ generate and filter qa pairs?
+
