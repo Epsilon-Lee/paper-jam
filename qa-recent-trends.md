@@ -45,6 +45,8 @@ Some directions and topics:
 - :white_heart: [RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2010.08191.pdf), May 12 2021. `emnlp2021`
   - interactive q-p encoder to supervise (denoise) negative examples for DPR training
   - semi-supervised learning supervised by interactive q-p encoder
+- :white_heart: [Learning Robust Dense Retrieval Models from Incomplete Relevance Labels](https://ciir-publications.cs.umass.edu/getpdf.php?id=1429), SIGIR 2021.
+  - Improve upon ANCE, analyze the issue of unjudged relevance of negative example with ANCE.
 
 **Semi-supervised learning**
 
@@ -61,7 +63,8 @@ Some directions and topics:
 
 - :white_heart: [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://dl.acm.org/doi/pdf/10.1145/3397271.3401075?casa_token=Er5SHkW6pggAAAAA:i0UwW9LxTMZmoF5k-HM6leeqIezjih8X9KBXb0ZXrt5PGZ05d-oX2Lur_TC5nkVEHzG_Pb1TV4Wfuvo), `sigir2020`.
   - "crucially, ColBERT's pruning-friendly interaction mechanism enables leveraging vector-similarity indexes for end-to-end retrieval directly from millions of documents."
-- [Condenser: a Pre-training Architecture for Dense Retrieval](https://aclanthology.org/2021.emnlp-main.75.pdf), `emnlp2021`.
+- :white_heart: [Condenser: a Pre-training Architecture for Dense Retrieval](https://aclanthology.org/2021.emnlp-main.75.pdf), `emnlp2021`.
+  - the issue with using representation of [CLS] token to represent dense vector, due to the illed attention pattern of BERT, so this paper takes some architectural change to the Transformer to make [CLS] representation more powerful 
 
 #### Information retrieval
 
