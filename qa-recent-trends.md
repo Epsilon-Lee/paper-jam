@@ -11,7 +11,7 @@ Some directions and topics:
 
 ---
 
-- [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/pdf/1906.00300.pdf), `emnlp2019` `inverse close task` `pretraining`
+- :white_heart: [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/pdf/1906.00300.pdf), `emnlp2019` `inverse close task` `pretraining`
 - [Simple Entity-Centric Questions Challenge Dense Retrievers](https://arxiv.org/pdf/2109.08535.pdf), Danqi Chen et al. `emnlp2021`
 - [Phrase-retrieval Learns Passage Retrieval, Too](https://arxiv.org/abs/2109.08133), Danqi Chen et al. `emnlp2021`
 - [Unsupervised Open Domain Question Answering](https://arxiv.org/pdf/2108.13817.pdf), Hai Zhao's group.
@@ -28,13 +28,13 @@ Some directions and topics:
 - [CONTRAQA: QUESTION ANSWERING UNDER CONTRADICTING CONTEXTS](https://arxiv.org/pdf/2110.07803.pdf), `dataset creation`, Oct. 2021.
 - [Open Domain Question Answering over Virtual Documents: A Unified Approach for Data and Text](https://arxiv.org/pdf/2110.08417.pdf), Oct. 16 2021.
 - [Simple and Effective Unsupervised Redundancy Elimination to Compress Denses for Passage Retrieval](https://cs.uwaterloo.ca/~jimmylin/publications/Ma_etal_EMNLP2021.pdf), `emnlp2021`, Jimmy Lin's group.
-- [Domain-matched Pre-training Tasks for Dense Retrieval](https://arxiv.org/pdf/2107.13602.pdf), Jul. 28 2021. [github, dpr-scale](https://github.com/facebookresearch/dpr-scale).
+- :white_heart: [Domain-matched Pre-training Tasks for Dense Retrieval](https://arxiv.org/pdf/2107.13602.pdf), Jul. 28 2021. [github, dpr-scale](https://github.com/facebookresearch/dpr-scale).
 - [Answering Open-Domain Questions of Varying Reasoning Steps from Text](https://arxiv.org/pdf/2010.12527.pdf), Oct. 29 2021, `emnlp2021`, [code & benchmark](https://beerqa.github.io/)
 - [End-to-End Training of Multi-Document Reader and Retriever for Open-Domain Question Answering](https://arxiv.org/pdf/2106.05346.pdf), Jun. 9 2021. `acl2021`
 - [One Question Answering Model for Many Languages with Cross-lingual Dense Passage Retrieval](https://arxiv.org/pdf/2107.11976.pdf), Oct. 28 2021. [code](https://github.com/AkariAsai/CORA).
-- [Dense Hierarchical Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2110.15439.pdf), Oct. 28 2021.
+- :white_heart: [Dense Hierarchical Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2110.15439.pdf), Oct. 28 2021.
   - information intactness of passage formulation of DPR
-- [Joint Passage Ranking for Diverse Multi-Answer Retrieval](https://arxiv.org/pdf/2104.08445.pdf), Sep. 21 2021.
+- :white_heart: [Joint Passage Ranking for Diverse Multi-Answer Retrieval](https://arxiv.org/pdf/2104.08445.pdf), Sep. 21 2021.
 
 #### Improved DPR training
 
@@ -42,24 +42,24 @@ Some directions and topics:
 
 - [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://arxiv.org/pdf/2007.00808.pdf), Oct. 20 2021. `iclr2020`
   - problems of in-batch negatives: uninformative negatives --> diminishing gradient norms, large stochastic gradient variances and slow learning convergence.
-- [RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2010.08191.pdf), May 12 2021. `emnlp2021`
+- :white_heart: [RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2010.08191.pdf), May 12 2021. `emnlp2021`
   - interactive q-p encoder to supervise (denoise) negative examples for DPR training
   - semi-supervised learning supervised by interactive q-p encoder
 
 **Semi-supervised learning**
 
 - RocketQA paper
-- [Relevance-guided Supervision for OpenQA with ColBERT](https://arxiv.org/pdf/2007.00814.pdf), Aug. 2 2021. `tacl2021`
+- :white_heart: [Relevance-guided Supervision for OpenQA with ColBERT](https://arxiv.org/pdf/2007.00814.pdf), Aug. 2 2021. `tacl2021`
 
 #### Understanding datasets
 
 - [Question and Answer Test-Train Overlap in Open-Domain Question Answering Datasets](https://arxiv.org/pdf/2008.02637.pdf), Aug. 6 2020.
 - [Undersensitivity in Neural Reading Comprehension](https://arxiv.org/pdf/2003.04808.pdf), Feb. 15 2020.
-- [Challenges in Generalization in Open Domain Question Answering](https://arxiv.org/pdf/2109.01156.pdf), Sep. 2 2021. 
+- :white_heart: [Challenges in Generalization in Open Domain Question Answering](https://arxiv.org/pdf/2109.01156.pdf), Sep. 2 2021. 
 
 #### Retriever
 
-- [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://dl.acm.org/doi/pdf/10.1145/3397271.3401075?casa_token=Er5SHkW6pggAAAAA:i0UwW9LxTMZmoF5k-HM6leeqIezjih8X9KBXb0ZXrt5PGZ05d-oX2Lur_TC5nkVEHzG_Pb1TV4Wfuvo), `sigir2020`.
+- :white_heart: [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://dl.acm.org/doi/pdf/10.1145/3397271.3401075?casa_token=Er5SHkW6pggAAAAA:i0UwW9LxTMZmoF5k-HM6leeqIezjih8X9KBXb0ZXrt5PGZ05d-oX2Lur_TC5nkVEHzG_Pb1TV4Wfuvo), `sigir2020`.
   - "crucially, ColBERT's pruning-friendly interaction mechanism enables leveraging vector-similarity indexes for end-to-end retrieval directly from millions of documents."
 - [Condenser: a Pre-training Architecture for Dense Retrieval](https://aclanthology.org/2021.emnlp-main.75.pdf), `emnlp2021`.
 
