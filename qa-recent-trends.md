@@ -130,6 +130,11 @@ Some directions and topics:
 - [Improving Question Answering Model Robustness with Synthetic Adversarial Data Generation](https://arxiv.org/pdf/2104.08678.pdf), Sep. 16 2021, `emnlp2021` `adversarial` `robustness`
 - [Do We Know What We Don’t Know? Studying Unanswerable Questions beyond SQuAD 2.0](https://aclanthology.org/2021.findings-emnlp.385/), `emnlp2021`
 
+#### Old goodies
+
+- [Machine Comprehension using Match-LSTM and Answer Pointer](https://arxiv.org/pdf/1608.07905.pdf), ICLR 2017.
+- [Bi-Directional Attention Flow for Machine Comprehension](https://arxiv.org/pdf/1611.01603.pdf), ICLR 2017.
+
 ### Reasoning, Commonsense and Knowledge
 
 - [BeliefBank: Adding Memory to a Pre-Trained Language Model for a Systematic Notion of Belief](https://arxiv.org/pdf/2109.14723.pdf), Sep. 2021. `compositionality`
