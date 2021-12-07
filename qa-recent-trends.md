@@ -122,6 +122,8 @@ Some directions and topics:
 
 ### Machine Reading Comprehension
 
+- [A Survey on Explainability in Machine Reading Comprehension](https://arxiv.org/pdf/2010.00389.pdf), Oct. 1 2020.
+
 - [Numerical reasoning in machine reading comprehension tasks: are we there yet?](https://arxiv.org/abs/2109.08207), `emnlp2021`
 - [Improving Unsupervised Question Answering via Summarization-Informed Question Generation](https://arxiv.org/pdf/2109.07954.pdf), `emnlp2021` `qg`
 - [Using Knowledge Distillation and Active Learning](https://arxiv.org/pdf/2109.12662.pdf), `arXiv 2021 Sep`
