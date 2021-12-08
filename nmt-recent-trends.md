@@ -77,3 +77,7 @@
 ### New Paradigm
 
 - [Nearest Neighbor Machine Translation](https://arxiv.org/pdf/2010.00710.pdf), `iclr 2021`
+
+### Understanding and Interpretation
+
+- [Scaling Up Influence Functions](https://arxiv.org/pdf/2112.03052.pdf), Dec. 6 2021. `aaai2022`
