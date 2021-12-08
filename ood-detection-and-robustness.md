@@ -21,6 +21,7 @@
   - Propose a categorization of OOD instances according to ***background shift*** or ***semantic shift***
   - Methods like *calibration* and density estimation for *OOD detection* are evaluated over 14 datasets
 - [Can multi-label classification networks know what they don’t know?](https://arxiv.org/pdf/2109.14162.pdf), Sep. 2021. `ood detection`
+- [Provable Guarantees for Understanding Out-of-distribution Detection](https://arxiv.org/pdf/2112.00787.pdf), Dec. 1 2021.
 
 ### Robustness and Adversarial Examples/Training
 
