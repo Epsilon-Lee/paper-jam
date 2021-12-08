@@ -28,6 +28,7 @@
 - [Beyond Importance Scores: Interpreting Tabular ML by Visualizing Feature Semantics](https://arxiv.org/pdf/2111.05898.pdf), Nov. 10 2021 `nips2021`
 - [Fast Axiomatic Attribution for Neural Networks](https://arxiv.org/pdf/2111.07668.pdf), Nov. 15 2021. `nips2021`
 - [Improving Deep Learning Interpretability by Saliency Guided Training](https://arxiv.org/pdf/2111.14338.pdf), Nov. 29 2021 `nips2021`.
+- [Scaling Up Influence Functions](https://arxiv.org/pdf/2112.03052.pdf), Dec. 6 2021. Google Research `aaai2022`.
 
 #### Leveraging interpretation
 
