@@ -170,3 +170,7 @@ Some directions and topics:
 ### QA and social bias
 
 - [BBQ: A Hand-Built Bias Benchmark for Question Answering](https://arxiv.org/pdf/2110.08193.pdf), Oct. 15 2021. Sam Bowman's group.
+
+### Dataset
+
+- [QA Dataset Explosion: A Taxonomy of NLP Resources for Question Answering and Reading Comprehension](https://arxiv.org/pdf/2107.12708.pdf), Jul. 27 2021.
