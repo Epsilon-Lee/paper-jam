@@ -37,6 +37,13 @@ Some directions and topics:
   - information intactness of passage formulation of DPR
 - :white_heart: [Joint Passage Ranking for Diverse Multi-Answer Retrieval](https://arxiv.org/pdf/2104.08445.pdf), Sep. 21 2021.
 
+
+#### Phrase-based retrieval model
+
+- [Phrase-Indexed Question Answering: A New Challenge for Scalable Document Comprehension](https://aclanthology.org/D18-1052.pdf), `emnlp2018`
+- [Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index](https://aclanthology.org/P19-1436.pdf), `acl2019`
+- [Learning Dense Representations of Phrases at Scale](https://aclanthology.org/2021.acl-long.518.pdf), `acl2021`.
+
 #### Improved DPR training
 
 **Negative sample selection**
