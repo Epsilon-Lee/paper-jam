@@ -9,7 +9,7 @@
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/), 2019.
   - "It is difficult to (mathematically) define interpretability. A non-mathematical definition of interpretability that I like by Miller 2017 is: **interpretability is the degree to which a human can understand the cause of decision**", and another one by Been Kim is "**interpretability is the degree to which a human can consistently predict the model's result**"
 
-- [Fine-Grained Neural Network Explanation by Identifying Input Features with Predictive Information](https://arxiv.org/pdf/2110.01471.pdf), `nips` `attribution`.
+- [Fine-Grained Neural Network Explanation by Identifying Input Features with Predictive Information](https://arxiv.org/pdf/2110.01471.pdf), `nips2021` `attribution`.
 - [Consistent Counterfactuals for Deep Models](https://arxiv.org/pdf/2110.03109.pdf), `evaluation of interpretability` `iclr` submitted.
 
 
@@ -33,7 +33,7 @@
 
 #### Leveraging interpretation
 
-
+/
 
 
 ### Analysis
