@@ -1,3 +1,9 @@
+### Machine Unlearning
+
+- [On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning](https://arxiv.org/pdf/2110.11891.pdf), Oct. 22 2021.
+- [Dataset inference: Ownership resolution in machine learning](https://arxiv.org/pdf/2104.10706.pdf), Apr. 2021 `iclr021`
+- [Unrolling SGD: Understanding Factors Influencing Machine Unlearning](https://arxiv.org/pdf/2109.13398.pdf), Sep. 27 2021.
+
 
 ### Data Summarization
 
