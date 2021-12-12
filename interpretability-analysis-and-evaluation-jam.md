@@ -63,3 +63,12 @@
 - [The Curse of Performance Instability in Analysis Datasets: Consequences, Source, and Suggestions](https://aclanthology.org/2020.emnlp-main.659.pdf), `emnlp2020`
 - [Better than Average: Paired Evaluation of NLP Systems](https://arxiv.org/pdf/2110.10746.pdf), Oct. 20 2021.
 - [“Will You Find These Shortcuts?” A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification](https://arxiv.org/pdf/2111.07367.pdf), Nov. 14 2021, Google, `emnlp2021`
+
+### Transparent model
+
+- [Editing a classifier by rewriting its prediction rules](https://arxiv.org/pdf/2112.01008.pdf), Dec. 2 2021.
+
+
+### Model debugging
+
+- [Debugging Tests for Model Explanations](https://arxiv.org/pdf/2011.05429.pdf), Nov. 10 2020.
