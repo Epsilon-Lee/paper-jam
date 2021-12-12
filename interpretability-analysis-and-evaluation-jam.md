@@ -33,7 +33,7 @@
 
 #### Leveraging interpretation
 
-- [Influence Tuning: Demoting Spurious Correlations via Instance Attribution and Instance-Driven Updates](https://arxiv.org/pdf/2110.03212.pdf), `emnlp2021` with `code`.
+
 
 
 ### Analysis
@@ -66,8 +66,11 @@
 
 ### Transparent model
 
-- [Editing a classifier by rewriting its prediction rules](https://arxiv.org/pdf/2112.01008.pdf), Dec. 2 2021.
+#### Model editing
 
+- [Editing a classifier by rewriting its prediction rules](https://arxiv.org/pdf/2112.01008.pdf), Dec. 2 2021.
+- [Influence Tuning: Demoting Spurious Correlations via Instance Attribution and Instance-Driven Updates](https://arxiv.org/pdf/2110.03212.pdf), `emnlp2021` with `code`
+- [Fast Model Editing at Scale](https://arxiv.org/pdf/2110.11309.pdf), Oct. 21 2021.
 
 ### Model debugging
 
