@@ -26,7 +26,7 @@
 
 ### Define compositionality, or generalize compositionally
 
-- [Compositionality Decomposed:  How doNeural Networks Generalise?](https://jair.org/index.php/jair/article/view/11674/26576), JAIR 2020.
+- [Compositionality Decomposed:  How do Neural Networks Generalise?](https://jair.org/index.php/jair/article/view/11674/26576), JAIR 2020.
   - Collect different definitions of compositionality and translate them into five task-independent tests
     1. can models systematically combine known parts and rules?
     2. can models extends its prediction beyond the lengths in training set?
