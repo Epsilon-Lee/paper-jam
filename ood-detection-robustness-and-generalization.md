@@ -16,6 +16,7 @@
 
 #### Invariant Risk Minimization
 
+- [DAIR: Data Augmented Invariant Regularization](https://arxiv.org/pdf/2110.11205.pdf), Oct. 21 2021.
 - [IRM---when it works and when it doesn't: A test case of natural language inference](https://openreview.net/forum?id=KtvHbjCF4v), `nips2021`
 
 ### OOD Detection
