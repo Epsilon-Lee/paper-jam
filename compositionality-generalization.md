@@ -1,3 +1,5 @@
+## Compositionality and Machine Learning
+
 ### Measuring compositionality
 
 - [Why Fodor and Pylyshyn Were Wrong: A Simplest Refutation](https://uh.edu/~garson/Chalmers.PDF), `compositionality` 1990s.
@@ -84,3 +86,10 @@
 - [Can Transformers Jump Around Right in Natural Language? Assessing Performance Transfer from SCAN](https://arxiv.org/pdf/2107.01366.pdf), 2021 `analysis`
 - [Symbolic Brittleness in Sequence Models: on Systematic Generalization in Symbolic Mathematics](https://arxiv.org/pdf/2109.13986.pdf), 2021.
 - [Systematic Generalization on gSCAN: What is Nearly Solved and What is Next?](https://arxiv.org/pdf/2109.12243.pdf), Fei Sha et al. `compositionality` `systematicality`
+
+## Systematic Generalization
+
+### Learning systemacity
+
+- [Systematic Generalization with Group Invariant Predictions](https://openreview.net/pdf?id=b9PoimzZFJ), `iclr2021`
+  - "we consider situations where the presence of dominant simpler correlations with the target variable in a training set can cause an SGD-traind neural network to be less reliant on more persistently correlating complex features."
