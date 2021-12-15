@@ -1,4 +1,4 @@
-## Compositionality and Machine Learning
+## Compositionality from/for Machine Learning
 
 ### Measuring compositionality
 
