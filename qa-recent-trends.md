@@ -73,13 +73,14 @@ Some directions and topics:
   - "crucially, ColBERT's pruning-friendly interaction mechanism enables leveraging vector-similarity indexes for end-to-end retrieval directly from millions of documents."
 - :white_heart: [Condenser: a Pre-training Architecture for Dense Retrieval](https://aclanthology.org/2021.emnlp-main.75.pdf), `emnlp2021`.
   - the issue with using representation of [CLS] token to represent dense vector, due to the illed attention pattern of BERT, so this paper takes some architectural change to the Transformer to make [CLS] representation more powerful 
-- [Learning to Retrieve Passages without Supervision](http://www.cs.tau.ac.il/~oriram/spider.pdf), `spider` Dec. 16 2021 [tweet](https://twitter.com/ori__ram/status/1471111673398366208), [code](https://github.com/oriram/spider)
+- :green_heart: [Learning to Retrieve Passages without Supervision](http://www.cs.tau.ac.il/~oriram/spider.pdf), `spider` Dec. 16 2021 [tweet](https://twitter.com/ori__ram/status/1471111673398366208), [code](https://github.com/oriram/spider)
   - how to learn self-supervised dense retriever? => ***recurrent span retrieval*** - using recurring spans across passages in a document to create pseudo examples for contrastive learning
   - comparative with DPR (supervised dense retrieval model), see the following figure
   - ![image](https://user-images.githubusercontent.com/7335618/146286112-9b54b854-8d4e-4dc4-951a-a50330f6903f.png)
   - The idea of the method for creating self-supervsion signals are shown in the following figure
   - ![image](https://user-images.githubusercontent.com/7335618/146286438-46374c52-612c-4cd0-87af-3207974717b8.png)
   - specific procedure of creating positive examples: query transformation, splan filtering (a group of heuristics), training (contrastive learning loss), hybrid dense-sparse retrieval
+  - The **analysis** compare different choice of query transformation, they find that query transformations that resemble more the natural query and adopt kee/remove (span) strategy works the best
 
 
 
