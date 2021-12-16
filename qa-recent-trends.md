@@ -81,7 +81,9 @@ Some directions and topics:
   - ![image](https://user-images.githubusercontent.com/7335618/146286438-46374c52-612c-4cd0-87af-3207974717b8.png)
   - specific procedure of creating positive examples: query transformation, splan filtering (a group of heuristics), training (contrastive learning loss), hybrid dense-sparse retrieval
   - The **analysis** compare different choice of query transformation, they find that query transformations that resemble more the natural query and adopt kee/remove (span) strategy works the best
-
+  - **My Two Cents**
+    - how many pseudo examples do they need to achieve the comparable performance of DPR? `implementation`! batch size of 512 with 512 hard negatives
+    - the above question can be transformed to: how many (q, p+, p-) pairs are created during preprocessing?
 
 
 #### Information retrieval
