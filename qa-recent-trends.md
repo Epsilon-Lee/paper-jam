@@ -36,7 +36,8 @@ Some directions and topics:
 - :white_heart: [Dense Hierarchical Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2110.15439.pdf), Oct. 28 2021.
   - information intactness of passage formulation of DPR
 - :white_heart: [Joint Passage Ranking for Diverse Multi-Answer Retrieval](https://arxiv.org/pdf/2104.08445.pdf), Sep. 21 2021.
-
+- [Evidentiality-guided Generation for Knowledge-Intensive NLP Tasks](https://akariasai.github.io/files/evidentiality_arxiv_2021.pdf), Dec. 16 2021. UW.
+- [You Only Need One Model for Open-domain Question Answering](https://arxiv.org/pdf/2112.07381.pdf), Dec. 14 2021. Stanford.
 
 #### Phrase-based retrieval model
 
