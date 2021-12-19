@@ -1,6 +1,7 @@
 ### Survey
 
 - [Which BERT? A Survey Organizing Contextualized Encoders](https://arxiv.org/pdf/2010.00854.pdf), Oct. 2 2020. `emnlp2020`
+- [Ethical and social risks of harm from Language Models](https://arxiv.org/pdf/2112.04359.pdf), Dec. 8 2021 `deepmind`
 
 ### Hyper-parameter/Training revisited
 
