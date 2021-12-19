@@ -81,3 +81,9 @@
 ### Understanding and Interpretation
 
 - [Scaling Up Influence Functions](https://arxiv.org/pdf/2112.03052.pdf), Dec. 6 2021. `aaai2022`
+
+
+### Decoding
+
+- [Amortized Noisy Channel Neural Machine Translation](https://arxiv.org/pdf/2112.08670.pdf), Dec. 16 2021.
+- [Massive-scale Decoding for Text Generation using Lattices](https://arxiv.org/pdf/2112.07660.pdf), Dec. 14 2021.
