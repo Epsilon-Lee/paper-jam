@@ -1,2 +1,2 @@
 
-- [Provable Continual Learning via Sketched Jacobian Approximations)(https://arxiv.org/pdf/2112.05095.pdf), Dec. 9 2021.
+- [Provable Continual Learning via Sketched Jacobian Approximations](https://arxiv.org/pdf/2112.05095.pdf), Dec. 9 2021.
