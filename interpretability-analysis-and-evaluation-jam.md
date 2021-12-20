@@ -30,6 +30,7 @@
 - [Improving Deep Learning Interpretability by Saliency Guided Training](https://arxiv.org/pdf/2111.14338.pdf), Nov. 29 2021 `nips2021`.
 - [Scaling Up Influence Functions](https://arxiv.org/pdf/2112.03052.pdf), Dec. 6 2021. Google Research `aaai2022`.
 - [Do Input Gradients Highlight Discriminative Features?](https://arxiv.org/pdf/2102.12781.pdf), Oct. 26 2021. `nips2021`
+- [Interpretable Image Classification with Differentiable Prototypes Assignment](https://arxiv.org/pdf/2112.02902.pdf), Dec. 6 2021
 
 #### Leveraging interpretation
 
