@@ -50,6 +50,7 @@
 - [Understanding How Encoder-Decoder Architectures Attend](https://arxiv.org/pdf/2110.15253.pdf), Oct. 28 2021. `dynamics of attention`
 - [The Low-Dimensional Linear Geometry of Contextualized Word Representations](https://arxiv.org/pdf/2105.07109.pdf), Sep. 14 2021.
 - [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/pdf/2111.09259.pdf), Nov. 27 2021.
+- [Learning Bounded Context-Free-Grammar via LSTM and the Transformer: Difference and Explanations](https://arxiv.org/pdf/2112.09174.pdf), Dec. 16 2021. `aaai2022`
 
 ### Probing methodology
 
@@ -64,6 +65,7 @@
 - [The Curse of Performance Instability in Analysis Datasets: Consequences, Source, and Suggestions](https://aclanthology.org/2020.emnlp-main.659.pdf), `emnlp2020`
 - [Better than Average: Paired Evaluation of NLP Systems](https://arxiv.org/pdf/2110.10746.pdf), Oct. 20 2021.
 - [“Will You Find These Shortcuts?” A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification](https://arxiv.org/pdf/2111.07367.pdf), Nov. 14 2021, Google, `emnlp2021`
+- [Explain, Edit, and Understand: Rethinking User Study Design for Evaluating Model Explanations](https://arxiv.org/pdf/2112.09669.pdf), Dec. 17 2021 `aaai2022`
 
 ### Transparent model
 
