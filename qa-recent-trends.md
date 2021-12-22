@@ -105,6 +105,7 @@ Some directions and topics:
 - [Design Challenges for a Multi-Perspective Search Engine](https://arxiv.org/pdf/2112.08357.pdf), Dec. 15 2021.
 - [Sublinear Time Approximation of Text Similarity Matrices](https://arxiv.org/pdf/2112.09631.pdf), Dec. 17 2021.
   - How to efficiently compute `n * n` similarity matrices over large `n` documents?
+- [On Cross-Lingual Retrieval with Multilingual Text Encoders](https://arxiv.org/pdf/2112.11031.pdf), Dec. 21 2021.
 
 #### ACL ARR 2021
 
