@@ -43,6 +43,8 @@ Some directions and topics:
     - this pre-training method is able create input-passage-output triples, where the input is the query, i.e. a sentence with a named entity being masked, the passage is the positive evidence passage that contains the masked named entity and other common named entities, the output is the answer, i.e. the masked named entity.
 - [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://aclanthology.org/2021.eacl-main.74.pdf), `eacl21`
 - [Distilling Knowledge from Reader to Retreiver for Question Answering](https://openreview.net/pdf?id=NTEz-6wysdb), `iclr2021`
+- [Sparsifying Sparse Representations for Passage Retrieval by Top-k Masking](https://arxiv.org/pdf/2112.09628.pdf), Dec. 17 2021.
+
 
 #### Phrase-based retrieval model
 
@@ -100,7 +102,7 @@ Some directions and topics:
 - [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663), Oct. 21 2021. `nips2021`
 - :green_heart: [Boosted Dense Retriever](https://arxiv.org/pdf/2112.07771.pdf), Dec. 14 2021.
   - ![image](https://user-images.githubusercontent.com/7335618/147015967-d78c96c0-ef09-43f1-bddf-dade83d06242.png)
-
+- [Design Challenges for a Multi-Perspective Search Engine](https://arxiv.org/pdf/2112.08357.pdf), Dec. 15 2021.
 
 #### ACL ARR 2021
 
