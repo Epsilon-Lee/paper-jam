@@ -37,8 +37,11 @@ Some directions and topics:
   - information intactness of passage formulation of DPR
 - :white_heart: [Joint Passage Ranking for Diverse Multi-Answer Retrieval](https://arxiv.org/pdf/2104.08445.pdf), Sep. 21 2021.
 - [Evidentiality-guided Generation for Knowledge-Intensive NLP Tasks](https://akariasai.github.io/files/evidentiality_arxiv_2021.pdf), Dec. 16 2021. UW.
-- [You Only Need One Model for Open-domain Question Answering](https://arxiv.org/pdf/2112.07381.pdf), Dec. 14 2021. Stanford.
-
+- :green_heart: [You Only Need One Model for Open-domain Question Answering](https://arxiv.org/pdf/2112.07381.pdf), Dec. 14 2021. Stanford.
+  - ![image](https://user-images.githubusercontent.com/7335618/147050611-a64f79a9-e50e-4718-85cc-198a3e58b1a0.png)
+    - it is interesting to see that eMSS pretraining can boot retrieval or reranking task about 7-12%
+    - this pre-training method is able create input-passage-output triples, where the input is the query, i.e. a sentence with a named entity being masked, the passage is the positive evidence passage that contains the masked named entity and other common named entities, the output is the answer, i.e. the masked named entity.
+  
 #### Phrase-based retrieval model
 
 - [Phrase-Indexed Question Answering: A New Challenge for Scalable Document Comprehension](https://aclanthology.org/D18-1052.pdf), `emnlp2018`
