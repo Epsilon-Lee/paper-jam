@@ -93,7 +93,7 @@ Some directions and topics:
   - **My Two Cents**
     - how many pseudo examples do they need to achieve the comparable performance of DPR? `implementation`! batch size of 512 with 512 hard negatives
     - the above question can be transformed to: how many (q, p+, p-) pairs are created during preprocessing?
-
+- [Towards Unsupervised Dense Information Retrieval with Contrastive Learning](https://arxiv.org/pdf/2112.09118.pdf), Dec. 16 2021.
 
 #### Information retrieval
 
