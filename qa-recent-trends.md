@@ -41,7 +41,9 @@ Some directions and topics:
   - ![image](https://user-images.githubusercontent.com/7335618/147050611-a64f79a9-e50e-4718-85cc-198a3e58b1a0.png)
     - it is interesting to see that eMSS pretraining can boot retrieval or reranking task about 7-12%
     - this pre-training method is able create input-passage-output triples, where the input is the query, i.e. a sentence with a named entity being masked, the passage is the positive evidence passage that contains the masked named entity and other common named entities, the output is the answer, i.e. the masked named entity.
-  
+- [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://aclanthology.org/2021.eacl-main.74.pdf), `eacl21`
+- [Distilling Knowledge from Reader to Retreiver for Question Answering](https://openreview.net/pdf?id=NTEz-6wysdb), `iclr2021`
+
 #### Phrase-based retrieval model
 
 - [Phrase-Indexed Question Answering: A New Challenge for Scalable Document Comprehension](https://aclanthology.org/D18-1052.pdf), `emnlp2018`
