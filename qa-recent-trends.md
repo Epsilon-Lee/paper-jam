@@ -93,6 +93,9 @@ Some directions and topics:
 - [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/abs/2004.12832), Apr. 27 2020. `sigir2020`
 - [ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction](https://arxiv.org/pdf/2112.01488.pdf), Dec. 2 2021.
 - [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663), Oct. 21 2021. `nips2021`
+- :green_heart: [Boosted Dense Retriever](https://arxiv.org/pdf/2112.07771.pdf), Dec. 14 2021.
+  - ![image](https://user-images.githubusercontent.com/7335618/147015967-d78c96c0-ef09-43f1-bddf-dade83d06242.png)
+
 
 #### ACL ARR 2021
 
