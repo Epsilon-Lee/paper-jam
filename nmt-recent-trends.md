@@ -83,7 +83,9 @@
 - [Scaling Up Influence Functions](https://arxiv.org/pdf/2112.03052.pdf), Dec. 6 2021. `aaai2022`
 
 
-### Decoding
+### Inference, decoding
 
 - [Amortized Noisy Channel Neural Machine Translation](https://arxiv.org/pdf/2112.08670.pdf), Dec. 16 2021.
 - [Massive-scale Decoding for Text Generation using Lattices](https://arxiv.org/pdf/2112.07660.pdf), Dec. 14 2021.
+- [Learning and Analyzing Generation Order for Undirected Sequence Models](https://arxiv.org/pdf/2112.09097.pdf), Dec. 16 2021.
+- [Characterizing and addressing the issue of oversmoothing in neural autoregressive sequence modeling](https://arxiv.org/pdf/2112.08914.pdf), Dec. 16 2021.
