@@ -103,6 +103,8 @@ Some directions and topics:
 - :green_heart: [Boosted Dense Retriever](https://arxiv.org/pdf/2112.07771.pdf), Dec. 14 2021.
   - ![image](https://user-images.githubusercontent.com/7335618/147015967-d78c96c0-ef09-43f1-bddf-dade83d06242.png)
 - [Design Challenges for a Multi-Perspective Search Engine](https://arxiv.org/pdf/2112.08357.pdf), Dec. 15 2021.
+- [Sublinear Time Approximation of Text Similarity Matrices](https://arxiv.org/pdf/2112.09631.pdf), Dec. 17 2021.
+  - How to efficiently compute `n * n` similarity matrices over large `n` documents?
 
 #### ACL ARR 2021
 
@@ -155,7 +157,6 @@ Some directions and topics:
 ### Machine Reading Comprehension
 
 - [A Survey on Explainability in Machine Reading Comprehension](https://arxiv.org/pdf/2010.00389.pdf), Oct. 1 2020.
-
 - [Numerical reasoning in machine reading comprehension tasks: are we there yet?](https://arxiv.org/abs/2109.08207), `emnlp2021`
 - [Improving Unsupervised Question Answering via Summarization-Informed Question Generation](https://arxiv.org/pdf/2109.07954.pdf), `emnlp2021` `qg`
 - [Using Knowledge Distillation and Active Learning](https://arxiv.org/pdf/2109.12662.pdf), `arXiv 2021 Sep`
@@ -190,6 +191,8 @@ Some directions and topics:
 
 - [The Effect of Natural Distribution Shift on Question Answering Models](http://proceedings.mlr.press/v119/miller20a/miller20a.pdf), `icml2020`
 - [Evaluation Paradigms in Question Answering](https://research.fb.com/wp-content/uploads/2021/09/Evaluation-Paradigms-in-Question-Answering.pdf), Sep. 2021. Facebook.
+- [Ditch the Gold Standard: Re-evaluating Conversational Question Answering](https://arxiv.org/pdf/2112.08812.pdf), Dec. 16 2021.
+
 
 ### QA and social bias
 
@@ -198,3 +201,4 @@ Some directions and topics:
 ### Dataset
 
 - [QA Dataset Explosion: A Taxonomy of NLP Resources for Question Answering and Reading Comprehension](https://arxiv.org/pdf/2107.12708.pdf), Jul. 27 2021.
+- [Models in the Loop: Aiding Crowdworkers with Generative Annotation Assistants](https://arxiv.org/pdf/2112.09062.pdf), Dec. 16 2021. `crowdsourcing`
