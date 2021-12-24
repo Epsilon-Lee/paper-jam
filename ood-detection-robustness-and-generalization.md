@@ -34,6 +34,7 @@
 #### Survey
 
 - [Generalized Out-of-Distribution Detection: A Survey](https://arxiv.org/pdf/2110.11334.pdf), Oct. 21 2021.
+- [A Unifying Review of Deep and Shallow Anomaly Detection](https://arxiv.org/abs/2009.11732), Sep. 24 2020.
 
 #### Methods
 
