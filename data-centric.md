@@ -24,3 +24,11 @@
 ### Analysis on relationship between data examples and generalization
 
 - [A Few More Examples May Be Worth Billions of Parameters](https://arxiv.org/pdf/2110.04374.pdf), Oct. 2021.
+
+
+## Data Curation for Training Foundation Model
+
+### Deduplication
+
+- [Deduplicating Training Data Makes Language Models Better](https://arxiv.org/abs/2107.06499), Jul. 14 2021.
+- [LSH methods for data deduplication in a Wikipedia artificial dataset](https://arxiv.org/pdf/2112.11478.pdf), Dec. 10 2021. `local sensitive hash`
