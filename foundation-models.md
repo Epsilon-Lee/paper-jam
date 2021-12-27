@@ -18,3 +18,4 @@
 ### Language-specific PTM
 
 - [GottBERT: a pure German Language Model](https://arxiv.org/abs/2012.02110), Dec. 3 2020.
+- [ERNIE 3.0 TITAN: EXPLORING LARGER-SCALE KNOWLEDGE ENHANCED PRE-TRAINING FOR LANGUAGE UNDERSTANDING AND GENERATION](https://arxiv.org/pdf/2112.12731.pdf), Dec. 23 2021 `chinese`
