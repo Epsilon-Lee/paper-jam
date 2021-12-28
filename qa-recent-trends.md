@@ -44,7 +44,9 @@ Some directions and topics:
 - [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://aclanthology.org/2021.eacl-main.74.pdf), `eacl21`
 - [Distilling Knowledge from Reader to Retreiver for Question Answering](https://openreview.net/pdf?id=NTEz-6wysdb), `iclr2021`
 - [Sparsifying Sparse Representations for Passage Retrieval by Top-k Masking](https://arxiv.org/pdf/2112.09628.pdf), Dec. 17 2021.
-
+- [The Web Is Your Oyster - Knowledge-Intensive NLP against a Very Large Web Corpus](https://arxiv.org/pdf/2112.09924.pdf), Dec. 18 2021.
+  - a new natural language based corpus as knowledge base for knowledge-intensive tasks like question answering
+  - distributed FAISS
 
 #### Phrase-based retrieval model
 
@@ -165,6 +167,10 @@ Some directions and topics:
 - [A Dataset for Answering Time-Sensitive Questions](https://arxiv.org/pdf/2108.06314.pdf), `nips2021`.
 - [Improving Question Answering Model Robustness with Synthetic Adversarial Data Generation](https://arxiv.org/pdf/2104.08678.pdf), Sep. 16 2021, `emnlp2021` `adversarial` `robustness`
 - [Do We Know What We Don’t Know? Studying Unanswerable Questions beyond SQuAD 2.0](https://aclanthology.org/2021.findings-emnlp.385/), `emnlp2021`
+- :white_heart: [Utilizing Evidence Spans via Sequence-Level Contrastive Learning for Long-Context Question Answering](https://arxiv.org/pdf/2112.08777.pdf), Dec. 16 2021.
+  - a class of questions that require reasoning over long document and gathering several evidence spans
+  - contrastive loss to discriminate evidence/question v.s. non-evidence/question
+  - dataset: QAsper and HotpotQA
 
 #### Old goodies
 
