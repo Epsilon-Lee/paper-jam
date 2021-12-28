@@ -19,6 +19,7 @@
 - [MA-DST: Multi-Attention-Based Scalable Dialog State Tracking](https://arxiv.org/abs/2002.08898), `aaai20` `amazon alexa`
 - [Dialogue State Tracking with a Language Model using Schema-Driven Prompting](https://aclanthology.org/2021.emnlp-main.404.pdf), `emnlp21`
 - [Template Guided Text Generation for Task-Oriented Dialogue](https://arxiv.org/pdf/2004.15006.pdf), Nov. 13 2020 `data augmentation` `google`
+- [Dialogue State Tracking with Incremental Reasoning](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00384/101875/Dialogue-State-Tracking-with-Incremental-Reasoning), Mar. 27 2021 `tacl`
 
 ### Evaluation
 
