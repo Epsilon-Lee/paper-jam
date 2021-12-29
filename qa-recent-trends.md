@@ -11,7 +11,7 @@ Some directions and topics:
 
 ---
 
-- :red_heart: [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906), Apr. 10 2020 `acl2020`
+- :heart: [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906), Apr. 10 2020 `acl2020`
 - :white_heart: [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/pdf/1906.00300.pdf), `emnlp2019` `inverse close task` `pretraining`
 - [Don’t Read Too Much Into It: Adaptive Computation for Open-Domain Question Answering](https://arxiv.org/pdf/2011.05435.pdf), Nov. 10 2021.
 - [Simple Entity-Centric Questions Challenge Dense Retrievers](https://arxiv.org/pdf/2109.08535.pdf), Danqi Chen et al. `emnlp2021`
