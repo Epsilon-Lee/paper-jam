@@ -24,6 +24,7 @@
 - [Multilingual Neural Machine Translation: Can Linguistic Hierarchies Help?](https://arxiv.org/pdf/2110.07816.pdf), Oct. 15, proposed a new training paradigm taking into account the language hierarchy, handling `negative transfer`
 - [Multilingual Domain Adaptation for NMT: Decoupling Language and Domain Information with Adapters](https://arxiv.org/abs/2110.09574), Oct. 18 2021. `wmt2021`
 - [Continual Learning in Multilingual NMT via Language-Specific Embeddings](https://arxiv.org/abs/2110.10478), Oct. 20 2021. `wmt2021` 
+- [Parameter Differentiation based Multilingual Neural Machine Translation](https://arxiv.org/pdf/2112.13619.pdf), Dec. 27 2021.
 
 ### Multilinguality
 
@@ -41,6 +42,7 @@
 
 - [The Low-Resource Double Bind: An Empirical Study of Pruning for Low-Resource Machine Translation](https://arxiv.org/pdf/2110.03036.pdf), `pruning` `emnlp2021`
 - [Phrase-level Active Learning for Neural Machine Translation](https://arxiv.org/abs/2106.11375#), Jun. 21 2021.
+- [A Preordered RNN Layer Boosts Neural Machine Translation in Low Resource Settings](https://arxiv.org/pdf/2112.13960.pdf), Dec. 28 2021.
 
 ### Scaling Up
 
