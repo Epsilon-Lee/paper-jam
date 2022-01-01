@@ -14,6 +14,7 @@
 - [ExT5: Towards Extreme Multi-Task Scaling for Transfer Learning](https://openreview.net/forum?id=Vzh1BFUCiIX), `iclr22 submit`
 - [Quantifying Adaptability in Pre-trained Language Models with 500 Tasks](https://arxiv.org/pdf/2112.03204.pdf), Dec. 6 2021. Jacob Andreas et al.
   - I read this paper [Analysis and Prediction of NLP models via Task Embeddings](https://arxiv.org/pdf/2112.05647.pdf) and I guess there might be some connection that links the task *geography* represented and revealed by task embedding to task composition studied in the `quantifying` paper
+- [Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with Language Models](https://neurips2021-nlp.github.io/papers/24/CameraReady/NullPrompts___ENLSP_Workshop_Version.pdf), `nips2021`
 
 ### Language-specific PTM
 
