@@ -50,6 +50,7 @@ Some directions and topics:
   - a new natural language based corpus as knowledge base for knowledge-intensive tasks like question answering
   - distributed FAISS
 - [A Survey on non-English Question Answering Dataset](https://arxiv.org/ftp/arxiv/papers/2112/2112.13634.pdf), Dec. 2021. `multilinguality`
+- [End-to-End Training of Multi-Document Reader and Retriever for Open-Domain Question Answering](https://arxiv.org/pdf/2106.05346.pdf), Dec. 4 2021 `nips2021`
 
 #### Phrase-based retrieval model
 
