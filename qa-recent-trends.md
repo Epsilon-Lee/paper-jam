@@ -8,7 +8,7 @@ Some directions and topics:
 - **Improved (unsupervised/pre or supervised-) training of DPR**: negative example selection, semi-supervised, weakly-supervised training
 - **Novel information retrieval methods**
 - **odqa over structured data**: KG-based data, Table-based data etc.
-
+- **Multilingual QA model**
 ---
 
 - :heart: [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906), Apr. 10 2020 `emnlp2020`
@@ -49,6 +49,7 @@ Some directions and topics:
 - [The Web Is Your Oyster - Knowledge-Intensive NLP against a Very Large Web Corpus](https://arxiv.org/pdf/2112.09924.pdf), Dec. 18 2021.
   - a new natural language based corpus as knowledge base for knowledge-intensive tasks like question answering
   - distributed FAISS
+- [A Survey on non-English Question Answering Dataset](https://arxiv.org/ftp/arxiv/papers/2112/2112.13634.pdf), Dec. 2021. `multilinguality`
 
 #### Phrase-based retrieval model
 
