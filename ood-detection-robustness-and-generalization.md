@@ -61,6 +61,7 @@
 ### Survey
 
 - [Measure and Improve Robustness in NLP Models: A Survey](https://arxiv.org/abs/2112.08313), Dec. 15 2021.
+- [Robust Natural Language Processing: Recent Advances, Challenges, and Future Directions](https://arxiv.org/pdf/2201.00768.pdf), Jan. 3 2021.
 
 ### Robustness and Adversarial Examples/Training
 
