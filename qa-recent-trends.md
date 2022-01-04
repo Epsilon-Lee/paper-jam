@@ -11,6 +11,7 @@ Some directions and topics:
 - **Multilingual QA model**
 ---
 
+- [Knowledge Guided Text Retrieval and Reading for Open Domain Question Answering](https://arxiv.org/pdf/1911.03868.pdf), Apr. 13 2020. [code](https://github.com/shmsw25/GraphRetriever)
 - :heart: [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906), Apr. 10 2020 `emnlp2020`
 - :white_heart: [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/pdf/1906.00300.pdf), `emnlp2019` `inverse close task` `pretraining`
 - :white_heart: [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://arxiv.org/pdf/2007.01282.pdf), Feb. 2021
