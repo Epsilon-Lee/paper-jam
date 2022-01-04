@@ -1,5 +1,5 @@
 
-## OOD-related Research
+## Out-of-Distribution (OOD) Learning and Generalization
 
 ### OOD generalization theory and methods
 
