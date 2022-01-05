@@ -22,10 +22,35 @@
 
 ### Method
 
+- [Dialogue State Tracking with Explicit Slot Connection Modeling](https://aclanthology.org/2020.acl-main.5/), `acl2020`
+- [Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking](https://aclanthology.org/2020.acl-main.12/), `acl2020`
+- [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://aclanthology.org/2020.acl-main.53/), `acl2020`
+- [SAS: Dialogue State Tracking via Slot Attention and Slot Information Sharing](https://aclanthology.org/2020.acl-main.567/), `acl2020`
+- [From Machine Reading Comprehension to Dialogue State Tracking: Bridging the Gap](https://aclanthology.org/2020.nlp4convai-1.10/), `acl2020`
+- [Slot Attention with Value Normalization for Multi-Domain Dialogue State Tracking](https://aclanthology.org/2020.emnlp-main.243/), `acl2020`
 - [MA-DST: Multi-Attention-Based Scalable Dialog State Tracking](https://arxiv.org/abs/2002.08898), `aaai20` `amazon alexa`
+- [Few Shot Dialogue State Tracking using Meta-learning](https://aclanthology.org/2021.eacl-main.148/), `eacl2021`
+- [Fast and Scalable Dialogue State Tracking with Explicit Modular Decomposition](https://aclanthology.org/events/naacl-2021/), `naacl2021`
+- [Slot Attention with Value Normalization for Multi-Domain Dialogue State Tracking](https://aclanthology.org/2020.emnlp-main.243.pdf), `emnlp2020`
+- [Efficient Context and Schema Fusion Networks for Multi-Domain Dialogue State Tracking](https://aclanthology.org/2020.findings-emnlp.68.pdf), `emnlp2020`
+- [Dual Slot Selector via Local Reliability Verification for Dialogue State Tracking](https://aclanthology.org/2021.acl-long.12/), `acl2021`
+- [A Sequence-to-Sequence Approach to Dialogue State Tracking](https://aclanthology.org/2021.acl-long.135/), `acl2021`
+- [Comprehensive Study: How the Context Information of Different Granularity Affects Dialogue State Tracking?](https://aclanthology.org/2021.acl-long.193/), `acl2021`
+- [Preview, Attend and Review: Schema-Aware Curriculum Learning for Multi-Domain Dialogue State Tracking](https://aclanthology.org/2021.acl-short.111/), `acl2021`
+- [Cross-lingual Intermediate Fine-tuning improves Dialogue State Tracking](https://aclanthology.org/2021.emnlp-main.87/), `emnlp2021`
+- [Generation and Extraction Combined Dialogue State Tracking with Hierarchical Ontology Integration](https://aclanthology.org/2021.emnlp-main.171/), `emnlp2021`
+- [Domain-Lifelong Learning for Dialogue State Tracking via Knowledge Preservation Networks](https://aclanthology.org/2021.emnlp-main.176/), `emnlp2021`
+- [Effective Sequence-to-Sequence Dialogue State Tracking](https://aclanthology.org/2021.emnlp-main.593/), `emnlp2021`
+- [Knowledge-Aware Graph-Enhanced GPT-2 for Dialogue State Tracking](https://aclanthology.org/2021.emnlp-main.620/), `emnlp2021`
+- [Zero-Shot Dialogue State Tracking via Cross-Task Transfer](https://aclanthology.org/2021.emnlp-main.622/), `emnlp2021`
+- [Counterfactual Matters: Intrinsic Probing For Dialogue State Tracking](https://aclanthology.org/2021.eancs-1.1/), `emnlp2021`
+- [Improving Dialogue State Tracking with Turn-based Loss Function and Sequential Data Augmentation](https://aclanthology.org/2021.findings-emnlp.144/), `emnlp2021`
+- [Amendable Generation for Dialogue State Tracking](https://aclanthology.org/2021.nlp4convai-1.8/), `emnlp2021`
+- [Improving Dialogue State Tracking by Joint Slot Modeling](https://aclanthology.org/2021.nlp4convai-1.15/), `emnlp2021`
 - [Dialogue State Tracking with a Language Model using Schema-Driven Prompting](https://aclanthology.org/2021.emnlp-main.404.pdf), `emnlp21`
 - [Template Guided Text Generation for Task-Oriented Dialogue](https://arxiv.org/pdf/2004.15006.pdf), Nov. 13 2020 `data augmentation` `google`
 - [Dialogue State Tracking with Incremental Reasoning](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00384/101875/Dialogue-State-Tracking-with-Incremental-Reasoning), Mar. 27 2021 `tacl`
+
 
 ### Evaluation
 
