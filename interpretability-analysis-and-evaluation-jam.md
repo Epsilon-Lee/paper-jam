@@ -33,6 +33,7 @@
 - [Interpretable Image Classification with Differentiable Prototypes Assignment](https://arxiv.org/pdf/2112.02902.pdf), Dec. 6 2021
 - [More Than Words: Towards Better Quality Interpretations of Text Classifiers](https://arxiv.org/pdf/2112.12444.pdf), Dec. 23 2021
 - [High Fidelity Visualization of What Your Self-supervised Representation Knows About](https://arxiv.org/pdf/2112.09164.pdf), Dec. 16 2021
+- [DeDUCE: Generating Counterfactual Explanations Efficiently](https://arxiv.org/pdf/2111.15639.pdf), Nov. 29 2021
 
 #### Leveraging interpretation
 
