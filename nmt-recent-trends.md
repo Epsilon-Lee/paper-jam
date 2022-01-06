@@ -75,6 +75,7 @@
 - [Variance-Aware Machine Translation Test Sets](https://arxiv.org/pdf/2111.04079.pdf), Nov. 7 2021. `nips2021`
 - [HOPE: A Task-Oriented and Human-Centric Evaluation Framework Using Professional Post-Editing Towards More Effective MT Evaluation](https://arxiv.org/pdf/2112.13833.pdf), Dec. 27 2021.
 - [Data Troubles in Sentence Level Confidence Estimation for Machine Translation](https://arxiv.org/pdf/2010.13856.pdf), Oct. 26 2020. Google.
+- [How do lexical semantics affect translation? An empirical study](https://arxiv.org/pdf/2201.00075.pdf), Dec. 31 2021. Amazon Alexa AI.
 
 ### Discourse
 
