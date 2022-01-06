@@ -74,6 +74,7 @@
 - [On the Limits of Minimal Pairs in Contrastive Evaluation](https://aclanthology.org/2021.blackboxnlp-1.5.pdf), `blackboxnlp 2021`
 - [Variance-Aware Machine Translation Test Sets](https://arxiv.org/pdf/2111.04079.pdf), Nov. 7 2021. `nips2021`
 - [HOPE: A Task-Oriented and Human-Centric Evaluation Framework Using Professional Post-Editing Towards More Effective MT Evaluation](https://arxiv.org/pdf/2112.13833.pdf), Dec. 27 2021.
+- [Data Troubles in Sentence Level Confidence Estimation for Machine Translation](https://arxiv.org/pdf/2010.13856.pdf), Oct. 26 2020. Google.
 
 ### Discourse
 
