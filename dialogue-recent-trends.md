@@ -6,6 +6,12 @@
 - [A Survey on Dialogue Systems: Recent Advances and New Frontiers](https://www.kdd.org/exploration_files/19-2-Article3.pdf), `kdd19`
 - [Recent Advances and Challenges in Task-oriented Dialog Systems](https://arxiv.org/pdf/2003.07490.pdf), Jun. 23 2020.
 
+## Open-Domain Dialogue Bot
+
+- [Recipes for building an open-domain chatbot](https://arxiv.org/pdf/2004.13637.pdf), Apr. 30 2020.
+- [Recipes for Safety in Open-domain Chatbots](https://arxiv.org/pdf/2010.07079.pdf), Aug. 4 2021.
+
+
 ## Dialogue State Tracking
 
 ### Survey
