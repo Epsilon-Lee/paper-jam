@@ -163,6 +163,10 @@ Some directions and topics:
 - [Metadata Shaping: Natural Language Annotations for the Tail](https://arxiv.org/pdf/2110.08430.pdf), Oct. 16 2021. `handling long-tail` `knowledge injection`
 - [SQALER: Scaling Question Answering by Decoupling Multi-Hop and Logical Reasoning](https://proceedings.neurips.cc/paper/2021/file/68bd22864919297c8c8a8c32378e89b4-Paper.pdf), `nips2021`.
 
+#### Semantic Parsing
+
+- [Compositional Generalization for Natural Language Interfaces to Web APIs](https://arxiv.org/pdf/2112.05209.pdf), Dec. 9 2021. Microsoft Research. `personal assistant` on PC
+
 ### Machine Reading Comprehension
 
 - [A Survey on Explainability in Machine Reading Comprehension](https://arxiv.org/pdf/2010.00389.pdf), Oct. 1 2020.
