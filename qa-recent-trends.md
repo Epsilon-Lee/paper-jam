@@ -189,6 +189,7 @@ Some directions and topics:
 - [Conversational Multi-Hop Reasoning with Neural Commonsense Knowledge and Symbolic Logic Rules](https://arxiv.org/pdf/2109.08544.pdf), `emnlp2021`
 - [How Much Coffee Was Consumed During EMNLP 2019? Fermi Problems: A New Reasoning Challenge for AI](https://arxiv.org/pdf/2110.14207.pdf), Oct. 27, `emnlp2021`. [data](https://allenai.org/data/fermi)
 - [Symbolic Knowledge Distillation: from General Language Models to Commonsense Models](https://arxiv.org/pdf/2110.07178.pdf), Oct. 14 2021.
+- [Zero-shot Commonsense Question Answering with Cloze Translation and Consistency Optimization](https://arxiv.org/pdf/2201.00136.pdf), Jan. 1 2022.
 
 ### Visual Question Answering
 
