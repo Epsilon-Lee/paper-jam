@@ -10,6 +10,7 @@
 
 - [mixSeq: A Simple Data Augmentation Method for Neural Machine Translation](https://aclanthology.org/2021.iwslt-1.23.pdf), IWSLT 2021.
 - [BITEXTEDIT: Automatic Bitext Editing for Improved Low-Resource Machine Translation](https://arxiv.org/pdf/2111.06787.pdf), Nov. 12 2021.
+- [Phrase-level Adversarial Example Generation for Neural Machine Translation](https://arxiv.org/pdf/2201.02009.pdf), Jan. 6 2021.
 
 ### Char NMT
 
