@@ -81,6 +81,7 @@
 
 - [When Does Translation Require Context? A Data-driven, Multilingual Exploration](https://arxiv.org/pdf/2109.07446.pdf).
 - [DOCmT5: Document-Level Pretraining of Multilingual Language Models](https://arxiv.org/abs/2112.08709), Dec. 16 2021.
+- [SMDT: Selective Memory-Augmented Neural Document Translation](https://arxiv.org/pdf/2201.01631.pdf), Jan. 5 2022.
 
 ### New Paradigm
 
