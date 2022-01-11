@@ -53,6 +53,14 @@ Some directions and topics:
   - distributed FAISS
 - [A Survey on non-English Question Answering Dataset](https://arxiv.org/ftp/arxiv/papers/2112/2112.13634.pdf), Dec. 2021. `multilinguality`
 - [End-to-End Training of Multi-Document Reader and Retriever for Open-Domain Question Answering](https://arxiv.org/pdf/2106.05346.pdf), Dec. 4 2021 `nips2021`
+- [SITUATEDQA: Incorporating Extra-Linguistic Contexts into QA](https://arxiv.org/pdf/2109.06157.pdf), Michael J.Q. Zhang et al. `emnlp2021` `qa` `analysis`
+  - They propose a qa setting named SituatedQA, where (temporal, geographical) contexts influece the answer.
+  - Focusing on **information seeking questions**
+  - They identify situated qa pairs in existing qa datasets (16% of NQ-Open dataset)
+  - How to create context? crowdsourcing for (context, answer) w.r.t. such questions
+  - Quantify how traditional models **fail** on situated questions
+  - `My two cents` This paper demonstrates a way of doing research, that is to find out or create in/from test sets new instances which cannot be handled well by current model
+
 
 #### Phrase-based retrieval model
 
