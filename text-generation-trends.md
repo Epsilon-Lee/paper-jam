@@ -1,6 +1,10 @@
 
+### Method
 
 - [Ensembles and Cocktails: Robust Finetuning for Natural Language Generation](https://openreview.net/pdf?id=qXucB21w1C3), `nips2021`
+- [A Plug-and-Play Method for Controlled Text Generation](https://arxiv.org/pdf/2109.09707.pdf), `emnlp2021` `text generation` `plug-and-play`
+  - given a topic or keyword, a `shift distribution` is added to the language model's step-wise distribution
+  - there are many details ignored here, and should be reading into the paper itself
 
 ### Sampling and Searching
 
