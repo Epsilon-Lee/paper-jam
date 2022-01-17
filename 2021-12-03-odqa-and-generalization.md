@@ -30,7 +30,7 @@ In analogy of a human student who works hard for perform excellent in exams, she
 1. *practice with a huge amount of questions and memorize how to work out their answers, so that in examinations*, she can find that most of the questions in the exam are previously encountered;
 2. *practice with systematic categories of questions and learn about how to solve certain category inductively*, so that in examinations, when encountered with question that belongs to certain previously studied category, she could solve it as well.
 
-### How about use the PAQ qa pairs to finetune state-of-the-art retrieve-and-read models?
+### How about using the PAQ qa pairs to finetune state-of-the-art retrieve-and-read models?
 
 It is natural to use the 65M qa pairs for finetuning **both retriever and reader** of certain retrieve-and-read model.
 In the original [DPR](https://arxiv.org/pdf/2004.04906.pdf) paper, the qa pairs used to finetune the retriever and reader modules are listed here in the table below.
