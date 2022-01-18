@@ -1,3 +1,8 @@
+### Survey
+
+- [A Survey of Pretrained Language Models Based Text Generation](https://arxiv.org/pdf/2201.05273.pdf), Jan. 14 2022.
+- [A Survey of Controllable Text Generation using Transformer-based Pre-trained Language Models](https://arxiv.org/pdf/2201.05337.pdf), Jan. 14 2022.
+
 
 ### Method
 
