@@ -20,3 +20,8 @@
 
 - [GottBERT: a pure German Language Model](https://arxiv.org/abs/2012.02110), Dec. 3 2020.
 - [ERNIE 3.0 TITAN: EXPLORING LARGER-SCALE KNOWLEDGE ENHANCED PRE-TRAINING FOR LANGUAGE UNDERSTANDING AND GENERATION](https://arxiv.org/pdf/2112.12731.pdf), Dec. 23 2021 `chinese`
+
+### Prompt-based learning
+
+- [Memory-assisted prompt editing to improve GPT-3 after deployment](https://arxiv.org/pdf/2201.06009.pdf), Jan. 16 2022.
+- [ZeroPrompt: Scaling Prompt-Based Pretraining to 1,000 Tasks Improves Zero-Shot Generalization](https://arxiv.org/pdf/2201.06910.pdf), Jan. 8 2022. `genetic search`
