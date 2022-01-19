@@ -58,7 +58,8 @@
 - [Dialogue State Tracking with a Language Model using Schema-Driven Prompting](https://aclanthology.org/2021.emnlp-main.404.pdf), `emnlp21`
 - [Template Guided Text Generation for Task-Oriented Dialogue](https://arxiv.org/pdf/2004.15006.pdf), Nov. 13 2020 `data augmentation` `google`
 - [Dialogue State Tracking with Incremental Reasoning](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00384/101875/Dialogue-State-Tracking-with-Incremental-Reasoning), Mar. 27 2021 `tacl`
-
+- [Toward Self-Learning End-to-End Dialog Systems](https://arxiv.org/pdf/2201.06849.pdf), Jan. 18 2022.
+- [Prompt Learning for Few-Shot Dialogue State Tracking](https://arxiv.org/pdf/2201.05780.pdf), Jan. 15 2022.
 
 ### Evaluation
 
