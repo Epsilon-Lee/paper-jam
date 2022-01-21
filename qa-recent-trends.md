@@ -1,4 +1,8 @@
 
+### Neural IR
+
+- [SPANN: Highly-efficient Billion-scale Approximate Nearest Neighbor Search](https://jingdongwang2017.github.io/Pubs/NeurIPS2021-SPANN.pdf), `nips2021` [research talk](https://www.microsoft.com/en-us/research/video/research-talk-system-frontiers-for-dense-retrieval/), [blogpost](https://towardsdatascience.com/maximum-inner-product-search-using-nearest-neighbor-search-algorithms-c125d24777ef) [code](https://github.com/microsoft/SPTAG)
+
 ### Open-Domain Question Answering
 
 Some directions and topics:
@@ -15,6 +19,7 @@ Some directions and topics:
 - [Knowledge Guided Text Retrieval and Reading for Open Domain Question Answering](https://arxiv.org/pdf/1911.03868.pdf), Apr. 13 2020. [code](https://github.com/shmsw25/GraphRetriever)
 - :heart: [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906), Apr. 10 2020 `emnlp2020`
 - :white_heart: [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/pdf/1906.00300.pdf), `emnlp2019` `inverse close task` `pretraining`
+- [Unsupervised Question Decomposition for Question Answering](https://arxiv.org/pdf/2002.09758.pdf&nbsp;&hellip), Oct. 6 2020 [code](https://github.com/facebookresearch/UnsupervisedDecomposition)
 - :white_heart: [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://arxiv.org/pdf/2007.01282.pdf), Feb. 2021
 - [UnitedQA: A Hybrid Approach for Open Domain Question Answering](https://aclanthology.org/2021.acl-long.240.pdf), `acl2021`
 - [Efficient Passage Retrieval with Hashing for Open-domain Question Answering](https://arxiv.org/pdf/2106.00882.pdf), Jun. 21 2021 `acl2021`
