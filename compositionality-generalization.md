@@ -7,7 +7,6 @@
 - [Measuring Compositional Generalization: A comprehensive method on realistic data](https://arxiv.org/pdf/1912.09713.pdf), ICLR 2020, Google Brain.
   - They propose a realistic benchmark for evaluating compositional generalization on question answering task that 1) **maximizes compound divergence**, 2) **mininizes atom divergence**
 
-
 ### Compositionality and Neural Machine Translation
 
 - [On Compositionality in Neural Machine Translation](https://arxiv.org/pdf/1911.01497.pdf), 2019.
@@ -94,3 +93,4 @@
 
 - [Systematic Generalization with Group Invariant Predictions](https://openreview.net/pdf?id=b9PoimzZFJ), `iclr2021`
   - "we consider situations where the presence of dominant simpler correlations with the target variable in a training set can cause an SGD-traind neural network to be less reliant on more persistently correlating complex features."
+- [Unobserved Local Structures Make Compositional Generalization Hard](https://arxiv.org/pdf/2201.05899.pdf), Jan. 15 2022.
