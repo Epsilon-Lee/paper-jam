@@ -68,7 +68,7 @@ Some directions and topics:
   - How to create context? crowdsourcing for (context, answer) w.r.t. such questions
   - Quantify how traditional models **fail** on situated questions
   - `My two cents` This paper demonstrates a way of doing research, that is to find out or create in/from test sets new instances which cannot be handled well by current model
-
+- [Rapidly Bootstrapping a Question Answering Dataset for COVID-19](https://arxiv.org/pdf/2004.11339.pdf), Apr. 23 2020.
 
 #### Phrase-based retrieval model
 
@@ -171,6 +171,13 @@ Some directions and topics:
 
 
 ### Knowledge-Base Question Answering, KB Completion
+
+#### Classics
+
+- [KBQA: Learning Question Answering over QA Corpora and Knowledge Bases](http://www.vldb.org/pvldb/vol10/p565-cui.pdf), 2010. `query template`
+- []
+
+#### Recent trends
 
 - [RNG-KBQA: Generation Augmented Iterative Ranking for Knowledge Base Question Answering](https://arxiv.org/pdf/2109.08678.pdf), Caiming Xiong et al. `arXiv`
 - [Benchmarking the Combinatorial Generalizability of Complex Query Answering on Knowledge Graphs](https://arxiv.org/pdf/2109.08925.pdf), Yangqiu Song et al. `nips2021`
