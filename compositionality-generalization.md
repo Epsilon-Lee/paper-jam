@@ -40,6 +40,7 @@
 
 - [On the Realization of Compositionality in Neural Networks](https://www.aclweb.org/anthology/W19-4814), 2019.
 - [Compositional Generalization for Primitive Substitutions](https://aclanthology.org/D19-1438.pdf), `emnlp` 2019.
+- [Permutation Equivariant Models for Compositional Generalization in Language](https://openreview.net/forum?id=SylVNerFvr), `iclr2020`.
 - [Compositional Generalization via Neural-Symbolic Stack Machines](https://papers.nips.cc/paper/2020/file/12b1e42dc0746f22cf361267de07073f-Paper.pdf), `nips` 2020.
 - [Compositional generalization in semantic parsing: Pre-training vs. specialized architectures](https://arxiv.org/pdf/2007.08970), 2020.
 - [Location Attention for Extrapolation to Longer Sequences](https://www.aclweb.org/anthology/2020.acl-main.39.pdf), `acl` 2020.
