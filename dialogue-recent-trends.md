@@ -2,6 +2,7 @@
 # Automatic Dialogue Techniques, Systems
 
 - [DialogueCSE: Dialogue-based Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2109.12599.pdf), `sentence embedding`
+- [LaMDA: Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239.pdf), Jan. 20 2022 `pretraining`
 
 ## Overall Survey
 
