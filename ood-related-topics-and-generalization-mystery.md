@@ -1,7 +1,7 @@
 
 # OOD-related Research Topics and Generalization Mystery
 
-Contents of this archvie:
+Contents of this archive:
 
 - [Out-of-Distribution Learning and Generalization](#out-of-distribution-ood-learning-and-generalization)
   - [OOD generalization theories](#ood-generalization-theories)
