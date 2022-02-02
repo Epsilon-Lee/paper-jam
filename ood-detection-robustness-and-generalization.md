@@ -1,37 +1,43 @@
 
 - [Out-of-Distribution Learning and Generalization](#out-of-distribution-ood-learning-and-generalization)
+  - [OOD generalization theories](#ood-generalization-theories)
+  - [Empirical observations](#empirical-observations)
+  - [OOD generalization methods](#ood-generalization-methods)
 - [Out-of-Distribution Detection](#out-of-distribution-detection)
+  - [Surveys](#surveys)
+  - [Methods](#methods)
 - [Robustness](#robustness)
+  - [Surveys](#surveys)
+  - [Attacks](#attacks)
 
 ## Out-of-Distribution (OOD) Learning and Generalization
 
-### OOD generalization theory and methods
+### OOD generalization theories
 
-#### Theory
 - [Towards a theory of out-of-distribution learning](https://arxiv.org/pdf/2109.14501.pdf), JHU 2021.
 - [Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization](https://arxiv.org/pdf/2106.06607.pdf), Jun. 11 2021. `nips2021` `invariant risk minimization`
 - [Failure Modes of Domain Generalization Algorithms](https://arxiv.org/pdf/2111.13733.pdf), Nov. 26 2021.
 - [A Theory of Label Propagation for Subpopulation Shift](https://arxiv.org/pdf/2102.11203.pdf), Jul. 20 2021 `distribution shift`
 
-#### Empiricals
+### Empirical observations
 
 - [Understanding Out-of-distribution: A Perspective of Data Dynamics](https://arxiv.org/pdf/2111.14730.pdf), Nov. 29 2021.
 - [Characterizing Generalization under Out-Of-Distribution Shifts in Deep Metric Learning](https://arxiv.org/pdf/2107.09562.pdf), Jul. 20 2021.
 - [Understanding the failure modes of out-of-distribution generalization](https://openreview.net/forum?id=fSTD6NFIW_b), `iclr2021`
 - [Out-of-Distribution Generalization with Deep Equilibrium Models](http://www.gatsby.ucl.ac.uk/~balaji/udl2021/accepted-papers/UDL2021-paper-072.pdf), 2021 icml workshop.
 
-#### Invariant Risk Minimization
-
-- [DAIR: Data Augmented Invariant Regularization](https://arxiv.org/pdf/2110.11205.pdf), Oct. 21 2021.
-- [IRM---when it works and when it doesn't: A test case of natural language inference](https://openreview.net/forum?id=KtvHbjCF4v), `nips2021`
-
-#### Methods
+### OOD generalization methods
 
 - [Deep Stable Learning for Out-Of-Distribution Generalization](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Deep_Stable_Learning_for_Out-of-Distribution_Generalization_CVPR_2021_paper.pdf), `cvpr2021`
 - [LINDA: Unsupervised Learning to Interpolate in Natural Language Processing](https://arxiv.org/pdf/2112.13969.pdf), Dec. 28 2021. 
 - [Counterfactual Maximum Likelihood Estimation for Training Deep Networks](https://openreview.net/forum?id=o6s1b_-nDOE), `nips2021`
 - [Improving Out-of-Distribution Robustness via Selective Augmentation](https://arxiv.org/pdf/2201.00299.pdf), Jan. 2 2021.
 - [Optimal Representations for Covariate Shift](https://arxiv.org/pdf/2201.00057.pdf), Dec. 31 2021.
+
+#### Invariant Risk Minimization
+
+- [DAIR: Data Augmented Invariant Regularization](https://arxiv.org/pdf/2110.11205.pdf), Oct. 21 2021.
+- [IRM---when it works and when it doesn't: A test case of natural language inference](https://openreview.net/forum?id=KtvHbjCF4v), `nips2021`
 
 #### Benchmarks
 
@@ -41,7 +47,7 @@
 
 ## Out-of-Distribution Detection
 
-### Survey
+### Surveys
 
 - [Generalized Out-of-Distribution Detection: A Survey](https://arxiv.org/pdf/2110.11334.pdf), Oct. 21 2021.
 - [A Unifying Review of Deep and Shallow Anomaly Detection](https://arxiv.org/abs/2009.11732), Sep. 24 2020.
@@ -65,7 +71,7 @@
 
 ## Robustness
 
-### Survey
+### Surveys
 
 - [Measure and Improve Robustness in NLP Models: A Survey](https://arxiv.org/abs/2112.08313), Dec. 15 2021.
 - [Robust Natural Language Processing: Recent Advances, Challenges, and Future Directions](https://arxiv.org/pdf/2201.00768.pdf), Jan. 3 2021.
@@ -84,7 +90,7 @@
 - [PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures](https://openreview.net/pdf?id=WeUg_KpkFtt), `nips2021` workshop paper
 - [Quantifying and Understanding Adversarial Examples in Discrete Input Spaces](https://arxiv.org/pdf/2112.06276.pdf), Dec. 12 2021.
 
-#### Attacks
+### Attacks
 
 - [Adversarial Preprocessing: Understanding and Preventing Image-Scaling Attacks in Machine Learning](https://www.usenix.org/system/files/sec20fall_quiring_prepub.pdf).
 - [Manipulating SGD with Data Ordering Attacks](https://arxiv.org/pdf/2104.09667.pdf), Jun. 5 2021.
@@ -103,6 +109,6 @@
 - [Collective Robustness Certificates: Exploiting Interdependence in Graph Neural Networks](https://openreview.net/forum?id=ULQdiUTHe3y), `iclr2021`
 - [Barack: Partially Supervised Group Robustness with Guarantees](https://arxiv.org/pdf/2201.00072.pdf), Dec. 31 2021.
 
-#### Randomness transformation defenses
+### Randomness transformation defenses
 
 - [Demystifying the Adversarial Robustness of Random Transformation Defenses](https://openreview.net/pdf?id=p4SrFydwO5), Dec. 16 2021.
