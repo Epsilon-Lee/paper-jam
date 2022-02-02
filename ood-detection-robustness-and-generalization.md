@@ -3,11 +3,15 @@
   - [OOD generalization theories](#ood-generalization-theories)
   - [Empirical observations](#empirical-observations)
   - [OOD generalization methods](#ood-generalization-methods)
+    - [Invariant risk minimization](#invariant-risk-minimization)
+    - [Benchmarks](#benchmarks)
 - [Out-of-Distribution Detection](#out-of-distribution-detection)
   - [Surveys](#surveys)
   - [Methods](#methods)
 - [Robustness](#robustness)
   - [Surveys](#surveys)
+  - [Theories](#theories)
+  - [Adversarial training](#adversarial-training)
   - [Attacks](#attacks)
 
 ## Out-of-Distribution (OOD) Learning and Generalization
@@ -45,6 +49,12 @@
 - [Extending the WILDS Benchmark for Unsupervised Adaptation](https://arxiv.org/pdf/2112.05090.pdf), Dec. 9 2021.
 - [Shifts: A Dataset of Real Distributional Shift Across Multiple Large-Scale Tasks](https://arxiv.org/pdf/2107.07455.pdf), Jul. 23 2021.
 
+### Distribution Shfit
+
+- [On Label Shift in Domain Adaptation via Wasserstein Distance](https://arxiv.org/pdf/2110.15520.pdf), Oct. 29 2021.
+- [An Information-theoretic Approach to Distribution Shifts](https://arxiv.org/pdf/2106.03783.pdf), Nov. 1 2021. `nips2021`
+- [An opinioin from Cho about distributional robustness](https://twitter.com/kchonyc/status/1455619054786519045), Nov. 3 2021.
+
 ## Out-of-Distribution Detection
 
 ### Surveys
@@ -76,7 +86,11 @@
 - [Measure and Improve Robustness in NLP Models: A Survey](https://arxiv.org/abs/2112.08313), Dec. 15 2021.
 - [Robust Natural Language Processing: Recent Advances, Challenges, and Future Directions](https://arxiv.org/pdf/2201.00768.pdf), Jan. 3 2021.
 
-### Robustness and Adversarial Examples/Training
+### Theories
+
+- [A Universal Law of Robustness via Isoperimetry](https://nips.cc/virtual/2021/poster/27813), `nips2021` outstanding paper
+
+### Adversarial training
 
 - [Transductive Robust Learning Guarantees](https://arxiv.org/pdf/2110.10602.pdf), Oct. 20 2021, Nathan Srebro's group. `VC Dimension`
   - adversarially robust learning in the transductive learning setting
@@ -95,12 +109,6 @@
 - [Adversarial Preprocessing: Understanding and Preventing Image-Scaling Attacks in Machine Learning](https://www.usenix.org/system/files/sec20fall_quiring_prepub.pdf).
 - [Manipulating SGD with Data Ordering Attacks](https://arxiv.org/pdf/2104.09667.pdf), Jun. 5 2021.
 - [On Distinctive Properties of Universal Perturbations](https://arxiv.org/pdf/2112.15329.pdf), Dec. 31 2021.
-
-### Dataset Shift
-
-- [On Label Shift in Domain Adaptation via Wasserstein Distance](https://arxiv.org/pdf/2110.15520.pdf), Oct. 29 2021.
-- [An Information-theoretic Approach to Distribution Shifts](https://arxiv.org/pdf/2106.03783.pdf), Nov. 1 2021. `nips2021`
-- [An opinioin from Cho about distributional robustness](https://twitter.com/kchonyc/status/1455619054786519045), Nov. 3 2021.
 
 ### Certified Robustness
 
