@@ -65,6 +65,7 @@
 - [Improving Coherence and Consistency in Neural Sequence Models with Dual-System, Neuro-Symbolic Reasoning](https://cims.nyu.edu/~brenden/papers/NyeEtAl2021NeurIPS.pdf), `nips2021`
 - [Learning to Compose Visual Relations](https://arxiv.org/pdf/2111.09297.pdf), Nov. 17 2021 `nips2021`
 - [Improving Compositional Generalization with Latent Structure and Data Augmentation](https://arxiv.org/pdf/2112.07610.pdf), Dec. 14 2021.
+- [Compositionality as Lexical Symmetry](https://arxiv.org/pdf/2201.12926.pdf), Jan. 30 2022.
 
 #### Data augmentation based approach
 
