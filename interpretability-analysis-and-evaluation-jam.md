@@ -106,7 +106,8 @@
 - [“Will You Find These Shortcuts?” A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification](https://arxiv.org/pdf/2111.07367.pdf), Nov. 14 2021, Google, `emnlp2021`
 - [Explain, Edit, and Understand: Rethinking User Study Design for Evaluating Model Explanations](https://arxiv.org/pdf/2112.09669.pdf), Dec. 17 2021 `aaai2022`
 - [Human Interpretation of Saliency-based Explanation Over Text](https://arxiv.org/abs/2201.11569), Jan. 27 2022
-- [Does BERT Learn as Humans Perceive? Understanding Linguistic Styles through Lexica](https://aclanthology.org/2021.emnlp-main.510.pdf), 2021
+- [Does BERT Learn as Humans Perceive? Understanding Linguistic Styles through Lexica](https://aclanthology.org/2021.emnlp-main.510.pdf), 2021.
+- [Diagnosing AI Explanation Methods with Folk Concepts of Behavior](https://arxiv.org/abs/2201.11239), Alon Jacovi et al. Jan. 27 2022.
 
 ### Transparent model
 
