@@ -1,7 +1,21 @@
 
-### Interpretability
+# Interpretability and Interpretable Machine Learning
 
-#### Definition of interpretability
+- [Definition of interpretability](#definition-of-interpretability)
+- [Interpretation methods](#interpretation-methods)
+  - [Feature attribution methods](#feature-attribution-methods)
+  - [Critics of feature importance](#critics-of-feature-importance)
+  - [Beyond feature attribution](#beyond-feature-attribution)
+  - [Dataset attribution methods](#dataset-attribution-methods)
+    - [Critics of influence function](#critics-of-influence-function)
+- [Analysis](#analysis)
+- [Probing methods](#probing-methods)
+- [Evaluation](#evaluation)
+- [Transparent model](#transparent-model)
+  - [Model editing](#model-editing)
+  - [Model debugging](#model-debugging)
+
+## Definition of interpretability
 
 - [The Mythos of Model Interpretability](https://arxiv.org/pdf/1606.03490.pdf), 2016.
 - [Machine Learning Interpretability: A Survey on Methods and Metrics](https://www.mdpi.com/2079-9292/8/8/832), 2019.
@@ -10,7 +24,7 @@
   - "It is difficult to (mathematically) define interpretability. A non-mathematical definition of interpretability that I like by Miller 2017 is: **interpretability is the degree to which a human can understand the cause of decision**", and another one by Been Kim is "**interpretability is the degree to which a human can consistently predict the model's result**"
 - [Consistent Counterfactuals for Deep Models](https://arxiv.org/pdf/2110.03109.pdf), `evaluation of interpretability` `iclr2022` submitted.
 
-#### Interpretation methods
+## Interpretation methods
 
 - [A Benchmark for Interpretability Methods in Deep Neural Networks](https://arxiv.org/pdf/1806.10758.pdf), `nips2019` `remove and retrain`
 - [Evaluating the Faithfulness of Importance Measures in NLP by Recursively Masking Allegedly Important Tokens and Retraining](https://arxiv.org/pdf/2110.08412.pdf), Oct. 15 `recursive remove and retrain`
@@ -27,8 +41,9 @@
 - [DeDUCE: Generating Counterfactual Explanations Efficiently](https://arxiv.org/pdf/2111.15639.pdf), Nov. 29 2021
 - [Making a (Counterfactual) Difference One Rationale at a Time](https://arxiv.org/pdf/2201.05177.pdf), `nips2021`
 - [WHEN LESS IS MORE: SIMPLIFYING INPUTS AIDS NEURAL NETWORK UNDERSTANDING](https://arxiv.org/pdf/2201.05610.pdf), Jan. 14 2022. `medical` Google Brain
+- [Explanatory Learning: Beyond Empiricism in Neural Networks](https://openreview.net/pdf?id=46lmrnVBHBL), `iclr2022` rejected
 
-**Feature Attribution Methods**
+### Feature attribution methods
 
 - [Understanding Interlocking Dynamics of Cooperative Rationalization](https://arxiv.org/pdf/2110.13880.pdf), Oct. 26 2021.
 - [Rationales for Sequential Predictions](https://arxiv.org/pdf/2109.06387.pdf), Keyon Vafa et al. `emnlp2021` `interpretability` `nmt` `combinatorial optimization`
@@ -41,16 +56,16 @@
 - [Fine-Grained Neural Network Explanation by Identifying Input Features with Predictive Information](https://arxiv.org/pdf/2110.01471.pdf), `nips2021` `attribution`.
 - [DANCE: Enhancing saliency maps using decoys](http://proceedings.mlr.press/v139/lu21b/lu21b.pdf), `icml2021`
 
-**Critics of Feature Importance**
+### Critics of feature importance
 
 - [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547), Oct. 29 2019 `aaai2018`
 - [On the (In)fidelity and Sensitivity of Explanations](https://proceedings.neurips.cc/paper/2019/file/a7471fdc77b3435276507cc8f2dc2569-Paper.pdf), `nips2019`
 
-**Beyond Feature Attribution**
+### Beyond feature attribution
 
 - [Interpretability beyond feature attribution: Quantitative testing with concept activation vectors (tcav)](http://proceedings.mlr.press/v80/kim18d/kim18d.pdf), `icml2018`
 
-**Dataset Attribution Methods**
+### Dataset attribution methods
 
 - [Understanding black-box predictions via influence functions](http://proceedings.mlr.press/v70/koh17a/koh17a.pdf), Apr. 2017. `icml2017`
 - [Towards Efficient Data Valuation Based on the Shapley Value](http://proceedings.mlr.press/v89/jia19a/jia19a.pdf), `aistats2019`
@@ -65,7 +80,7 @@
 - [Scaling Up Influence Functions](https://arxiv.org/pdf/2112.03052.pdf), Dec. 6 2021. Google Research `aaai2022`.
 - [DIVINE: Diverse Influential Training Points for Data Visualization and Model Refinement](https://arxiv.org/pdf/2107.05978.pdf), Jul. 13 2021.
 
-**Critics of Influence Function**
+#### Critics of influence function
 
 - [Influence Functions in Deep Learning are Fragile](https://arxiv.org/pdf/2006.14651.pdf), Feb. 10 2021, `iclr2021`
 
@@ -75,7 +90,7 @@
 /
 
 
-### Analysis
+## Analysis
 
 - [Controlled Evaluation of Grammatical Knowledge in Mandarin Chinese Language Models](https://arxiv.org/pdf/2109.11058.pdf), Roger Levy et al. `controlled evaluation` `language model`
 - [Can Question Generation Debias Question Answering Models? A Case Study on Question–Context Lexical Overlap](https://arxiv.org/pdf/2109.11256.pdf), `qa`
@@ -90,7 +105,7 @@
 - [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/pdf/2111.09259.pdf), Nov. 27 2021.
 - [Learning Bounded Context-Free-Grammar via LSTM and the Transformer: Difference and Explanations](https://arxiv.org/pdf/2112.09174.pdf), Dec. 16 2021. `aaai2022`
 
-### Probing methodology
+## Probing methods
 
 - [Probing as Quantifying the Inductive Bias of Pre-trained Representations](https://arxiv.org/pdf/2110.08388.pdf), Oct. 15 2021.
 - [Counterfactual Interventions Reveal the Causal Effect of Relative Clause Representations on Agreement Prediction](https://arxiv.org/pdf/2105.06965.pdf), Sep. 15 2021.
@@ -98,7 +113,7 @@
 - [ADVERSARIAL CONCEPT ERASURE IN KERNEL SPACE](https://arxiv.org/pdf/2201.12191.pdf), Jan. 28 2022.
 - [LINEAR ADVERSARIAL CONCEPT ERASURE](https://arxiv.org/pdf/2201.12091.pdf), Jan. 28 2022.
 
-### Evaluation
+## Evaluation
 
 - [Paradigm Shift in Natural Language Processing](https://arxiv.org/pdf/2109.12575.pdf), Xipeng Qiu et al. `unify methodology`
 - [Finding a Balanced Degree of Automation for Summary Evaluation](https://arxiv.org/pdf/2109.11503.pdf), Mohit Bansal et al. `evaluation`
@@ -111,9 +126,9 @@
 - [Does BERT Learn as Humans Perceive? Understanding Linguistic Styles through Lexica](https://aclanthology.org/2021.emnlp-main.510.pdf), 2021.
 - [Diagnosing AI Explanation Methods with Folk Concepts of Behavior](https://arxiv.org/abs/2201.11239), Alon Jacovi et al. Jan. 27 2022.
 
-### Transparent model
+## Transparent model
 
-#### Model editing
+### Model editing
 
 - [Editing a classifier by rewriting its prediction rules](https://arxiv.org/pdf/2112.01008.pdf), Dec. 2 2021.
 - [Influence Tuning: Demoting Spurious Correlations via Instance Attribution and Instance-Driven Updates](https://arxiv.org/pdf/2110.03212.pdf), `emnlp2021` with `code`
