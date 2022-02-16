@@ -1,7 +1,10 @@
 
 *Table of Contents*
 
+
 - [Neural IR](#neural-ir)
+- [Generalization of QA Models](#generalization-of-qa-models)
+  - [Analysis](#analysis)
 - [Open-Domain Question Answering](#open-domain-question-answering)
   - [Phrase-based retrieval model](#phrase-based-retrieval-model)
   - [Improved DPR training](#improved-dpr-training)
@@ -16,6 +19,7 @@
 - [Visual Question Answering](#visual-question-answering)
 - [Long-anwer Question Answering](#long-answer-question-answering)
 - [Analysis](#analysis)
+
 
 ### Neural IR
 
@@ -32,6 +36,22 @@
 - [Sublinear Time Approximation of Text Similarity Matrices](https://arxiv.org/pdf/2112.09631.pdf), Dec. 17 2021.
   - How to efficiently compute `n * n` similarity matrices over large `n` documents?
 - [On Cross-Lingual Retrieval with Multilingual Text Encoders](https://arxiv.org/pdf/2112.11031.pdf), Dec. 21 2021.
+
+### Generalization of QA Models
+
+- [MRQA 2019 Shared Task: Evaluating Generalization in Reading Comprehension](https://aclanthology.org/D19-5801.pdf), `emnlp2019`
+- [D-NET: A Simple Framework for Improving the Generalization of Machine Reading Comprehension](https://aclanthology.org/D19-5828.pdf), `emnlp2019`
+- [Can Small and Synthetic Benchmarks Drive Modeling Innovation?](https://arxiv.org/abs/2102.01065), Feb. 1 2021.
+- [Why Machine Reading Comprehension Models Learn Shortcuts?](https://aclanthology.org/2021.findings-acl.85.pdf), `acl2021` `mrc`
+- [Improving QA Generalization by Concurrent Modeling of Multiple Biases](https://aclanthology.org/2020.findings-emnlp.74.pdf), `emnlp2020`
+- [DuReaderrobust: A Chinese Dataset Towards Evaluating Robustness and Generalization of Machine Reading Comprehension in Real-World Applications](https://aclanthology.org/2021.acl-short.120.pdf), `acl2021`
+- [Benchmarking Robustness of Machine Reading Comprehension Models](https://ymcui.com/pdf/acl2021-findings-advrace.pdf), `acl2021`
+
+#### Analysis
+
+- [The Effect of Natural Distribution Shift on Question Answering Models](http://proceedings.mlr.press/v119/miller20a/miller20a.pdf), `icml2020`
+- [Evaluation Paradigms in Question Answering](https://research.fb.com/wp-content/uploads/2021/09/Evaluation-Paradigms-in-Question-Answering.pdf), Sep. 2021. Facebook.
+- [Ditch the Gold Standard: Re-evaluating Conversational Question Answering](https://arxiv.org/pdf/2112.08812.pdf), Dec. 16 2021.
 
 ### Open-Domain Question Answering
 
@@ -195,7 +215,6 @@ Some directions and topics:
 #### Classics
 
 - [KBQA: Learning Question Answering over QA Corpora and Knowledge Bases](http://www.vldb.org/pvldb/vol10/p565-cui.pdf), 2010. `query template`
-- []
 
 #### Recent trends
 
@@ -248,12 +267,6 @@ Some directions and topics:
 
 - [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://owainevans.github.io/pdfs/truthfulQA_lin_evans.pdf), OpenAI, Oxford Univ. `benchmark`
 
-
-### Analysis
-
-- [The Effect of Natural Distribution Shift on Question Answering Models](http://proceedings.mlr.press/v119/miller20a/miller20a.pdf), `icml2020`
-- [Evaluation Paradigms in Question Answering](https://research.fb.com/wp-content/uploads/2021/09/Evaluation-Paradigms-in-Question-Answering.pdf), Sep. 2021. Facebook.
-- [Ditch the Gold Standard: Re-evaluating Conversational Question Answering](https://arxiv.org/pdf/2112.08812.pdf), Dec. 16 2021.
 
 
 ### QA and social bias
