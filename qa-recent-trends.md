@@ -1,7 +1,37 @@
 
+*Table of Contents*
+
+- [Neural IR](#neural-ir)
+- [Open-Domain Question Answering](#open-domain-question-answering)
+  - [Phrase-based retrieval model](#phrase-based-retrieval-model)
+  - [Improved DPR training](#improved-dpr-training)
+  - [Understanding datasets](#understanding-datasets)
+  - [ACL ARR 2021](#acl-arr-2021)
+- [Knowledge-Base Question Answering and KB Completion](#knowledge-base-question-answering-and-kb-completion)
+  - [Classics](#classics)
+  - [Recent trends](#recent-trends)
+  - [Semantic Parsing](#semantic-parsing)
+- [Machine Reading Comprehension](#machine-reading-comprehension)
+  - [Old goodies](#old-goodies)
+- [Visual Question Answering](#visual-question-answering)
+- [Long-anwer Question Answering](#long-answer-question-answering)
+- [Analysis](#analysis)
+
 ### Neural IR
 
 - [SPANN: Highly-efficient Billion-scale Approximate Nearest Neighbor Search](https://jingdongwang2017.github.io/Pubs/NeurIPS2021-SPANN.pdf), `nips2021` [research talk](https://www.microsoft.com/en-us/research/video/research-talk-system-frontiers-for-dense-retrieval/), [blogpost](https://towardsdatascience.com/maximum-inner-product-search-using-nearest-neighbor-search-algorithms-c125d24777ef) [code](https://github.com/microsoft/SPTAG)
+
+#### Information retrieval
+
+- [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/abs/2004.12832), Apr. 27 2020. `sigir2020`
+- [ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction](https://arxiv.org/pdf/2112.01488.pdf), Dec. 2 2021.
+- [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663), Oct. 21 2021. `nips2021`
+- :green_heart: [Boosted Dense Retriever](https://arxiv.org/pdf/2112.07771.pdf), Dec. 14 2021.
+  - ![image](https://user-images.githubusercontent.com/7335618/147015967-d78c96c0-ef09-43f1-bddf-dade83d06242.png)
+- [Design Challenges for a Multi-Perspective Search Engine](https://arxiv.org/pdf/2112.08357.pdf), Dec. 15 2021.
+- [Sublinear Time Approximation of Text Similarity Matrices](https://arxiv.org/pdf/2112.09631.pdf), Dec. 17 2021.
+  - How to efficiently compute `n * n` similarity matrices over large `n` documents?
+- [On Cross-Lingual Retrieval with Multilingual Text Encoders](https://arxiv.org/pdf/2112.11031.pdf), Dec. 21 2021.
 
 ### Open-Domain Question Answering
 
@@ -119,17 +149,7 @@ Some directions and topics:
     - the above question can be transformed to: how many (q, p+, p-) pairs are created during preprocessing?
 - [Towards Unsupervised Dense Information Retrieval with Contrastive Learning](https://arxiv.org/pdf/2112.09118.pdf), Dec. 16 2021.
 
-#### Information retrieval
 
-- [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/abs/2004.12832), Apr. 27 2020. `sigir2020`
-- [ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction](https://arxiv.org/pdf/2112.01488.pdf), Dec. 2 2021.
-- [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663), Oct. 21 2021. `nips2021`
-- :green_heart: [Boosted Dense Retriever](https://arxiv.org/pdf/2112.07771.pdf), Dec. 14 2021.
-  - ![image](https://user-images.githubusercontent.com/7335618/147015967-d78c96c0-ef09-43f1-bddf-dade83d06242.png)
-- [Design Challenges for a Multi-Perspective Search Engine](https://arxiv.org/pdf/2112.08357.pdf), Dec. 15 2021.
-- [Sublinear Time Approximation of Text Similarity Matrices](https://arxiv.org/pdf/2112.09631.pdf), Dec. 17 2021.
-  - How to efficiently compute `n * n` similarity matrices over large `n` documents?
-- [On Cross-Lingual Retrieval with Multilingual Text Encoders](https://arxiv.org/pdf/2112.11031.pdf), Dec. 21 2021.
 
 #### ACL ARR 2021
 
@@ -170,7 +190,7 @@ Some directions and topics:
 
 
 
-### Knowledge-Base Question Answering, KB Completion
+### Knowledge-Base Question Answering and KB Completion
 
 #### Classics
 
@@ -211,7 +231,7 @@ Some directions and topics:
 - [Machine Comprehension using Match-LSTM and Answer Pointer](https://arxiv.org/pdf/1608.07905.pdf), ICLR 2017.
 - [Bi-Directional Attention Flow for Machine Comprehension](https://arxiv.org/pdf/1611.01603.pdf), ICLR 2017.
 
-### Reasoning, Commonsense and Knowledge
+### Reasoning Commonsense and Knowledge
 
 - [BeliefBank: Adding Memory to a Pre-Trained Language Model for a Systematic Notion of Belief](https://arxiv.org/pdf/2109.14723.pdf), Sep. 2021. `compositionality`
 - [Conversational Multi-Hop Reasoning with Neural Commonsense Knowledge and Symbolic Logic Rules](https://arxiv.org/pdf/2109.08544.pdf), `emnlp2021`
@@ -224,7 +244,7 @@ Some directions and topics:
 - [Abductive Visual Question Answering for Label Efficient Learning](https://karans.github.io/assets/pdf/Papers/AB-VQA.pdf), Le Song's group. `abduction`
 
 
-### Long-anwer Question Answering
+### Long-answer Question Answering
 
 - [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://owainevans.github.io/pdfs/truthfulQA_lin_evans.pdf), OpenAI, Oxford Univ. `benchmark`
 
