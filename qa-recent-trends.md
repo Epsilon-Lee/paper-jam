@@ -39,6 +39,7 @@
 
 ### Generalization of QA Models
 
+- [A thorough examination of the CNN/Daily Mail reading comprehension task](https://aclanthology.org/P16-1223/), `acl2016`
 - [MRQA 2019 Shared Task: Evaluating Generalization in Reading Comprehension](https://aclanthology.org/D19-5801.pdf), `emnlp2019`
 - [D-NET: A Simple Framework for Improving the Generalization of Machine Reading Comprehension](https://aclanthology.org/D19-5828.pdf), `emnlp2019`
 - [Unsupervised Domain Adaptation on Reading Comprehension](), `aaai20`
