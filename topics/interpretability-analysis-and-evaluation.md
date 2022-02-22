@@ -42,6 +42,7 @@
 - [Making a (Counterfactual) Difference One Rationale at a Time](https://arxiv.org/pdf/2201.05177.pdf), `nips2021`
 - [WHEN LESS IS MORE: SIMPLIFYING INPUTS AIDS NEURAL NETWORK UNDERSTANDING](https://arxiv.org/pdf/2201.05610.pdf), Jan. 14 2022. `medical` Google Brain
 - [Explanatory Learning: Beyond Empiricism in Neural Networks](https://openreview.net/pdf?id=46lmrnVBHBL), `iclr2022` rejected
+- [Interpreting Language Models with Contrastive Explanations](https://arxiv.org/pdf/2202.10419.pdf), Feb. 21 2022.
 
 ### Feature attribution methods
 
@@ -79,6 +80,8 @@
 - [HYDRA: Hypergradient Data Relevance Analysis for Interpreting Deep Neural Networks](https://www.aaai.org/AAAI21Papers/AAAI-8686.ChenY.pdf), `aaai2021`
 - [Scaling Up Influence Functions](https://arxiv.org/pdf/2112.03052.pdf), Dec. 6 2021. Google Research `aaai2022`.
 - [DIVINE: Diverse Influential Training Points for Data Visualization and Model Refinement](https://arxiv.org/pdf/2107.05978.pdf), Jul. 13 2021.
+- [Deconstructing Distributions: A Pointwise Framework of Learning](https://arxiv.org/pdf/2202.09931.pdf), Feb. 20 2022.
+- [Datamodels: Predicting Predictions from Training Data](https://arxiv.org/abs/2202.00622), Feb. 1 2022.
 
 #### Critics of influence function
 
