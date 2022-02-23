@@ -1,1 +1,2 @@
 - [Reproducibility in Learning](https://arxiv.org/pdf/2201.08430.pdf), Jan. 20 2022. `stability`
+- [Memorize to Generalize: on the Necessity of Interpolation in High Dimensional Linear Regression](https://arxiv.org/pdf/2202.09889.pdf), Feb. 20 2022. `memorization`
