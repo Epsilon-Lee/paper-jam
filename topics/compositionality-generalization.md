@@ -91,6 +91,8 @@
 
 ## Systematic Generalization
 
+- [What underlies rapid learning and systematic generalization in humans?](https://stanford.edu/~jlmcc/papers/NamMcC21RapidLearningGeneralizationInHumansArxiv.pdf), Jul. 10 2021.
+
 ### Learning systemacity
 
 - [Systematic Generalization with Group Invariant Predictions](https://openreview.net/pdf?id=b9PoimzZFJ), `iclr2021`
