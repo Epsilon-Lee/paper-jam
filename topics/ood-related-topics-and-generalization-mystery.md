@@ -9,6 +9,7 @@ Contents of this archive:
   - [OOD generalization methods](#ood-generalization-methods)
     - [Invariant risk minimization](#invariant-risk-minimization)
     - [Benchmarks](#benchmarks)
+  - [Connection between OOD and adversarials](#connection-between-ood-and-adversarials)
 - [Out-of-Distribution Detection](#out-of-distribution-detection)
   - [Surveys](#surveys)
   - [Methods](#methods)
@@ -60,6 +61,11 @@ Contents of this archive:
 - [On Label Shift in Domain Adaptation via Wasserstein Distance](https://arxiv.org/pdf/2110.15520.pdf), Oct. 29 2021.
 - [An Information-theoretic Approach to Distribution Shifts](https://arxiv.org/pdf/2106.03783.pdf), Nov. 1 2021. `nips2021`
 - [An opinioin from Cho about distributional robustness](https://twitter.com/kchonyc/status/1455619054786519045), Nov. 3 2021.
+
+### Connection Between OOD and Adversarials
+
+- [Rethinking Machine Learning Robustness via its Link with the Out-of-Distribution Problem](https://arxiv.org/pdf/2202.08944.pdf), Feb. 18 2022.
+
 
 ## Out-of-Distribution Detection
 
@@ -128,3 +134,4 @@ Contents of this archive:
 ### Randomness transformation defenses
 
 - [Demystifying the Adversarial Robustness of Random Transformation Defenses](https://openreview.net/pdf?id=p4SrFydwO5), Dec. 16 2021.
+
