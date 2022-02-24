@@ -227,6 +227,7 @@ Some directions and topics:
 - [Metadata Shaping: Natural Language Annotations for the Tail](https://arxiv.org/pdf/2110.08430.pdf), Oct. 16 2021. `handling long-tail` `knowledge injection`
 - [SQALER: Scaling Question Answering by Decoupling Multi-Hop and Logical Reasoning](https://proceedings.neurips.cc/paper/2021/file/68bd22864919297c8c8a8c32378e89b4-Paper.pdf), `nips2021`.
 - [A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges](https://arxiv.org/abs/2007.13069), Jul. 19 2020.
+- [Knowledge Base Question Answering by Case-based Reasoning over Subgraphs](https://arxiv.org/pdf/2202.10610.pdf), Feb. 22 2022.
 
 #### Semantic Parsing
 
