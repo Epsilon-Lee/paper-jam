@@ -24,6 +24,7 @@
 ### Neural IR
 
 - [SPANN: Highly-efficient Billion-scale Approximate Nearest Neighbor Search](https://jingdongwang2017.github.io/Pubs/NeurIPS2021-SPANN.pdf), `nips2021` [research talk](https://www.microsoft.com/en-us/research/video/research-talk-system-frontiers-for-dense-retrieval/), [blogpost](https://towardsdatascience.com/maximum-inner-product-search-using-nearest-neighbor-search-algorithms-c125d24777ef) [code](https://github.com/microsoft/SPTAG)
+- [Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval](https://arxiv.org/pdf/2110.05789.pdf), Oct. 21 2021 `wsdm2022` `best paper`. [code](https://github.com/jingtaozhan/RepCONC)
 
 #### Information retrieval
 
