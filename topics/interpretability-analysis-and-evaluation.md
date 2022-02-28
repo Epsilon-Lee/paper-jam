@@ -115,6 +115,8 @@
 - [A Latent-Variable Model for Intrinsic Probing](https://arxiv.org/abs/2201.08214), Jan. 20 2022.
 - [ADVERSARIAL CONCEPT ERASURE IN KERNEL SPACE](https://arxiv.org/pdf/2201.12191.pdf), Jan. 28 2022.
 - [LINEAR ADVERSARIAL CONCEPT ERASURE](https://arxiv.org/pdf/2201.12091.pdf), Jan. 28 2022.
+- [On the data requirements of probing](https://arxiv.org/pdf/2202.12801.pdf), Feb. 25 2022.
+
 
 ## Evaluation
 
