@@ -67,6 +67,7 @@
 - [Improving Compositional Generalization with Latent Structure and Data Augmentation](https://arxiv.org/pdf/2112.07610.pdf), Dec. 14 2021.
 - [Compositionality as Lexical Symmetry](https://arxiv.org/pdf/2201.12926.pdf), Jan. 30 2022.
 - [Improving Systematic Generalization Through Modularity and Augmentation](https://arxiv.org/pdf/2202.10745.pdf), Feb. 22 2022.
+- [Compositional Generalization Requires Compositional Parsers](https://arxiv.org/pdf/2202.11937.pdf), Feb. 24 2022. 
 
 #### Data augmentation based approach
 
