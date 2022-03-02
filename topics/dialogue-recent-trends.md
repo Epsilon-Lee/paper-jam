@@ -1,6 +1,14 @@
 
 # Automatic Dialogue Techniques, Systems
 
+- [Representation Learning](#representation-learning)
+- [Overall Survey](#overall-survey)
+- [Open-Domain Dialogue Bot](#open-domain-dialogue-bot)
+- [Dialogue State Tracking](#dialogue-state-tracking)
+  - [Survey](#survey)
+
+## Representation Learning
+
 - [DialogueCSE: Dialogue-based Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2109.12599.pdf), `sentence embedding`
 - [LaMDA: Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239.pdf), Jan. 20 2022 `pretraining`
 
@@ -66,6 +74,9 @@
 
 - [CheckDST: Measuring Real-World Generalization of Dialogue State Tracking Performance](https://arxiv.org/pdf/2112.08321.pdf), Dec. 15 2021.
 
+## Dialogue Modeling
+
+- [Structure Extraction in Task-Oriented Dialogues with Slot Clustering](https://arxiv.org/pdf/2203.00073.pdf), Feb. 28 2022.
 
 ## Dialogue System Patents
 
