@@ -1,0 +1,8 @@
+
+This is a collection of papers and their summaries about the topic *pre-training explanation*.
+The related papers are listed below:
+- [Identifying the Limits of Cross-Domain Knowledge Transfer for Pretrained Models](https://openreview.net/forum?id=luO6l9cP6b6), 2021.
+- [The Inductive Bias of In-Context Learning: Rethinking Pretraining Example Design](https://openreview.net/forum?id=lnEaqbTJIRz), Oct. 9 2021.
+- [An Explanation of In-context Learning as Implicit Bayesian Inference](https://arxiv.org/abs/2111.02080), Nov. 3 2021.
+- [Impact of Pretraining Term Frequencies on Few-Shot Reasoning](https://arxiv.org/abs/2202.07206), Feb. 15 2022.
+- [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/abs/2202.12837), Feb. 22 2022.
