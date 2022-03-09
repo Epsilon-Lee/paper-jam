@@ -6,3 +6,4 @@ The related papers are listed below:
 - [An Explanation of In-context Learning as Implicit Bayesian Inference](https://arxiv.org/abs/2111.02080), Nov. 3 2021.
 - [Impact of Pretraining Term Frequencies on Few-Shot Reasoning](https://arxiv.org/abs/2202.07206), Feb. 15 2022.
 - [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/abs/2202.12837), Feb. 22 2022.
+- [In-context Learning and Induction Heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html), Mar. 8 2022. `anthropic interpretability team`
