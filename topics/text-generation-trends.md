@@ -21,3 +21,4 @@
 ### Evaluation
 
 - [Bidimensional Leaderboards: Generate and Evaluate Language Hand in Hand](https://arxiv.org/pdf/2106.10800.pdf), Dec. 8 2021.
+- [Rethinking and Refining the Distinct Metric](https://arxiv.org/pdf/2202.13587.pdf), Feb. 28 2022.
