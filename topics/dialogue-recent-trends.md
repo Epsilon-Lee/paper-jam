@@ -69,6 +69,8 @@
 - [Dialogue State Tracking with Incremental Reasoning](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00384/101875/Dialogue-State-Tracking-with-Incremental-Reasoning), Mar. 27 2021 `tacl`
 - [Toward Self-Learning End-to-End Dialog Systems](https://arxiv.org/pdf/2201.06849.pdf), Jan. 18 2022.
 - [Prompt Learning for Few-Shot Dialogue State Tracking](https://arxiv.org/pdf/2201.05780.pdf), Jan. 15 2022.
+- [Dialogue Summaries as Dialogue States (DS2), Template-Guided Summarization for Few-shot Dialogue State Tracking](https://arxiv.org/pdf/2203.01552.pdf), Mar. 2 2022.
+  - "we propose to reformulate dialogue state tracking as a dialogue summarization problem"
 
 ### Evaluation
 
