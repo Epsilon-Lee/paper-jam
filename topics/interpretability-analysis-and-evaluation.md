@@ -68,6 +68,8 @@
 
 ### Dataset attribution methods
 
+- [Representer Point Selection for Explaininig Deep Neural Networks](https://arxiv.org/abs/1811.09720), `nips2018`
+- [Input Similarity from the Neural Network Perspective](https://arxiv.org/abs/2102.05262), `nips2019`
 - [Understanding black-box predictions via influence functions](http://proceedings.mlr.press/v70/koh17a/koh17a.pdf), Apr. 2017. `icml2017`
 - [Towards Efficient Data Valuation Based on the Shapley Value](http://proceedings.mlr.press/v89/jia19a/jia19a.pdf), `aistats2019`
 - [Interpreting Black Box Predictions using Fisher Kernels](http://proceedings.mlr.press/v89/khanna19a/khanna19a.pdf), `aistats2019`
