@@ -86,3 +86,8 @@
 - [Robust Expandable Dialogue System](https://patentimages.storage.googleapis.com/a6/e3/40/9a3432243875d0/US11132499.pdf), Sep. 28 2021.
 - [Expandable Dialogue System](https://patentimages.storage.googleapis.com/83/8d/f6/c37579aeb79d13/US11195516.pdf), Dec. 7 2021.
 - [Flexible and Expandable Dialogue System](https://patentimages.storage.googleapis.com/86/25/99/9f5ddd2b24f446/US11069340.pdf), Jun. 20 2021.
+
+
+## Open-domain ToD
+
+- [NLU++: A Multi-Label, Slot-Rich, Generalisable Dataset for Natural Language Understanding in Task-Oriented Dialogue](https://arxiv.org/pdf/2204.13021.pdf), Apr. 28 2022. PolyAI.
