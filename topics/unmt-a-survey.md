@@ -1,4 +1,11 @@
 
+### Original paper
+
+> The papers that propose solutions for unsupervised neural machine translation (unmt).
+
+- [Unsupervised Neural Machine Translation](https://arxiv.org/abs/1710.11041), `iclr2018`
+- [Unsupervised Machine Translation Using Monolingual Corpora Only](https://arxiv.org/abs/1711.00043), `iclr2018`
+
 ### Pretraining techniques
 
 - [SemFace: Pre-training Encoder and Decoder with a Semantic Interface for Neural Machine Translation](https://aclanthology.org/2021.acl-long.348/), `acl2021`
