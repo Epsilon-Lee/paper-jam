@@ -115,13 +115,15 @@
 
 ## Probing methods
 
+- [Intrinsic Probing through Dimension Selection](https://arxiv.org/pdf/2010.02812.pdf), Oct. 6 2020.
+- [Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT](https://arxiv.org/pdf/2004.14786.pdf), May 28 2021.
 - [Probing as Quantifying the Inductive Bias of Pre-trained Representations](https://arxiv.org/pdf/2110.08388.pdf), Oct. 15 2021.
 - [Counterfactual Interventions Reveal the Causal Effect of Relative Clause Representations on Agreement Prediction](https://arxiv.org/pdf/2105.06965.pdf), Sep. 15 2021.
 - [A Latent-Variable Model for Intrinsic Probing](https://arxiv.org/abs/2201.08214), Jan. 20 2022.
 - [ADVERSARIAL CONCEPT ERASURE IN KERNEL SPACE](https://arxiv.org/pdf/2201.12191.pdf), Jan. 28 2022.
 - [LINEAR ADVERSARIAL CONCEPT ERASURE](https://arxiv.org/pdf/2201.12091.pdf), Jan. 28 2022.
 - [On the data requirements of probing](https://arxiv.org/pdf/2202.12801.pdf), Feb. 25 2022.
-
+- [Causal Abstractions of Neural Networks](https://proceedings.neurips.cc/paper/2021/file/4f5c422f4d49a5a807eda27434231040-Paper.pdf), `nips2021`
 
 ## Evaluation
 
