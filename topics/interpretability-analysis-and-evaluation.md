@@ -116,6 +116,7 @@
 ## Probing methods
 
 - [Intrinsic Probing through Dimension Selection](https://arxiv.org/pdf/2010.02812.pdf), Oct. 6 2020.
+- [A Non-Linear Structural Probe](https://arxiv.org/pdf/2105.10185.pdf), May 21 2021.
 - [Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT](https://arxiv.org/pdf/2004.14786.pdf), May 28 2021.
 - [Probing as Quantifying the Inductive Bias of Pre-trained Representations](https://arxiv.org/pdf/2110.08388.pdf), Oct. 15 2021.
 - [Counterfactual Interventions Reveal the Causal Effect of Relative Clause Representations on Agreement Prediction](https://arxiv.org/pdf/2105.06965.pdf), Sep. 15 2021.
