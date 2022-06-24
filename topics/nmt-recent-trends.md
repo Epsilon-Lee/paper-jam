@@ -4,6 +4,7 @@
 - [Cross-Attention is All You Need: Adapting Pretrained Transformers for Machine Translation](https://aclanthology.org/2021.emnlp-main.132.pdf), `emnlp2021`
 - [BERT, MBERT, or BIBERT? A Study on Contextualized Embeddings for Neural Machine Translation](https://aclanthology.org/2021.emnlp-main.534.pdf), `emnlp2021` [code](https://github.com/fe1ixxu/BiBERT).
 - [DEEP: DEnoising Entity Pre-training for Neural Machine Translation](https://arxiv.org/pdf/2111.07393.pdf), Neubig et al. `emnlp2021`
+- [Towards Making the Most of BERT in Neural Machine Translation](https://arxiv.org/abs/1908.05672), `aaai2020`.
 
 
 ### Data Augmentation for NMT
