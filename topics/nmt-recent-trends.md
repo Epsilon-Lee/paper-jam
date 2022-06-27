@@ -45,6 +45,7 @@
 - [The Low-Resource Double Bind: An Empirical Study of Pruning for Low-Resource Machine Translation](https://arxiv.org/pdf/2110.03036.pdf), `pruning` `emnlp2021`
 - [Phrase-level Active Learning for Neural Machine Translation](https://arxiv.org/abs/2106.11375#), Jun. 21 2021.
 - [A Preordered RNN Layer Boosts Neural Machine Translation in Low Resource Settings](https://arxiv.org/pdf/2112.13960.pdf), Dec. 28 2021.
+- [Exploring Diversity in Back Translation for Low-Resource Machine Translation](https://arxiv.org/pdf/2206.00564.pdf), Jun. 1 2022. `lexical/syntactic diversity`
 
 ### Scaling Up
 
