@@ -88,6 +88,10 @@
 - [Flexible and Expandable Dialogue System](https://patentimages.storage.googleapis.com/86/25/99/9f5ddd2b24f446/US11069340.pdf), Jun. 20 2021.
 
 
+## ToD
+
+- [Task-Oriented Dialogue as Dataflow Synthesis](https://arxiv.org/pdf/2009.11423.pdf), Feb. 11 2021, [code](https://github.com/microsoft/task_oriented_dialogue_as_dataflow_synthesis).
+
 ## Open-domain ToD
 
 - [NLU++: A Multi-Label, Slot-Rich, Generalisable Dataset for Natural Language Understanding in Task-Oriented Dialogue](https://arxiv.org/pdf/2204.13021.pdf), Apr. 28 2022. PolyAI.
