@@ -35,6 +35,7 @@
 - [When is BERT Multilingual? Isolating Crucial Ingredients for Cross-lingual Transfer](https://arxiv.org/pdf/2110.14782.pdf), Oct. 27, `emnlp2021`
 - [Few-shot Learning with Multilingual Language Models](https://arxiv.org/pdf/2112.10668.pdf), Dec. 23 2021.
 - [On Cross-Lingual Retrieval with Multilingual Text Encoders](https://arxiv.org/pdf/2112.11031.pdf), Dec. 21 2021.
+- [No Language Left Behind: Scaling Human-Centered Machine Translation](https://arxiv.org/pdf/2207.04672.pdf), Jul. 2022.
 
 ### Efficiency
 
