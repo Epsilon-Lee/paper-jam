@@ -86,7 +86,8 @@
 - [Datamodels: Predicting Predictions from Training Data](https://arxiv.org/abs/2202.00622), Feb. 1 2022.
 - [Deep Learning on a Data Diet: Finding Important Examples Early in Training](https://arxiv.org/abs/2107.07075), Jul. 15 2021. `nips2021`
 - [Scaling Up Influence Functions](https://www.aaai.org/AAAI22Papers/AAAI-5853.SchioppaA.pdf), `aaai2022` [jax implementation](https://github.com/google-research/jax-influence).
-- [FastIF: Scalable Influence Functions for Efficient Model Interpretation and Debugging](https://aclanthology.org/2021.emnlp-main.808/), `emnlp2021` [code](https://github.com/salesforce/fast-influence-functions).
+- [FastIF: Scalable Influence Functions for Efficient Model Interpretation and Debugging](https://aclanthology.org/2021.emnlp-main.808/), `emnlp2021` [code](https://github.com/salesforce/fast-influence-functions)
+- [Unifying Approaches in Data Subset Selection via Fisher Information and Information-Theoretic Quantities](https://arxiv.org/pdf/2208.00549.pdf), Aug. 1 2022.
 
 #### Critics of influence function
 
