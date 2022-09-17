@@ -92,6 +92,7 @@
 #### Critics of influence function
 
 - [Influence Functions in Deep Learning are Fragile](https://arxiv.org/pdf/2006.14651.pdf), Feb. 10 2021, `iclr2021`
+- [If Influence Functions are the Answer, Then What is the Question?](https://arxiv.org/pdf/2209.05364.pdf), arXiv Sep. 12 2022.
 
 
 #### Leveraging interpretation
