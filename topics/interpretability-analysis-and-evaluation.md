@@ -88,6 +88,7 @@
 - [Scaling Up Influence Functions](https://www.aaai.org/AAAI22Papers/AAAI-5853.SchioppaA.pdf), `aaai2022` [jax implementation](https://github.com/google-research/jax-influence).
 - [FastIF: Scalable Influence Functions for Efficient Model Interpretation and Debugging](https://aclanthology.org/2021.emnlp-main.808/), `emnlp2021` [code](https://github.com/salesforce/fast-influence-functions)
 - [Unifying Approaches in Data Subset Selection via Fisher Information and Information-Theoretic Quantities](https://arxiv.org/pdf/2208.00549.pdf), Aug. 1 2022.
+- [The Spotlight: A General Method for Discovering Systematic Errors in Deep Learning Models](https://arxiv.org/pdf/2107.00758.pdf), Oct. 16 2022. `FAC 2022`.
 
 #### Critics of influence function
 
