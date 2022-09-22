@@ -56,6 +56,9 @@
 - [Fast Axiomatic Attribution for Neural Networks](https://arxiv.org/pdf/2111.07668.pdf), Nov. 15 2021. `nips2021`
 - [Fine-Grained Neural Network Explanation by Identifying Input Features with Predictive Information](https://arxiv.org/pdf/2110.01471.pdf), `nips2021` `attribution`.
 - [DANCE: Enhancing saliency maps using decoys](http://proceedings.mlr.press/v139/lu21b/lu21b.pdf), `icml2021`
+- [The explanation game: a formal framework for interpretable machine learning](https://link.springer.com/content/pdf/10.1007/s11229-020-02629-9.pdf), 2021.
+- [Rational Shapley Values](https://arxiv.org/pdf/2106.10191.pdf), May 16 2021.
+- [Local Explanations via Necessity and Sufficiency: Unifying Theory and Practice](https://proceedings.mlr.press/v161/watson21a/watson21a.pdf), `uai2021`.
 
 ### Critics of feature importance
 
