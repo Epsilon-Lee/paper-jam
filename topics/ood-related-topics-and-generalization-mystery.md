@@ -1,6 +1,8 @@
 
 # OOD-related Research Topics and Generalization Mystery
 
+---
+
 Contents of this archive:
 
 - [Out-of-Distribution Learning and Generalization](#out-of-distribution-ood-learning-and-generalization)
@@ -18,6 +20,8 @@ Contents of this archive:
   - [Theories](#theories)
   - [Adversarial training](#adversarial-training)
   - [Attacks](#attacks)
+
+---
 
 ## Out-of-Distribution (OOD) Learning and Generalization
 
@@ -61,6 +65,8 @@ Contents of this archive:
 - [On Label Shift in Domain Adaptation via Wasserstein Distance](https://arxiv.org/pdf/2110.15520.pdf), Oct. 29 2021.
 - [An Information-theoretic Approach to Distribution Shifts](https://arxiv.org/pdf/2106.03783.pdf), Nov. 1 2021. `nips2021`
 - [An opinioin from Cho about distributional robustness](https://twitter.com/kchonyc/status/1455619054786519045), Nov. 3 2021.
+- [Detecting and Correcting for Label Shift with Black Box Predictions](https://proceedings.mlr.press/v80/lipton18a.html), `icml2018`. `label shift`
+- [Estimating and Explaining Model Performance When Both Covariates and Labels Shift](https://arxiv.org/pdf/2209.08436.pdf), Sep. 18 2022. `nips2022` `explanable ml` `covariate shift` `label shift`
 
 ### Connection Between OOD and Adversarials
 
@@ -91,6 +97,7 @@ Contents of this archive:
 - [ReAct: Out-of-distribution Detection With Rectified Activations](https://arxiv.org/abs/2111.12797), Nov. 24 2021.
 - [On the Impact of Spurious Correlation for Out-of-distribution Detection](https://arxiv.org/abs/2109.05642), Sep. 12 2021.
 - [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://arxiv.org/abs/2202.01197), `iclr2022` [code](https://github.com/deeplearning-wisc/vos).
+- [p-DkNN: Out-of-Distribution Detection Through Statistical Testing of Deep Representations](https://arxiv.org/pdf/2207.12545.pdf), Jul. 25 2022. `ood`
 
 ## Robustness
 
