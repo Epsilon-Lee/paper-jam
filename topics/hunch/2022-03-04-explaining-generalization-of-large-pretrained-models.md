@@ -9,3 +9,4 @@ The related papers are listed below:
 - [In-context Learning and Induction Heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html), Mar. 8 2022. `anthropic interpretability team`
 - [Insights into Pre-training via Simpler Synthetic Tasks](https://arxiv.org/abs/2206.10139), Jun. 21 2022.
 - [What Can Transformers Learn In-Context? A Case Study of Simple Function Classes](https://arxiv.org/pdf/2208.01066.pdf), Aug. 1 2022. [Tweet thread](https://twitter.com/tsiprasd/status/1555302289824366592).
+- [Exploring Length Generalization in Large Language Models](https://arxiv.org/pdf/2207.04901.pdf), Jul. 11 2022.
