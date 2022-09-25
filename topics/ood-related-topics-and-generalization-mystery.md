@@ -13,6 +13,7 @@ Contents of this archive:
 - [Out-of-Distribution Detection](#out-of-distribution-detection)
   - [Surveys](#surveys)
   - [Methods](#methods)
+  - [Explanations](#explanations)
 - [Robustness](#robustness)
   - [Surveys](#surveys)
   - [Theories](#theories)
@@ -96,6 +97,11 @@ Contents of this archive:
 - [On the Impact of Spurious Correlation for Out-of-distribution Detection](https://arxiv.org/abs/2109.05642), Sep. 12 2021.
 - [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://arxiv.org/abs/2202.01197), `iclr2022` [code](https://github.com/deeplearning-wisc/vos).
 - [p-DkNN: Out-of-Distribution Detection Through Statistical Testing of Deep Representations](https://arxiv.org/pdf/2207.12545.pdf), Jul. 25 2022. `ood`
+
+### Explanations
+
+- [Concept-based Explanations for Out-Of-Distribution Detectors](https://arxiv.org/pdf/2203.02586.pdf), Mar. 4 2022. `ood` `interpretability`
+
 
 ## Robustness
 
