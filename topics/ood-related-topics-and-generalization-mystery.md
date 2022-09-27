@@ -29,6 +29,7 @@ Contents of this archive:
 
 - [Towards Out-Of-Distribution Generalization: A Survey](https://arxiv.org/pdf/2108.13624.pdf), Aug. 2021.
 - [Generalizing to Unseen Domains: A Survey on Domain Generalization](https://arxiv.org/pdf/2103.03097.pdf), May 24 2022.
+- [Domain Generalization: A Survey](https://ieeexplore.ieee.org/abstract/document/9847099), 2022.
 
 ### OOD generalization theories
 
@@ -60,12 +61,15 @@ Contents of this archive:
 - [IRM - when it works and when it doesn't: A test case of natural language inference](https://openreview.net/forum?id=KtvHbjCF4v), `nips2021`.
 - [Heterogeneous Risk Minimization](https://proceedings.mlr.press/v139/liu21h.html), `icml2021`.
 - [Kernelized Heterogeneous Risk Minimizaton](https://pengcui.thumedialab.com/papers/KernelHRM.pdf), `nips2021`.
+- [Enviroment Inference for Invariant Learning](http://proceedings.mlr.press/v139/creager21a/creager21a.pdf), `icml2021`.
+- [Fishr: Invariant Gradient Variances for Out-of-Distribution Generalization](https://proceedings.mlr.press/v162/rame22a/rame22a.pdf), `icml2022`.
 
 #### Benchmarks
 
-- [WILDS: A Benchmark of in-the-Wild Distribution Shifts](https://arxiv.org/abs/2012.07421), Dec. 14 2020.
+- [WILDS: A Benchmark of in-the-Wild Distribution Shifts](https://arxiv.org/abs/2012.07421), Dec. 14 2020. [icml version](http://proceedings.mlr.press/v139/koh21a/koh21a.pdf).
 - [Extending the WILDS Benchmark for Unsupervised Adaptation](https://arxiv.org/pdf/2112.05090.pdf), Dec. 9 2021.
 - [Shifts: A Dataset of Real Distributional Shift Across Multiple Large-Scale Tasks](https://arxiv.org/pdf/2107.07455.pdf), Jul. 23 2021.
+- [Extending the WILDS Benchmark for Unsupervised Adaptation](https://arxiv.org/abs/2112.05090), arXiv.v1 Dec. 9 2021.
 
 ### Distribution Shift
 
@@ -75,6 +79,10 @@ Contents of this archive:
 - [Detecting and Correcting for Label Shift with Black Box Predictions](https://proceedings.mlr.press/v80/lipton18a.html), `icml2018`. `label shift`
 - [Estimating and Explaining Model Performance When Both Covariates and Labels Shift](https://arxiv.org/pdf/2209.08436.pdf), Sep. 18 2022. `nips2022` `explanable ml` `covariate shift` `label shift`
 - [A Theoretical Analysis on Independence-driven Importance Weighting for Covariate-shift Generalization](https://arxiv.org/pdf/2111.02355.pdf), Jul. 11 2022. `version 3` `covariate shift`
+
+#### Unsupervised Domain Adaptation
+
+- [A Prototype-Oriented Framework for Unsupervised Domain Adaptation](https://proceedings.neurips.cc/paper/2021/file/8edd72158ccd2a879f79cb2538568fdc-Paper.pdf), `nips2021`.
 
 ### Connection Between OOD and Adversarials
 
