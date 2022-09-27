@@ -4,6 +4,7 @@
 Contents of this archive:
 
 - [Out-of-Distribution Learning and Generalization](#out-of-distribution-ood-learning-and-generalization)
+  - [Survey](#survey)
   - [OOD generalization theories](#ood-generalization-theories)
   - [Empirical observations](#empirical-observations)
   - [OOD generalization methods](#ood-generalization-methods)
@@ -23,6 +24,11 @@ Contents of this archive:
 ---
 
 ## Out-of-Distribution (OOD) Learning and Generalization
+
+### Survey
+
+- [Towards Out-Of-Distribution Generalization: A Survey](https://arxiv.org/pdf/2108.13624.pdf), Aug. 2021.
+- [Generalizing to Unseen Domains: A Survey on Domain Generalization](https://arxiv.org/pdf/2103.03097.pdf), May 24 2022.
 
 ### OOD generalization theories
 
@@ -51,7 +57,9 @@ Contents of this archive:
 #### Invariant Risk Minimization
 
 - [DAIR: Data Augmented Invariant Regularization](https://arxiv.org/pdf/2110.11205.pdf), Oct. 21 2021.
-- [IRM - when it works and when it doesn't: A test case of natural language inference](https://openreview.net/forum?id=KtvHbjCF4v), `nips2021`
+- [IRM - when it works and when it doesn't: A test case of natural language inference](https://openreview.net/forum?id=KtvHbjCF4v), `nips2021`.
+- [Heterogeneous Risk Minimization](https://proceedings.mlr.press/v139/liu21h.html), `icml2021`.
+- [Kernelized Heterogeneous Risk Minimizaton](https://pengcui.thumedialab.com/papers/KernelHRM.pdf), `nips2021`.
 
 #### Benchmarks
 
@@ -66,6 +74,7 @@ Contents of this archive:
 - [An opinioin from Cho about distributional robustness](https://twitter.com/kchonyc/status/1455619054786519045), Nov. 3 2021.
 - [Detecting and Correcting for Label Shift with Black Box Predictions](https://proceedings.mlr.press/v80/lipton18a.html), `icml2018`. `label shift`
 - [Estimating and Explaining Model Performance When Both Covariates and Labels Shift](https://arxiv.org/pdf/2209.08436.pdf), Sep. 18 2022. `nips2022` `explanable ml` `covariate shift` `label shift`
+- [A Theoretical Analysis on Independence-driven Importance Weighting for Covariate-shift Generalization](https://arxiv.org/pdf/2111.02355.pdf), Jul. 11 2022. `version 3` `covariate shift`
 
 ### Connection Between OOD and Adversarials
 
