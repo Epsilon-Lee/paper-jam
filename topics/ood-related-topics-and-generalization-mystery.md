@@ -27,9 +27,11 @@ Contents of this archive:
 
 ### Survey
 
+- [A Survey on Domain Adaptation Theory: Learning Bounds and Theoretical Guarantees](https://arxiv.org/pdf/2004.11829.pdf), Jul. 13 2020.
 - [Towards Out-Of-Distribution Generalization: A Survey](https://arxiv.org/pdf/2108.13624.pdf), Aug. 2021.
 - [Generalizing to Unseen Domains: A Survey on Domain Generalization](https://arxiv.org/pdf/2103.03097.pdf), May 24 2022.
 - [Domain Generalization: A Survey](https://ieeexplore.ieee.org/abstract/document/9847099), 2022.
+
 
 ### OOD generalization theories
 
