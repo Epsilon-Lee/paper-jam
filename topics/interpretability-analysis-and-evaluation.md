@@ -8,6 +8,7 @@
   - [Beyond feature attribution](#beyond-feature-attribution)
   - [Dataset attribution methods](#dataset-attribution-methods)
     - [Critics of influence function](#critics-of-influence-function)
+- [Visualization methods](#visualization-methods)
 - [Analysis](#analysis)
 - [Probing methods](#probing-methods)
 - [Evaluation](#evaluation)
@@ -104,6 +105,10 @@
 #### Leveraging interpretation
 
 /
+
+## Visualization methods
+
+- [Can Neural Nets Learn the Same Model Twice? Investigating Reproducibility and Double Descent from the Decision Boundary Perspective](https://arxiv.org/pdf/2203.08124.pdf), Mar. 15 2022.
 
 
 ## Analysis
