@@ -11,6 +11,8 @@ Contents of this archive:
     - [Invariant risk minimization](#invariant-risk-minimization)
     - [Benchmarks](#benchmarks)
     - [Causal representation learning](#causal-representation-learning)
+  - [Distribution shift](#distribution-shift)
+    - [Unsupervised domain adaptation](#unsupervised-domain-adaptation)
   - [Connection between OOD and adversarials](#connection-between-ood-and-adversarials)
 - [Out-of-Distribution Detection](#out-of-distribution-detection)
   - [Surveys](#surveys)
@@ -84,12 +86,17 @@ Contents of this archive:
 
 ### Distribution Shift
 
+- [Detecting and Correcting for Label Shift with Black Box Predictions](https://proceedings.mlr.press/v80/lipton18a.html), `icml2018`. `label shift`
+- [Failing Loudly: An Empirical Study of Methods for Detecting Dataset Shift](https://proceedings.neurips.cc/paper/2019/file/846c260d715e5b854ffad5f70a516c88-Paper.pdf), `nips2019`.
 - [On Label Shift in Domain Adaptation via Wasserstein Distance](https://arxiv.org/pdf/2110.15520.pdf), Oct. 29 2021.
 - [An Information-theoretic Approach to Distribution Shifts](https://arxiv.org/pdf/2106.03783.pdf), Nov. 1 2021. `nips2021`
 - [An opinioin from Cho about distributional robustness](https://twitter.com/kchonyc/status/1455619054786519045), Nov. 3 2021.
-- [Detecting and Correcting for Label Shift with Black Box Predictions](https://proceedings.mlr.press/v80/lipton18a.html), `icml2018`. `label shift`
 - [Estimating and Explaining Model Performance When Both Covariates and Labels Shift](https://arxiv.org/pdf/2209.08436.pdf), Sep. 18 2022. `nips2022` `explanable ml` `covariate shift` `label shift`
 - [A Theoretical Analysis on Independence-driven Importance Weighting for Covariate-shift Generalization](https://arxiv.org/pdf/2111.02355.pdf), Jul. 11 2022. `version 3` `covariate shift`
+
+#### Detection of distribution shift
+
+- [Feature shift detection: Localizing which features have shifted via conditional distribution tests](https://proceedings.neurips.cc/paper/2020/file/e2d52448d36918c575fa79d88647ba66-Paper.pdf), `nips2020`.
 
 #### Unsupervised Domain Adaptation
 
