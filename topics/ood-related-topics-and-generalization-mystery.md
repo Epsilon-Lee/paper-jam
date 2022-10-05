@@ -30,6 +30,7 @@ Contents of this archive:
 
 ### Survey
 
+- [A Survey of Unsupervised Deep Domain Adaptation](https://dl.acm.org/doi/pdf/10.1145/3400066), 2020.
 - [Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice](https://www4.comp.polyu.edu.hk/~cslzhang/paper/TPAMI-MultiClassUDA.pdf), `tpami2020`.
 - [A Survey on Domain Adaptation Theory: Learning Bounds and Theoretical Guarantees](https://arxiv.org/pdf/2004.11829.pdf), Jul. 13 2020.
 - [Towards Out-Of-Distribution Generalization: A Survey](https://arxiv.org/pdf/2108.13624.pdf), Aug. 2021.
