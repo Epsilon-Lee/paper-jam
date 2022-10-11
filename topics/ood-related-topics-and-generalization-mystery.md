@@ -36,6 +36,7 @@ Contents of this archive:
 - [Towards Out-Of-Distribution Generalization: A Survey](https://arxiv.org/pdf/2108.13624.pdf), Aug. 2021.
 - [Generalizing to Unseen Domains: A Survey on Domain Generalization](https://arxiv.org/pdf/2103.03097.pdf), May 24 2022.
 - [Domain Generalization: A Survey](https://ieeexplore.ieee.org/abstract/document/9847099), 2022.
+- [State-of-the-art generalisation research in NLP: a taxonomy and review](https://arxiv.org/pdf/2210.03050.pdf), Oct. 10 2022.
 
 ### OOD generalization theories
 
