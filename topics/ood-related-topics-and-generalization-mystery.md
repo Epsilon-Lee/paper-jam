@@ -12,6 +12,7 @@ Contents of this archive:
     - [Benchmarks](#benchmarks)
     - [Causal representation learning](#causal-representation-learning)
   - [Distribution shift](#distribution-shift)
+    - [Detection of distribution shift](#detection-of-distribution-shift)
     - [Unsupervised domain adaptation](#unsupervised-domain-adaptation)
   - [Connection between OOD and adversarials](#connection-between-ood-and-adversarials)
 - [Out-of-Distribution Detection](#out-of-distribution-detection)
@@ -104,6 +105,11 @@ Contents of this archive:
 #### Unsupervised Domain Adaptation
 
 - [A Prototype-Oriented Framework for Unsupervised Domain Adaptation](https://proceedings.neurips.cc/paper/2021/file/8edd72158ccd2a879f79cb2538568fdc-Paper.pdf), `nips2021`.
+
+#### Test-time inference
+
+- [Test-time recalibration of conformal predictors under distribution shift based on unlabeled examples](https://arxiv.org/pdf/2210.04166.pdf), Oct. 9 2022. `conformal prediction`
+- [Memory-Based Model Editing at Scale](https://proceedings.mlr.press/v162/mitchell22a/mitchell22a.pdf), `icml2022`.
 
 ### Connection Between OOD and Adversarials
 
