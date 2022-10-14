@@ -10,3 +10,9 @@ The related papers are listed below:
 - [Insights into Pre-training via Simpler Synthetic Tasks](https://arxiv.org/abs/2206.10139), Jun. 21 2022.
 - [What Can Transformers Learn In-Context? A Case Study of Simple Function Classes](https://arxiv.org/pdf/2208.01066.pdf), Aug. 1 2022. [Tweet thread](https://twitter.com/tsiprasd/status/1555302289824366592).
 - [Exploring Length Generalization in Large Language Models](https://arxiv.org/pdf/2207.04901.pdf), Jul. 11 2022.
+
+---
+
+### General LLMs generalization ability understanding
+
+- [Transformers generalize differently from information stored in context vs in weights](Transformers generalize differently from information stored in context vs in weights), Oct. 11 2022. [tweet](https://twitter.com/FelixHill84/status/1580566903168282624)
