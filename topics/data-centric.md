@@ -1,9 +1,29 @@
+
+## Data-centric AI/Machine Learning
+
+This repo is used to hold papers that propose data-centric perspectives for machine learning, for examples:
+- [Understanding data augmentation](#understanding-data-augmentation)
+- [Data curation]() (data cleaning, deduplication)
+- data distillation (data summarization, coreset, prototype)
+- fast cross-validation (Jackknife)
+- data attribution and data valuation
+- data removal and machine unlearning
+
+### Understanding data augmentation
+
+- [How Much Data Are Augmentations Worth? An Investigation into Scaling Laws, Invariance, and Implicit Regularization](https://arxiv.org/pdf/2210.06441.pdf), Oct. 12 2022.
+
+### Data curation
+
+
+
+
+
 ### Machine Unlearning
 
 - [On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning](https://arxiv.org/pdf/2110.11891.pdf), Oct. 22 2021.
 - [Dataset inference: Ownership resolution in machine learning](https://arxiv.org/pdf/2104.10706.pdf), Apr. 2021 `iclr021`
 - [Unrolling SGD: Understanding Factors Influencing Machine Unlearning](https://arxiv.org/pdf/2109.13398.pdf), Sep. 27 2021.
-
 
 ### Data Summarization
 
