@@ -2,6 +2,8 @@
 # Interpretability and Interpretable Machine Learning
 
 - [Definition of interpretability](#definition-of-interpretability)
+- [Philosophy of interpretability](#philosophy-of-interpretability)
+- [Theory of interpretability](#theory-of-interpretability)
 - [Interpretation methods](#interpretation-methods)
   - [Feature attribution methods](#feature-attribution-methods)
   - [Critics of feature importance](#critics-of-feature-importance)
@@ -24,6 +26,15 @@
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/), 2019.
   - "It is difficult to (mathematically) define interpretability. A non-mathematical definition of interpretability that I like by Miller 2017 is: **interpretability is the degree to which a human can understand the cause of decision**", and another one by Been Kim is "**interpretability is the degree to which a human can consistently predict the model's result**"
 - [Consistent Counterfactuals for Deep Models](https://arxiv.org/pdf/2110.03109.pdf), `evaluation of interpretability` `iclr2022` submitted.
+
+## Philosophy of interpretability
+
+/
+
+## Theory of interpretability
+
+- [Foundations of Symbolic Languages for Model Interpretability](https://proceedings.neurips.cc/paper/2021/file/60cb558c40e4f18479664069d9642d5a-Paper.pdf), `nips2021`.
+- [Model Interpretability through the Lens of Computational Complexity](https://arxiv.org/pdf/2010.12265.pdf), Nov. 12 2020.
 
 ## Interpretation methods
 
