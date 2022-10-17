@@ -1,4 +1,6 @@
 
+
+
 > _Unclassified papers grouped by time._
 
 **2020**
@@ -21,6 +23,7 @@
 
 
 - [Exemplar VAE: Linking Generative Models, Nearest Neighbor Retrieval, and Data Augmentation](https://proceedings.neurips.cc/paper/2020/file/63c17d596f401acb520efe4a2a7a01ee-Paper.pdf), `nips2020`.
+- [Pointer Value Retrieval: A new benchmark for understanding the limits of neural network generalization](https://arxiv.org/pdf/2107.12580.pdf), Feb. 18 2022.
 - [Generative Models as Distributions of Functions](https://arxiv.org/pdf/2102.04776.pdf%5C%22), `aistats2022`. [github](https://github.com/EmilienDupont/neural-function-distributions).
 - [Discrete Key-Value Bottleneck](https://arxiv.org/pdf/2207.11240.pdf), Jul. 22 2022. `similar to my idea`.
 
@@ -32,3 +35,10 @@
 - [Relational Memory-Augmented Language Models](https://aclanthology.org/2022.tacl-1.32/), Jan. 24 2022.
 - [GNN-LM: Langauge Modeling Based on Global Contexts via GNN](https://arxiv.org/pdf/2110.08743.pdf), May 4 2022.
 - [Training Language Models with Memory Augmentation](https://arxiv.org/pdf/2205.12674.pdf), May 25 2022.
+
+---
+
+## History of FAISS
+
+- [Scalable Nearest Neighbor Algorithms for High Dimensional Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6809191), `tpami` 2014.
+- [Billion-scale similarity search with GPUs](https://arxiv.org/pdf/1702.08734.pdf), Feb. 28 2017.
