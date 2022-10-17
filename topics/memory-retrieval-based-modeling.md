@@ -19,8 +19,10 @@
 
 **kNN for adaptive model**
 
-- [Discrete Key-Value Bottleneck](https://arxiv.org/pdf/2207.11240.pdf), Jul. 22 2022. `similar to my idea`.
+
 - [Exemplar VAE: Linking Generative Models, Nearest Neighbor Retrieval, and Data Augmentation](https://proceedings.neurips.cc/paper/2020/file/63c17d596f401acb520efe4a2a7a01ee-Paper.pdf), `nips2020`.
+- [Generative Models as Distributions of Functions](https://arxiv.org/pdf/2102.04776.pdf%5C%22), `aistats2022`. [github](https://github.com/EmilienDupont/neural-function-distributions).
+- [Discrete Key-Value Bottleneck](https://arxiv.org/pdf/2207.11240.pdf), Jul. 22 2022. `similar to my idea`.
 
 **kNN autoregressive language model**
 
