@@ -129,6 +129,9 @@
 
 ## Probing methods
 
+- [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792), `nips2014`. ***The original paper***
+- [Understanding Intermediate layers using linear classifier probes](https://openreview.net/pdf?id=HJ4-rAVtl) and [a longer version](https://arxiv.org/pdf/1610.01644.pdf), `iclr2017`.
+- [Network Dissection: Quantifying Interpretability of Deep Visual Representations](https://openaccess.thecvf.com/content_cvpr_2017/papers/Bau_Network_Dissection_Quantifying_CVPR_2017_paper.pdf), `cvpr2017`.
 - [On the Global Optima of Kernelized Adversarial Representation Learning](https://arxiv.org/abs/1910.07423), Oct. 16 2019, `iccv2019`.
 - [Intrinsic Probing through Dimension Selection](https://arxiv.org/pdf/2010.02812.pdf), Oct. 6 2020.
 - [A Non-Linear Structural Probe](https://arxiv.org/pdf/2105.10185.pdf), May 21 2021.
@@ -140,6 +143,7 @@
 - [LINEAR ADVERSARIAL CONCEPT ERASURE](https://arxiv.org/pdf/2201.12091.pdf), Jan. 28 2022.
 - [On the data requirements of probing](https://arxiv.org/pdf/2202.12801.pdf), Feb. 25 2022.
 - [Causal Abstractions of Neural Networks](https://proceedings.neurips.cc/paper/2021/file/4f5c422f4d49a5a807eda27434231040-Paper.pdf), `nips2021`
+- [Probing Classifiers: Promises, Shortcomings, and Advances](https://arxiv.org/abs/2102.12452), `cl2021`.
 
 ## Evaluation
 
