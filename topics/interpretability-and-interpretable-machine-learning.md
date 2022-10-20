@@ -11,12 +11,13 @@
   - [Dataset attribution methods](#dataset-attribution-methods)
     - [Critics of influence function](#critics-of-influence-function)
 - [Visualization methods](#visualization-methods)
-- [Analysis](#analysis)
+- [Representation comparison](#representation-comparison)
 - [Probing methods](#probing-methods)
 - [Evaluation](#evaluation)
 - [Transparent model](#transparent-model)
   - [Model editing](#model-editing)
   - [Model debugging](#model-debugging)
+- [Analysis](#analysis)
 
 ## Definition of interpretability
 
@@ -126,21 +127,6 @@
 - [GULP: a prediction-based metric between representations](https://arxiv.org/pdf/2210.06545.pdf), arXiv Oct. 12 2022. `probing`?
   - This paper introduces a family of distance measures between representations that is explicitly motivated by downstream predictive tasks.
 
-## Analysis
-
-- [Controlled Evaluation of Grammatical Knowledge in Mandarin Chinese Language Models](https://arxiv.org/pdf/2109.11058.pdf), Roger Levy et al. `controlled evaluation` `language model`
-- [Can Question Generation Debias Question Answering Models? A Case Study on Question–Context Lexical Overlap](https://arxiv.org/pdf/2109.11256.pdf), `qa`
-- [Sorting through the noise: Testing robustness of information processing in pre-trained language models](https://arxiv.org/pdf/2109.12393.pdf), `language model`
-- [Patterns of Lexical Ambiguity in Contextualised Language Models](https://arxiv.org/pdf/2109.13032.pdf), `language model`
-- [Word Acquisition in Neural Language Models](https://arxiv.org/pdf/2110.02406.pdf), `language model` `learning dynamics`
-- [Self-conditioning pre-trained language models](https://arxiv.org/pdf/2110.02802.pdf), `neuron-level analysis`
-- [How BPE Affects Memorization in Transformers](https://arxiv.org/pdf/2110.02782.pdf), Facebook AI.
-- [Capturing Structural Locality in Non-parametric Language Models](https://arxiv.org/pdf/2110.02870.pdf), CMU data `locality`
-- [Understanding How Encoder-Decoder Architectures Attend](https://arxiv.org/pdf/2110.15253.pdf), Oct. 28 2021. `dynamics of attention`
-- [The Low-Dimensional Linear Geometry of Contextualized Word Representations](https://arxiv.org/pdf/2105.07109.pdf), Sep. 14 2021.
-- [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/pdf/2111.09259.pdf), Nov. 27 2021.
-- [Learning Bounded Context-Free-Grammar via LSTM and the Transformer: Difference and Explanations](https://arxiv.org/pdf/2112.09174.pdf), Dec. 16 2021. `aaai2022`
-
 ## Probing methods
 
 - [On the Global Optima of Kernelized Adversarial Representation Learning](https://arxiv.org/abs/1910.07423), Oct. 16 2019, `iccv2019`.
@@ -179,3 +165,18 @@
 ### Model debugging
 
 - [Debugging Tests for Model Explanations](https://arxiv.org/pdf/2011.05429.pdf), Nov. 10 2020.
+
+## Analysis
+
+- [Controlled Evaluation of Grammatical Knowledge in Mandarin Chinese Language Models](https://arxiv.org/pdf/2109.11058.pdf), Roger Levy et al. `controlled evaluation` `language model`
+- [Can Question Generation Debias Question Answering Models? A Case Study on Question–Context Lexical Overlap](https://arxiv.org/pdf/2109.11256.pdf), `qa`
+- [Sorting through the noise: Testing robustness of information processing in pre-trained language models](https://arxiv.org/pdf/2109.12393.pdf), `language model`
+- [Patterns of Lexical Ambiguity in Contextualised Language Models](https://arxiv.org/pdf/2109.13032.pdf), `language model`
+- [Word Acquisition in Neural Language Models](https://arxiv.org/pdf/2110.02406.pdf), `language model` `learning dynamics`
+- [Self-conditioning pre-trained language models](https://arxiv.org/pdf/2110.02802.pdf), `neuron-level analysis`
+- [How BPE Affects Memorization in Transformers](https://arxiv.org/pdf/2110.02782.pdf), Facebook AI.
+- [Capturing Structural Locality in Non-parametric Language Models](https://arxiv.org/pdf/2110.02870.pdf), CMU data `locality`
+- [Understanding How Encoder-Decoder Architectures Attend](https://arxiv.org/pdf/2110.15253.pdf), Oct. 28 2021. `dynamics of attention`
+- [The Low-Dimensional Linear Geometry of Contextualized Word Representations](https://arxiv.org/pdf/2105.07109.pdf), Sep. 14 2021.
+- [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/pdf/2111.09259.pdf), Nov. 27 2021.
+- [Learning Bounded Context-Free-Grammar via LSTM and the Transformer: Difference and Explanations](https://arxiv.org/pdf/2112.09174.pdf), Dec. 16 2021. `aaai2022`
