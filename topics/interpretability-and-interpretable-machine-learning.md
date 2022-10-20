@@ -121,6 +121,10 @@
 
 - [Can Neural Nets Learn the Same Model Twice? Investigating Reproducibility and Double Descent from the Decision Boundary Perspective](https://arxiv.org/pdf/2203.08124.pdf), Mar. 15 2022.
 
+## Representation comparison
+
+- [GULP: a prediction-based metric between representations](https://arxiv.org/pdf/2210.06545.pdf), arXiv Oct. 12 2022. `probing`?
+  - This paper introduces a family of distance measures between representations that is explicitly motivated by downstream predictive tasks.
 
 ## Analysis
 
