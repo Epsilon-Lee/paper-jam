@@ -101,6 +101,7 @@ Contents of this archive:
 #### Detection of distribution shift
 
 - [Feature shift detection: Localizing which features have shifted via conditional distribution tests](https://proceedings.neurips.cc/paper/2020/file/e2d52448d36918c575fa79d88647ba66-Paper.pdf), `nips2020`.
+- ["Why did the model fail?": Attributing Model Performance Changes to Distributional Shifts](https://arxiv.org/pdf/2210.10769.pdf), Oct. 19 2022.
 
 #### Unsupervised Domain Adaptation
 
