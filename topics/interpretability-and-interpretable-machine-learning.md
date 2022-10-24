@@ -107,18 +107,22 @@
 - [The Spotlight: A General Method for Discovering Systematic Errors in Deep Learning Models](https://arxiv.org/pdf/2107.00758.pdf), Oct. 16 2021. `FAC 2022`.
 - [First is Better Than Last for Training Data Influence](https://arxiv.org/pdf/2202.11844.pdf), Feb. 24 2022. `data-centric`
 
-
 #### Critics of influence function
 
 - [Influence Functions in Deep Learning are Fragile](https://arxiv.org/pdf/2006.14651.pdf), Feb. 10 2021, `iclr2021`
 - [If Influence Functions are the Answer, Then What is the Question?](https://arxiv.org/pdf/2209.05364.pdf), arXiv Sep. 12 2022.
 
-#### Prototypes, exemplars
+#### Instance-based explanation: prototypes, exemplars
 
 - [Prototype selection for interpretable classification](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-5/issue-4/Prototype-selection-for-interpretable/10.1214/11-AOAS495.pdf), 2011.
 - [Examples are not enough, learn to criticize! critism for interpretability](https://proceedings.neurips.cc/paper/2016/file/5680522b8e2bb01943234bce7bf84534-Paper.pdf), `nips2016`.
 - [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://proceedings.neurips.cc/paper/2019/file/adf7ee2dcf142b0e11888e72b43fcb75-Paper.pdf), `nips2019`.
 - [Interpretable Counterfactual Explanations Guided by Prototypes](https://arxiv.org/pdf/1907.02584.pdf), Feb. 18 2020.
+
+**Counterfactual, contrastive explanation**
+
+- [Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives](https://proceedings.neurips.cc/paper/2018/file/c5ff2543b53f4cc0ad3819a36752467b-Paper.pdf), `nips2018`.
+- [Counterfactual Explanations for Machine Learning: A Review](https://arxiv.org/pdf/2010.10596.pdf), Oct. 20 2020.
 
 
 #### Leveraging interpretation
