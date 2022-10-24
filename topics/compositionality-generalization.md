@@ -78,7 +78,7 @@
 - [Improving Compositional Generalization in Semantic Parsing](https://arxiv.org/pdf/2010.05647.pdf), 2020.
 - [Neural Data Augmentation via Example Extrapolation](https://arxiv.org/pdf/2102.01335.pdf), 2021.
 - [Revisiting Iterative Back-Translation from the Perspective of Compositional Generalization](https://arxiv.org/pdf/2012.04276.pdf), `aaai` 2021.
-
+- [Equivariant Transduction through Invariant Alignment](https://arxiv.org/pdf/2209.10926.pdf), `coling2022`. [code](https://github.com/rycolab/equivariant-transduction).
 
 ### Compositionality and interpretability
 
