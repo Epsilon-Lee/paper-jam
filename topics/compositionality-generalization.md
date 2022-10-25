@@ -6,7 +6,7 @@
 - [A benchmark for systematic generalization in grounded language understanding](https://arxiv.org/pdf/2003.05161), `icml` 2020.
 - [Measuring Compositional Generalization: A comprehensive method on realistic data](https://arxiv.org/pdf/1912.09713.pdf), ICLR 2020, Google Brain.
   - They propose a realistic benchmark for evaluating compositional generalization on question answering task that 1) **maximizes compound divergence**, 2) **mininizes atom divergence**
-- [Are Representations Built from the Ground Up? An Empirical Examination of Local Composition in Language Models](https://arxiv.org/pdf/2210.03575.pdf), Oct. 22 2022.
+- 🤍 [Are Representations Built from the Ground Up? An Empirical Examination of Local Composition in Language Models](https://arxiv.org/pdf/2210.03575.pdf), Oct. 22 2022.
   - Empirical investigation into composition of phrase from smaller parts (words, short phrases)
   - They find that LMs may not accurately distinguish between compositional and non-compositional phrases
   - This might also motivate my current (10/25/2022) proposed methods for fraud address detection
