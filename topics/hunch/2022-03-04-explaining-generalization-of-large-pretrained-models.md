@@ -15,4 +15,8 @@ The related papers are listed below:
 
 ### General LLMs generalization ability understanding
 
+- [Distinguishing rule- and exemplar-based generalization in learning systems](https://proceedings.mlr.press/v162/dasgupta22b/dasgupta22b.pdf), `icml2022`.
 - [Transformers generalize differently from information stored in context vs in weights](Transformers generalize differently from information stored in context vs in weights), Oct. 11 2022. [tweet](https://twitter.com/FelixHill84/status/1580566903168282624)
+
+
+
