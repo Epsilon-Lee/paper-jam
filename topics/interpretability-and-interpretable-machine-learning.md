@@ -137,6 +137,7 @@
 
 - [GULP: a prediction-based metric between representations](https://arxiv.org/pdf/2210.06545.pdf), arXiv Oct. 12 2022. `probing`?
   - This paper introduces a family of distance measures between representations that is explicitly motivated by downstream predictive tasks.
+- [On the Versatile Uses of Partial Distance Correlation in Deep Learning](https://arxiv.org/pdf/2207.09684.pdf), Jul. 20 2022.
 
 ## Probing methods
 
