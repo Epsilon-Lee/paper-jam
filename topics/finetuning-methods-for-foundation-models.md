@@ -10,3 +10,4 @@
 - [Raise a child in large language model: Towards effective and generalizable fine-tuning](https://arxiv.org/abs/2109.05687), `emnlp2022`.
 - [AD-DROP: Attribution-Driven Dropout for Robust Language Model Fine-Tuning](https://arxiv.org/pdf/2210.05883.pdf), `nips2022`.
 - [ROSE: Robust Selective Fine-tuning for Pre-trained Language Models](https://arxiv.org/pdf/2210.09658.pdf), `emnlp2022`.
+- [Surgical Fine-Tuning Improves Adaptation to Distribution Shifts](https://arxiv.org/pdf/2210.11466.pdf), Oct. 20 2022.
