@@ -119,7 +119,6 @@ The application from principle of **Invariance**.
 
 - [Rethinking Machine Learning Robustness via its Link with the Out-of-Distribution Problem](https://arxiv.org/pdf/2202.08944.pdf), Feb. 18 2022.
 
-
 ## Out-of-Distribution Detection
 
 ### Surveys
@@ -196,3 +195,6 @@ The application from principle of **Invariance**.
 
 - [Demystifying the Adversarial Robustness of Random Transformation Defenses](https://openreview.net/pdf?id=p4SrFydwO5), Dec. 16 2021.
 
+### Spurious correlation
+
+- [Last Layer Re-Training is Sufficient for Robustness to Spurious Correlations](https://arxiv.org/pdf/2204.02937.pdf), Apr. 6 2022.
