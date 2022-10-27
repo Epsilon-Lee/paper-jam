@@ -13,3 +13,4 @@ This repo function as a place to hold formal language related papers in computat
 ## Learning
 
 - [Transparency Helps Reveal When Language Models Learn Meaning](https://arxiv.org/pdf/2210.07468.pdf), Oct. 14 2022.
+- [Transformers Implement First-Order Logic with Memory Quantifiers](https://arxiv.org/pdf/2210.02671.pdf), Oct. 6 2022.
