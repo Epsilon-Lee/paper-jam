@@ -172,6 +172,8 @@
 
 ## Transparent model
 
+- [Gaining Free or Low-Cost Transparency with Interpretable Partial Substitute](https://arxiv.org/pdf/1802.04346.pdf), `icml2019`.
+
 ### Model editing
 
 - [Editing a classifier by rewriting its prediction rules](https://arxiv.org/pdf/2112.01008.pdf), Dec. 2 2021.
