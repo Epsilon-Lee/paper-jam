@@ -17,6 +17,7 @@ Contents of this archive:
   - [Connection between OOD and adversarials](#connection-between-ood-and-adversarials)
 - [Out-of-Distribution Detection](#out-of-distribution-detection)
   - [Surveys](#surveys)
+  - [Theories](#theories)
   - [Methods](#methods)
   - [Explanations](#explanations)
 - [Robustness](#robustness)
@@ -125,6 +126,10 @@ The application from principle of **Invariance**.
 
 - [Generalized Out-of-Distribution Detection: A Survey](https://arxiv.org/pdf/2110.11334.pdf), Oct. 21 2021.
 - [A Unifying Review of Deep and Shallow Anomaly Detection](https://arxiv.org/abs/2009.11732), Sep. 24 2020.
+
+### Theories
+
+- [Is Out-of-Distribution Detection Learnable?](https://arxiv.org/pdf/2210.14707.pdf), Oct. 26 2022.
 
 ### Methods
 
