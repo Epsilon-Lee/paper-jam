@@ -121,19 +121,25 @@ The application from principle of **Invariance**.
 
 - [Rethinking Machine Learning Robustness via its Link with the Out-of-Distribution Problem](https://arxiv.org/pdf/2202.08944.pdf), Feb. 18 2022.
 
+---
+
 ## Out-of-Distribution Detection
 
 ### Surveys
 
-- [Generalized Out-of-Distribution Detection: A Survey](https://arxiv.org/pdf/2110.11334.pdf), Oct. 21 2021.
 - [A Unifying Review of Deep and Shallow Anomaly Detection](https://arxiv.org/abs/2009.11732), Sep. 24 2020.
+- [Deep learning for anomaly detection: a review](https://arxiv.org/pdf/2007.02500), arXiv.v3 Dec. 5 2020.
+- [A review of uncertainty quantification in deep learning: Techniques, applications and challenges](https://www.sciencedirect.com/science/article/pii/S1566253521001081), 2021.
+- [Generalized Out-of-Distribution Detection: A Survey](https://arxiv.org/pdf/2110.11334.pdf), Oct. 21 2021.
 
 ### Theories
 
 - [Is Out-of-Distribution Detection Learnable?](https://arxiv.org/pdf/2210.14707.pdf), Oct. 26 2022.
+- [Understanding Out-of-distribution:A Perspective of Data Dynamics](https://proceedings.mlr.press/v163/adila22a/adila22a.pdf), I (Still) Can’t Believe It’s Not Better Workshop at NeurIPS 2021.
 
 ### Methods
 
+- [Likelihood Ratios for Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2019/file/1e79596878b2320cac26dd792a6c51c9-Paper.pdf), `nips2019`.
 - [On the Importance of Gradients for Detecting Distributional Shifts in the Wild](https://arxiv.org/pdf/2110.00218.pdf), Oct. 9 2021. `ood detection`
 - [A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges](https://arxiv.org/pdf/2110.14051.pdf), Oct. 26 2021.
 - [Identifying and Benchmarking Natural Out-of-Context Prediction Problems](https://arxiv.org/pdf/2110.13223.pdf), Oct. 25 2021.
@@ -151,12 +157,28 @@ The application from principle of **Invariance**.
 - [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://arxiv.org/abs/2202.01197), `iclr2022` [code](https://github.com/deeplearning-wisc/vos).
 - [p-DkNN: Out-of-Distribution Detection Through Statistical Testing of Deep Representations](https://arxiv.org/pdf/2207.12545.pdf), Jul. 25 2022. `ood`
 - [Oracle Analysis of Representations for Deep Open Set Detection](https://arxiv.org/pdf/2209.11350.pdf), Sep. 22 2022.
-
+- [Deep Hybrid Models for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_Deep_Hybrid_Models_for_Out-of-Distribution_Detection_CVPR_2022_paper.pdf), `cvpr2022`.
 
 ### Explanations
 
 - [Concept-based Explanations for Out-Of-Distribution Detectors](https://arxiv.org/pdf/2203.02586.pdf), Mar. 4 2022. `ood` `interpretability`
 
+### OOD methods for sequential data (text, time series etc.)
+
+- 🤍 [Likelihood Ratios and Generative Classifiers for Unsupervised Out-of-Domain Detection in Task Oriented Dialog](https://arxiv.org/abs/1912.12800), `aaai2020`.
+  - dataset constribution: ROSTD (Real Out-of-domain Sentence from Task-oriented Dialogue), the greatness of ROSTD is that _"examples were authored by annotators with apriori instructions to be out-of-domain w.r.t. sentences in an existing dataset"_
+  - Likelihood ratio based OOD detection methods is better than plain likelihood/density estimation methods (?)
+  - Combination of generative and discriminative learning to outperform simple likelihood based methods
+- 🤍 [Types of Out-of-Distribution Texts and How to Detect Them](https://aclanthology.org/2021.emnlp-main.835.pdf), `emnlp2021`.
+  - _"Across 14 pairs of in-distribution and OOD English natural language understanding datasets, we find that density estimation methods consistently beat calibration methods in **background shift** settings, while perform worse in **semantic shift** settings"_
+- [PnPOOD : Out-Of-Distribution Detection for Text Classification via Plug and Play Data Augmentation](https://arxiv.org/pdf/2111.00506.pdf), Oct. 31 2021. `workshop` of `icml2021`.
+- [On Out-of-Distribution Detection for Audio with Deep Nearest Neighbors](https://arxiv.org/pdf/2210.15283.pdf), Oct. 27 2022.
+
+### Toolkits
+
+- [PyTorch-OOD: A Library for Out-of-Distribution Detection based on PyTorch](https://openaccess.thecvf.com/content/CVPR2022W/HCIS/papers/Kirchheim_PyTorch-OOD_A_Library_for_Out-of-Distribution_Detection_Based_on_PyTorch_CVPRW_2022_paper.pdf), `cvpr2022`.
+
+---
 
 ## Robustness
 
@@ -204,3 +226,4 @@ The application from principle of **Invariance**.
 ### Spurious correlation
 
 - [Last Layer Re-Training is Sufficient for Robustness to Spurious Correlations](https://arxiv.org/pdf/2204.02937.pdf), Apr. 6 2022.
+- [Understanding Rare Spurious Correlations in Neural Networks](https://arxiv.org/abs/2202.05189), Feb. 10 2022.
