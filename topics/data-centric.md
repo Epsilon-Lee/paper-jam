@@ -4,10 +4,11 @@
 This repo is used to hold papers that propose data-centric perspectives for machine learning, for examples:
 - [Understanding data augmentation](#understanding-data-augmentation)
 - [Data curation]() (data cleaning, deduplication)
-- data distillation (data summarization, coreset, prototype)
+- Dataset distillation (data summarization, coreset, prototype)
 - fast cross-validation (Jackknife)
 - data attribution and data valuation
 - data removal and machine unlearning
+
 
 ### Understanding data augmentation
 
@@ -15,8 +16,13 @@ This repo is used to hold papers that propose data-centric perspectives for mach
 
 ### Data curation
 
+xxx
 
 
+### Dataset distillation
+
+- [Efficient Dataset Distillation using Random Feature Approximation](https://arxiv.org/pdf/2210.12067.pdf), Oct. 21 2022. `nips2022`
+  - _"we demo the effectiveness of our approach on tasks involving model interpretability and privacy preservation."_
 
 
 ### Machine Unlearning
