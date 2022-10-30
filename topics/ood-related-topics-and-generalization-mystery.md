@@ -158,6 +158,8 @@ The application from principle of **Invariance**.
 - [p-DkNN: Out-of-Distribution Detection Through Statistical Testing of Deep Representations](https://arxiv.org/pdf/2207.12545.pdf), Jul. 25 2022. `ood`
 - [Oracle Analysis of Representations for Deep Open Set Detection](https://arxiv.org/pdf/2209.11350.pdf), Sep. 22 2022.
 - [Deep Hybrid Models for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_Deep_Hybrid_Models_for_Out-of-Distribution_Detection_CVPR_2022_paper.pdf), `cvpr2022`.
+- [Watermarking for Out-of-distribution Detection](https://arxiv.org/pdf/2210.15198.pdf), Oct. 27 2022.
+  - _reprogramming_ property of deep models
 
 ### Explanations
 
@@ -205,6 +207,7 @@ The application from principle of **Invariance**.
 - [PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures](https://openreview.net/pdf?id=WeUg_KpkFtt), `nips2021` workshop paper
 - [Quantifying and Understanding Adversarial Examples in Discrete Input Spaces](https://arxiv.org/pdf/2112.06276.pdf), Dec. 12 2021.
 - [On the Convergence and Robustness of Adversarial Training](https://arxiv.org/pdf/2112.08304.pdf), Dec. 15 2021.
+- [Nash Equilibria and Pitfalls of Adversarial Training in Adversarial Robustness Games](https://arxiv.org/pdf/2210.12606.pdf), `aistats2022`.
 
 ### Attacks
 
