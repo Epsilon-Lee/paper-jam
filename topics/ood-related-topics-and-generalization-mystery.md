@@ -135,7 +135,7 @@ The application from principle of **Invariance**.
 ### Theories
 
 - [Is Out-of-Distribution Detection Learnable?](https://arxiv.org/pdf/2210.14707.pdf), Oct. 26 2022.
-- [Understanding Out-of-distribution:A Perspective of Data Dynamics](https://proceedings.mlr.press/v163/adila22a/adila22a.pdf), I (Still) Can’t Believe It’s Not Better Workshop at NeurIPS 2021.
+- [Understanding Out-of-distribution:A Perspective of Data Dynamics](https://proceedings.mlr.press/v163/adila22a/adila22a.pdf), I (Still) Can’t Believe It’s Not Better Workshop at NeurIPS 2021. `nips2021`.
 
 ### Methods
 
