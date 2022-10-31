@@ -106,6 +106,7 @@
 - [Unifying Approaches in Data Subset Selection via Fisher Information and Information-Theoretic Quantities](https://arxiv.org/pdf/2208.00549.pdf), Aug. 1 2022.
 - [The Spotlight: A General Method for Discovering Systematic Errors in Deep Learning Models](https://arxiv.org/pdf/2107.00758.pdf), Oct. 16 2021. `FAC 2022`.
 - [First is Better Than Last for Training Data Influence](https://arxiv.org/pdf/2202.11844.pdf), Feb. 24 2022. `data-centric`
+- [Influence Functions for Sequence Tagging Models](https://arxiv.org/abs/2210.14177), Oct. 25 2022. `emnlp2022`.
 
 #### Critics of influence function
 
@@ -119,12 +120,13 @@
 - [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://proceedings.neurips.cc/paper/2019/file/adf7ee2dcf142b0e11888e72b43fcb75-Paper.pdf), `nips2019`.
 - [Interpretable Counterfactual Explanations Guided by Prototypes](https://arxiv.org/pdf/1907.02584.pdf), Feb. 18 2020.
 
-**Counterfactual, contrastive explanation**
+### Counterfactual, contrastive explanation
 
 - [Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives](https://proceedings.neurips.cc/paper/2018/file/c5ff2543b53f4cc0ad3819a36752467b-Paper.pdf), `nips2018`.
 - [Counterfactual Explanations for Machine Learning: A Review](https://arxiv.org/pdf/2010.10596.pdf), Oct. 20 2020.
 - [FACE: Feasible and Actionable Counterfactual Explanations](https://arxiv.org/pdf/1909.09369.pdf), Feb. 24 2020.
-
+- [Diffusion Visual Counterfactual Explanations](https://arxiv.org/pdf/2210.11841.pdf), Oct. 21 2022. `nips2022`.
+- [Counterfactual Generation Under Confounding](https://arxiv.org/abs/2210.12368), Oct. 22 2022.
 
 #### Leveraging interpretation
 
@@ -133,6 +135,9 @@
 ## Visualization methods
 
 - [Can Neural Nets Learn the Same Model Twice? Investigating Reproducibility and Double Descent from the Decision Boundary Perspective](https://arxiv.org/pdf/2203.08124.pdf), Mar. 15 2022.
+- [A Spectral Method for Assessing and Combining Multiple Data Visualizations](https://arxiv.org/pdf/2210.13711.pdf), Oct. 25 2022.
+- [Understanding the Evolution of Linear Regions in Deep Reinforcement Learning](https://arxiv.org/pdf/2210.13611.pdf), Oct. 24 2022.
+  - 
 
 ## Representation comparison
 
