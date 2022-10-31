@@ -139,6 +139,7 @@ The application from principle of **Invariance**.
 
 ### Methods
 
+- [Can You Trust Your Model's Uncertainty Evaluating Predictive Uncertainty Under Dataset Shift](https://proceedings.neurips.cc/paper/2019/file/8558cb408c1d76621371888657d2eb1d-Paper.pdf), `nips2019`.
 - [Likelihood Ratios for Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2019/file/1e79596878b2320cac26dd792a6c51c9-Paper.pdf), `nips2019`.
 - [On the Importance of Gradients for Detecting Distributional Shifts in the Wild](https://arxiv.org/pdf/2110.00218.pdf), Oct. 9 2021. `ood detection`
 - [A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges](https://arxiv.org/pdf/2110.14051.pdf), Oct. 26 2021.
@@ -154,6 +155,12 @@ The application from principle of **Invariance**.
 - [Provable Guarantees for Understanding Out-of-distribution Detection](https://arxiv.org/pdf/2112.00787.pdf), Dec. 1 2021.
 - [ReAct: Out-of-distribution Detection With Rectified Activations](https://arxiv.org/abs/2111.12797), Nov. 24 2021.
 - [On the Impact of Spurious Correlation for Out-of-distribution Detection](https://arxiv.org/abs/2109.05642), Sep. 12 2021.
+- [Entropic Issues in Likelihood-Based OOD Detection](https://proceedings.mlr.press/v163/caterini22a/caterini22a.pdf), I (Still) Can’t Believe It’s Not Better Workshop at NeurIPS 2021, `nips2021`. 
+  - Deep generative models can assign high probability to OOD data than ID data, why?
+  - _"manifold-supported models"_ achieve success recently.
+  - likelihood to be decomposed into KL divergence term + entropy term
+    - Likelihood - $\mathcal{L}_\theta:= - KL - H$.
+    - and likelihood ratio can cancel out the above entropy term.
 - [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://arxiv.org/abs/2202.01197), `iclr2022` [code](https://github.com/deeplearning-wisc/vos).
 - [p-DkNN: Out-of-Distribution Detection Through Statistical Testing of Deep Representations](https://arxiv.org/pdf/2207.12545.pdf), Jul. 25 2022. `ood`
 - [Oracle Analysis of Representations for Deep Open Set Detection](https://arxiv.org/pdf/2209.11350.pdf), Sep. 22 2022.
@@ -165,7 +172,7 @@ The application from principle of **Invariance**.
     - hightly accurate ML classifiers can degrade significantly and provide overly-confident, wrong classification predictions for OOD inputs.
     - The paper said that LM trained autoregressively may suffer more from OOD inputs due to the prediction is constructed step-by-step which might shift more.
   - _"present a highly accurate and lightweight OOD detection method for CLM, and demonstrate its effectiveness on **abstractive summarization** and **translation**"_.
-  - 
+
 
 ### Explanations
 
