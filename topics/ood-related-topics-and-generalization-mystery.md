@@ -196,7 +196,9 @@ The application from principle of **Invariance**.
 
 - [Concept-based Explanations for Out-Of-Distribution Detectors](https://arxiv.org/pdf/2203.02586.pdf), Mar. 4 2022. `ood` `interpretability`
 
-### OOD methods for sequential data (text, time series etc.)
+### OOD methods for sequential data
+
+>  text, behavior sequence on E-commerce platform, time series etc.
 
 - 🤍 [Likelihood Ratios and Generative Classifiers for Unsupervised Out-of-Domain Detection in Task Oriented Dialog](https://arxiv.org/abs/1912.12800), `aaai2020`.
   - dataset constribution: ROSTD (Real Out-of-domain Sentence from Task-oriented Dialogue), the greatness of ROSTD is that _"examples were authored by annotators with apriori instructions to be out-of-domain w.r.t. sentences in an existing dataset"_
