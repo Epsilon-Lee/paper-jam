@@ -202,10 +202,14 @@ The application from principle of **Invariance**.
   - dataset constribution: ROSTD (Real Out-of-domain Sentence from Task-oriented Dialogue), the greatness of ROSTD is that _"examples were authored by annotators with apriori instructions to be out-of-domain w.r.t. sentences in an existing dataset"_
   - Likelihood ratio based OOD detection methods is better than plain likelihood/density estimation methods (?)
   - Combination of generative and discriminative learning to outperform simple likelihood based methods
+- 🤍 [Pretrained Transformers Improve Out-of-Distribution Robustness](https://aclanthology.org/2020.acl-main.244/), `acl2020`.
+  - Although this paper is not devoted to OOD **detection**, it systematically measures out-of-distribution (OOD) generalization for **seven NLP datasets** by constructing a new robustness **benchmark** with realistic distribution shifts.
+  - They found that _"Pretrained transformers are also more effective at detecting anomalous or OOD examples"_.
+  - Distillation can harm robustness, and more diverse pretraining data can enhance robustness.
 - [Contrastive Out-of-Distribution Detection for Pretrained Transformers](https://aclanthology.org/2021.emnlp-main.84.pdf), `emnlp2021`. [github](https://github.com/wzhouad/Contra-OOD). `unsupervised`
   - _Research question_: How to identify semantic drift in real world scenario for text processing models?
   - The method finetunes Transformers with a contrastive loss and this can improve the compactness of representations.
-  - Mahalanobis distance is used (on the representation at the penultimate layer)
+  - _Mahalanobis distance_ is used (on the representation at the penultimate layer)
   - The drastic gain might be resulted form **margin-based** CL loss for compactness of representation of text.
   - Experiments are conducted on SST2, IMDB, TREC-10, 20NG datasets.
 - 🤍 [Types of Out-of-Distribution Texts and How to Detect Them](https://aclanthology.org/2021.emnlp-main.835.pdf), `emnlp2021`.
