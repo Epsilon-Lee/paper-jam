@@ -142,8 +142,18 @@ The application from principle of **Invariance**.
 
 ### Methods
 
-- [Can You Trust Your Model's Uncertainty Evaluating Predictive Uncertainty Under Dataset Shift](https://proceedings.neurips.cc/paper/2019/file/8558cb408c1d76621371888657d2eb1d-Paper.pdf), `nips2019`.
-- [Likelihood Ratios for Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2019/file/1e79596878b2320cac26dd792a6c51c9-Paper.pdf), `nips2019`.
+> OOD detection has a very braod extension, it includes the task from detecting _near ood_ instances to _outliers/novelties_ that have large distinction to the so-called in-distribution data.
+> Based on my current knowledge, OOD detection methods could be divided into two categories: **supervised** and **unsupervised**, which means whether the method uses ood observations.
+> Total unsupervised methods are usually based on ***energy/density estimation*** (_generative modelling_) over the in-distribution data, and conduct statistical test based on certain **statistical** assumption to work it out. While supervised methods can be both ***generative*** and ***discriminative*** with ood data for _smartly_ tuning ood threshold.
+
+- [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://proceedings.neurips.cc/paper/2018/file/abdeb6f575ac5c6676b747bca8d09cc2-Paper.pdf), `nips2018`. [github](https://github.com/pokaxpoka/deep_Mahalanobis_detector). `discriminative`
+- [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://arxiv.org/pdf/1906.12340.pdf), `nips2019`. `generative+discriminative`
+- [Can You Trust Your Model's Uncertainty Evaluating Predictive Uncertainty Under Dataset Shift](https://proceedings.neurips.cc/paper/2019/file/8558cb408c1d76621371888657d2eb1d-Paper.pdf), `nips2019`. `discriminative uncertainty`
+- [Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/abs/1812.04606), `iclr2019`. `citation: 800+`
+  - _Intuition_: diverse image and text data are available in enormous quantities, though they are not the expected anomalous inputs of the task at hand, they can be leveraged as auxiliary tasks to extract generalizable feature for task-specific anomaly detection.
+  - This is called outlier exposure technique, a multitask training technique for more generalizable outlier detection. [github](https://github.com/hendrycks/outlier-exposure).
+  - ***my two cents***: how about generative detector with outlier exposures?
+- [Likelihood Ratios for Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2019/file/1e79596878b2320cac26dd792a6c51c9-Paper.pdf), `nips2019`. `generative`
 - [On the Importance of Gradients for Detecting Distributional Shifts in the Wild](https://arxiv.org/pdf/2110.00218.pdf), Oct. 9 2021. `ood detection`
 - [Identifying and Benchmarking Natural Out-of-Context Prediction Problems](https://arxiv.org/pdf/2110.13223.pdf), Oct. 25 2021.
 - [A Fine-grained Analysis on Distribution Shift](https://arxiv.org/pdf/2110.11328.pdf), Oct. 21 2021.
@@ -187,6 +197,12 @@ The application from principle of **Invariance**.
   - dataset constribution: ROSTD (Real Out-of-domain Sentence from Task-oriented Dialogue), the greatness of ROSTD is that _"examples were authored by annotators with apriori instructions to be out-of-domain w.r.t. sentences in an existing dataset"_
   - Likelihood ratio based OOD detection methods is better than plain likelihood/density estimation methods (?)
   - Combination of generative and discriminative learning to outperform simple likelihood based methods
+- [Contrastive Out-of-Distribution Detection for Pretrained Transformers](https://aclanthology.org/2021.emnlp-main.84.pdf), `emnlp2021`. [github](https://github.com/wzhouad/Contra-OOD). `unsupervised`
+  - _Research question_: How to identify semantic drift in real world scenario for text processing models?
+  - The method finetunes Transformers with a contrastive loss and this can improve the compactness of representations.
+  - Mahalanobis distance is used (on the representation at the penultimate layer)
+  - The drastic gain might be resulted form **margin-based** CL loss for compactness of representation of text.
+  - Experiments are conducted on SST2, IMDB, TREC-10, 20NG datasets.
 - 🤍 [Types of Out-of-Distribution Texts and How to Detect Them](https://aclanthology.org/2021.emnlp-main.835.pdf), `emnlp2021`.
   - _"Across 14 pairs of in-distribution and OOD English natural language understanding datasets, we find that density estimation methods consistently beat calibration methods in **background shift** settings, while perform worse in **semantic shift** settings"_
 - [PnPOOD : Out-Of-Distribution Detection for Text Classification via Plug and Play Data Augmentation](https://arxiv.org/pdf/2111.00506.pdf), Oct. 31 2021. `workshop` of `icml2021`.
