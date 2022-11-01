@@ -147,13 +147,18 @@ The application from principle of **Invariance**.
 > Total unsupervised methods are usually based on ***energy/density estimation*** (_generative modelling_) over the in-distribution data, and conduct statistical test based on certain **statistical** assumption to work it out. While supervised methods can be both ***generative*** and ***discriminative*** with ood data for _smartly_ tuning ood threshold.
 
 - [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://proceedings.neurips.cc/paper/2018/file/abdeb6f575ac5c6676b747bca8d09cc2-Paper.pdf), `nips2018`. [github](https://github.com/pokaxpoka/deep_Mahalanobis_detector). `discriminative`
-- [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://arxiv.org/pdf/1906.12340.pdf), `nips2019`. `generative+discriminative`
+- [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://arxiv.org/pdf/1906.12340.pdf), `nips2019`. `generative+discriminative` [github](https://github.com/hendrycks/ss-ood).
 - [Can You Trust Your Model's Uncertainty Evaluating Predictive Uncertainty Under Dataset Shift](https://proceedings.neurips.cc/paper/2019/file/8558cb408c1d76621371888657d2eb1d-Paper.pdf), `nips2019`. `discriminative uncertainty`
 - [Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/abs/1812.04606), `iclr2019`. `citation: 800+`
   - _Intuition_: diverse image and text data are available in enormous quantities, though they are not the expected anomalous inputs of the task at hand, they can be leveraged as auxiliary tasks to extract generalizable feature for task-specific anomaly detection.
   - This is called outlier exposure technique, a multitask training technique for more generalizable outlier detection. [github](https://github.com/hendrycks/outlier-exposure).
   - ***my two cents***: how about generative detector with outlier exposures?
 - [Likelihood Ratios for Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2019/file/1e79596878b2320cac26dd792a6c51c9-Paper.pdf), `nips2019`. `generative`
+- [Detecting Out-of-Distribution Examples with Gram Matrices](http://proceedings.mlr.press/v119/sastry20a/sastry20a.pdf), `icml2020`. [github](https://github.com/VectorInstitute/gram-ood-detection).
+  - xxx
+- [Contrastive Training for Improved Out-of-Distribution Detection](https://arxiv.org/pdf/2007.05566.pdf), arXiv Jul. 10 2021. `unsupervised`
+  - `Confusion Log Probability`
+  - This paper proves that CLP score especially improves near ood classes.
 - [On the Importance of Gradients for Detecting Distributional Shifts in the Wild](https://arxiv.org/pdf/2110.00218.pdf), Oct. 9 2021. `ood detection`
 - [Identifying and Benchmarking Natural Out-of-Context Prediction Problems](https://arxiv.org/pdf/2110.13223.pdf), Oct. 25 2021.
 - [A Fine-grained Analysis on Distribution Shift](https://arxiv.org/pdf/2110.11328.pdf), Oct. 21 2021.
