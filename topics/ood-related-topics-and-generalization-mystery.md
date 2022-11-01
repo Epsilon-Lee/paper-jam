@@ -91,6 +91,7 @@ The application from principle of **Invariance**.
 #### Causal representation learning
 
 - [Interventional Causal Representation Learning](https://arxiv.org/pdf/2209.11924.pdf), Sep. 24 2022.
+- [Temporally Disentangled Representation Learning](https://arxiv.org/pdf/2210.13647.pdf), Oct. 24 2022.
 
 ### Distribution Shift
 
