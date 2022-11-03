@@ -143,7 +143,7 @@ The application from principle of **Invariance**.
 ### Methods
 
 > OOD detection has a very braod extension, it includes the task from detecting _near ood_ instances to _outliers/novelties_ that have large distinction to the so-called in-distribution data.
-> Based on my current knowledge, OOD detection methods could be divided into two categories: **supervised** and **unsupervised**, which means whether the method uses ood observations.
+> Based on my current knowledge, OOD detection methods could be divided into two categories: **supervised** and **unsupervised**, which means _whether_ the method uses _ood observations_.
 > Total unsupervised methods are usually based on ***energy/density estimation*** (_generative modelling_) over the in-distribution data, and conduct statistical test based on certain **statistical** assumption to work it out. While supervised methods can be both ***generative*** and ***discriminative*** with ood data for _smartly_ tuning ood threshold.
 
 - [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://proceedings.neurips.cc/paper/2018/file/abdeb6f575ac5c6676b747bca8d09cc2-Paper.pdf), `nips2018`. [github](https://github.com/pokaxpoka/deep_Mahalanobis_detector). `discriminative`
@@ -204,11 +204,14 @@ The application from principle of **Invariance**.
   - dataset constribution: ROSTD (Real Out-of-domain Sentence from Task-oriented Dialogue), the greatness of ROSTD is that _"examples were authored by annotators with apriori instructions to be out-of-domain w.r.t. sentences in an existing dataset"_
   - Likelihood ratio based OOD detection methods is better than plain likelihood/density estimation methods (?)
   - Combination of generative and discriminative learning to outperform simple likelihood based methods
-- 🤍 [Pretrained Transformers Improve Out-of-Distribution Robustness](https://aclanthology.org/2020.acl-main.244/), `acl2020`.
+  - This work motivates a series methods for ood detection on task-oritend dialogue
+    - [A Deep Generative Distance-Based Classifier for Out-of-Domain Detection with Mahalanobis Space](https://aclanthology.org/2020.coling-main.125.pdf), `coling2020`. `generaetive` `classifier-based`
+    - [Evaluating the Practical Utility of Confidence-score based Techniques for Unsupervised Open-world Intent Classification](https://aclanthology.org/2022.insights-1.3.pdf), ACL workshop 2022.
+- 🤍 [Pretrained Transformers Improve Out-of-Distribution Robustness](https://aclanthology.org/2020.acl-main.244/), `acl2020`. `unsupervised`
   - Although this paper is not devoted to OOD **detection**, it systematically measures out-of-distribution (OOD) generalization for **seven NLP datasets** by constructing a new robustness **benchmark** with realistic distribution shifts.
   - They found that _"Pretrained transformers are also more effective at detecting anomalous or OOD examples"_.
   - Distillation can harm robustness, and more diverse pretraining data can enhance robustness.
-- [Contrastive Out-of-Distribution Detection for Pretrained Transformers](https://aclanthology.org/2021.emnlp-main.84.pdf), `emnlp2021`. [github](https://github.com/wzhouad/Contra-OOD). `unsupervised`
+- 🤍 [Contrastive Out-of-Distribution Detection for Pretrained Transformers](https://aclanthology.org/2021.emnlp-main.84.pdf), `emnlp2021`. [github](https://github.com/wzhouad/Contra-OOD). `unsupervised` `classfier-based`
   - _Research question_: How to identify semantic drift in real world scenario for text processing models?
   - The method finetunes Transformers with a contrastive loss and this can improve the compactness of representations.
   - _Mahalanobis distance_ is used (on the representation at the penultimate layer)
@@ -218,6 +221,7 @@ The application from principle of **Invariance**.
   - _"Across 14 pairs of in-distribution and OOD English natural language understanding datasets, we find that density estimation methods consistently beat calibration methods in **background shift** settings, while perform worse in **semantic shift** settings"_
 - [PnPOOD : Out-Of-Distribution Detection for Text Classification via Plug and Play Data Augmentation](https://arxiv.org/pdf/2111.00506.pdf), Oct. 31 2021. `workshop` of `icml2021`.
 - [On Out-of-Distribution Detection for Audio with Deep Nearest Neighbors](https://arxiv.org/pdf/2210.15283.pdf), Oct. 27 2022.
+- [Towards Textual Out-of-Domain Detection without any In-Domain Labels](https://neurips2021-nlp.github.io/papers/4/CameraReady/OOD_ENLSP_NeurIPS_workshop_unsupervised.pdf), `taslp2022`
 
 ### Toolkits
 
