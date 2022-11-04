@@ -11,3 +11,4 @@
 - [AD-DROP: Attribution-Driven Dropout for Robust Language Model Fine-Tuning](https://arxiv.org/pdf/2210.05883.pdf), `nips2022`.
 - [ROSE: Robust Selective Fine-tuning for Pre-trained Language Models](https://arxiv.org/pdf/2210.09658.pdf), `emnlp2022`.
 - [Surgical Fine-Tuning Improves Adaptation to Distribution Shifts](https://arxiv.org/pdf/2210.11466.pdf), Oct. 20 2022.
+- [Finetuning language models via epistemic neural networks](https://arxiv.org/pdf/2211.01568.pdf), Nov. 2 2022.
