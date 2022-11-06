@@ -47,6 +47,7 @@ Contents of this archive:
 - [Failure Modes of Domain Generalization Algorithms](https://arxiv.org/pdf/2111.13733.pdf), Nov. 26 2021.
 - [A Theory of Label Propagation for Subpopulation Shift](https://arxiv.org/pdf/2102.11203.pdf), Jul. 20 2021 `distribution shift`
 - [Monotonic Risk Relationships under Distribution Shifts for Regularized Risk Minimization](https://arxiv.org/pdf/2210.11589.pdf), Oct. 20 2022.
+- [On-Demand Sampling: Learning Optimally from Multiple Distributions](fhttps://arxiv.org/pdf/2210.12529.pdf), arXiv Oct. 22 2022.  
 
 ### Empirical observations
 
@@ -109,6 +110,7 @@ The application from principle of **Invariance**.
 
 - [Feature shift detection: Localizing which features have shifted via conditional distribution tests](https://proceedings.neurips.cc/paper/2020/file/e2d52448d36918c575fa79d88647ba66-Paper.pdf), `nips2020`.
 - ["Why did the model fail?": Attributing Model Performance Changes to Distributional Shifts](https://arxiv.org/pdf/2210.10769.pdf), Oct. 19 2022.
+- [Explanation Shift: Detecting distribution shifts on tabular data via the explanation space](https://arxiv.org/pdf/2210.12369.pdf), Oct. 22 2022.
 
 #### Unsupervised Domain Adaptation
 
