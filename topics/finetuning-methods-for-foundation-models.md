@@ -1,6 +1,8 @@
 
 # Fine-tuning methods for foundation models
 
+- [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/pdf/1905.05583.pdf), arXiv.v3 Feb. 5 2020.
+- [Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/pdf/2004.10964.pdf), arXiv.v5 May 5 2020.
 - [Recall and learn: Fine-tuning deep pretrained language models with less forgetting](https://arxiv.org/abs/2004.12651), `emnlp2018`.
 - [Mixout: Effective regularization to finetune large-scale pretrained language models](https://arxiv.org/abs/1909.11299), `iclr2020`.
 - [Smart: Robust and efficient fine-tuning for pre trained natural language models through principled regularized optimization](https://arxiv.org/abs/1911.03437), `acl2020`.
