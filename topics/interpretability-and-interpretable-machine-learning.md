@@ -72,11 +72,13 @@
 - [The explanation game: a formal framework for interpretable machine learning](https://link.springer.com/content/pdf/10.1007/s11229-020-02629-9.pdf), 2021.
 - [Rational Shapley Values](https://arxiv.org/pdf/2106.10191.pdf), May 16 2021.
 - [Local Explanations via Necessity and Sufficiency: Unifying Theory and Practice](https://proceedings.mlr.press/v161/watson21a/watson21a.pdf), `uai2021`.
+- [EXSUM: From Local Explanations to Model Understanding](EXSUM: From Local Explanations to Model Understanding), `naacl2022`.
 
 ### Critics of feature importance
 
 - [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547), Oct. 29 2019 `aaai2018`
 - [On the (In)fidelity and Sensitivity of Explanations](https://proceedings.neurips.cc/paper/2019/file/a7471fdc77b3435276507cc8f2dc2569-Paper.pdf), `nips2019`
+- [Do Feature Attribution Methods Correctly Attribute Features?](https://yilun.scripts.mit.edu/pdf/xaiworkshop2021feature.pdf), `XAI4Debugging@NeurIPS2021`.
 
 ### Beyond feature attribution
 
@@ -125,8 +127,10 @@
 - [Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives](https://proceedings.neurips.cc/paper/2018/file/c5ff2543b53f4cc0ad3819a36752467b-Paper.pdf), `nips2018`.
 - [Counterfactual Explanations for Machine Learning: A Review](https://arxiv.org/pdf/2010.10596.pdf), Oct. 20 2020.
 - [FACE: Feasible and Actionable Counterfactual Explanations](https://arxiv.org/pdf/1909.09369.pdf), Feb. 24 2020.
+- [DeDUCE: Generating Counterfactual Explanations At Scale](https://xai4debugging.github.io/files/papers/deduce_generating_counterfactu.pdf), `XAI4Debugging workshop`, 2021.
 - [Diffusion Visual Counterfactual Explanations](https://arxiv.org/pdf/2210.11841.pdf), Oct. 21 2022. `nips2022`.
 - [Counterfactual Generation Under Confounding](https://arxiv.org/abs/2210.12368), Oct. 22 2022.
+
 
 #### Leveraging interpretation
 
