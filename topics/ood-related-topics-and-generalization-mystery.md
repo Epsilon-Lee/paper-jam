@@ -116,10 +116,11 @@ The application from principle of **Invariance**.
 
 - [A Prototype-Oriented Framework for Unsupervised Domain Adaptation](https://proceedings.neurips.cc/paper/2021/file/8edd72158ccd2a879f79cb2538568fdc-Paper.pdf), `nips2021`.
 
-#### Test-time inference
+#### Test-time adaptation and inference
 
 - [Test-time recalibration of conformal predictors under distribution shift based on unlabeled examples](https://arxiv.org/pdf/2210.04166.pdf), Oct. 9 2022. `conformal prediction`
 - [Memory-Based Model Editing at Scale](https://proceedings.mlr.press/v162/mitchell22a/mitchell22a.pdf), `icml2022`.
+- [Test-time Adaptation via Self-Training with Nearest Neighbor Information](https://openreview.net/pdf?id=EzLtB4M1SbM), `iclr2023 submitted`.
 
 ### Connection Between OOD and Adversarials
 
