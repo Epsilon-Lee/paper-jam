@@ -103,6 +103,7 @@ The application from principle of **Invariance**.
 - [An opinioin from Cho about distributional robustness](https://twitter.com/kchonyc/status/1455619054786519045), Nov. 3 2021.
 - [Estimating and Explaining Model Performance When Both Covariates and Labels Shift](https://arxiv.org/pdf/2209.08436.pdf), Sep. 18 2022. `nips2022` `explanable ml` `covariate shift` `label shift`
 - [A Theoretical Analysis on Independence-driven Importance Weighting for Covariate-shift Generalization](https://arxiv.org/pdf/2111.02355.pdf), Jul. 11 2022. `version 3` `covariate shift`
+- [Unsupervised Learning under Latent Label Shift](https://arxiv.org/pdf/2207.13179.pdf), Jul. 26 2022.
 - [Data Drift Correction via Time-Varying Importance Weight Estimator](https://arxiv.org/pdf/2210.01422.pdf), Oct. 4 2022.
 - [Optimal Representations for Covariate Shift](https://arxiv.org/pdf/2201.00057.pdf), Dec. 31 2021.
 
