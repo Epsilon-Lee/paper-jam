@@ -153,6 +153,7 @@
 
 - [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792), `nips2014`. ***The original paper***
 - [Understanding Intermediate layers using linear classifier probes](https://openreview.net/pdf?id=HJ4-rAVtl) and [a longer version](https://arxiv.org/pdf/1610.01644.pdf), `iclr2017`.
+- [What you can cram into a single vector: Probing sentence embeddings for linguistic properties](https://arxiv.org/abs/1805.01070), May 3 2018.
 - [Network Dissection: Quantifying Interpretability of Deep Visual Representations](https://openaccess.thecvf.com/content_cvpr_2017/papers/Bau_Network_Dissection_Quantifying_CVPR_2017_paper.pdf), `cvpr2017`.
 - [On the Global Optima of Kernelized Adversarial Representation Learning](https://arxiv.org/abs/1910.07423), Oct. 16 2019, `iccv2019`.
 - [Intrinsic Probing through Dimension Selection](https://arxiv.org/pdf/2010.02812.pdf), Oct. 6 2020.
