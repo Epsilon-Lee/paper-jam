@@ -195,6 +195,7 @@ The application from principle of **Invariance**.
   - _"present a highly accurate and lightweight OOD detection method for CLM, and demonstrate its effectiveness on **abstractive summarization** and **translation**"_.
 - [Falsehoods that ML researchers believe about OOD detection](https://arxiv.org/pdf/2210.12767.pdf), Oct. 23 2022.
 - [Revisiting Softmax for Uncertainty Approximation in Text Classification](https://arxiv.org/pdf/2210.14037.pdf), Oct. 25 2022. `uncertainty`
+- [Beyond Mahalanobis-Based Scores for Textual OOD Detection](https://openreview.net/pdf?id=ReB7CCByD6U), `nips2022`.
 
 ### Explanations
 
