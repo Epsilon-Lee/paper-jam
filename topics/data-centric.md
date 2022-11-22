@@ -12,7 +12,10 @@ This repo is used to hold papers that propose data-centric perspectives for mach
 
 ### Understanding data augmentation
 
+- [Explaining the Efficacy of Counterfactually Augmented Data](https://arxiv.org/abs/2010.02114), `iclr2021`.
+  - Also from the same author [Learning the Difference that Makes a Difference with Counterfactually-Augmented Data](https://arxiv.org/abs/1909.12434).
 - [How Much Data Are Augmentations Worth? An Investigation into Scaling Laws, Invariance, and Implicit Regularization](https://arxiv.org/pdf/2210.06441.pdf), Oct. 12 2022.
+- [Data augmentation as feature Manipulation](https://proceedings.mlr.press/v162/shen22a/shen22a.pdf), `icml2022`.
 
 ### Data curation
 
