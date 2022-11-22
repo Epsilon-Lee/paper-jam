@@ -1,4 +1,6 @@
 
+[Init. 11.21.2022]
+
 This discussion is motivated by the lunch talk with a colleague.
 I argue that self-attention is probably the ***end of architecture search*** by human engineering due to its (might-be) proved advantages over feedforward, recurrent and convolutional neural networks [1, 2].
 However, my colleague thinks that there _"must"_ be some neural archs that can be more like the human neural system which gives birth to human intelligence.
@@ -15,6 +17,12 @@ So recurrent NN is not cyclic in terms of NN architecture.
 <!-- So the **real cyclic computation graph** might be defined as _containing cyclic paths with different link parameters instead of shared parameters_. -->
 So the real cyclic computation graph is defined as a computation graph with cycle in at least one input to output path, where the cycle cannot be removed by unfolding.
 This definition reminds me of Hopfield NNs [8].
+
+[Added 11.22.2022]
+
+Today I read a professor's [tweet](https://twitter.com/DimitrisPapail/status/1593664990103363584) about the future arch of LLMs.
+He pointed to two papers [9, 10] about the Turing-completeness of Transformers.
+Weight-sharing can lead to recurrence structure which is implemented in Universal Transformers [9].
 
 ### Refs
 
@@ -33,3 +41,7 @@ This definition reminds me of Hopfield NNs [8].
 [7] [Linear transformers are secretly fast weight programmers](http://proceedings.mlr.press/v139/schlag21a/schlag21a.pdf), `icml2021`.
 
 [8] [Hopfield networks is all you need](https://arxiv.org/pdf/2008.02217.pdf), 2020.
+
+[9] [Universal Transformers](https://openreview.net/forum?id=HyzdRiR9Y7&noteId=HyxfZDmCk4&noteId=rkginvfklN), 2019.
+
+[10] [Transformers Learn Shortcuts to Automata](https://arxiv.org/pdf/2210.10749.pdf), Oct. 19 2022.
