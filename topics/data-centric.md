@@ -9,6 +9,10 @@ This repo is used to hold papers that propose data-centric perspectives for mach
 - data attribution and data valuation
 - data removal and machine unlearning
 
+**Unclassified papers**
+
+- [Beyond neural scaling laws: beating power law scaling via data pruning](https://openreview.net/pdf?id=UmvSlP-PyV), `nips2022` `data selection`.
+
 
 ### Understanding data augmentation
 
