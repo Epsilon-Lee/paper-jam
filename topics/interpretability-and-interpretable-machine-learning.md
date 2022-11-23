@@ -167,6 +167,7 @@
 - [On the data requirements of probing](https://arxiv.org/pdf/2202.12801.pdf), Feb. 25 2022.
 - [Causal Abstractions of Neural Networks](https://proceedings.neurips.cc/paper/2021/file/4f5c422f4d49a5a807eda27434231040-Paper.pdf), `nips2021`
 - [Probing Classifiers: Promises, Shortcomings, and Advances](https://arxiv.org/abs/2102.12452), `cl2021`.
+- [Linear Guardedness and Its Implications](https://arxiv.org/pdf/2210.10012.pdf), Oct. 18 2022.
 
 ## Evaluation
 
