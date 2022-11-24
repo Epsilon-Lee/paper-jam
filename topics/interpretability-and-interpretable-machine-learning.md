@@ -59,6 +59,8 @@
 
 ### Feature attribution methods
 
+- [Learning to Explain: An Information-Theoretic Perspective on Model Interpretation](https://arxiv.org/abs/1802.07814), `icml2018`.
+- [The Shapley Taylor Interaction Index](http://proceedings.mlr.press/v119/sundararajan20a/sundararajan20a.pdf), `icml2020`.
 - [Understanding Interlocking Dynamics of Cooperative Rationalization](https://arxiv.org/pdf/2110.13880.pdf), Oct. 26 2021.
 - [Rationales for Sequential Predictions](https://arxiv.org/pdf/2109.06387.pdf), Keyon Vafa et al. `emnlp2021` `interpretability` `nmt` `combinatorial optimization`
   - *Rationales*: subset of context that ...;
@@ -73,6 +75,7 @@
 - [Rational Shapley Values](https://arxiv.org/pdf/2106.10191.pdf), May 16 2021.
 - [Local Explanations via Necessity and Sufficiency: Unifying Theory and Practice](https://proceedings.mlr.press/v161/watson21a/watson21a.pdf), `uai2021`.
 - [EXSUM: From Local Explanations to Model Understanding](EXSUM: From Local Explanations to Model Understanding), `naacl2022`.
+- [Faith-Shap: The Faithful Shapley Interaction Index](https://arxiv.org/abs/2203.00870), Mar. 9 2022.
 
 ### Critics of feature importance
 
@@ -109,6 +112,7 @@
 - [The Spotlight: A General Method for Discovering Systematic Errors in Deep Learning Models](https://arxiv.org/pdf/2107.00758.pdf), Oct. 16 2021. `FAC 2022`.
 - [First is Better Than Last for Training Data Influence](https://arxiv.org/pdf/2202.11844.pdf), Feb. 24 2022. `data-centric`
 - [Influence Functions for Sequence Tagging Models](https://arxiv.org/abs/2210.14177), Oct. 25 2022. `emnlp2022`.
+- [First is Better Than Last for Language Data Influence](https://arxiv.org/abs/2202.11844), arXiv.v3 Oct. 27 2022. `nips2022`.
 
 #### Critics of influence function
 
