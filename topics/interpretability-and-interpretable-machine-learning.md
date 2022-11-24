@@ -74,7 +74,7 @@
 - [The explanation game: a formal framework for interpretable machine learning](https://link.springer.com/content/pdf/10.1007/s11229-020-02629-9.pdf), 2021.
 - [Rational Shapley Values](https://arxiv.org/pdf/2106.10191.pdf), May 16 2021.
 - [Local Explanations via Necessity and Sufficiency: Unifying Theory and Practice](https://proceedings.mlr.press/v161/watson21a/watson21a.pdf), `uai2021`.
-- [EXSUM: From Local Explanations to Model Understanding](EXSUM: From Local Explanations to Model Understanding), `naacl2022`.
+- [EXSUM: From Local Explanations to Model Understanding](https://arxiv.org/abs/2205.00130), `naacl2022`.
 - [Faith-Shap: The Faithful Shapley Interaction Index](https://arxiv.org/abs/2203.00870), Mar. 9 2022.
 
 ### Critics of feature importance
