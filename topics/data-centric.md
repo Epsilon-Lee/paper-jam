@@ -5,14 +5,14 @@ This repo is used to hold papers that propose data-centric perspectives for mach
 - [Understanding data augmentation](#understanding-data-augmentation)
 - [Data curation]() (data cleaning, deduplication)
 - Dataset distillation (data summarization, coreset, prototype)
-- fast cross-validation (Jackknife)
-- data attribution and data valuation
-- data removal and machine unlearning
+- Fast cross-validation (Jackknife)
+- Datapoint(s) attribution and valuation
+- Datapoint(s) removal and machine unlearning
 
 🤍 ***Unclassified papers***
 
 - [Beyond neural scaling laws: beating power law scaling via data pruning](https://openreview.net/pdf?id=UmvSlP-PyV), `nips2022` `data selection`.
-
+- [Repairing Neural Networks by Leaving the Right Past Behind](https://rt416.github.io/pdf/modelrepairment_preprint_2022.pdf), `nips2022`.`data deletion` `model edit` `failure mode` `causal inference`.
 
 ### Understanding data augmentation
 
