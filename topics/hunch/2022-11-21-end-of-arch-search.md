@@ -1,5 +1,5 @@
 
-[Init. 11.21.2022]
+_[Init. 11.21.2022]_
 
 This discussion is motivated by the lunch talk with a colleague.
 I argue that self-attention is probably the ***end of architecture search*** by human engineering due to its (might-be) proved advantages over feedforward, recurrent and convolutional neural networks [1, 2].
@@ -18,11 +18,16 @@ So recurrent NN is not cyclic in terms of NN architecture.
 So the real cyclic computation graph is defined as a computation graph with cycle in at least one input to output path, where the cycle cannot be removed by unfolding.
 This definition reminds me of Hopfield NNs [8].
 
-[Added 11.22.2022]
+_[Added 11.22.2022]_
 
 Today I read a professor's [tweet](https://twitter.com/DimitrisPapail/status/1593664990103363584) about the future arch of LLMs.
 He pointed to two papers [9, 10] about the Turing-completeness of Transformers.
 Weight-sharing can lead to recurrence structure which is implemented in Universal Transformers [9].
+
+_[Added 12.2.2022]_
+
+Anirudh Goyal together with his PhD advisor Yoshua Bengio have written a survey on inductive biases for deep learning of high-level cognition [11].
+And I witness that recently Bengio's works on future architectures aim to investigate some key contents from [11], e.g. [4, 12].
 
 ### Refs
 
@@ -45,3 +50,7 @@ Weight-sharing can lead to recurrence structure which is implemented in Universa
 [9] [Universal Transformers](https://openreview.net/forum?id=HyzdRiR9Y7&noteId=HyxfZDmCk4&noteId=rkginvfklN), 2019.
 
 [10] [Transformers Learn Shortcuts to Automata](https://arxiv.org/pdf/2210.10749.pdf), Oct. 19 2022.
+
+[11] [Inductive biases for deep learning of high-level cognition](https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2021.0068), Accepted on Sep. 13 2022.
+
+[12] [Synergy between disentanglement and sparsity: a multi-task learning perspective](https://arxiv.org/pdf/2211.14666.pdf), Nov. 26 2022.
