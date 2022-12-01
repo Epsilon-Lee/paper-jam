@@ -107,6 +107,7 @@ The application from principle of **Invariance**.
 - [Data Drift Correction via Time-Varying Importance Weight Estimator](https://arxiv.org/pdf/2210.01422.pdf), Oct. 4 2022.
 - [Optimal Representations for Covariate Shift](https://arxiv.org/pdf/2201.00057.pdf), Dec. 31 2021.
 - [JAWS: Auditing Predictive Uncertainty Under Covariate Shift](https://arxiv.org/pdf/2207.10716v2.pdf), Nov. 23 2022. `nips2022`.
+- [Agreement-on-the-Line: Predicting the Performance of Neural Networks under Distribution Shift](https://arxiv.org/abs/2206.13089), Jun. 27 2022. `nips2022`.
 
 #### Detection of distribution shift
 
