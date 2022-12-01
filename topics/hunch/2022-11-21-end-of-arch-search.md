@@ -27,7 +27,7 @@ Weight-sharing can lead to recurrence structure which is implemented in Universa
 _[Added 12.2.2022]_
 
 Anirudh Goyal together with his PhD advisor Yoshua Bengio have written a survey on inductive biases for deep learning of high-level cognition [11].
-And I witness that recently Bengio's works on future architectures aim to investigate some key contents from [11], e.g. [4, 12].
+And I witness that recently Bengio's works on future architectures aim to investigate some key contents from [11], e.g. [4, 12, 13].
 
 ### Refs
 
@@ -53,4 +53,6 @@ And I witness that recently Bengio's works on future architectures aim to invest
 
 [11] [Inductive biases for deep learning of high-level cognition](https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2021.0068), Accepted on Sep. 13 2022.
 
-[12] [Synergy between disentanglement and sparsity: a multi-task learning perspective](https://arxiv.org/pdf/2211.14666.pdf), Nov. 26 2022.
+[12] [Neural attentive circuits](https://arxiv.org/pdf/2210.08031), `nips2022`.
+
+[13] [Synergy between disentanglement and sparsity: a multi-task learning perspective](https://arxiv.org/pdf/2211.14666.pdf), Nov. 26 2022.
