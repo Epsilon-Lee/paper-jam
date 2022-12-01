@@ -93,6 +93,7 @@ The application from principle of **Invariance**.
 
 - [Interventional Causal Representation Learning](https://arxiv.org/pdf/2209.11924.pdf), Sep. 24 2022.
 - [Temporally Disentangled Representation Learning](https://arxiv.org/pdf/2210.13647.pdf), Oct. 24 2022.
+- [Linear Causal Disentanglement via Interventions](https://arxiv.org/abs/2211.16467), Nov. 29 2022.
 
 ### Distribution Shift
 
@@ -188,6 +189,7 @@ The application from principle of **Invariance**.
   - likelihood to be decomposed into KL divergence term + entropy term
     - Likelihood - $\mathcal{L}_\theta:= - KL - H$.
     - and likelihood ratio can cancel out the above entropy term.
+- [Open-Set Recognition: a Good Closed-Set Classifier is All You Need?](https://arxiv.org/abs/2110.06207), Oct. 12 2021. `iclr2022`.
 - [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://arxiv.org/abs/2202.01197), `iclr2022` [code](https://github.com/deeplearning-wisc/vos).
 - [p-DkNN: Out-of-Distribution Detection Through Statistical Testing of Deep Representations](https://arxiv.org/pdf/2207.12545.pdf), Jul. 25 2022. `ood`
 - [Oracle Analysis of Representations for Deep Open Set Detection](https://arxiv.org/pdf/2209.11350.pdf), Sep. 22 2022.
