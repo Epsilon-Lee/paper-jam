@@ -30,7 +30,8 @@
 
 ## Philosophy of interpretability
 
-/
+- [Seamful XAI: Operationalizing Seamful Design in Explainable AI](https://arxiv.org/pdf/2211.06753.pdf), Nov. 12 2022.
+- [Towards Formal Approximated Minimal Explanations of Neural Networks](https://arxiv.org/pdf/2210.13915.pdf), Oct. 25 2022.
 
 ## Theory of interpretability
 
