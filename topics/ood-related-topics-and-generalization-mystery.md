@@ -109,6 +109,7 @@ The application from principle of **Invariance**.
 - [Optimal Representations for Covariate Shift](https://arxiv.org/pdf/2201.00057.pdf), Dec. 31 2021.
 - [JAWS: Auditing Predictive Uncertainty Under Covariate Shift](https://arxiv.org/pdf/2207.10716v2.pdf), Nov. 23 2022. `nips2022`.
 - [Agreement-on-the-Line: Predicting the Performance of Neural Networks under Distribution Shift](https://arxiv.org/abs/2206.13089), Jun. 27 2022. `nips2022`.
+- [High Dimensional Binary Classification under Label Shift: Phase Transition and Regularization](https://arxiv.org/pdf/2212.00700.pdf), Dec. 5 2022.
 
 #### Detection of distribution shift
 
