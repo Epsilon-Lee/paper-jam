@@ -30,9 +30,10 @@ xxx
 
 > Refer to [Awesome-Dataset-Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation) for a list of papers colllected by Guang Li.
 
-- [Efficient Dataset Distillation using Random Feature Approximation](https://arxiv.org/pdf/2210.12067.pdf), Oct. 21 2022. `nips2022`
+- [Dataset Condensation via Efficient Synthetic-Data Parameterization](https://arxiv.org/pdf/2205.14959.pdf), Jun. 2 2022. `icml2022`.
+- [Efficient Dataset Distillation using Random Feature Approximation](https://arxiv.org/pdf/2210.12067.pdf), Oct. 21 2022. `nips2022`.
   - _"we demo the effectiveness of our approach on tasks involving model interpretability and privacy preservation."_
-- [Dataset Distillation using Neural Feature Regression](https://arxiv.org/pdf/2206.00719.pdf), arXiv Oct. 24 2022. `nips2022`
+- [Dataset Distillation using Neural Feature Regression](https://arxiv.org/pdf/2206.00719.pdf), arXiv Oct. 24 2022. `nips2022`.
 - [Scaling Up Dataset Distillation to ImageNet-1K with Constant Memory](https://arxiv.org/pdf/2211.10586.pdf), Nov. 19 2022.
 
 ### Machine Unlearning
