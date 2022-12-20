@@ -39,6 +39,7 @@
     4. can models' prediction be robust to synonym substitution (paraphrasing)?
     5. does the model favor rules or exceptions during training?
 - [How Do Neural Sequence Models Generalize? Local and Global Context Cues for Out-of-Distribution Prediction](https://aclanthology.org/2021.emnlp-main.448.pdf), `emnlp2021`.
+- [CTL++: Evaluating Generalization on Never-Seen Compositional Patterns of Known Functions, and Compatibility of Neural Representations](https://arxiv.org/pdf/2210.06350.pdf), Oct. 12 2022.
 
 ### Impose compositionality on (neural) models
 
