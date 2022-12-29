@@ -60,6 +60,12 @@
 
 ### Feature attribution methods
 
+#### Survey
+
+- [Explaining by Removing: A Unified Framework for Model Explanation](https://www.jmlr.org/papers/volume22/20-1316/20-1316.pdf), `jmlr2021`.
+
+#### Methods
+
 - [Learning to Explain: An Information-Theoretic Perspective on Model Interpretation](https://arxiv.org/abs/1802.07814), `icml2018`.
 - [The Shapley Taylor Interaction Index](http://proceedings.mlr.press/v119/sundararajan20a/sundararajan20a.pdf), `icml2020`.
 - [Understanding Interlocking Dynamics of Cooperative Rationalization](https://arxiv.org/pdf/2110.13880.pdf), Oct. 26 2021.
@@ -79,14 +85,14 @@
 - [Faith-Shap: The Faithful Shapley Interaction Index](https://arxiv.org/abs/2203.00870), Mar. 9 2022.
 - [Impossibility Theorems for Feature Attribution](https://arxiv.org/pdf/2212.11870.pdf), Dec. 22 2022. `theory`.
 
-### Critics of feature importance
+#### Critics of feature importance
 
 - [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547), Oct. 29 2019 `aaai2018`
 - [On the (In)fidelity and Sensitivity of Explanations](https://proceedings.neurips.cc/paper/2019/file/a7471fdc77b3435276507cc8f2dc2569-Paper.pdf), `nips2019`
 - [Do Feature Attribution Methods Correctly Attribute Features?](https://yilun.scripts.mit.edu/pdf/xaiworkshop2021feature.pdf), `XAI4Debugging@NeurIPS2021`.
 - [The Disagreement Problem in Explainable Machine Learning: A Practitioner’s Perspective](https://arxiv.org/pdf/2202.01602.pdf), Feb. 8 2022.
 
-### Beyond feature attribution
+#### Beyond feature attribution
 
 - [Interpretability beyond feature attribution: Quantitative testing with concept activation vectors (tcav)](http://proceedings.mlr.press/v80/kim18d/kim18d.pdf), `icml2018`
 
