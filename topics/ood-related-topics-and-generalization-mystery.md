@@ -257,7 +257,9 @@ The application from principle of **Invariance**.
 
 ### Theories
 
-- [A Universal Law of Robustness via Isoperimetry](https://nips.cc/virtual/2021/poster/27813), `nips2021` outstanding paper
+- [A Universal Law of Robustness via Isoperimetry](https://nips.cc/virtual/2021/poster/27813), `nips2021` outstanding paper.
+- [Robustness Implies Privacy in Statistical Estimation](https://arxiv.org/abs/2212.05015), Dec. 9 2022.
+  - relationship between differential privacy and adversarial robustness.
 
 ### Adversarial training
 
