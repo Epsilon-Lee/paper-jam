@@ -23,8 +23,10 @@ This repo is used to hold papers that propose data-centric perspectives for mach
 
 ### Data curation
 
-xxx
-
+- [Measuring Data](https://arxiv.org/pdf/2212.05129.pdf), Dec. 9 2022. Huggingface.
+  - _"we define the task of measuring data to quantitatively characterize the composition of machine learning data and datasets"_
+  - _"quantify different attributes of data along common dimensions that support comparison"_, mainly for data of vision and language'
+  - _"Measuring data aids in systematically building and analyzing machine learning (ML) data towards specific goals and gaining better control of what modern ML systems will learn"_
 
 ### Dataset distillation
 
