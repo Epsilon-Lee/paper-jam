@@ -1,4 +1,6 @@
 
+# Data Science
+
 ## Prototype model
 
 - [nanoGPT](https://github.com/karpathy/nanoGPT), the simplest, fastest repo for training/finetuning medium-sized GPTs by Andrew Karpathy.
@@ -20,3 +22,9 @@
 
 - [tiktoken](https://github.com/openai/tiktoken), tiktoken is a fast BPE tokenizer for use with OpenAI's models. `rust` | `python`.
 - [huggingface tokenizers](https://github.com/huggingface/tokenizers), fast state-of-the-art tokenizers optimized for research and production. `rust` | `python`.
+
+## XAI
+
+### Visualization
+
+- [WassersteinTSNE](https://github.com/fsvbach/WassersteinTSNE), wasserstein version of the t-sne algorithm.
