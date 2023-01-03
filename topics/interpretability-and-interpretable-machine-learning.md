@@ -200,6 +200,7 @@
 ## Transparent model
 
 - [Gaining Free or Low-Cost Transparency with Interpretable Partial Substitute](https://arxiv.org/pdf/1802.04346.pdf), `icml2019`.
+- [Self-explaining deep models with logic rule reasoning](https://www.microsoft.com/en-us/research/uploads/prod/2022/10/CameraReady_NeurIPS22_SELOR.pdf), `nips2022`.
 
 ### Rule list model
 
