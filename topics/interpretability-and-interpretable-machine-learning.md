@@ -155,7 +155,7 @@
 - [Can Neural Nets Learn the Same Model Twice? Investigating Reproducibility and Double Descent from the Decision Boundary Perspective](https://arxiv.org/pdf/2203.08124.pdf), Mar. 15 2022.
 - [A Spectral Method for Assessing and Combining Multiple Data Visualizations](https://arxiv.org/pdf/2210.13711.pdf), Oct. 25 2022.
 - [Understanding the Evolution of Linear Regions in Deep Reinforcement Learning](https://arxiv.org/pdf/2210.13611.pdf), Oct. 24 2022.
-  - xxx
+- [Understanding how dimensioin reduction tools work: an empirical approach to deciphering t-SNE, UMAP, TriMap, and PaCMAP for data visualization](https://www.jmlr.org/papers/volume22/20-1061/20-1061.pdf), `jmlr2021`.
 
 ## Representation comparison
 
@@ -200,6 +200,16 @@
 ## Transparent model
 
 - [Gaining Free or Low-Cost Transparency with Interpretable Partial Substitute](https://arxiv.org/pdf/1802.04346.pdf), `icml2019`.
+
+### Rule list model
+
+- [Falling rule lists](http://proceedings.mlr.press/v38/wang15a.pdf), `aistats2015`.
+- [Interpretable classifiers using rules and Bayesian analysis: Building a better stroke prediction model](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-9/issue-3/Interpretable-classifiers-using-rules-and-Bayesian-analysis--Building-a/10.1214/15-AOAS848.full), Sep. 2015, Ann. Appl. Stat. 9(3).
+- [A bayesian framework for learning rule sets for interpretable classification](https://www.jmlr.org/papers/volume18/16-003/16-003.pdf), `jmlr2017`.
+- [Learning certifiably optimal rule lists for categorical data](https://www.jmlr.org/papers/volume18/17-716/17-716.pdf), `jmlr2018`.
+- [Scalable Bayesian rule lists](http://proceedings.mlr.press/v70/yang17h/yang17h.pdf), `icml2017`. [long version](https://arxiv.org/pdf/1602.08610.pdf).
+- [Globally-Consistent Rule-Based Summary-Explanations for Machine Learning Models: Application to Credit-Risk Evaluation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3395422), Jun. 12 2019.
+- [Causal rule sets for identifying subgroups with enhanced treatment effects](https://arxiv.org/pdf/1710.05426), `informs2022`.
 
 ### Model editing
 
