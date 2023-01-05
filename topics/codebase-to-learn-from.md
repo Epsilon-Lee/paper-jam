@@ -5,11 +5,6 @@
 
 # Data Science
 
-## Beyond MLE
-
-- [Quantile risk control: a flexible framework for bounding the probability of high-loss prediction](https://arxiv.org/pdf/2212.13629.pdf), Dec. 27 2022.
-  - 
-
 ## Prototype model
 
 - [nanoGPT](https://github.com/karpathy/nanoGPT), the simplest, fastest repo for training/finetuning medium-sized GPTs by Andrew Karpathy.
