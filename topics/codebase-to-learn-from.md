@@ -27,6 +27,10 @@
 - [tiktoken](https://github.com/openai/tiktoken), tiktoken is a fast BPE tokenizer for use with OpenAI's models. `rust` | `python`.
 - [huggingface tokenizers](https://github.com/huggingface/tokenizers), fast state-of-the-art tokenizers optimized for research and production. `rust` | `python`.
 
+### Evaluation
+
+- [helm](https://github.com/stanford-crfm/helm), Holistic Evaluation of Language Models (HELM), a framework to increase the transparency of language models (https://arxiv.org/abs/2211.09110).
+
 ## XAI
 
 ### Visualization
