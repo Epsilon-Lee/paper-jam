@@ -15,12 +15,17 @@
 - [lightning](https://github.com/Lightning-AI/lightning), build and train pytorch models and connect them to the ML lifecycle using lightning app templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
 - [trlx](https://github.com/CarperAI/trlx), a repo for distributed training of language models with RLFH. `distributed training` | `rlfh`.
 
+## Optimization toolbox
+
+- [cvxpy](https://github.com/cvxpy/cvxpy), A Python-embedded modeling language for convex optimization problems.
+
 ## LLMs and toolkits around
 
 ### Toolbox
 
 - [langchain](https://github.com/hwchase17/langchain), building applications with LLMs through composibility.
 - [gpt_index](https://github.com/jerryjliu/gpt_index), an index created by GPT to organize external information and answer queries.
+- [pyChatGPT](https://github.com/terry3041/pyChatGPT), An unofficial Python wrapper for OpenAI's ChatGPT API.
 
 ### Tokenizers
 
