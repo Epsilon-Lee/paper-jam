@@ -3,6 +3,10 @@
 
 - [google/pygtrie](https://github.com/google/pygtrie), python library implementation of a trie data structure.
 
+# System
+
+- [Hermit: Deterministic Linux for Controlled Testing and Software Bug-finding](https://github.com/facebookexperimental/hermit).
+
 # Data Science
 
 ## Prototype model
