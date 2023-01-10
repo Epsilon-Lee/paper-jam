@@ -20,6 +20,7 @@ Contents of this archive:
   - [Theories](#theories)
   - [Methods](#methods)
   - [Explanations](#explanations)
+  - [OOD methods for time-series data](#ood-methods-for-time-series-data)
 - [Robustness](#robustness)
   - [Surveys](#surveys)
   - [Theories](#theories)
