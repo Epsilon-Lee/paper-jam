@@ -9,6 +9,10 @@
 
 # Data Science
 
+## DL framework
+
+- [tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn), Lightning fast C++/CUDA neural network framework.
+
 ## Prototype model
 
 - [nanoGPT](https://github.com/karpathy/nanoGPT), the simplest, fastest repo for training/finetuning medium-sized GPTs by Andrew Karpathy.
