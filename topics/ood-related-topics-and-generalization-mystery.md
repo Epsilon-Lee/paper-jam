@@ -271,6 +271,7 @@ The application from principle of **Invariance**.
 - [USAD: UnSupervised Anomaly Detection on Multivariate Time Series](), `kdd2020`. `citation: 173`. [code](https://github.com/manigalati/usad).
 - [Multivariate Time-series Anomaly Detection via Graph Attention Network](https://arxiv.org/abs/2009.02040), Sep. 4 2020. `icdm2020`. `citation: 129`. [code](https://github.com/ML4ITS/mtad-gat-pytorch).
 - [Towards a Rigorous Evaluation of Time-series Anomaly Detection](https://arxiv.org/pdf/2109.05257.pdf), Jan. 4 2022. `aaai2022`. `citation: 15`. [code](https://github.com/tuslkkk/tadpak).
+- [Anomaly Transformer: Time series anomaly detection with association discrepancy](https://arxiv.org/pdf/2110.02642.pdf), Jan. 29 2022. `citation: 60`. [code](https://github.com/thuml/Anomaly-Transformer).
 
 **Time-series representation learning**
 
