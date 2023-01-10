@@ -217,7 +217,7 @@ The application from principle of **Invariance**.
 
 ### OOD methods for sequential data
 
->  text, behavior sequence on E-commerce platform, time series etc.
+>  text, audio sequence.
 
 - 🤍 [Likelihood Ratios and Generative Classifiers for Unsupervised Out-of-Domain Detection in Task Oriented Dialog](https://arxiv.org/abs/1912.12800), `aaai2020`.
   - dataset constribution: ROSTD (Real Out-of-domain Sentence from Task-oriented Dialogue), the greatness of ROSTD is that _"examples were authored by annotators with apriori instructions to be out-of-domain w.r.t. sentences in an existing dataset"_
@@ -242,9 +242,48 @@ The application from principle of **Invariance**.
 - [On Out-of-Distribution Detection for Audio with Deep Nearest Neighbors](https://arxiv.org/pdf/2210.15283.pdf), Oct. 27 2022.
 - [Towards Textual Out-of-Domain Detection without any In-Domain Labels](https://neurips2021-nlp.github.io/papers/4/CameraReady/OOD_ENLSP_NeurIPS_workshop_unsupervised.pdf), `taslp2022`
 
+### OOD methods for time-series data
+
+> behavior sequence on E-commerce platform, time series etc.
+
+**Surveys**
+
+- [Anomaly detection for discrete sequences: a survey](https://conservancy.umn.edu/bitstream/handle/11299/215802/09-015.pdf?sequence=1&isAllowed=y), 2010. `citation: 684`.
+- [Outlier detection for temporal data: a survey](https://romisatriawahono.net/lecture/rm/survey/machine%20learning/Gupta%20-%20Outlier%20Detection%20for%20Temporal%20Data%20-%202014.pdf), 2013. `citation: 976`.
+- [Anomaly Detection for IoT Time-Series Data: A Survey](https://eprints.keele.ac.uk/id/eprint/7576/1/08926446.pdf), 2019. `citation: 241`.
+- [A review on outlier/anomaly detection in time series data](https://arxiv.org/pdf/2002.04236.pdf), Feb. 11 2020. `citation: 274`.
+  - This review provides a structured and comprehensive state-of-the-art on outlier detection techniques in the context of time series data.
+  - The detection of outliers or anomalies that may represent errors or events of interest is of critical importance.
+- [Anomaly detection in univariate time-series: a survey on the state-of-the-art](https://arxiv.org/pdf/2004.00433.pdf), Apr. 1 2020. `citation: 122`.
+
+**Methods**
+
+- [Generic and Scalable Framework for Automated Time-series Anomaly Detection](https://netman.aiops.org/~peidan/ANM2021/5.KPIAnomalyDetection/ReadingLists/2015KDD_Generic%20and%20Scalable%20Framework%20for%20Automated%20Time-series%20Anomaly%20Detection.pdf), `kdd2015`. `citation: 420`. [code based on java: EGADS](https://github.com/yahoo/egads).
+- [Long Short Term Memory Networks for Anomaly Detection in Time Series](https://www.researchgate.net/profile/Mohamed-Mourad-Lafifi/post/Optimizing-Long-Short-Term-Memory-Model-CNN-for-anomaly-detection/attachment/5f46fa6bce377e00016f45e8/AS%3A928935898542080%401598486985261/download/Long+Short+Term+Memory+Networks+for+Anomaly+Detection+in+Time+Series.pdf), 2017.
+- [Unsupervised real-time anomaly detection for streaming data](https://www.sciencedirect.com/science/article/pii/S0925231217309864), Nov. 2017. `Neurocomputing`. `citation: 744`. [code](https://github.com/numenta/NAB). [blog](https://numenta.github.io/numenta-web/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/).
+- [Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding](https://arxiv.org/pdf/1802.04431.pdf), Jun. 6 2018. [code](https://github.com/khundman/telemanom). `citation: 566`.
+- [A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data](https://arxiv.org/abs/1811.08055), Nov. 2018. `citation: 422`. [code-tf](https://github.com/7fantasysz/MSCRED), [code-pt](https://github.com/SKvtun/MSCRED-Pytorch) not reproducible.
+- [DeepAnT: A Deep Learning Approach for Unsupervised Anomaly Detection in Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8581424), IEEE Access 2018. `citation: 336`. might-be-useful [code](https://github.com/swlee052/deep-learning-time-series-anomaly-detection), [code](https://github.com/dev-aadarsh/DeepAnT), [code](https://github.com/bmonikraj/medium-ds-unsupervised-anomaly-detection-deepant-lstmae) and [code](https://github.com/datacubeR/DeepAnt).
+- [Anomaly Detection with Generative Adversarial Networks for Multivariate Time Series](https://arxiv.org/abs/1809.04758), Sep. 13 2018. `citation: 220`. [code](https://github.com/LiDan456/GAN-AD).
+- [Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network](https://netman.aiops.org/wp-content/uploads/2019/07/OmniAnomaly_REPRESENTATION.pdf), `kdd2019`. `citation: 389`. [code](https://github.com/NetManAIOps/OmniAnomaly).
+- [Time-Series Anomaly Detection Service at Microsof](https://arxiv.org/pdf/1906.03821.pdf), `kdd2019`. `citation: 248`.
+- [USAD: UnSupervised Anomaly Detection on Multivariate Time Series](), `kdd2020`. `citation: 173`. [code](https://github.com/manigalati/usad).
+- [Multivariate Time-series Anomaly Detection via Graph Attention Network](https://arxiv.org/abs/2009.02040), Sep. 4 2020. `icdm2020`. `citation: 129`. [code](https://github.com/ML4ITS/mtad-gat-pytorch).
+- [Towards a Rigorous Evaluation of Time-series Anomaly Detection](https://arxiv.org/pdf/2109.05257.pdf), Jan. 4 2022. `aaai2022`. `citation: 15`. [code](https://github.com/tuslkkk/tadpak).
+
+**Time-series representation learning**
+
+- [A Transformer-based Framework for Multivariate Time Series Representation Learning](https://dl.acm.org/doi/pdf/10.1145/3447548.3467401), `kdd2021`. [code](https://github.com/gzerveas/mvts_transformer). `citation: 170`.
+- [TS2Vec: Towards Universal Representation of Time Series](https://arxiv.org/abs/2106.10466), `aaai2022`. `citation: 23`.
+
+**Forecasting**
+
+- [Time Series Forecasting With Deep Learning: A Survey](https://arxiv.org/pdf/2004.13408.pdf), Sep. 27 2020.
+
 ### Toolkits
 
 - [PyTorch-OOD: A Library for Out-of-Distribution Detection based on PyTorch](https://openaccess.thecvf.com/content/CVPR2022W/HCIS/papers/Kirchheim_PyTorch-OOD_A_Library_for_Out-of-Distribution_Detection_Based_on_PyTorch_CVPRW_2022_paper.pdf), `cvpr2022`.
+
 
 ---
 
