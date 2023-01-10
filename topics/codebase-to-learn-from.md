@@ -14,7 +14,7 @@
 - [nanoGPT](https://github.com/karpathy/nanoGPT), the simplest, fastest repo for training/finetuning medium-sized GPTs by Andrew Karpathy.
 - [minGPT](https://github.com/karpathy/minGPT), a minimal pytorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training.
 
-## Training+Modeling
+## Training + Modeling
 
 - [fairseq](https://github.com/facebookresearch/fairseq), Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [transformers](https://github.com/huggingface/transformers), 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -23,6 +23,10 @@
 
 - [lightning](https://github.com/Lightning-AI/lightning), build and train pytorch models and connect them to the ML lifecycle using lightning app templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
 - [trlx](https://github.com/CarperAI/trlx), a repo for distributed training of language models with RLFH. `distributed training` | `rlfh`.
+
+## Model serving
+
+- [Petals](https://github.com/bigscience-workshop/petals), Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading.
 
 ## Optimization toolbox
 
