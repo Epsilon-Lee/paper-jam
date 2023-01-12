@@ -18,6 +18,8 @@
   - [Model editing](#model-editing)
   - [Model debugging](#model-debugging)
 - [Analysis](#analysis)
+- [Toolkits](#toolkits)
+
 
 ## Definition of interpretability
 
@@ -156,6 +158,7 @@
 - [A Spectral Method for Assessing and Combining Multiple Data Visualizations](https://arxiv.org/pdf/2210.13711.pdf), Oct. 25 2022.
 - [Understanding the Evolution of Linear Regions in Deep Reinforcement Learning](https://arxiv.org/pdf/2210.13611.pdf), Oct. 24 2022.
 - [Understanding how dimensioin reduction tools work: an empirical approach to deciphering t-SNE, UMAP, TriMap, and PaCMAP for data visualization](https://www.jmlr.org/papers/volume22/20-1061/20-1061.pdf), `jmlr2021`.
+- [Improved visualization of high-dimensional data using the distance-to-distance transformation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010764), Dec. 20 2022. learned this method from [tweet](https://twitter.com/hippopedoid/status/1613096715963211776?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email).
 
 ## Representation comparison
 
@@ -236,3 +239,7 @@
 - [The Low-Dimensional Linear Geometry of Contextualized Word Representations](https://arxiv.org/pdf/2105.07109.pdf), Sep. 14 2021.
 - [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/pdf/2111.09259.pdf), Nov. 27 2021.
 - [Learning Bounded Context-Free-Grammar via LSTM and the Transformer: Difference and Explanations](https://arxiv.org/pdf/2112.09174.pdf), Dec. 16 2021. `aaai2022`
+
+## Toolkits
+
+- [imodels](https://github.com/csinva/imodels), Interpretable ML package 🔍 for concise, transparent, and accurate predictive modeling (sklearn-compatible). [paper](https://www.theoj.org/joss-papers/joss.03192/10.21105.joss.03192.pdf). published at May 4 2021.
