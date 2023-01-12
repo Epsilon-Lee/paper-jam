@@ -286,6 +286,14 @@ The application from principle of **Invariance**.
 
 - [PyTorch-OOD: A Library for Out-of-Distribution Detection based on PyTorch](https://openaccess.thecvf.com/content/CVPR2022W/HCIS/papers/Kirchheim_PyTorch-OOD_A_Library_for_Out-of-Distribution_Detection_Based_on_PyTorch_CVPRW_2022_paper.pdf), `cvpr2022`.
 
+**Methods for low-resource**
+
+> This might be related to anomaly detection in time-series data, but related on time series processing in low-resource scenario.
+
+- [Meta-learning framework with applications to zero-shot time-series forecasting](https://arxiv.org/pdf/2002.02887.pdf), Dec. 14 2020. `transfer learning`.
+- [Spacecraft Time-Series Anomaly Detection Using Transfer Learning](https://openaccess.thecvf.com/content/CVPR2021W/AI4Space/papers/Baireddy_Spacecraft_Time-Series_Anomaly_Detection_Using_Transfer_Learning_CVPRW_2021_paper.pdf), 2021. `transfer learning`.
+- [Intra-domain and cross-domain transfer learning for time series data – How transferable are the features?](https://arxiv.org/pdf/2201.04449.pdf), Jan. 13 2022.
+- [Time Series Data Augmentation for Deep Learning: A Survey](https://arxiv.org/pdf/2002.12478.pdf), Mar. 31 2022. `data augmentation`.
 
 ---
 
