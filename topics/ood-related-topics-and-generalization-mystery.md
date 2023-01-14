@@ -122,6 +122,8 @@ The application from principle of **Invariance**.
 
 #### Unsupervised Domain Adaptation
 
+- [A review of domain adaptation without target labels](https://arxiv.org/pdf/1901.05335.pdf), Jul. 24 2019.
+- [A Dirt-T Approach for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1802.08735.pdf), Mar. 19 2018. `citation: 483`.
 - [A Prototype-Oriented Framework for Unsupervised Domain Adaptation](https://proceedings.neurips.cc/paper/2021/file/8edd72158ccd2a879f79cb2538568fdc-Paper.pdf), `nips2021`.
 
 #### Test-time adaptation and inference
