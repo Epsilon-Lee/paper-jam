@@ -256,6 +256,7 @@ The application from principle of **Invariance**.
   - This review provides a structured and comprehensive state-of-the-art on outlier detection techniques in the context of time series data.
   - The detection of outliers or anomalies that may represent errors or events of interest is of critical importance.
 - [Anomaly detection in univariate time-series: a survey on the state-of-the-art](https://arxiv.org/pdf/2004.00433.pdf), Apr. 1 2020. `citation: 122`.
+- [Deep Learning for Anomaly Detection in Time-Series Data: Review, Analysis, and Guidelines](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9523565), `IEEE Acess 2021`.
 
 **Benchmarks and toolkits**
 
@@ -279,8 +280,9 @@ The application from principle of **Invariance**.
 - [Time-Series Anomaly Detection Service at Microsof](https://arxiv.org/pdf/1906.03821.pdf), `kdd2019`. `citation: 248`.
 - [USAD: UnSupervised Anomaly Detection on Multivariate Time Series](), `kdd2020`. `citation: 173`. [code](https://github.com/manigalati/usad).
 - [Multivariate Time-series Anomaly Detection via Graph Attention Network](https://arxiv.org/abs/2009.02040), Sep. 4 2020. `icdm2020`. `citation: 129`. [code](https://github.com/ML4ITS/mtad-gat-pytorch).
+- [TadGAN: Time Series Anomaly Detection Using Generative Adversarial Networks](https://arxiv.org/pdf/2009.07769.pdf), Nov. 14 2020. [github](https://github.com/sintel-dev/Orion). `citation: 100+`.
+- [Neural Contextual Anomaly Detection for Time Series](https://arxiv.org/pdf/2107.07702.pdf), `nips2021`. [github](https://github.com/Francois-Aubet/gluon-ts/tree/adding_ncad_to_nursery/src/gluonts/nursery/ncad). `citation: 10+`
 - [Anomaly Transformer: Time series anomaly detection with association discrepancy](https://arxiv.org/pdf/2110.02642.pdf), Jan. 29 2022. `citation: 60`. [code](https://github.com/thuml/Anomaly-Transformer).
-
 
 **Time-series representation learning**
 
