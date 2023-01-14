@@ -6,6 +6,7 @@
 # System
 
 - [Hermit: Deterministic Linux for Controlled Testing and Software Bug-finding](https://github.com/facebookexperimental/hermit).
+- [codon](https://github.com/exaloop/codon), A high-performance, zero-overhead, extensible Python compiler using LLVM.
 
 # Data Science
 
