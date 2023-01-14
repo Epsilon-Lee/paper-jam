@@ -295,10 +295,16 @@ The application from principle of **Invariance**.
 
 > This might be related to anomaly detection in time-series data, but related on time series processing in low-resource scenario.
 
-- [Meta-learning framework with applications to zero-shot time-series forecasting](https://arxiv.org/pdf/2002.02887.pdf), Dec. 14 2020. `transfer learning`.
+- [Transfer learning for time series classification](https://arxiv.org/abs/1811.01533), Nov. 5 2018.
+- [Reconstruction and Regression Loss for Time-Series Transfer Learning](https://kdd-milets.github.io/milets2018/papers/milets18_paper_2.pdf)， `kdd2018`.
+- [Time Series Anomaly Detection Using Convolutional Neural Networks and Transfer Learning](https://arxiv.org/pdf/1905.13628.pdf), May 31 2019. `aaai2019`.
+- [Time Series Data Augmentation for Deep Learning: A Survey](https://arxiv.org/pdf/2002.12478.pdf), Feb. 27 2020. `data augmentation`.
+- [Meta-learning framework with applications to zero-shot time-series forecasting](https://arxiv.org/pdf/2002.02887.pdf), Dec. 14 2020. `transfer learning`. [github](https://github.com/Nixtla/transfer-learning-time-series).
+- [Unsupervised transfer learning for anomaly detection: Application to complementary operating condition transfer](https://www.sciencedirect.com/science/article/pii/S0950705121000794), 2021.
+- [Implementing transfer learning across different datasets for time series forecasting](https://www.sciencedirect.com/science/article/pii/S0031320320304209), 2021.
 - [Spacecraft Time-Series Anomaly Detection Using Transfer Learning](https://openaccess.thecvf.com/content/CVPR2021W/AI4Space/papers/Baireddy_Spacecraft_Time-Series_Anomaly_Detection_Using_Transfer_Learning_CVPRW_2021_paper.pdf), 2021. `transfer learning`.
+- [Forecasting adverse surgical events using self-supervised transfer learning for physiological signals](https://www.nature.com/articles/s41746-021-00536-y), 2021.
 - [Intra-domain and cross-domain transfer learning for time series data – How transferable are the features?](https://arxiv.org/pdf/2201.04449.pdf), Jan. 13 2022.
-- [Time Series Data Augmentation for Deep Learning: A Survey](https://arxiv.org/pdf/2002.12478.pdf), Mar. 31 2022. `data augmentation`.
 
 ### Toolkits
 
