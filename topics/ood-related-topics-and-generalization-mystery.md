@@ -113,10 +113,13 @@ The application from principle of **Invariance**.
 - [High Dimensional Binary Classification under Label Shift: Phase Transition and Regularization](https://arxiv.org/pdf/2212.00700.pdf), Dec. 5 2022.
 - [Covariate-Shift Generalization via Random Sample Weighting](https://pengcui.thumedialab.com/papers/RandomSampleWeighting.pdf), `aaai2022`.
 
-
 #### Detection of distribution shift
 
 - [Feature shift detection: Localizing which features have shifted via conditional distribution tests](https://proceedings.neurips.cc/paper/2020/file/e2d52448d36918c575fa79d88647ba66-Paper.pdf), `nips2020`.
+- [Evaluating Robustness to Dataset Shift via Parametric Robustness Sets](https://arxiv.org/abs/2205.15947), May 31 2022. `nips2022`.
+  - _"We give a method for proactively identifying small, plausible shifts in distribution which lead to large differences in model performance."_
+  - _"These shifts are defined via parametric changes in the causal mechanisms of observed variables, where constraints on parameters yield a 'robustness set' of plausible distributions and a corresponding worst-case loss over the set"_
+  - _"We apply our approach to a computer vision task (classifying gender from images), revealing sensitivity to shifts in non-causal attributes"_
 - ["Why did the model fail?": Attributing Model Performance Changes to Distributional Shifts](https://arxiv.org/pdf/2210.10769.pdf), Oct. 19 2022.
 - [Explanation Shift: Detecting distribution shifts on tabular data via the explanation space](https://arxiv.org/pdf/2210.12369.pdf), Oct. 22 2022.
 
@@ -274,6 +277,7 @@ The application from principle of **Invariance**.
 - [Towards a Rigorous Evaluation of Time-series Anomaly Detection](https://arxiv.org/pdf/2109.05257.pdf), Jan. 4 2022. `aaai2022`. `citation: 15`. [code](https://github.com/tuslkkk/tadpak).
 - [TimeEval: a benchmarking toolkit for time series anomaly detection algotithms](https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/publications/PDFs/2022_wenig_timeeval.pdf), `vldb2022`.
 - [AnomalyKiTS: Anomaly Detection Toolkit for Time Series](https://ojs.aaai.org/index.php/AAAI/article/view/21730), `aaai2022`.
+- [Local Evaluation of Time Series Anomaly Detection Algorithms](https://arxiv.org/pdf/2206.13167.pdf), `kdd2022`.
 
 **Methods**
 
@@ -295,6 +299,7 @@ The application from principle of **Invariance**.
 
 **Time-series representation learning**
 
+- [Time-series Generative Adversarial Networks](https://proceedings.neurips.cc/paper/2019/file/c9efe5f26cd17ba6216bbe2a7d26d490-Paper.pdf), `nips2019`. `citation: 396`.
 - [A Transformer-based Framework for Multivariate Time Series Representation Learning](https://dl.acm.org/doi/pdf/10.1145/3447548.3467401), `kdd2021`. [code](https://github.com/gzerveas/mvts_transformer). `citation: 170`.
 - [TS2Vec: Towards Universal Representation of Time Series](https://arxiv.org/abs/2106.10466), `aaai2022`. `citation: 23`.
 
