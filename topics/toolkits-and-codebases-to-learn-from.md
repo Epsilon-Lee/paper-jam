@@ -1,9 +1,21 @@
 
 # Toolkits to Learn From
 
+- [AI](#ai)
+- [Annotation](#annotation)
+- [Production tools](#production-tools)
+
+## AI
+
 - [weaviate](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate), Semantic search through a vectorized Wikipedia (SentenceBERT) with the Weaviate vector search engine.
+
+## Annotation
+
 - [Rubrix](https://rubrix.readthedocs.io/en/stable/), annotation tools for visualization and quick model construction for a specific task.
 - [brat rapid annotation tool](https://brat.nlplab.org/index.html).
+
+## Production tools
+
 - [pdfminer.six](https://github.com/pdfminer/pdfminer.six).
   - Community maintained fork of pdfminer - we fathom PDF.
 - [pdfplumber](https://github.com/jsvine/pdfplumber).
@@ -12,6 +24,11 @@
 ---
 
 # Codebases to Learn From
+
+- [Data Structure](#data-structure)
+- [System](#system)
+- [Data Science](#data-science)
+- []
 
 ## Data Structure
 
@@ -53,23 +70,23 @@
 
 ### LLMs and toolkits around
 
-#### Toolbox
+**Toolbox**
 
 - [langchain](https://github.com/hwchase17/langchain), building applications with LLMs through composibility.
 - [gpt_index](https://github.com/jerryjliu/gpt_index), an index created by GPT to organize external information and answer queries.
 - [pyChatGPT](https://github.com/terry3041/pyChatGPT), An unofficial Python wrapper for OpenAI's ChatGPT API.
 
-#### Tokenizers
+**Tokenizers**
 
 - [tiktoken](https://github.com/openai/tiktoken), tiktoken is a fast BPE tokenizer for use with OpenAI's models. `rust` | `python`.
 - [huggingface tokenizers](https://github.com/huggingface/tokenizers), fast state-of-the-art tokenizers optimized for research and production. `rust` | `python`.
 
-#### Evaluation
+**Evaluation**
 
 - [helm](https://github.com/stanford-crfm/helm), Holistic Evaluation of Language Models (HELM), a framework to increase the transparency of language models (https://arxiv.org/abs/2211.09110).
 
 ### XAI
 
-#### Visualization
+**Visualization**
 
 - [WassersteinTSNE](https://github.com/fsvbach/WassersteinTSNE), wasserstein version of the t-sne algorithm.
