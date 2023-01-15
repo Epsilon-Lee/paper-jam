@@ -28,7 +28,6 @@
 - [Data Structure](#data-structure)
 - [System](#system)
 - [Data Science](#data-science)
-- []
 
 ## Data Structure
 
