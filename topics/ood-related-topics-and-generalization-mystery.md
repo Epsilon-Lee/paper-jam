@@ -251,8 +251,9 @@ The application from principle of **Invariance**.
 - 🤍 [Types of Out-of-Distribution Texts and How to Detect Them](https://aclanthology.org/2021.emnlp-main.835.pdf), `emnlp2021`.
   - _"Across 14 pairs of in-distribution and OOD English natural language understanding datasets, we find that density estimation methods consistently beat calibration methods in **background shift** settings, while perform worse in **semantic shift** settings"_
 - [PnPOOD : Out-Of-Distribution Detection for Text Classification via Plug and Play Data Augmentation](https://arxiv.org/pdf/2111.00506.pdf), Oct. 31 2021. `workshop` of `icml2021`.
+- [Novelty Detection: A Perspective from Natural Language Processing](https://aclanthology.org/2022.cl-1.3.pdf), `cl2021`.
 - [On Out-of-Distribution Detection for Audio with Deep Nearest Neighbors](https://arxiv.org/pdf/2210.15283.pdf), Oct. 27 2022.
-- [Towards Textual Out-of-Domain Detection without any In-Domain Labels](https://neurips2021-nlp.github.io/papers/4/CameraReady/OOD_ENLSP_NeurIPS_workshop_unsupervised.pdf), `taslp2022`
+- [Towards Textual Out-of-Domain Detection without any In-Domain Labels](https://neurips2021-nlp.github.io/papers/4/CameraReady/OOD_ENLSP_NeurIPS_workshop_unsupervised.pdf), `taslp2022`.
 
 ### OOD methods for time-series data
 
