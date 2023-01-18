@@ -40,8 +40,12 @@
 
 ## Data Science
 
-### DL framework
+### Traditional ML and DL framework
 
+- [xgboost](https://github.com/dmlc/xgboost).
+  - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow.
+- [Vopal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit).
+  - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 - [tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn), Lightning fast C++/CUDA neural network framework.
 
 ### Prototype model
