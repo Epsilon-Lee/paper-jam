@@ -93,6 +93,7 @@
 - [On the (In)fidelity and Sensitivity of Explanations](https://proceedings.neurips.cc/paper/2019/file/a7471fdc77b3435276507cc8f2dc2569-Paper.pdf), `nips2019`
 - [Do Feature Attribution Methods Correctly Attribute Features?](https://yilun.scripts.mit.edu/pdf/xaiworkshop2021feature.pdf), `XAI4Debugging@NeurIPS2021`.
 - [The Disagreement Problem in Explainable Machine Learning: A Practitioner’s Perspective](https://arxiv.org/pdf/2202.01602.pdf), Feb. 8 2022.
+- [Sanity Simulation for Saliency Methods](https://arxiv.org/pdf/2105.06506.pdf), `icml2022`.
 
 #### Beyond feature attribution
 
