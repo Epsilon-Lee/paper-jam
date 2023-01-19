@@ -47,6 +47,7 @@
 - [Vopal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit).
   - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 - [tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn), Lightning fast C++/CUDA neural network framework.
+- [oneflow](https://github.com/Oneflow-Inc/oneflow), OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient. `c++`.
 
 ### Prototype model
 
