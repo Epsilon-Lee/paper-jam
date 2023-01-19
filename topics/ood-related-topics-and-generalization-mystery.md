@@ -312,6 +312,7 @@ The application from principle of **Invariance**.
 
 > This might be related to anomaly detection in time-series data, but related on time series processing in low-resource scenario.
 
+- [A survey on heterogeneous transfer learning](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-017-0089-0#Sec17), Journal of Big Data, 2017.
 - [Transfer learning for time series classification](https://arxiv.org/abs/1811.01533), Nov. 5 2018.
 - [Reconstruction and Regression Loss for Time-Series Transfer Learning](https://kdd-milets.github.io/milets2018/papers/milets18_paper_2.pdf)， `kdd2018`.
 - [Time Series Anomaly Detection Using Convolutional Neural Networks and Transfer Learning](https://arxiv.org/pdf/1905.13628.pdf), May 31 2019. `aaai2019`.
@@ -321,6 +322,7 @@ The application from principle of **Invariance**.
 - [Implementing transfer learning across different datasets for time series forecasting](https://www.sciencedirect.com/science/article/pii/S0031320320304209), 2021.
 - [Spacecraft Time-Series Anomaly Detection Using Transfer Learning](https://openaccess.thecvf.com/content/CVPR2021W/AI4Space/papers/Baireddy_Spacecraft_Time-Series_Anomaly_Detection_Using_Transfer_Learning_CVPRW_2021_paper.pdf), 2021. `transfer learning`.
 - [Forecasting adverse surgical events using self-supervised transfer learning for physiological signals](https://www.nature.com/articles/s41746-021-00536-y), 2021.
+- [What makes instance discrimination good for transfer learning](http://nxzhao.com/projects/good_transfer/Good_transfer_ICLR21.pdf), `iclr2021`.
 - [Intra-domain and cross-domain transfer learning for time series data – How transferable are the features?](https://arxiv.org/pdf/2201.04449.pdf), Jan. 13 2022.
 
 ### Toolkits
