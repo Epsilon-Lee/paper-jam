@@ -37,6 +37,7 @@ This repo is used to hold papers that propose data-centric perspectives for mach
   - _"we demo the effectiveness of our approach on tasks involving model interpretability and privacy preservation."_
 - [Dataset Distillation using Neural Feature Regression](https://arxiv.org/pdf/2206.00719.pdf), arXiv Oct. 24 2022. `nips2022`.
 - [Scaling Up Dataset Distillation to ImageNet-1K with Constant Memory](https://arxiv.org/pdf/2211.10586.pdf), Nov. 19 2022.
+- [A Comprehensive Survey to Dataset Distillation](https://arxiv.org/pdf/2301.05603.pdf), Jan. 13 2023.
 
 ### Machine Unlearning
 
