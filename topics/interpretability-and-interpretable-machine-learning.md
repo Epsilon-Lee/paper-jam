@@ -85,19 +85,16 @@
 - [Local Explanations via Necessity and Sufficiency: Unifying Theory and Practice](https://proceedings.mlr.press/v161/watson21a/watson21a.pdf), `uai2021`.
 - [EXSUM: From Local Explanations to Model Understanding](https://arxiv.org/abs/2205.00130), `naacl2022`.
 - [Faith-Shap: The Faithful Shapley Interaction Index](https://arxiv.org/abs/2203.00870), Mar. 9 2022.
-- [Impossibility Theorems for Feature Attribution](https://arxiv.org/pdf/2212.11870.pdf), Dec. 22 2022. `theory`.
 
-#### Critics of feature importance
+#### Critics and evaluation of feature importance
 
 - [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547), Oct. 29 2019 `aaai2018`
 - [On the (In)fidelity and Sensitivity of Explanations](https://proceedings.neurips.cc/paper/2019/file/a7471fdc77b3435276507cc8f2dc2569-Paper.pdf), `nips2019`
 - [Do Feature Attribution Methods Correctly Attribute Features?](https://yilun.scripts.mit.edu/pdf/xaiworkshop2021feature.pdf), `XAI4Debugging@NeurIPS2021`.
 - [The Disagreement Problem in Explainable Machine Learning: A Practitioner’s Perspective](https://arxiv.org/pdf/2202.01602.pdf), Feb. 8 2022.
 - [Sanity Simulation for Saliency Methods](https://arxiv.org/pdf/2105.06506.pdf), `icml2022`.
-
-#### Beyond feature attribution
-
-- [Interpretability beyond feature attribution: Quantitative testing with concept activation vectors (tcav)](http://proceedings.mlr.press/v80/kim18d/kim18d.pdf), `icml2018`
+- [Use-Case-Grounded Simulations for Explanation Evaluation](https://arxiv.org/pdf/2206.02256.pdf), `nips2022`.
+- [Impossibility Theorems for Feature Attribution](https://arxiv.org/pdf/2212.11870.pdf), Dec. 22 2022. `theory`.
 
 ### Dataset attribution methods
 
@@ -174,6 +171,7 @@
 - [Understanding Intermediate layers using linear classifier probes](https://openreview.net/pdf?id=HJ4-rAVtl) and [a longer version](https://arxiv.org/pdf/1610.01644.pdf), `iclr2017`.
 - [What you can cram into a single vector: Probing sentence embeddings for linguistic properties](https://arxiv.org/abs/1805.01070), May 3 2018.
 - [Network Dissection: Quantifying Interpretability of Deep Visual Representations](https://openaccess.thecvf.com/content_cvpr_2017/papers/Bau_Network_Dissection_Quantifying_CVPR_2017_paper.pdf), `cvpr2017`.
+- [Interpretability beyond feature attribution: Quantitative testing with concept activation vectors (tcav)](http://proceedings.mlr.press/v80/kim18d/kim18d.pdf), `icml2018`
 - [On the Global Optima of Kernelized Adversarial Representation Learning](https://arxiv.org/abs/1910.07423), Oct. 16 2019, `iccv2019`.
 - [Intrinsic Probing through Dimension Selection](https://arxiv.org/pdf/2010.02812.pdf), Oct. 6 2020.
 - [A Non-Linear Structural Probe](https://arxiv.org/pdf/2105.10185.pdf), May 21 2021.
