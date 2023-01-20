@@ -50,6 +50,14 @@ Contents of this archive:
 - [Monotonic Risk Relationships under Distribution Shifts for Regularized Risk Minimization](https://arxiv.org/pdf/2210.11589.pdf), Oct. 20 2022.
 - [On-Demand Sampling: Learning Optimally from Multiple Distributions](fhttps://arxiv.org/pdf/2210.12529.pdf), arXiv Oct. 22 2022.  
 
+#### Domain adaptation theory
+
+- [Learning Bounds for Domain Adaptation](https://papers.nips.cc/paper/2007/file/42e77b63637ab381e8be5f8318cc28a2-Paper.pdf), `nips2007`.
+- [Sample Selection Bias Correction Theory](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/34675.pdf), 2008.
+- [Domain Adaptation: Learning Bounds and Algorithms](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/35391.pdf), 2009.
+- [Impossibility Theorems for Domain Adaptation](http://proceedings.mlr.press/v9/david10a/david10a.pdf), `aistats2010`.
+- [A theory of learning from different domains](https://link.springer.com/content/pdf/10.1007/s10994-009-5152-4.pdf), `ml2010`.
+
 ### Empirical observations
 
 - [Understanding Out-of-distribution: A Perspective of Data Dynamics](https://arxiv.org/pdf/2111.14730.pdf), Nov. 29 2021.
