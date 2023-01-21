@@ -37,6 +37,7 @@
 - [Sublinear Time Approximation of Text Similarity Matrices](https://arxiv.org/pdf/2112.09631.pdf), Dec. 17 2021.
   - How to efficiently compute `n * n` similarity matrices over large `n` documents?
 - [On Cross-Lingual Retrieval with Multilingual Text Encoders](https://arxiv.org/pdf/2112.11031.pdf), Dec. 21 2021.
+- [Unsupervised Dense Information Retrieval with Contrastive Learning](https://arxiv.org/abs/2112.09118), Aug. 2022. [github](https://github.com/facebookresearch/contriever).
 - [Precise Zero-Shot Dense Retrieval without Relevance Labels](https://arxiv.org/abs/2212.10496), Dec. 20 2022.
 
 ### Generalization of QA Models
