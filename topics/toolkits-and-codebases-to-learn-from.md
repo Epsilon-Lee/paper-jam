@@ -74,9 +74,14 @@
 
 ### LLMs and toolkits around
 
+**QA**
+
+- [primeqa](https://github.com/primeqa/primeqa), The prime repository for state-of-the-art Multilingual Question Answering research and development.
+
 **Toolbox**
 
 - [langchain](https://github.com/hwchase17/langchain), building applications with LLMs through composibility.
+  - [Next.js frontend for LangChain Chat](https://github.com/zahidkhawaja/langchain-chat-nextjs).
 - [gpt_index](https://github.com/jerryjliu/gpt_index), an index created by GPT to organize external information and answer queries.
 - [pyChatGPT](https://github.com/terry3041/pyChatGPT), An unofficial Python wrapper for OpenAI's ChatGPT API.
 
