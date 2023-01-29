@@ -181,7 +181,6 @@ The application from principle of **Invariance**.
 > Total unsupervised methods are usually based on ***energy/density estimation*** (_generative modelling_) over the in-distribution data, and conduct statistical test based on certain **statistical** assumption to work it out. While supervised methods can be both ***generative*** and ***discriminative*** with ood data for _smartly_ tuning ood threshold.
 
 - [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://proceedings.neurips.cc/paper/2018/file/abdeb6f575ac5c6676b747bca8d09cc2-Paper.pdf), `nips2018`. [github](https://github.com/pokaxpoka/deep_Mahalanobis_detector). `discriminative`
-- [WAIC, but Why? Generative Ensembles for Robust Anomaly Detection](https://www.alexalemi.com/publications/waic.pdf), May 23 2019.
 - [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://arxiv.org/pdf/1906.12340.pdf), `nips2019`. `generative+discriminative` [github](https://github.com/hendrycks/ss-ood).
 - [Can You Trust Your Model's Uncertainty Evaluating Predictive Uncertainty Under Dataset Shift](https://proceedings.neurips.cc/paper/2019/file/8558cb408c1d76621371888657d2eb1d-Paper.pdf), `nips2019`. `discriminative uncertainty`
 - [Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/abs/1812.04606), `iclr2019`. `citation: 800+`
@@ -191,13 +190,7 @@ The application from principle of **Invariance**.
   - Related papers:
     - [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances](https://proceedings.neurips.cc/paper/2020/file/8965f76632d7672e7d3cf29c87ecaa0c-Paper.pdf), `nips2020`.
     - [Deep semi-supervised anomaly detection](https://arxiv.org/pdf/1906.02694.pdf), `iclr2020`. Feb. 14 2020.
-- [Likelihood Ratios for Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2019/file/1e79596878b2320cac26dd792a6c51c9-Paper.pdf), `nips2019`. `generative`
-- [Input complexity and out-of-distribution detection with likelihood-based generative models](https://arxiv.org/pdf/1909.11480.pdf), `iclr2020`.
-  - _"likelihood derived from such models have been shown to be problematic for detecting certain types of inputs that significantly differ from training data"_
-  - _"we pose that this problem is due to the excessive influence that input complexity has in generative models' likelihoods"_
-  - _"score to perform comparably to or even better than existing OOD detection approaches under a wide range of datasets"_
 - [Detecting Out-of-Distribution Examples with Gram Matrices](http://proceedings.mlr.press/v119/sastry20a/sastry20a.pdf), `icml2020`. [github](https://github.com/VectorInstitute/gram-ood-detection).
-  - xxx
 - [Contrastive Training for Improved Out-of-Distribution Detection](https://arxiv.org/pdf/2007.05566.pdf), arXiv Jul. 10 2021. `unsupervised`
   - `Confusion Log Probability`
   - This paper proves that CLP score especially improves near ood classes.
@@ -206,20 +199,10 @@ The application from principle of **Invariance**.
 - [A Fine-grained Analysis on Distribution Shift](https://arxiv.org/pdf/2110.11328.pdf), Oct. 21 2021.
 - [Understanding the Role of Self-Supervised Learning in Out-of-Distribution Detection Task](https://arxiv.org/pdf/2110.13435.pdf), Oct. 26 2021.
 - [Exploring the Limits of Out-of-Distribution Detection](https://arxiv.org/pdf/2106.03004.pdf), `landscape` `nips2021`
-- [Type of Out-of-Distribution Texts and How to Detect Them](https://arxiv.org/pdf/2109.06827.pdf), Sep. 2021. Udit Arora et al. `emnlp2021` `ood issue` `analysis`
-  - Motivation is "there is little consensus on formal def. of OOD examples";
-  - Propose a categorization of OOD instances according to ***background shift*** or ***semantic shift***
-  - Methods like *calibration* and density estimation for *OOD detection* are evaluated over 14 datasets
 - [Can multi-label classification networks know what they don’t know?](https://arxiv.org/pdf/2109.14162.pdf), Sep. 2021. `ood detection`
 - [Provable Guarantees for Understanding Out-of-distribution Detection](https://arxiv.org/pdf/2112.00787.pdf), Dec. 1 2021.
 - [ReAct: Out-of-distribution Detection With Rectified Activations](https://arxiv.org/abs/2111.12797), Nov. 24 2021.
 - [On the Impact of Spurious Correlation for Out-of-distribution Detection](https://arxiv.org/abs/2109.05642), Sep. 12 2021.
-- [Entropic Issues in Likelihood-Based OOD Detection](https://proceedings.mlr.press/v163/caterini22a/caterini22a.pdf), I (Still) Can’t Believe It’s Not Better Workshop at NeurIPS 2021, `nips2021`. 
-  - Deep generative models can assign high probability to OOD data than ID data, why?
-  - _"manifold-supported models"_ achieve success recently.
-  - likelihood to be decomposed into KL divergence term + entropy term
-    - Likelihood - $\mathcal{L}_\theta:= - KL - H$.
-    - and likelihood ratio can cancel out the above entropy term.
 - [Open-Set Recognition: a Good Closed-Set Classifier is All You Need?](https://arxiv.org/abs/2110.06207), Oct. 12 2021. `iclr2022`.
 - [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://arxiv.org/abs/2202.01197), `iclr2022` [code](https://github.com/deeplearning-wisc/vos).
 - [p-DkNN: Out-of-Distribution Detection Through Statistical Testing of Deep Representations](https://arxiv.org/pdf/2207.12545.pdf), Jul. 25 2022. `ood`
@@ -237,6 +220,32 @@ The application from principle of **Invariance**.
 - [Beyond Mahalanobis-Based Scores for Textual OOD Detection](https://openreview.net/pdf?id=ReB7CCByD6U), `nips2022`.
 - [Out-Of-Distribution Detection Is Not All You Need](https://arxiv.org/abs/2211.16158), Nov. 29 2022. `nips2022`. [tweet](https://twitter.com/ducha_aiki/status/1597889329321213952).
 - [Useful Confidence Measures: Beyond the Max Score](https://arxiv.org/pdf/2210.14070.pdf), Oct. 25 2022.
+
+#### Unsupervised
+
+- [WAIC, but Why? Generative Ensembles for Robust Anomaly Detection](https://www.alexalemi.com/publications/waic.pdf), May 23 2019.
+- [Likelihood Ratios for Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2019/file/1e79596878b2320cac26dd792a6c51c9-Paper.pdf), `nips2019`. `generative`
+- [Input complexity and out-of-distribution detection with likelihood-based generative models](https://arxiv.org/pdf/1909.11480.pdf), `iclr2020`.
+  - _"likelihood derived from such models have been shown to be problematic for detecting certain types of inputs that significantly differ from training data"_
+  - _"we pose that this problem is due to the excessive influence that input complexity has in generative models' likelihoods"_
+  - _"score to perform comparably to or even better than existing OOD detection approaches under a wide range of datasets"_
+- [Type of Out-of-Distribution Texts and How to Detect Them](https://arxiv.org/pdf/2109.06827.pdf), Sep. 2021. Udit Arora et al. `emnlp2021` `ood issue` `analysis`
+  - Motivation is "there is little consensus on formal def. of OOD examples";
+  - Propose a categorization of OOD instances according to ***background shift*** or ***semantic shift***
+  - Methods like *calibration* and density estimation for *OOD detection* are evaluated over 14 datasets
+- [Density of States Estimation for Out-of-Distribution Detection](http://proceedings.mlr.press/v130/morningstar21a/morningstar21a.pdf), `aistats2021`.
+  - proposed DoSE, using concept - "frequency of any reasonable statistic", _"the frequency is calculated using nonparametric density estimators, e.g. KDE and one-class SVM"_
+  - DoSE requires neigther labeled data nor OOD examples
+- [Entropic Issues in Likelihood-Based OOD Detection](https://proceedings.mlr.press/v163/caterini22a/caterini22a.pdf), I (Still) Can’t Believe It’s Not Better Workshop at NeurIPS 2021, `nips2021`. 
+  - Deep generative models can assign high probability to OOD data than ID data, why?
+  - _"manifold-supported models"_ achieve success recently.
+  - likelihood to be decomposed into KL divergence term + entropy term
+    - Likelihood - $\mathcal{L}_\theta:= - KL - H$.
+    - and likelihood ratio can cancel out the above entropy term.
+- [On the Out-of-distribution Generalization of Probabilistic Image Modelling](https://proceedings.neurips.cc/paper/2021/file/1f88c7c5d7d94ae08bd752aa3d82108b-Paper.pdf), `nips2021`.
+  - This paper also finds that likelihood can be misleading for OOD detection, since:
+    - local features are shared between image distributions
+    - local features dominate the likelihood
 
 ### Explanations
 
