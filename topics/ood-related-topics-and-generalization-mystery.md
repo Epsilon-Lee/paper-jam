@@ -192,6 +192,10 @@ The application from principle of **Invariance**.
     - [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances](https://proceedings.neurips.cc/paper/2020/file/8965f76632d7672e7d3cf29c87ecaa0c-Paper.pdf), `nips2020`.
     - [Deep semi-supervised anomaly detection](https://arxiv.org/pdf/1906.02694.pdf), `iclr2020`. Feb. 14 2020.
 - [Likelihood Ratios for Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2019/file/1e79596878b2320cac26dd792a6c51c9-Paper.pdf), `nips2019`. `generative`
+- [Input complexity and out-of-distribution detection with likelihood-based generative models](https://arxiv.org/pdf/1909.11480.pdf), `iclr2020`.
+  - _"likelihood derived from such models have been shown to be problematic for detecting certain types of inputs that significantly differ from training data"_
+  - _"we pose that this problem is due to the excessive influence that input complexity has in generative models' likelihoods"_
+  - _"score to perform comparably to or even better than existing OOD detection approaches under a wide range of datasets"_
 - [Detecting Out-of-Distribution Examples with Gram Matrices](http://proceedings.mlr.press/v119/sastry20a/sastry20a.pdf), `icml2020`. [github](https://github.com/VectorInstitute/gram-ood-detection).
   - xxx
 - [Contrastive Training for Improved Out-of-Distribution Detection](https://arxiv.org/pdf/2007.05566.pdf), arXiv Jul. 10 2021. `unsupervised`
