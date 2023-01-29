@@ -99,3 +99,4 @@
 **Visualization**
 
 - [WassersteinTSNE](https://github.com/fsvbach/WassersteinTSNE), wasserstein version of the t-sne algorithm.
+- [ManimML](https://github.com/helblazer811/ManimML), ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.
