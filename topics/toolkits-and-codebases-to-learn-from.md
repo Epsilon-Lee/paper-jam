@@ -77,6 +77,9 @@
 **QA**
 
 - [primeqa](https://github.com/primeqa/primeqa), The prime repository for state-of-the-art Multilingual Question Answering research and development.
+- [ColBERT: state-of-the-art neural search](https://github.com/stanford-futuredata/ColBERT).
+  - (1/29/23) We have merged a new index updater feature and support for additional Hugging Face models! These are in beta so please give us feedback as you try them out.
+  - (1/24/23) If you're looking for the DSP framework for composing ColBERTv2 and LLMs, it's at: https://github.com/stanfordnlp/dsp
 
 **Toolbox**
 
