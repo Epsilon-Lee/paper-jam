@@ -10,6 +10,7 @@
   - Empirical investigation into composition of phrase from smaller parts (words, short phrases)
   - They find that LMs may not accurately distinguish between compositional and non-compositional phrases
   - This might also motivate my current (10/25/2022) proposed methods for fraud address detection
+- [Break It Down: Evidence for Structural Compositionality in Neural Networks](https://arxiv.org/abs/2301.10884), Jan. 2 2023.
 
 ### Compositionality and Neural Machine Translation
 
