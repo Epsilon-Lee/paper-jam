@@ -16,6 +16,7 @@ This repo function as a place to hold formal language related papers in computat
 - [Simplicity Bias in Transformers and their Ability to Learn Sparse Boolean Functions](https://arxiv.org/pdf/2211.12316.pdf), Nov. 28 2022.
 - [Tighter Bounds on the Expressivity of Transformer Encoders](https://arxiv.org/pdf/2301.10743.pdf), Jan. 25 2023.
   - _"This brings us much closer than before to an exact characterization of the languages that transformer encoders recognize."_
+- [Looped Transformers as Programmable Computers](https://arxiv.org/pdf/2301.13196.pdf), Jan. 30 2023.
 
 ## Reasoning
 
