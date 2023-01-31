@@ -2,6 +2,7 @@
 ## Surveys
 
 - [Deep Neural Networks and Tabular Data: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9998482), Feb. 2022.
+- [A Short Chronology Of Deep Learning For Tabular Data](https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html), Jul. 24 2022.
 
 ## Methods and critics
 
