@@ -1,5 +1,5 @@
 
-# Fine-tuning methods for foundation models
+# Few-shot and fine-tuning methods for foundation models
 
 - [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/pdf/1905.05583.pdf), arXiv.v3 Feb. 5 2020.
 - [Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/pdf/2004.10964.pdf), arXiv.v5 May 5 2020.
@@ -17,3 +17,16 @@
 - [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://proceedings.mlr.press/v162/wortsman22a/wortsman22a.pdf), `icml2022`.
 - [Finetune like you pretrain: Improved finetuning of zero-shot vision models](https://arxiv.org/pdf/2212.00638.pdf), Dec. 1 2022. `vision`
 - [PEST: Combining Parameter-Efficient Fine-Tuning with Self-Training and Co-Training](https://neurips2022-enlsp.github.io/papers/paper_27.pdf), `nips2022`.
+
+## Few-shot methods
+
+- [Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data](https://arxiv.org/pdf/2302.00674.pdf), Feb. 1 2023. [tweet](https://github.com/alon-albalak/FLAD).
+  - _"the use of a small training set makes it difficult to avoid overfitting"_
+  - proposes a training paradigm that assuems access to auxiliary data, aka FLAD (few-shot learning with auxiliary data)
+  - _"finding that the combination of exploration and exploitation is crucial"_
+  - **challenges of FLAD**: increased algorithmic and computational complexity, _"incorporating auxiliary data during training introduces a large space of design choices for FLAD algorithms (e.g. how and when to train on auxiliary data)"_ ✋Is FLAD similar to multi-task learning?
+  - From manually designing the curriculum of learning on large quantities of auxiliary data to delegating such choices to an algorithm, however this further introduces algorithmic complexity, motivating the search for efficient methods as the quantity of auxiliary data grows
+  - desiderata of FLAD:
+    - makes no assumption on available auxiliary data a-priori (in-domain, on-task, quality, quantity, etc.)
+    - continuously updates belief on importance of auxiliary data, and
+    - adds minimal memory and computational overhead.
