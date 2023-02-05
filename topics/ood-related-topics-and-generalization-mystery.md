@@ -130,6 +130,7 @@ The application from principle of **Invariance**.
   - _"We apply our approach to a computer vision task (classifying gender from images), revealing sensitivity to shifts in non-causal attributes"_
 - ["Why did the model fail?": Attributing Model Performance Changes to Distributional Shifts](https://arxiv.org/pdf/2210.10769.pdf), Oct. 19 2022.
 - [Explanation Shift: Detecting distribution shifts on tabular data via the explanation space](https://arxiv.org/pdf/2210.12369.pdf), Oct. 22 2022.
+- [Sequential Covariate Shift Detection Using Classifier Two-Sample Tests](https://trustml.github.io/docs/icml22.pdf), `icml2022`.
 
 #### Unsupervised Domain Adaptation
 
