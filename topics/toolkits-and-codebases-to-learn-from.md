@@ -64,8 +64,9 @@
 - [lightning](https://github.com/Lightning-AI/lightning), build and train pytorch models and connect them to the ML lifecycle using lightning app templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
 - [trlx](https://github.com/CarperAI/trlx), a repo for distributed training of language models with RLFH. `distributed training` | `rlfh`.
 
-### Model serving
+### MLOps and Model serving
 
+- [mltrace](https://github.com/loglabs/mltrace), Coarse-grained lineage and tracing for machine learning pipelines. https://mltrace.readthedocs.io/en/latest/.
 - [Petals](https://github.com/bigscience-workshop/petals), Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading.
 
 ### Optimization toolbox
