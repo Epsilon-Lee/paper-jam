@@ -85,6 +85,7 @@
 - [Local Explanations via Necessity and Sufficiency: Unifying Theory and Practice](https://proceedings.mlr.press/v161/watson21a/watson21a.pdf), `uai2021`.
 - [EXSUM: From Local Explanations to Model Understanding](https://arxiv.org/abs/2205.00130), `naacl2022`.
 - [Faith-Shap: The Faithful Shapley Interaction Index](https://arxiv.org/abs/2203.00870), Mar. 9 2022.
+- [XAI for Transformers: Better Explanations through Conservative Propagation](https://proceedings.mlr.press/v162/ali22a.html), `icml2022`.
 
 #### Critics and evaluation of feature importance
 
