@@ -11,6 +11,7 @@ The related papers are listed below:
 - [What Can Transformers Learn In-Context? A Case Study of Simple Function Classes](https://arxiv.org/pdf/2208.01066.pdf), Aug. 1 2022. [Tweet thread](https://twitter.com/tsiprasd/status/1555302289824366592).
 - [Exploring Length Generalization in Large Language Models](https://arxiv.org/pdf/2207.04901.pdf), Jul. 11 2022.
 - [Data Distributioonal Properties Drive Emergent In-Context Learning in Transformers](https://arxiv.org/abs/2205.05055), Nov. 17 2022.
+- [What learning algorithm is in-context learning? Investigations with linear models](https://arxiv.org/pdf/2211.15661.pdf), Nov. 29 2022. [jax](https://github.com/ekinakyurek/google-research/tree/master/incontext).
 
 ---
 
