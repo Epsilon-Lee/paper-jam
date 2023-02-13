@@ -58,6 +58,14 @@
 
 - [fairseq](https://github.com/facebookresearch/fairseq), Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [transformers](https://github.com/huggingface/transformers), 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [alpha](https://github.com/alpa-projects/alpa), training and serving large-scale neural networks. `jax`.
+  - Alpa is a system for training and serving large-scale neural networks.
+  - Scaling neural networks to hundreds of billions of parameters has enabled dramatic breakthroughs such as GPT-3, but training and serving these large-scale neural networks require complicated distributed system techniques. Alpa aims to automate large-scale distributed training and serving with just a few lines of code.
+  - The key features of Alpa include:
+    - 💻 Automatic Parallelization. Alpa automatically parallelizes users' single-device code on distributed clusters with data, operator, and pipeline parallelism.
+    - 🚀 Excellent Performance. Alpa achieves linear scaling on training models with billions of parameters on distributed clusters.
+    - ✨ Tight Integration with Machine Learning Ecosystem. Alpa is backed by open-source, high-performance, and production-ready libraries such as Jax, XLA, and Ray.
+  - Research paper: [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/abs/2201.12023), Jan. 28 2022.
 
 ### Training framework
 
