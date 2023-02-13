@@ -53,6 +53,7 @@
 
 - [nanoGPT](https://github.com/karpathy/nanoGPT), the simplest, fastest repo for training/finetuning medium-sized GPTs by Andrew Karpathy.
 - [minGPT](https://github.com/karpathy/minGPT), a minimal pytorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training.
+- [PERSIA](https://github.com/PersiaML/Persia), High performance distributed framework for training deep learning recommendation models based on PyTorch.
 
 ### Training + Modeling
 
