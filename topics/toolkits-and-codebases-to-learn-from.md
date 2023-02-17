@@ -49,6 +49,10 @@
 - [tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn), Lightning fast C++/CUDA neural network framework.
 - [oneflow](https://github.com/Oneflow-Inc/oneflow), OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient. `c++`.
 
+### Reinforcement learning
+
+- [mctx](https://github.com/deepmind/mctx). Monte Carlo tree search in JAX.
+
 ### Prototype model
 
 - [nanoGPT](https://github.com/karpathy/nanoGPT), the simplest, fastest repo for training/finetuning medium-sized GPTs by Andrew Karpathy.
