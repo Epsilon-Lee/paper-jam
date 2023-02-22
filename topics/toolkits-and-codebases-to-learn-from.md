@@ -52,6 +52,7 @@
 ### Reinforcement learning
 
 - [mctx](https://github.com/deepmind/mctx). Monte Carlo tree search in JAX.
+- [trlx](https://github.com/CarperAI/trlx). A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF).
 
 ### Prototype model
 
