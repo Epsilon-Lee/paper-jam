@@ -59,6 +59,7 @@
 - [minGPT](https://github.com/karpathy/minGPT), a minimal pytorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training.
 - [PERSIA](https://github.com/PersiaML/Persia), High performance distributed framework for training deep learning recommendation models based on PyTorch.
 - [GFPGAN](https://github.com/TencentARC/GFPGAN), GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
+- [Tweet: ChatGPT](https://twitter.com/AssemblyAI/status/1626659362318983169), Feb. 18 2023. Here's a GPT implementation with NumPy in 60 lines of code.
 
 ### Training + Modeling
 
