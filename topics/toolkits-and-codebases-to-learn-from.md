@@ -79,6 +79,7 @@
 
 - [lightning](https://github.com/Lightning-AI/lightning), build and train pytorch models and connect them to the ML lifecycle using lightning app templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
 - [trlx](https://github.com/CarperAI/trlx), a repo for distributed training of language models with RLFH. `distributed training` | `rlfh`.
+- [composor](https://github.com/mosaicml/composer), Train neural networks up to 7x faster. `mosaicml`.
 
 ### MLOps and Model serving
 
