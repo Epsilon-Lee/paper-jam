@@ -56,3 +56,5 @@ And I witness that recently Bengio's works on future architectures aim to invest
 [12] [Neural attentive circuits](https://arxiv.org/pdf/2210.08031), `nips2022`.
 
 [13] [Synergy between disentanglement and sparsity: a multi-task learning perspective](https://arxiv.org/pdf/2211.14666.pdf), Nov. 26 2022.
+
+[14] [Reusable Slotwise Mechanisms](https://arxiv.org/pdf/2302.10503.pdf), Feb. 2023.
