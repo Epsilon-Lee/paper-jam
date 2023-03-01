@@ -98,6 +98,14 @@
 - [Impossibility Theorems for Feature Attribution](https://arxiv.org/pdf/2212.11870.pdf), Dec. 22 2022. `theory`.
 - [Use-Case-Grounded Simulations for Explanation Evaluation](https://arxiv.org/pdf/2206.02256.pdf),Aug. 20 2022. `evaluation` `nips2022`.
 
+### Feature interaction
+
+- [Detecting Statistical Interactions from Neural Network Weights](https://arxiv.org/pdf/1705.04977.pdf), `iclr2017`.
+- [Neural Interaction Transparency (NIT): Disentangling Learned Interactions for Improved Interpretability](https://papers.nips.cc/paper/2018/hash/74378afe5e8b20910cf1f939e57f0480-Abstract.html), `nips2018`.
+- [How does This Interaction Affect Me? Interpretable Attribution for Feature Interactions](https://proceedings.neurips.cc/paper/2020/hash/443dec3062d0286986e21dc0631734c9-Abstract.html), `nips2020`.
+- [Feature Interaction Interpretability: A Case for Explaining Ad-Recommendation Systems via Neural Interaction Detection](https://openreview.net/forum?id=BkgnhTEtDS), `iclr2020`.
+- [Quantifying & Modeling Feature Interactions: An Information Decomposition Framework](https://arxiv.org/pdf/2302.12247.pdf), Feb. 23 2023.
+
 ### Dataset attribution methods
 
 - [Representer Point Selection for Explaininig Deep Neural Networks](https://arxiv.org/abs/1811.09720), `nips2018`
