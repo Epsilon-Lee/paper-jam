@@ -97,6 +97,10 @@
 - [Symbolic Brittleness in Sequence Models: on Systematic Generalization in Symbolic Mathematics](https://arxiv.org/pdf/2109.13986.pdf), 2021.
 - [Systematic Generalization on gSCAN: What is Nearly Solved and What is Next?](https://arxiv.org/pdf/2109.12243.pdf), Fei Sha et al. `compositionality` `systematicality`
 
+### Compositionality for generation
+
+- [Reduce, Reuse, Recycle: Compositional Generation with Energy-Based Diffusion Models and MCMC](https://arxiv.org/pdf/2302.11552.pdf), Feb. 22 2023. `diffusion model`
+
 ## Systematic Generalization
 
 - [What underlies rapid learning and systematic generalization in humans?](https://stanford.edu/~jlmcc/papers/NamMcC21RapidLearningGeneralizationInHumansArxiv.pdf), Jul. 10 2021.
