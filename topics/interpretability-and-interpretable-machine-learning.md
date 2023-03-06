@@ -253,3 +253,14 @@
 ## Toolkits
 
 - [imodels](https://github.com/csinva/imodels), Interpretable ML package 🔍 for concise, transparent, and accurate predictive modeling (sklearn-compatible). [paper](https://www.theoj.org/joss-papers/joss.03192/10.21105.joss.03192.pdf). published at May 4 2021.
+
+
+## Interpretability for traditional and tree models
+
+### Influence for tree models
+
+- [Influence Functions for CART](https://hal.science/hal-00562039/document), Feb. 2 2011. [presentation](https://www.gdr-mascotnum.fr/media/mascot11poggi.pdf).
+- [Finding Influential Training Samples for Gradient Boosted Decision Trees](https://arxiv.org/pdf/1802.06640.pdf), Mar. 2018. `icml2018`.
+  - [Machine Unlearning for Random Forests](http://proceedings.mlr.press/v139/brophy21a/brophy21a.pdf), `icml2021`.
+- [TREX: Tree-Ensemble Representer-Point Explanations](https://arxiv.org/abs/2009.05530), Sep. 11 2020.
+- [Towards Efficient Data Valuation Based on the Shapley Value](http://proceedings.mlr.press/v89/jia19a/jia19a.pdf), `aistats2019`.
