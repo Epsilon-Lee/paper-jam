@@ -3,8 +3,8 @@
 
 This repo is used to hold papers that propose data-centric perspectives for machine learning, for examples:
 - [Understanding data augmentation](#understanding-data-augmentation)
-- [Data curation]() (data cleaning, deduplication)
-- Dataset distillation (data summarization, coreset, prototype)
+- [Data curation](#data-curation) (data cleaning, deduplication)
+- [Dataset distillation](#dataset-distillation) (data summarization, coreset, prototype)
 - Fast cross-validation (Jackknife)
 - Datapoint(s) attribution and valuation
 - Datapoint(s) removal and machine unlearning
@@ -38,6 +38,8 @@ This repo is used to hold papers that propose data-centric perspectives for mach
 - [Dataset Distillation using Neural Feature Regression](https://arxiv.org/pdf/2206.00719.pdf), arXiv Oct. 24 2022. `nips2022`.
 - [Scaling Up Dataset Distillation to ImageNet-1K with Constant Memory](https://arxiv.org/pdf/2211.10586.pdf), Nov. 19 2022.
 - [A Comprehensive Survey to Dataset Distillation](https://arxiv.org/pdf/2301.05603.pdf), Jan. 13 2023.
+- [Provable Data Subset Selection For Efficient Neural Network Training](https://arxiv.org/pdf/2303.05151.pdf), Mar. 9 2023.
+- [Loss-Curvature Matching for Dataset Selection and Condensation](https://arxiv.org/pdf/2303.04449.pdf), Mar. 8 2023.
 
 ### Machine Unlearning
 
