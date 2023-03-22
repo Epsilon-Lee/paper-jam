@@ -132,6 +132,7 @@
 - [First is Better Than Last for Training Data Influence](https://arxiv.org/pdf/2202.11844.pdf), Feb. 24 2022. `data-centric`
 - [Influence Functions for Sequence Tagging Models](https://arxiv.org/abs/2210.14177), Oct. 25 2022. `emnlp2022`.
 - [First is Better Than Last for Language Data Influence](https://arxiv.org/abs/2202.11844), arXiv.v3 Oct. 27 2022. `nips2022`.
+- [Simfluence: Modeling the Influence of Individual Training Examples by Simulating Training Runs](https://arxiv.org/pdf/2303.08114.pdf), Mar. 14 2023.
 
 #### Critics of influence function
 
