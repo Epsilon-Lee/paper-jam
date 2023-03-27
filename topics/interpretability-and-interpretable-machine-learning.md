@@ -97,6 +97,8 @@
 - [Use-Case-Grounded Simulations for Explanation Evaluation](https://arxiv.org/pdf/2206.02256.pdf), `nips2022`.
 - [Impossibility Theorems for Feature Attribution](https://arxiv.org/pdf/2212.11870.pdf), Dec. 22 2022. `theory`.
 - [Use-Case-Grounded Simulations for Explanation Evaluation](https://arxiv.org/pdf/2206.02256.pdf),Aug. 20 2022. `evaluation` `nips2022`.
+- [Better Understanding Differences in Attribution Methods via Systematic Evaluations](https://arxiv.org/pdf/2303.11884.pdf), Mar. 21 2023.
+- [Using explanations to guide models](https://arxiv.org/pdf/2303.11932.pdf), Mar. 21 2023.
 
 ### Feature interaction
 
@@ -139,6 +141,7 @@
 - [Influence Functions in Deep Learning are Fragile](https://arxiv.org/pdf/2006.14651.pdf), Feb. 10 2021, `iclr2021`
 - [If Influence Functions are the Answer, Then What is the Question?](https://arxiv.org/pdf/2209.05364.pdf), arXiv Sep. 12 2022.
 - [Understanding Influence Functions and Datamodels via Harmonic Analysis](https://arxiv.org/pdf/2210.01072.pdf), arXiv Oct. 3 2022.
+- [Revisiting the fragility of influence functions](https://arxiv.org/pdf/2303.12922.pdf), Mar. 22 2023.
 
 #### Instance-based explanation: prototypes, exemplars
 
@@ -156,6 +159,7 @@
 - [Diffusion Visual Counterfactual Explanations](https://arxiv.org/pdf/2210.11841.pdf), Oct. 21 2022. `nips2022`.
 - [Counterfactual Generation Under Confounding](https://arxiv.org/abs/2210.12368), Oct. 22 2022.
 - [Explaining Model Confidence Using Counterfactuals](https://arxiv.org/pdf/2303.05729.pdf), Mar. 10 2023.
+- [Semi-supervised counterfactual explanations](https://arxiv.org/pdf/2303.12634.pdf), Mar. 22 2023.
 
 #### Leveraging interpretation
 
@@ -265,3 +269,7 @@
   - [Machine Unlearning for Random Forests](http://proceedings.mlr.press/v139/brophy21a/brophy21a.pdf), `icml2021`.
 - [TREX: Tree-Ensemble Representer-Point Explanations](https://arxiv.org/abs/2009.05530), Sep. 11 2020.
 - [Towards Efficient Data Valuation Based on the Shapley Value](http://proceedings.mlr.press/v89/jia19a/jia19a.pdf), `aistats2019`.
+
+## Human-in-the-loop
+
+- [Human Uncertainty in Concept-Based AI Systems](https://arxiv.org/pdf/2303.12872.pdf), Mar. 22 2023.
