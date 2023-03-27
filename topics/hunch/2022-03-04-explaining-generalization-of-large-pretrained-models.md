@@ -22,5 +22,9 @@ The related papers are listed below:
 - [Distinguishing rule- and exemplar-based generalization in learning systems](https://proceedings.mlr.press/v162/dasgupta22b/dasgupta22b.pdf), `icml2022`.
 - [Transformers generalize differently from information stored in context vs in weights]([Transformers generalize differently from information stored in context vs in weights](https://arxiv.org/abs/2210.05675)), Oct. 11 2022. [tweet](https://twitter.com/FelixHill84/status/1580566903168282624)
 
+---
 
+### Empirical understandings
+
+- [Capabilities of GPT-4 on Medical Challenge Problems](https://arxiv.org/pdf/2303.13375.pdf), Mar. 20 2023.
 
