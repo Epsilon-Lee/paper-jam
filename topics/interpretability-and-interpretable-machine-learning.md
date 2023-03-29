@@ -135,6 +135,7 @@
 - [Influence Functions for Sequence Tagging Models](https://arxiv.org/abs/2210.14177), Oct. 25 2022. `emnlp2022`.
 - [First is Better Than Last for Language Data Influence](https://arxiv.org/abs/2202.11844), arXiv.v3 Oct. 27 2022. `nips2022`.
 - [Simfluence: Modeling the Influence of Individual Training Examples by Simulating Training Runs](https://arxiv.org/pdf/2303.08114.pdf), Mar. 14 2023.
+- [TRAK: Attributing Model Behavior at Scale](https://arxiv.org/pdf/2303.14186.pdf), Mar. 24 2023.
 
 #### Critics of influence function
 
