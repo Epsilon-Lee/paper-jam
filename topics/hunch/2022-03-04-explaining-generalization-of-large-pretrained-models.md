@@ -14,7 +14,6 @@ The related papers are listed below:
 - [What learning algorithm is in-context learning? Investigations with linear models](https://arxiv.org/pdf/2211.15661.pdf), Nov. 29 2022. [jax](https://github.com/ekinakyurek/google-research/tree/master/incontext).
 - [Larger language models do in-context learning differently](https://arxiv.org/abs/2303.03846), Mar. 7 2023. [tweet](https://arxiv.org/abs/2303.03846).
 
-
 ---
 
 ### General LLMs generalization ability understanding
@@ -28,3 +27,8 @@ The related papers are listed below:
 
 - [Capabilities of GPT-4 on Medical Challenge Problems](https://arxiv.org/pdf/2303.13375.pdf), Mar. 20 2023.
 
+## Appendix
+
+### Interpreting transformers
+
+- [How Do Transformers Learn Topic Structure: Towards a Mechanistic Understanding](https://arxiv.org/pdf/2303.04245.pdf), Mar. 7 2023.
