@@ -18,6 +18,7 @@
 - [TabPFN: A Transformer that solves small tabular classification problems in a second](https://table-representation-learning.github.io/assets/papers/tabpfn_a_transformer_that_solv.pdf), `nips2022`. [code](https://huggingface.co/spaces/TabPFN/TabPFN).
 - [Transfer Learning with Deep Tabular Models](https://table-representation-learning.github.io/assets/papers/transfer_learning_with_deep_ta.pdf), `nips2022`.
   - It seems that dl can outperform XGBoost via transfer learning.
+- [TabRet: Pre-training transformer-based tabular models for unseen columns](https://arxiv.org/pdf/2303.15747.pdf), Mar. 28 2023.
 
 ## LLMs/FMs for tabular data
 
