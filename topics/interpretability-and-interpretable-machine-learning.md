@@ -86,6 +86,7 @@
 - [EXSUM: From Local Explanations to Model Understanding](https://arxiv.org/abs/2205.00130), `naacl2022`.
 - [Faith-Shap: The Faithful Shapley Interaction Index](https://arxiv.org/abs/2203.00870), Mar. 9 2022.
 - [XAI for Transformers: Better Explanations through Conservative Propagation](https://proceedings.mlr.press/v162/ali22a.html), `icml2022`.
+- [Learning with Explanation Constraints](https://arxiv.org/pdf/2303.14496.pdf), Mar. 25 2023.
 
 #### Critics and evaluation of feature importance
 
@@ -124,6 +125,7 @@
 - [HYDRA: Hypergradient Data Relevance Analysis for Interpreting Deep Neural Networks](https://www.aaai.org/AAAI21Papers/AAAI-8686.ChenY.pdf), `aaai2021`
 - [Scaling Up Influence Functions](https://arxiv.org/pdf/2112.03052.pdf), Dec. 6 2021. Google Research `aaai2022`.
 - [DIVINE: Diverse Influential Training Points for Data Visualization and Model Refinement](https://arxiv.org/pdf/2107.05978.pdf), Jul. 13 2021.
+- [Metadata Archaeology: Unearthing Data Subsets by Leveraging Training Dynamics](https://arxiv.org/pdf/2209.10015.pdf), Sep. 20 2022.
 - [Deconstructing Distributions: A Pointwise Framework of Learning](https://arxiv.org/pdf/2202.09931.pdf), Feb. 20 2022.
 - [Datamodels: Predicting Predictions from Training Data](https://arxiv.org/abs/2202.00622), Feb. 1 2022.
 - [Deep Learning on a Data Diet: Finding Important Examples Early in Training](https://arxiv.org/abs/2107.07075), Jul. 15 2021. `nips2021`
@@ -161,6 +163,7 @@
 - [Counterfactual Generation Under Confounding](https://arxiv.org/abs/2210.12368), Oct. 22 2022.
 - [Explaining Model Confidence Using Counterfactuals](https://arxiv.org/pdf/2303.05729.pdf), Mar. 10 2023.
 - [Semi-supervised counterfactual explanations](https://arxiv.org/pdf/2303.12634.pdf), Mar. 22 2023.
+- [Explaining Groups of Instances Counterfactually for XAI: A Use Case, Algorithm and User Study for Group-Counterfactuals](https://arxiv.org/pdf/2303.09297.pdf), Mar. 16 2023.
 
 #### Leveraging interpretation
 
@@ -262,6 +265,8 @@
 
 
 ## Interpretability for traditional and tree models
+
+- [Finding Minimum-Cost Explanations for Predictions made by Tree Ensembles](https://arxiv.org/pdf/2303.09271.pdf), Mar. 16 2023.
 
 ### Influence for tree models
 
