@@ -13,6 +13,8 @@ The related papers are listed below:
 - [Data Distributioonal Properties Drive Emergent In-Context Learning in Transformers](https://arxiv.org/abs/2205.05055), Nov. 17 2022.
 - [What learning algorithm is in-context learning? Investigations with linear models](https://arxiv.org/pdf/2211.15661.pdf), Nov. 29 2022. [jax](https://github.com/ekinakyurek/google-research/tree/master/incontext).
 - [Larger language models do in-context learning differently](https://arxiv.org/abs/2303.03846), Mar. 7 2023. [tweet](https://arxiv.org/abs/2303.03846).
+- [Identifiability results for multimodal contrastive learning](https://arxiv.org/pdf/2303.09166.pdf), Mar. 16 2023.
+- [The Semantic Reader Project: Augmenting Scholarly Documents through AI-Powered Interactive Reading Interfaces](https://arxiv.org/pdf/2303.14334.pdf), Mar. 25 2023. `education`.
 
 ---
 
@@ -25,10 +27,15 @@ The related papers are listed below:
 
 ### Empirical understandings
 
-- [Capabilities of GPT-4 on Medical Challenge Problems](https://arxiv.org/pdf/2303.13375.pdf), Mar. 20 2023.
+- xxx
 
 ## Appendix
 
 ### Interpreting transformers
 
 - [How Do Transformers Learn Topic Structure: Towards a Mechanistic Understanding](https://arxiv.org/pdf/2303.04245.pdf), Mar. 7 2023.
+
+### Grokking
+
+- [A tale of two circuits: Grokking as competition of sparse and dense subnetworks](https://arxiv.org/pdf/2303.11873.pdf), Mar. 21 2023.
+- [A Simple Explanation for the Phase Transition in Large Language Models with List Decoding](https://arxiv.org/pdf/2303.13112.pdf), Mar. 23 2023.
