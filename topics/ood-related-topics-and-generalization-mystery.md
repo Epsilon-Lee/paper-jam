@@ -48,7 +48,7 @@ Contents of this archive:
 - [Failure Modes of Domain Generalization Algorithms](https://arxiv.org/pdf/2111.13733.pdf), Nov. 26 2021.
 - [A Theory of Label Propagation for Subpopulation Shift](https://arxiv.org/pdf/2102.11203.pdf), Jul. 20 2021 `distribution shift`
 - [Monotonic Risk Relationships under Distribution Shifts for Regularized Risk Minimization](https://arxiv.org/pdf/2210.11589.pdf), Oct. 20 2022.
-- [On-Demand Sampling: Learning Optimally from Multiple Distributions](fhttps://arxiv.org/pdf/2210.12529.pdf), arXiv Oct. 22 2022.  
+- [On-Demand Sampling: Learning Optimally from Multiple Distributions](fhttps://arxiv.org/pdf/2210.12529.pdf), arXiv Oct. 22 2022.
 
 #### Domain adaptation theory
 
@@ -120,6 +120,7 @@ The application from principle of **Invariance**.
 - [Agreement-on-the-Line: Predicting the Performance of Neural Networks under Distribution Shift](https://arxiv.org/abs/2206.13089), Jun. 27 2022. `nips2022`.
 - [High Dimensional Binary Classification under Label Shift: Phase Transition and Regularization](https://arxiv.org/pdf/2212.00700.pdf), Dec. 5 2022.
 - [Covariate-Shift Generalization via Random Sample Weighting](https://pengcui.thumedialab.com/papers/RandomSampleWeighting.pdf), `aaai2022`.
+- [Learning Rate Schedules in the Presence of Distribution Shift](https://arxiv.org/pdf/2303.15634.pdf), Mar. 27 2023.
 
 #### Detection of distribution shift
 
@@ -131,6 +132,7 @@ The application from principle of **Invariance**.
 - ["Why did the model fail?": Attributing Model Performance Changes to Distributional Shifts](https://arxiv.org/pdf/2210.10769.pdf), Oct. 19 2022.
 - [Explanation Shift: Detecting distribution shifts on tabular data via the explanation space](https://arxiv.org/pdf/2210.12369.pdf), Oct. 22 2022.
 - [Sequential Covariate Shift Detection Using Classifier Two-Sample Tests](https://trustml.github.io/docs/icml22.pdf), `icml2022`.
+- [Finding Competence Regions in Domain Generalization](https://arxiv.org/pdf/2303.09989.pdf), Mar. 17 2023.
 
 #### Unsupervised Domain Adaptation
 
