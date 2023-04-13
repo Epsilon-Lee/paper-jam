@@ -8,6 +8,7 @@
 
 - [TabNet: Attentive Interpretable Tabular Learning](https://arxiv.org/abs/1908.07442), Aug. 20, 2019 v1.
 - [TabTransformer: Tabular Data Modeling Using Contextual Embeddings](https://arxiv.org/pdf/2012.06678.pdf), Dec. 11 2020.
+- [Gradient Boosting Neural Networks: GrowNet](https://arxiv.org/pdf/2002.07971.pdf), Jun. 14 2020.
 - [Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning](https://proceedings.neurips.cc/paper/2021/file/f1507aba9fc82ffa7cc7373c58f8a613-Paper.pdf), `nips2021`.
 - [Well-tuned Simple Nets Excel on Tabular Datasets](https://proceedings.neurips.cc/paper/2021/file/c902b497eb972281fb5b4e206db38ee6-Paper.pdf), `nips2021`.
 - [SubTab: Subsetting Features of Tabular Data for Self-Supervised Representation Learning](https://proceedings.neurips.cc/paper/2021/file/9c8661befae6dbcd08304dbf4dcaf0db-Paper.pdf), `nips2021`.
@@ -20,6 +21,7 @@
 - [Transfer Learning with Deep Tabular Models](https://table-representation-learning.github.io/assets/papers/transfer_learning_with_deep_ta.pdf), `nips2022`.
   - It seems that dl can outperform XGBoost via transfer learning.
 - [TabRet: Pre-training transformer-based tabular models for unseen columns](https://arxiv.org/pdf/2303.15747.pdf), Mar. 28 2023.
+- [HyperTab: Hypernetwork Approach for Deep Learning on Small Tabular Datasets](https://arxiv.org/pdf/2304.03543.pdf), Apr. 7 2023.
 
 ## LLMs/FMs for tabular data
 
