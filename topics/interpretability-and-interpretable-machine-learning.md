@@ -121,6 +121,7 @@
 - [Deep Learning Interpretation: Flip Points and Homotopy Methods](http://proceedings.mlr.press/v107/yousefzadeh20a/yousefzadeh20a.pdf), `ml2020`
 - [RelatIF: Identifying Explanatory Training Examples via Relative Influence](http://proceedings.mlr.press/v108/barshan20a/barshan20a.pdf), `aistats2020`
 - [On Second-Order Group Influence Functions for Black-Box Predictions](http://proceedings.mlr.press/v119/basu20b/basu20b.pdf), `iclr2020`
+- [True to the Model or True to the Data?](https://arxiv.org/pdf/2006.16234.pdf), Jun. 29 2020.
 - [Approximate Cross-Validation for Structured Models](https://arxiv.org/pdf/2006.12669.pdf), `nips2020`
 - [HYDRA: Hypergradient Data Relevance Analysis for Interpreting Deep Neural Networks](https://www.aaai.org/AAAI21Papers/AAAI-8686.ChenY.pdf), `aaai2021`
 - [Scaling Up Influence Functions](https://arxiv.org/pdf/2112.03052.pdf), Dec. 6 2021. Google Research `aaai2022`.
@@ -136,8 +137,11 @@
 - [First is Better Than Last for Training Data Influence](https://arxiv.org/pdf/2202.11844.pdf), Feb. 24 2022. `data-centric`
 - [Influence Functions for Sequence Tagging Models](https://arxiv.org/abs/2210.14177), Oct. 25 2022. `emnlp2022`.
 - [First is Better Than Last for Language Data Influence](https://arxiv.org/abs/2202.11844), arXiv.v3 Oct. 27 2022. `nips2022`.
+- [The Shapley Value in Machine Learning](https://arxiv.org/pdf/2202.05594.pdf), May 26 2022.
+- [Beta Shapley: a Unified and Noise-reduced Data Valuation Framework for Machine Learning](https://proceedings.mlr.press/v151/kwon22a/kwon22a.pdf), `aistats2022`.
 - [Simfluence: Modeling the Influence of Individual Training Examples by Simulating Training Runs](https://arxiv.org/pdf/2303.08114.pdf), Mar. 14 2023.
 - [TRAK: Attributing Model Behavior at Scale](https://arxiv.org/pdf/2303.14186.pdf), Mar. 24 2023.
+- [A Note on “Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms”](https://arxiv.org/pdf/2304.04258.pdf), Apr. 9 2023.
 
 #### Critics of influence function
 
