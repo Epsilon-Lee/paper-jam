@@ -106,6 +106,7 @@ The application from principle of **Invariance**.
 
 ### Distribution Shift
 
+- [Domain Adaptation under Target and Conditional Shift](http://proceedings.mlr.press/v28/zhang13d.pdf), `icml2013`.
 - [Detecting and Correcting for Label Shift with Black Box Predictions](https://proceedings.mlr.press/v80/lipton18a.html), `icml2018`. `label shift`
 - [Failing Loudly: An Empirical Study of Methods for Detecting Dataset Shift](https://proceedings.neurips.cc/paper/2019/file/846c260d715e5b854ffad5f70a516c88-Paper.pdf), `nips2019`.
 - [On Label Shift in Domain Adaptation via Wasserstein Distance](https://arxiv.org/pdf/2110.15520.pdf), Oct. 29 2021.
@@ -121,6 +122,7 @@ The application from principle of **Invariance**.
 - [High Dimensional Binary Classification under Label Shift: Phase Transition and Regularization](https://arxiv.org/pdf/2212.00700.pdf), Dec. 5 2022.
 - [Covariate-Shift Generalization via Random Sample Weighting](https://pengcui.thumedialab.com/papers/RandomSampleWeighting.pdf), `aaai2022`.
 - [Learning Rate Schedules in the Presence of Distribution Shift](https://arxiv.org/pdf/2303.15634.pdf), Mar. 27 2023.
+- [Beyond Invariance: Test-Time Label-Shift Adaptation for Addressing “Spurious” Correlations](https://arxiv.org/pdf/2211.15646.pdf), Feb. 2 2023.
 
 #### Detection of distribution shift
 
@@ -133,6 +135,10 @@ The application from principle of **Invariance**.
 - [Explanation Shift: Detecting distribution shifts on tabular data via the explanation space](https://arxiv.org/pdf/2210.12369.pdf), Oct. 22 2022.
 - [Sequential Covariate Shift Detection Using Classifier Two-Sample Tests](https://trustml.github.io/docs/icml22.pdf), `icml2022`.
 - [Finding Competence Regions in Domain Generalization](https://arxiv.org/pdf/2303.09989.pdf), Mar. 17 2023.
+- [Towards Explaining Image-Based Distribution Shifts](https://www.seankulinski.com/publication/towards-explaining-image-based-shifts/towards-explaining-image-based-shifts.pdf), `cvpr2022`.
+- [Towards Explaining Distribution Shifts](https://www.seankulinski.com/publication/towards-explaining-distribution-shifts/towards-explaining-distribution-shifts.pdf), 2022.
+- [How did model change? Efficiently assessing machine learning API shifts](https://lchen001.github.io/papers/2022_APIShift_ICLR.pdf), `iclr2022`.
+- [A learning based hypothesis test for harmful covariate shift](https://arxiv.org/abs/2212.02742), Dec. 6 2022. `iclr2023`.
 
 #### Unsupervised Domain Adaptation
 
