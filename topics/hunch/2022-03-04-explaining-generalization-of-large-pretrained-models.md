@@ -39,3 +39,12 @@ The related papers are listed below:
 
 - [A tale of two circuits: Grokking as competition of sparse and dense subnetworks](https://arxiv.org/pdf/2303.11873.pdf), Mar. 21 2023.
 - [A Simple Explanation for the Phase Transition in Large Language Models with List Decoding](https://arxiv.org/pdf/2303.13112.pdf), Mar. 23 2023.
+
+
+## Scaling laws
+
+Another fundamental structure of the current success of LLMs is scaling laws which is a concept from physics.
+- [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf), Jan. 23 2020.
+- [Scaling Laws for Autoregressive Generative Modeling](https://arxiv.org/abs/2010.14701), Oct. 28 2020.
+- [Beyond neural scaling laws: beating power law scaling via data pruning](https://arxiv.org/pdf/2206.14486.pdf), Apr. 21 2023.
+
