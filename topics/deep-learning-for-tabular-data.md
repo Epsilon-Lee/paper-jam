@@ -35,3 +35,8 @@
 - [Ask me anything: A simple strategy for prompting language models](https://arxiv.org/pdf/2210.02441.pdf), Nov. 20 2022.
 - [Symphony: Towards Natural Language Query Answering over Multi-modal Data Lakes](https://www2.cs.arizona.edu/~caolei/papers/SYMPHONY.pdf), `cidr2023`.
 - [KAER: A Knowledge Augmented Pre-Trained Language Model for Entity Resolution](https://arxiv.org/pdf/2301.04770.pdf), Jan. 12 2023.
+- [TABLET: Learning From Instructions For Tabular Data](https://arxiv.org/pdf/2304.13188.pdf), Apr. 25 2023.
+
+
+
+
