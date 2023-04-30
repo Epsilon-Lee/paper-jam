@@ -105,6 +105,9 @@
   - [Next.js frontend for LangChain Chat](https://github.com/zahidkhawaja/langchain-chat-nextjs).
 - [gpt_index](https://github.com/jerryjliu/gpt_index), an index created by GPT to organize external information and answer queries.
 - [pyChatGPT](https://github.com/terry3041/pyChatGPT), An unofficial Python wrapper for OpenAI's ChatGPT API.
+- [ggml](https://github.com/ggerganov/ggml), Tensor library for machine learning
+  - Note that this project is under development and not ready for production use.
+  - Some of the development is currently happening in the llama.cpp and whisper.cpp repos
 
 **Tokenizers**
 
