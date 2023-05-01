@@ -142,6 +142,7 @@
 - [Simfluence: Modeling the Influence of Individual Training Examples by Simulating Training Runs](https://arxiv.org/pdf/2303.08114.pdf), Mar. 14 2023.
 - [TRAK: Attributing Model Behavior at Scale](https://arxiv.org/pdf/2303.14186.pdf), Mar. 24 2023.
 - [A Note on “Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms”](https://arxiv.org/pdf/2304.04258.pdf), Apr. 9 2023.
+- [Measuring the Effect of Training Data on Deep Learning Predictions via Randomized Experiments](https://arxiv.org/pdf/2206.10013.pdf), Jun. 20 2022.
 
 #### Critics of influence function
 
