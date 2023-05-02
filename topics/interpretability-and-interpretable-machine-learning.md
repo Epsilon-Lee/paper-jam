@@ -144,6 +144,7 @@
 - [A Note on “Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms”](https://arxiv.org/pdf/2304.04258.pdf), Apr. 9 2023.
 - [Measuring the Effect of Training Data on Deep Learning Predictions via Randomized Experiments](https://arxiv.org/pdf/2206.10013.pdf), Jun. 20 2022.
 - [Data-OOB: Out-of-bag Estimate as a Simple and Efficient Data Value](https://arxiv.org/pdf/2304.07718.pdf), Apr. 16 2023.
+- [Fairness-aware data valuation for supervised learning](https://arxiv.org/pdf/2303.16963.pdf), Mar. 29 2023.
 
 #### Critics of influence function
 
