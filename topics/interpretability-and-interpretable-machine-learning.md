@@ -111,6 +111,12 @@
 
 ### Dataset attribution methods
 
+#### Survey
+
+- [Training Data Influence Analysis and Estimation: A Survey](https://arxiv.org/pdf/2212.04612.pdf), Dec. 9 2022.
+
+#### Methods
+
 - [Representer Point Selection for Explaininig Deep Neural Networks](https://arxiv.org/abs/1811.09720), `nips2018`
 - [Input Similarity from the Neural Network Perspective](https://arxiv.org/abs/2102.05262), `nips2019`
 - [Understanding black-box predictions via influence functions](http://proceedings.mlr.press/v70/koh17a/koh17a.pdf), Apr. 2017. `icml2017`
@@ -145,6 +151,7 @@
 - [Measuring the Effect of Training Data on Deep Learning Predictions via Randomized Experiments](https://arxiv.org/pdf/2206.10013.pdf), Jun. 20 2022.
 - [Data-OOB: Out-of-bag Estimate as a Simple and Efficient Data Value](https://arxiv.org/pdf/2304.07718.pdf), Apr. 16 2023.
 - [Fairness-aware data valuation for supervised learning](https://arxiv.org/pdf/2303.16963.pdf), Mar. 29 2023.
+- [Identifying a Training-Set Attack's Target Using Renormalized Influence Estimation](https://arxiv.org/pdf/2201.10055.pdf), Sep. 5 2022.
 
 #### Critics of influence function
 
@@ -282,6 +289,7 @@
   - [Machine Unlearning for Random Forests](http://proceedings.mlr.press/v139/brophy21a/brophy21a.pdf), `icml2021`.
 - [TREX: Tree-Ensemble Representer-Point Explanations](https://arxiv.org/abs/2009.05530), Sep. 11 2020.
 - [Towards Efficient Data Valuation Based on the Shapley Value](http://proceedings.mlr.press/v89/jia19a/jia19a.pdf), `aistats2019`.
+- [Adapting and Evaluating Influence-Estimation Methods for Gradient-Boosted Decision Trees](https://arxiv.org/pdf/2205.00359.pdf), Apr. 30 2022. [code](https://github.com/jjbrophy47/tree_influence).
 
 ## Human-in-the-loop
 
