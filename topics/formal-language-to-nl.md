@@ -17,6 +17,7 @@ This repo function as a place to hold formal language related papers in computat
 - [Tighter Bounds on the Expressivity of Transformer Encoders](https://arxiv.org/pdf/2301.10743.pdf), Jan. 25 2023.
   - _"This brings us much closer than before to an exact characterization of the languages that transformer encoders recognize."_
 - [Looped Transformers as Programmable Computers](https://arxiv.org/pdf/2301.13196.pdf), Jan. 30 2023.
+- [Nondeterministic stacks in neural networks](https://arxiv.org/pdf/2304.12955.pdf), Apr. 25 2023.
 
 ## Reasoning
 
