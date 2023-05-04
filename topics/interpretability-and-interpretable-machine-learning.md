@@ -129,6 +129,7 @@
 - [On Second-Order Group Influence Functions for Black-Box Predictions](http://proceedings.mlr.press/v119/basu20b/basu20b.pdf), `iclr2020`
 - [True to the Model or True to the Data?](https://arxiv.org/pdf/2006.16234.pdf), Jun. 29 2020.
 - [Approximate Cross-Validation for Structured Models](https://arxiv.org/pdf/2006.12669.pdf), `nips2020`
+- [Introduction to Core-sets: an Updated Survey](https://arxiv.org/pdf/2011.09384.pdf), Nov. 18 2022.
 - [HYDRA: Hypergradient Data Relevance Analysis for Interpreting Deep Neural Networks](https://www.aaai.org/AAAI21Papers/AAAI-8686.ChenY.pdf), `aaai2021`
 - [Scaling Up Influence Functions](https://arxiv.org/pdf/2112.03052.pdf), Dec. 6 2021. Google Research `aaai2022`.
 - [DIVINE: Diverse Influential Training Points for Data Visualization and Model Refinement](https://arxiv.org/pdf/2107.05978.pdf), Jul. 13 2021.
@@ -140,6 +141,7 @@
 - [FastIF: Scalable Influence Functions for Efficient Model Interpretation and Debugging](https://aclanthology.org/2021.emnlp-main.808/), `emnlp2021` [code](https://github.com/salesforce/fast-influence-functions)
 - [Unifying Approaches in Data Subset Selection via Fisher Information and Information-Theoretic Quantities](https://arxiv.org/pdf/2208.00549.pdf), Aug. 1 2022.
 - [The Spotlight: A General Method for Discovering Systematic Errors in Deep Learning Models](https://arxiv.org/pdf/2107.00758.pdf), Oct. 16 2021. `FAC 2022`.
+- [Deep Learning on a Data Diet: Finding Important Examples Early in Training](https://proceedings.neurips.cc/paper/2021/hash/ac56f8fe9eea3e4a365f29f0f1957c55-Abstract.html), `nips2021`.
 - [First is Better Than Last for Training Data Influence](https://arxiv.org/pdf/2202.11844.pdf), Feb. 24 2022. `data-centric`
 - [Influence Functions for Sequence Tagging Models](https://arxiv.org/abs/2210.14177), Oct. 25 2022. `emnlp2022`.
 - [First is Better Than Last for Language Data Influence](https://arxiv.org/abs/2202.11844), arXiv.v3 Oct. 27 2022. `nips2022`.
@@ -152,6 +154,9 @@
 - [Data-OOB: Out-of-bag Estimate as a Simple and Efficient Data Value](https://arxiv.org/pdf/2304.07718.pdf), Apr. 16 2023.
 - [Fairness-aware data valuation for supervised learning](https://arxiv.org/pdf/2303.16963.pdf), Mar. 29 2023.
 - [Identifying a Training-Set Attack's Target Using Renormalized Influence Estimation](https://arxiv.org/pdf/2201.10055.pdf), Sep. 5 2022.
+- [Data Valuation Without Training of a Model](https://openreview.net/forum?id=XIzO8zr-WbM), `iclr2023`.
+- [DAVINZ: Data Valuation using Deep Neural Networks at Initialization](https://proceedings.mlr.press/v162/wu22j/wu22j.pdf), `icml2022`.
+- [Class based Influence Functions for Error Detection](https://arxiv.org/pdf/2305.01384.pdf), May 2 2023.
 
 #### Critics of influence function
 
