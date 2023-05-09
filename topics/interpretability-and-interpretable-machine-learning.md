@@ -76,7 +76,8 @@
   - combinatorial optimization formulation of rationale finding: the best rationale is the smallest subset of input tokens that could predict the same prediction as the orignal ones;
   - how to measure faithfulness?
 - [Partial order: Finding Consensus among Uncertain Feature Attributions](https://arxiv.org/pdf/2110.13369.pdf), Oct. 26 2021.
-- [Joint Shapley values: a measure of joint feature importance](https://openreview.net/forum?id=vcUmUvQCloe), `iclr2022 submit`
+- [Joint Shapley values: a measure of joint feature importance](https://openreview.net/forum?id=vcUmUvQCloe), `iclr2022 submit`.
+- [The Out-of-Distribution Problem in Explainability and Search Methods for Feature Importance Explanations](https://arxiv.org/abs/2106.00786), `nips2021`.
 - [Fast Axiomatic Attribution for Neural Networks](https://arxiv.org/pdf/2111.07668.pdf), Nov. 15 2021. `nips2021`
 - [Fine-Grained Neural Network Explanation by Identifying Input Features with Predictive Information](https://arxiv.org/pdf/2110.01471.pdf), `nips2021` `attribution`.
 - [DANCE: Enhancing saliency maps using decoys](http://proceedings.mlr.press/v139/lu21b/lu21b.pdf), `icml2021`
