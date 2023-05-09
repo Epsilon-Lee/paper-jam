@@ -87,6 +87,7 @@
 - [Faith-Shap: The Faithful Shapley Interaction Index](https://arxiv.org/abs/2203.00870), Mar. 9 2022.
 - [XAI for Transformers: Better Explanations through Conservative Propagation](https://proceedings.mlr.press/v162/ali22a.html), `icml2022`.
 - [Learning with Explanation Constraints](https://arxiv.org/pdf/2303.14496.pdf), Mar. 25 2023.
+- [Distributing Synergy Functions: Unifying Game-Theoretic Interaction Methods for Machine-Learning Explainability](https://arxiv.org/pdf/2305.03100.pdf), May 4 2023.
 
 #### Critics and evaluation of feature importance
 
