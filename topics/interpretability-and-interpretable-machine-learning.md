@@ -284,7 +284,7 @@
 ## Toolkits
 
 - [imodels](https://github.com/csinva/imodels), Interpretable ML package 🔍 for concise, transparent, and accurate predictive modeling (sklearn-compatible). [paper](https://www.theoj.org/joss-papers/joss.03192/10.21105.joss.03192.pdf). published at May 4 2021.
-
+- [PiML](https://github.com/SelfExplainML/PiML-Toolbox), PiML (Python Interpretable Machine Learning) toolbox for model development & diagnostics. [paper](https://arxiv.org/pdf/2305.04214.pdf).
 
 ## Interpretability for traditional and tree models
 
