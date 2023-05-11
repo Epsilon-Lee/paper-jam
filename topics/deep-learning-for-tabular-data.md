@@ -27,6 +27,7 @@
 - [TabRet: Pre-training transformer-based tabular models for unseen columns](https://arxiv.org/pdf/2303.15747.pdf), Mar. 28 2023.
 - [HyperTab: Hypernetwork Approach for Deep Learning on Small Tabular Datasets](https://arxiv.org/pdf/2304.03543.pdf), Apr. 7 2023.
 - [When Do Neural Nets Outperform Boosted Trees on Tabular Data?](https://arxiv.org/pdf/2305.02997.pdf), May 4 2023.
+- [XTab: Cross-table Pretraining for Tabular Transformers](https://arxiv.org/pdf/2305.06090.pdf), May 10 2023. [code](https://github.com/BingzhaoZhu/XTab).
 
 ## LLMs/FMs for tabular data
 
