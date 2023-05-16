@@ -89,6 +89,7 @@
 - [XAI for Transformers: Better Explanations through Conservative Propagation](https://proceedings.mlr.press/v162/ali22a.html), `icml2022`.
 - [Learning with Explanation Constraints](https://arxiv.org/pdf/2303.14496.pdf), Mar. 25 2023.
 - [Distributing Synergy Functions: Unifying Game-Theoretic Interaction Methods for Machine-Learning Explainability](https://arxiv.org/pdf/2305.03100.pdf), May 4 2023.
+- [Are Machine Rationales (Not) Useful to Humans? Measuring and Improving Human Utility of Free-Text Rationales](https://arxiv.org/pdf/2305.07095.pdf), May 11 2023.
 
 #### Critics and evaluation of feature importance
 
@@ -110,6 +111,7 @@
 - [How does This Interaction Affect Me? Interpretable Attribution for Feature Interactions](https://proceedings.neurips.cc/paper/2020/hash/443dec3062d0286986e21dc0631734c9-Abstract.html), `nips2020`.
 - [Feature Interaction Interpretability: A Case for Explaining Ad-Recommendation Systems via Neural Interaction Detection](https://openreview.net/forum?id=BkgnhTEtDS), `iclr2020`.
 - [Quantifying & Modeling Feature Interactions: An Information Decomposition Framework](https://arxiv.org/pdf/2302.12247.pdf), Feb. 23 2023.
+- [Asymmetric feature interaction for interpreting model predictions](https://arxiv.org/pdf/2305.07224.pdf), May 12 2023.
 
 ### Dataset attribution methods
 
