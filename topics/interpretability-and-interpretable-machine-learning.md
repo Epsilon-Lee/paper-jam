@@ -90,6 +90,7 @@
 - [Learning with Explanation Constraints](https://arxiv.org/pdf/2303.14496.pdf), Mar. 25 2023.
 - [Distributing Synergy Functions: Unifying Game-Theoretic Interaction Methods for Machine-Learning Explainability](https://arxiv.org/pdf/2305.03100.pdf), May 4 2023.
 - [Are Machine Rationales (Not) Useful to Humans? Measuring and Improving Human Utility of Free-Text Rationales](https://arxiv.org/pdf/2305.07095.pdf), May 11 2023.
+- [The Weighted Möbius Score: A Unified Framework for Feature Attribution](https://arxiv.org/pdf/2305.09204.pdf), May 16 2023.
 
 #### Critics and evaluation of feature importance
 
