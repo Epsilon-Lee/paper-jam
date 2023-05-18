@@ -245,6 +245,7 @@
 
 ## Transparent model
 
+- [Fast, Accurate, and Simple Models for Tabular Data via Augmented Distillation](https://arxiv.org/pdf/2006.14284.pdf), Jun. 25 2020.
 - [Gaining Free or Low-Cost Transparency with Interpretable Partial Substitute](https://arxiv.org/pdf/1802.04346.pdf), `icml2019`.
 - [Self-explaining deep models with logic rule reasoning](https://www.microsoft.com/en-us/research/uploads/prod/2022/10/CameraReady_NeurIPS22_SELOR.pdf), `nips2022`.
 
