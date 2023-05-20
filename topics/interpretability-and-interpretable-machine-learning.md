@@ -7,7 +7,6 @@
 - [Interpretation methods](#interpretation-methods)
   - [Feature attribution methods](#feature-attribution-methods)
   - [Critics of feature importance](#critics-of-feature-importance)
-  - [Beyond feature attribution](#beyond-feature-attribution)
   - [Dataset attribution methods](#dataset-attribution-methods)
     - [Critics of influence function](#critics-of-influence-function)
 - [Visualization methods](#visualization-methods)
@@ -68,6 +67,7 @@
 
 #### Methods
 
+- [Axiomatic attribution for deep networks](http://proceedings.mlr.press/v70/sundararajan17a/sundararajan17a.pdf), `icml2017`.
 - [Learning to Explain: An Information-Theoretic Perspective on Model Interpretation](https://arxiv.org/abs/1802.07814), `icml2018`.
 - [The Shapley Taylor Interaction Index](http://proceedings.mlr.press/v119/sundararajan20a/sundararajan20a.pdf), `icml2020`.
 - [Understanding Interlocking Dynamics of Cooperative Rationalization](https://arxiv.org/pdf/2110.13880.pdf), Oct. 26 2021.
@@ -91,6 +91,7 @@
 - [Distributing Synergy Functions: Unifying Game-Theoretic Interaction Methods for Machine-Learning Explainability](https://arxiv.org/pdf/2305.03100.pdf), May 4 2023.
 - [Are Machine Rationales (Not) Useful to Humans? Measuring and Improving Human Utility of Free-Text Rationales](https://arxiv.org/pdf/2305.07095.pdf), May 11 2023.
 - [The Weighted Möbius Score: A Unified Framework for Feature Attribution](https://arxiv.org/pdf/2305.09204.pdf), May 16 2023.
+- [Token-wise Decomposition of Autoregressive Language Model Hidden States for Analyzing Model Predictions](https://arxiv.org/pdf/2305.10614.pdf), May 17 2023. `acl2023`.
 
 #### Critics and evaluation of feature importance
 
