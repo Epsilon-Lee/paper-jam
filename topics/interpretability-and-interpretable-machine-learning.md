@@ -163,6 +163,8 @@
 - [Data Valuation Without Training of a Model](https://openreview.net/forum?id=XIzO8zr-WbM), `iclr2023`.
 - [DAVINZ: Data Valuation using Deep Neural Networks at Initialization](https://proceedings.mlr.press/v162/wu22j/wu22j.pdf), `icml2022`.
 - [Class based Influence Functions for Error Detection](https://arxiv.org/pdf/2305.01384.pdf), May 2 2023.
+- [On Influence Functions, Classification Influence, Relative Influence, Memorization and Generalization](https://arxiv.org/pdf/2305.16094.pdf), May 25 2023.
+- [Theoretical and Practical Perspectives on what Influence Functions Do](https://arxiv.org/pdf/2305.16971.pdf), May 26 2023.
 
 #### Critics of influence function
 
