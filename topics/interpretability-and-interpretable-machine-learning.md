@@ -165,6 +165,7 @@
 - [Class based Influence Functions for Error Detection](https://arxiv.org/pdf/2305.01384.pdf), May 2 2023.
 - [On Influence Functions, Classification Influence, Relative Influence, Memorization and Generalization](https://arxiv.org/pdf/2305.16094.pdf), May 25 2023.
 - [Theoretical and Practical Perspectives on what Influence Functions Do](https://arxiv.org/pdf/2305.16971.pdf), May 26 2023.
+- [Shapley Based Residual Decomposition for Instance Analysis](https://arxiv.org/pdf/2305.18818.pdf), May 30 2023.
 
 #### Critics of influence function
 
@@ -309,3 +310,7 @@
 ## Human-in-the-loop
 
 - [Human Uncertainty in Concept-Based AI Systems](https://arxiv.org/pdf/2303.12872.pdf), Mar. 22 2023.
+
+
+
+
