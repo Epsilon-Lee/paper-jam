@@ -92,6 +92,9 @@
 - [Are Machine Rationales (Not) Useful to Humans? Measuring and Improving Human Utility of Free-Text Rationales](https://arxiv.org/pdf/2305.07095.pdf), May 11 2023.
 - [The Weighted Möbius Score: A Unified Framework for Feature Attribution](https://arxiv.org/pdf/2305.09204.pdf), May 16 2023.
 - [Token-wise Decomposition of Autoregressive Language Model Hidden States for Analyzing Model Predictions](https://arxiv.org/pdf/2305.10614.pdf), May 17 2023. `acl2023`.
+- [Efficient Shapley Values Estimation by Amortization for Text Classification](https://arxiv.org/pdf/2305.19998.pdf), May 31 2023.
+- [Integrated Decision Gradients: Compute Your Attributions Where the Model Makes Its Decision](https://arxiv.org/pdf/2305.20052.pdf), May 31 2023.
+  - saturation effect.
 
 #### Critics and evaluation of feature importance
 
@@ -166,6 +169,8 @@
 - [On Influence Functions, Classification Influence, Relative Influence, Memorization and Generalization](https://arxiv.org/pdf/2305.16094.pdf), May 25 2023.
 - [Theoretical and Practical Perspectives on what Influence Functions Do](https://arxiv.org/pdf/2305.16971.pdf), May 26 2023.
 - [Shapley Based Residual Decomposition for Instance Analysis](https://arxiv.org/pdf/2305.18818.pdf), May 30 2023.
+- [A Bayesian Perspective On Training Data Attribution](https://arxiv.org/pdf/2305.19765.pdf), May 31 2023.
+- [Representater point selectioin for explaining regularized high-dimensional models](https://arxiv.org/pdf/2305.20002.pdf), May 31 2023. `recommender system`.
 
 #### Critics of influence function
 
@@ -212,6 +217,7 @@
   - This paper introduces a family of distance measures between representations that is explicitly motivated by downstream predictive tasks.
 - [On the Versatile Uses of Partial Distance Correlation in Deep Learning](https://arxiv.org/pdf/2207.09684.pdf), Jul. 20 2022.
 - [Representational Dissimilarity Metric Spaces for Stochastic Neural Networks](https://openreview.net/forum?id=xjb563TH-GH), `iclr2023`.
+- [Pointwise Representational Similarity](https://arxiv.org/pdf/2305.19294.pdf), May 30 2023. `nips2023 submitted`.
 
 ## Probing methods
 
