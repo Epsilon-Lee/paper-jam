@@ -108,6 +108,8 @@
 - [Use-Case-Grounded Simulations for Explanation Evaluation](https://arxiv.org/pdf/2206.02256.pdf),Aug. 20 2022. `evaluation` `nips2022`.
 - [Better Understanding Differences in Attribution Methods via Systematic Evaluations](https://arxiv.org/pdf/2303.11884.pdf), Mar. 21 2023.
 - [Using explanations to guide models](https://arxiv.org/pdf/2303.11932.pdf), Mar. 21 2023.
+- [Theoretical Behavior of XAI Methods in the Presence of Suppressor Variables](https://arxiv.org/pdf/2306.01464.pdf), Jun. 2 2023. `icml2023`. `causality`.
+  - non-class related suppressor feature might have non-zero importance.
 
 ### Feature interaction
 
@@ -259,6 +261,11 @@
 - [Fast, Accurate, and Simple Models for Tabular Data via Augmented Distillation](https://arxiv.org/pdf/2006.14284.pdf), Jun. 25 2020.
 - [Gaining Free or Low-Cost Transparency with Interpretable Partial Substitute](https://arxiv.org/pdf/1802.04346.pdf), `icml2019`.
 - [Self-explaining deep models with logic rule reasoning](https://www.microsoft.com/en-us/research/uploads/prod/2022/10/CameraReady_NeurIPS22_SELOR.pdf), `nips2022`.
+- [Probabilistic Concept Bottleneck Models](https://arxiv.org/pdf/2306.01574.pdf), Jun. 2 2023.
+
+### Logic-based model
+
+- [Interpretable and Explainable Logical Policies via Neurally Guided Symbolic Abstraction](https://arxiv.org/pdf/2306.01439.pdf), Jun. 2 2023. `neuro-symbolic` `rl`.
 
 ### Rule list model
 
