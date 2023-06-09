@@ -230,6 +230,9 @@ The application from principle of **Invariance**.
 - [Beyond Mahalanobis-Based Scores for Textual OOD Detection](https://openreview.net/pdf?id=ReB7CCByD6U), `nips2022`.
 - [Out-Of-Distribution Detection Is Not All You Need](https://arxiv.org/abs/2211.16158), Nov. 29 2022. `nips2022`. [tweet](https://twitter.com/ducha_aiki/status/1597889329321213952).
 - [Useful Confidence Measures: Beyond the Max Score](https://arxiv.org/pdf/2210.14070.pdf), Oct. 25 2022.
+- [A Functional Data Perspective and Baseline On Multi-Layer Out-of-Distribution Detection](https://arxiv.org/pdf/2306.03522.pdf), Jun. 6 2023.
+- [Unleashing Mask: Explore the Intrinsic Out-of-Distribution Detection Capability](https://arxiv.org/pdf/2306.03715.pdf), Jun. 6 2023.
+- [Neuron Activation Coverage: Rethinking Out-of-distribution Detection and Generalization](https://arxiv.org/pdf/2306.02879.pdf), Jun. 5 2023.
 
 #### Unsupervised
 
