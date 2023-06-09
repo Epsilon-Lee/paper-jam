@@ -95,6 +95,7 @@
 - [Efficient Shapley Values Estimation by Amortization for Text Classification](https://arxiv.org/pdf/2305.19998.pdf), May 31 2023.
 - [Integrated Decision Gradients: Compute Your Attributions Where the Model Makes Its Decision](https://arxiv.org/pdf/2305.20052.pdf), May 31 2023.
   - saturation effect.
+- [DecompX: Explaining Transformers Decisions by Propagating Token Decomposition](https://arxiv.org/pdf/2306.02873.pdf), Jun. 5 2023. `acl2023`.
 
 #### Critics and evaluation of feature importance
 
