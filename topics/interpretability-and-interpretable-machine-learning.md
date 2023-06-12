@@ -111,6 +111,8 @@
 - [Using explanations to guide models](https://arxiv.org/pdf/2303.11932.pdf), Mar. 21 2023.
 - [Theoretical Behavior of XAI Methods in the Presence of Suppressor Variables](https://arxiv.org/pdf/2306.01464.pdf), Jun. 2 2023. `icml2023`. `causality`.
   - non-class related suppressor feature might have non-zero importance.
+- [Don’t trust your eyes: on the (un)reliability of feature visualizations](https://arxiv.org/pdf/2306.04719.pdf), Jun. 7 2023.
+
 
 ### Feature interaction
 
