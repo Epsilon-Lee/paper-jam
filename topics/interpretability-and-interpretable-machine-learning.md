@@ -112,7 +112,7 @@
 - [Theoretical Behavior of XAI Methods in the Presence of Suppressor Variables](https://arxiv.org/pdf/2306.01464.pdf), Jun. 2 2023. `icml2023`. `causality`.
   - non-class related suppressor feature might have non-zero importance.
 - [Don’t trust your eyes: on the (un)reliability of feature visualizations](https://arxiv.org/pdf/2306.04719.pdf), Jun. 7 2023.
-
+- [On the Robustness of Removal-Based Feature Attributions](https://arxiv.org/pdf/2306.07462.pdf), Jun. 12 2023.
 
 ### Feature interaction
 
@@ -176,6 +176,7 @@
 - [Shapley Based Residual Decomposition for Instance Analysis](https://arxiv.org/pdf/2305.18818.pdf), May 30 2023.
 - [A Bayesian Perspective On Training Data Attribution](https://arxiv.org/pdf/2305.19765.pdf), May 31 2023.
 - [Representater point selectioin for explaining regularized high-dimensional models](https://arxiv.org/pdf/2305.20002.pdf), May 31 2023. `recommender system`.
+- [Shapley Value on Probabilistic Classifiers](https://arxiv.org/pdf/2306.07171.pdf), Jun. 12 2023.
 
 #### Critics of influence function
 
@@ -265,6 +266,8 @@
 - [Gaining Free or Low-Cost Transparency with Interpretable Partial Substitute](https://arxiv.org/pdf/1802.04346.pdf), `icml2019`.
 - [Self-explaining deep models with logic rule reasoning](https://www.microsoft.com/en-us/research/uploads/prod/2022/10/CameraReady_NeurIPS22_SELOR.pdf), `nips2022`.
 - [Probabilistic Concept Bottleneck Models](https://arxiv.org/pdf/2306.01574.pdf), Jun. 2 2023.
+- [Explainable AI using expressive Boolean formulas](https://arxiv.org/pdf/2306.03976.pdf), Jun. 6 2023.
+- 
 
 ### Logic-based model
 
@@ -279,6 +282,7 @@
 - [Scalable Bayesian rule lists](http://proceedings.mlr.press/v70/yang17h/yang17h.pdf), `icml2017`. [long version](https://arxiv.org/pdf/1602.08610.pdf).
 - [Globally-Consistent Rule-Based Summary-Explanations for Machine Learning Models: Application to Credit-Risk Evaluation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3395422), Jun. 12 2019.
 - [Causal rule sets for identifying subgroups with enhanced treatment effects](https://arxiv.org/pdf/1710.05426), `informs2022`.
+- [Fire: An Optimization Approach for Fast Interpretable Rule Extraction](https://arxiv.org/pdf/2306.07432.pdf), Jun. 12 2023.
 
 ### Model editing
 
