@@ -177,6 +177,7 @@
 - [A Bayesian Perspective On Training Data Attribution](https://arxiv.org/pdf/2305.19765.pdf), May 31 2023.
 - [Representater point selectioin for explaining regularized high-dimensional models](https://arxiv.org/pdf/2305.20002.pdf), May 31 2023. `recommender system`.
 - [Shapley Value on Probabilistic Classifiers](https://arxiv.org/pdf/2306.07171.pdf), Jun. 12 2023.
+- [Evaluating Data Attribution for Text-to-Image Models](https://arxiv.org/pdf/2306.09345.pdf), Jun. 15 2023. [code](https://arxiv.org/pdf/2306.09345.pdf).
 
 #### Critics of influence function
 
