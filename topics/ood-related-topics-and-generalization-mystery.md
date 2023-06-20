@@ -260,6 +260,7 @@ The application from principle of **Invariance**.
   - This paper also finds that likelihood can be misleading for OOD detection, since:
     - local features are shared between image distributions
     - local features dominate the likelihood
+- [Unsupervised Anomaly Detection via Nonlinear Manifold Learning](https://arxiv.org/pdf/2306.09441.pdf), Jun. 15 2023.
 
 ### Explanations
 
