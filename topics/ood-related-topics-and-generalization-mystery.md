@@ -234,6 +234,7 @@ The application from principle of **Invariance**.
 - [A Functional Data Perspective and Baseline On Multi-Layer Out-of-Distribution Detection](https://arxiv.org/pdf/2306.03522.pdf), Jun. 6 2023.
 - [Unleashing Mask: Explore the Intrinsic Out-of-Distribution Detection Capability](https://arxiv.org/pdf/2306.03715.pdf), Jun. 6 2023.
 - [Neuron Activation Coverage: Rethinking Out-of-distribution Detection and Generalization](https://arxiv.org/pdf/2306.02879.pdf), Jun. 5 2023.
+- [No Free Lunch: The Hazards of Over-Expressive Representations in Anomaly Detection](https://arxiv.org/pdf/2306.07284.pdf), Jun. 12 2023.
 
 #### Unsupervised
 
