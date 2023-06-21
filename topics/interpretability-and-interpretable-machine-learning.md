@@ -268,7 +268,7 @@
 - [Self-explaining deep models with logic rule reasoning](https://www.microsoft.com/en-us/research/uploads/prod/2022/10/CameraReady_NeurIPS22_SELOR.pdf), `nips2022`.
 - [Probabilistic Concept Bottleneck Models](https://arxiv.org/pdf/2306.01574.pdf), Jun. 2 2023.
 - [Explainable AI using expressive Boolean formulas](https://arxiv.org/pdf/2306.03976.pdf), Jun. 6 2023.
-- 
+- [Tilted Sparse Additive Models](https://fengxianghe.github.io/paper/wang2023tilted.pdf), `icml2023`.
 
 ### Logic-based model
 
