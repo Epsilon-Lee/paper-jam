@@ -122,6 +122,7 @@
 - [Feature Interaction Interpretability: A Case for Explaining Ad-Recommendation Systems via Neural Interaction Detection](https://openreview.net/forum?id=BkgnhTEtDS), `iclr2020`.
 - [Quantifying & Modeling Feature Interactions: An Information Decomposition Framework](https://arxiv.org/pdf/2302.12247.pdf), Feb. 23 2023.
 - [Asymmetric feature interaction for interpreting model predictions](https://arxiv.org/pdf/2305.07224.pdf), May 12 2023.
+- [Explaining the Model and Feature Dependencies by Decomposition of the Shapley Value](https://arxiv.org/pdf/2306.10880.pdf), Jun. 19 2023.
 
 ### Dataset attribution methods
 
