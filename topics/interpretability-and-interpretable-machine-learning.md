@@ -182,6 +182,7 @@
 - [OpenDataVal: a Unified Benchmark for Data Valuation](https://arxiv.org/pdf/2306.10577.pdf), Jun. 18 2023.
 - [2D-Shapley: A Framework for Fragmented Data Valuation](https://arxiv.org/pdf/2306.10473.pdf), Jun. 18 2023.
 - [A Model-free Closeness-of-influence Test for Features in Supervised Learning](https://arxiv.org/pdf/2306.11855.pdf), Jun. 20 203.
+- [Data Selection for Fine-tuning Large Language Models Using Transferred Shapley Values](https://arxiv.org/pdf/2306.10165.pdf), Jun. 16 2023. `application of data shapley`.
 
 #### Critics of influence function
 
