@@ -178,6 +178,9 @@
 - [Representater point selectioin for explaining regularized high-dimensional models](https://arxiv.org/pdf/2305.20002.pdf), May 31 2023. `recommender system`.
 - [Shapley Value on Probabilistic Classifiers](https://arxiv.org/pdf/2306.07171.pdf), Jun. 12 2023.
 - [Evaluating Data Attribution for Text-to-Image Models](https://arxiv.org/pdf/2306.09345.pdf), Jun. 15 2023. [code](https://arxiv.org/pdf/2306.09345.pdf).
+- [OpenDataVal: a Unified Benchmark for Data Valuation](https://arxiv.org/pdf/2306.10577.pdf), Jun. 18 2023.
+- [2D-Shapley: A Framework for Fragmented Data Valuation](https://arxiv.org/pdf/2306.10473.pdf), Jun. 18 2023.
+- [A Model-free Closeness-of-influence Test for Features in Supervised Learning](https://arxiv.org/pdf/2306.11855.pdf), Jun. 20 203.
 
 #### Critics of influence function
 
