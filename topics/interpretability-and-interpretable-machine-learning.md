@@ -107,12 +107,14 @@
 - [Use-Case-Grounded Simulations for Explanation Evaluation](https://arxiv.org/pdf/2206.02256.pdf), `nips2022`.
 - [Impossibility Theorems for Feature Attribution](https://arxiv.org/pdf/2212.11870.pdf), Dec. 22 2022. `theory`.
 - [Use-Case-Grounded Simulations for Explanation Evaluation](https://arxiv.org/pdf/2206.02256.pdf),Aug. 20 2022. `evaluation` `nips2022`.
+- [Which Explanation Should I Choose? A Function Approximation Perspective to Characterizing Post Hoc Explanations](https://arxiv.org/pdf/2206.01254.pdf), `nips2022`.
 - [Better Understanding Differences in Attribution Methods via Systematic Evaluations](https://arxiv.org/pdf/2303.11884.pdf), Mar. 21 2023.
 - [Using explanations to guide models](https://arxiv.org/pdf/2303.11932.pdf), Mar. 21 2023.
 - [Theoretical Behavior of XAI Methods in the Presence of Suppressor Variables](https://arxiv.org/pdf/2306.01464.pdf), Jun. 2 2023. `icml2023`. `causality`.
   - non-class related suppressor feature might have non-zero importance.
 - [Don’t trust your eyes: on the (un)reliability of feature visualizations](https://arxiv.org/pdf/2306.04719.pdf), Jun. 7 2023.
 - [On the Robustness of Removal-Based Feature Attributions](https://arxiv.org/pdf/2306.07462.pdf), Jun. 12 2023.
+- [Consistent Explanations in the Face of Model Indeterminacy via Ensembling](https://arxiv.org/pdf/2306.06193.pdf)， Jun. 13 2023.
 
 ### Feature interaction
 
