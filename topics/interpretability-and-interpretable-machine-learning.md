@@ -183,6 +183,7 @@
 - [2D-Shapley: A Framework for Fragmented Data Valuation](https://arxiv.org/pdf/2306.10473.pdf), Jun. 18 2023.
 - [A Model-free Closeness-of-influence Test for Features in Supervised Learning](https://arxiv.org/pdf/2306.11855.pdf), Jun. 20 203.
 - [Data Selection for Fine-tuning Large Language Models Using Transferred Shapley Values](https://arxiv.org/pdf/2306.10165.pdf), Jun. 16 2023. `application of data shapley`.
+- [Variance reduced shapley value estimation for trustworthy data valuation](https://www.sciencedirect.com/science/article/pii/S0305054823001697), Jun. 21 2023.
 
 #### Critics of influence function
 
