@@ -1,4 +1,8 @@
 
+### Pretraining
+
+- [Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects](https://arxiv.org/pdf/2306.10125.pdf), Jun. 16 2023.
+
 ### Methods
 
 - [Time Series as Images: Vision Transformer for Irregularly Sampled Time Series](https://arxiv.org/pdf/2303.12799.pdf), Mar. 1 2023. [github](https://github.com/Leezekun/ViTST).
