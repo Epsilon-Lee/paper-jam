@@ -17,6 +17,7 @@
 
 ### Pretraining
 
+- [DeepGBM: A Deep Learning Framework Distilled by GBDT for Online Prediction Tasks](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/deepgbm_kdd2019__CR_.pdf). `kdd2019`. [code](https://github.com/motefly/DeepGBM/tree/master).
 - [TabNet: Attentive Interpretable Tabular Learning](https://arxiv.org/abs/1908.07442), Aug. 20, 2019 v1.
 - [TabTransformer: Tabular Data Modeling Using Contextual Embeddings](https://arxiv.org/pdf/2012.06678.pdf), Dec. 11 2020.
 - [Gradient Boosting Neural Networks: GrowNet](https://arxiv.org/pdf/2002.07971.pdf), Jun. 14 2020.
