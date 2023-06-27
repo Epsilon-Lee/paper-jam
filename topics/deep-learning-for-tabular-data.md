@@ -15,6 +15,8 @@
 
 ## Methods and critics
 
+### Pretraining
+
 - [TabNet: Attentive Interpretable Tabular Learning](https://arxiv.org/abs/1908.07442), Aug. 20, 2019 v1.
 - [TabTransformer: Tabular Data Modeling Using Contextual Embeddings](https://arxiv.org/pdf/2012.06678.pdf), Dec. 11 2020.
 - [Gradient Boosting Neural Networks: GrowNet](https://arxiv.org/pdf/2002.07971.pdf), Jun. 14 2020.
@@ -40,6 +42,7 @@
 - [Enabling tabular deep learning when d ≫ n with an auxiliary knowledge graph](https://arxiv.org/pdf/2306.04766.pdf), Jun. 7 2023.
 - [RoTaR: Efficient Row-Based Table Representation Learning via Teacher-Student Training](https://arxiv.org/pdf/2306.11696.pdf), Jun. 20 2023.
 - [OpenFE: Automated Feature Generation with Expert-level Performance](https://openreview.net/attachment?id=1H1irbEaGV&name=pdf), `icml2023`. `automatic feature engineering`.
+- [DeepTLF](https://openreview.net/pdf?id=PaQhL90tLmX), `iclr2022 rejected` [reviews](https://openreview.net/forum?id=PaQhL90tLmX). [revised and accepted here](https://link.springer.com/article/10.1007/s41060-022-00350-z). [code]().
 
 ## LLMs/FMs for tabular data
 
