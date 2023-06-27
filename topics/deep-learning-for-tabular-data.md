@@ -29,11 +29,17 @@
 - [TabPFN: A Transformer that solves small tabular classification problems in a second](https://table-representation-learning.github.io/assets/papers/tabpfn_a_transformer_that_solv.pdf), `nips2022`. [code](https://huggingface.co/spaces/TabPFN/TabPFN).
 - [Transfer Learning with Deep Tabular Models](https://table-representation-learning.github.io/assets/papers/transfer_learning_with_deep_ta.pdf), `nips2022`.
   - It seems that dl can outperform XGBoost via transfer learning.
+- [Explaining Anomalies using Denoising Autoencoders for Financial Tabular Data](https://arxiv.org/pdf/2209.10658.pdf), Oct. 3 2023. `anomaly detection`.
+- [Embeddings for Tabular Data: A Survey](https://arxiv.org/pdf/2302.11777.pdf), Feb. 23 2023.
 - [TabRet: Pre-training transformer-based tabular models for unseen columns](https://arxiv.org/pdf/2303.15747.pdf), Mar. 28 2023.
 - [HyperTab: Hypernetwork Approach for Deep Learning on Small Tabular Datasets](https://arxiv.org/pdf/2304.03543.pdf), Apr. 7 2023.
 - [When Do Neural Nets Outperform Boosted Trees on Tabular Data?](https://arxiv.org/pdf/2305.02997.pdf), May 4 2023.
 - [XTab: Cross-table Pretraining for Tabular Transformers](https://arxiv.org/pdf/2305.06090.pdf), May 10 2023. [code](https://github.com/BingzhaoZhu/XTab).
+- [Rethinking Data Augmentation for Tabular Data in Deep Learning](https://arxiv.org/pdf/2305.10308.pdf), May 22 2023.
+- [Generative Table Pre-training Empowers Models for Tabular Prediction](https://arxiv.org/pdf/2305.09696.pdf), May 16 2023. [code](https://github.com/ZhangTP1996/TapTap).
 - [Enabling tabular deep learning when d ≫ n with an auxiliary knowledge graph](https://arxiv.org/pdf/2306.04766.pdf), Jun. 7 2023.
+- [RoTaR: Efficient Row-Based Table Representation Learning via Teacher-Student Training](https://arxiv.org/pdf/2306.11696.pdf), Jun. 20 2023.
+- [OpenFE: Automated Feature Generation with Expert-level Performance](https://openreview.net/attachment?id=1H1irbEaGV&name=pdf), `icml2023`. `automatic feature engineering`.
 
 ## LLMs/FMs for tabular data
 
