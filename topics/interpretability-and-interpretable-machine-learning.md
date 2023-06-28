@@ -69,6 +69,7 @@
 
 - [Axiomatic attribution for deep networks](http://proceedings.mlr.press/v70/sundararajan17a/sundararajan17a.pdf), `icml2017`.
 - [Learning to Explain: An Information-Theoretic Perspective on Model Interpretation](https://arxiv.org/abs/1802.07814), `icml2018`.
+- [Rethinking Cooperative Rationalization: Introspective Extraction and Complement Control](https://arxiv.org/pdf/1910.13294.pdf), Dec. 15 2019. `rationalization`. [code](https://github.com/Gorov/three_player_for_emnlp).
 - [The Shapley Taylor Interaction Index](http://proceedings.mlr.press/v119/sundararajan20a/sundararajan20a.pdf), `icml2020`.
 - [Understanding Interlocking Dynamics of Cooperative Rationalization](https://arxiv.org/pdf/2110.13880.pdf), Oct. 26 2021.
 - [Rationales for Sequential Predictions](https://arxiv.org/pdf/2109.06387.pdf), Keyon Vafa et al. `emnlp2021` `interpretability` `nmt` `combinatorial optimization`
@@ -96,12 +97,16 @@
 - [Integrated Decision Gradients: Compute Your Attributions Where the Model Makes Its Decision](https://arxiv.org/pdf/2305.20052.pdf), May 31 2023.
   - saturation effect.
 - [DecompX: Explaining Transformers Decisions by Propagating Token Decomposition](https://arxiv.org/pdf/2306.02873.pdf), Jun. 5 2023. `acl2023`.
+- [Towards Trustworthy Explanation: On Causal Rationalization](https://arxiv.org/pdf/2306.14115.pdf), Jun. 25 2023. `icml2023`.
+  - from association-based attribution to excluding spurious but important features.
+- [PWSHAP: A path-wise explanation model for targeted variables](https://arxiv.org/pdf/2306.14672.pdf), Jun. 26 2023.
 
 #### Critics and evaluation of feature importance
 
 - [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547), Oct. 29 2019 `aaai2018`
 - [On the (In)fidelity and Sensitivity of Explanations](https://proceedings.neurips.cc/paper/2019/file/a7471fdc77b3435276507cc8f2dc2569-Paper.pdf), `nips2019`
 - [Do Feature Attribution Methods Correctly Attribute Features?](https://yilun.scripts.mit.edu/pdf/xaiworkshop2021feature.pdf), `XAI4Debugging@NeurIPS2021`.
+- [On Locality of Local Explanation Models](https://proceedings.neurips.cc/paper/2021/file/995665640dc319973d3173a74a03860c-Paper.pdf), `nips2021`.
 - [The Disagreement Problem in Explainable Machine Learning: A Practitioner’s Perspective](https://arxiv.org/pdf/2202.01602.pdf), Feb. 8 2022.
 - [Sanity Simulation for Saliency Methods](https://arxiv.org/pdf/2105.06506.pdf), `icml2022`.
 - [Use-Case-Grounded Simulations for Explanation Evaluation](https://arxiv.org/pdf/2206.02256.pdf), `nips2022`.
@@ -115,6 +120,8 @@
 - [Don’t trust your eyes: on the (un)reliability of feature visualizations](https://arxiv.org/pdf/2306.04719.pdf), Jun. 7 2023.
 - [On the Robustness of Removal-Based Feature Attributions](https://arxiv.org/pdf/2306.07462.pdf), Jun. 12 2023.
 - [Consistent Explanations in the Face of Model Indeterminacy via Ensembling](https://arxiv.org/pdf/2306.06193.pdf)， Jun. 13 2023.
+- [Four Axiomatic Characterizations of the Integrated Gradients Attribution Method](https://arxiv.org/pdf/2306.13753.pdf), Jun. 23 2023. `IG`.
+- [Evaluating the overall sensitivity of saliency-based explanation methods.](https://arxiv.org/ftp/arxiv/papers/2306/2306.13682.pdf)， Jun. 28 2023. `sensitivity` `faithfulness`.
 
 ### Feature interaction
 
@@ -277,6 +284,7 @@
 - [Probabilistic Concept Bottleneck Models](https://arxiv.org/pdf/2306.01574.pdf), Jun. 2 2023.
 - [Explainable AI using expressive Boolean formulas](https://arxiv.org/pdf/2306.03976.pdf), Jun. 6 2023.
 - [Tilted Sparse Additive Models](https://fengxianghe.github.io/paper/wang2023tilted.pdf), `icml2023`.
+- [Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks](https://arxiv.org/pdf/2306.14040.pdf), Jun. 24 2023. [code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL).
 
 ### Logic-based model
 
