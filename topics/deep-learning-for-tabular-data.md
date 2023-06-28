@@ -55,6 +55,7 @@
 - [KAER: A Knowledge Augmented Pre-Trained Language Model for Entity Resolution](https://arxiv.org/pdf/2301.04770.pdf), Jan. 12 2023.
 - [TABLET: Learning From Instructions For Tabular Data](https://arxiv.org/pdf/2304.13188.pdf), Apr. 25 2023.
 - [Trompt: Towards a Better Deep Neural Network for Tabular Data](https://arxiv.org/pdf/2305.18446.pdf), May. 29 2023.
+- [Language models are weak learners](https://arxiv.org/pdf/2306.14101.pdf), Jun. 25 2023.
 
 ## Codebase
 
