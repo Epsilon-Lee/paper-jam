@@ -112,6 +112,7 @@
 - [Use-Case-Grounded Simulations for Explanation Evaluation](https://arxiv.org/pdf/2206.02256.pdf), `nips2022`.
 - [Impossibility Theorems for Feature Attribution](https://arxiv.org/pdf/2212.11870.pdf), Dec. 22 2022. `theory`.
 - [Use-Case-Grounded Simulations for Explanation Evaluation](https://arxiv.org/pdf/2206.02256.pdf),Aug. 20 2022. `evaluation` `nips2022`.
+- [Framework for evaluating faithfulness of local explanations](https://proceedings.mlr.press/v162/dasgupta22a/dasgupta22a.pdf), `icml2022`.
 - [Which Explanation Should I Choose? A Function Approximation Perspective to Characterizing Post Hoc Explanations](https://arxiv.org/pdf/2206.01254.pdf), `nips2022`.
 - [Better Understanding Differences in Attribution Methods via Systematic Evaluations](https://arxiv.org/pdf/2303.11884.pdf), Mar. 21 2023.
 - [Using explanations to guide models](https://arxiv.org/pdf/2303.11932.pdf), Mar. 21 2023.
