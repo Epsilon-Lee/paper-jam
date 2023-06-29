@@ -53,6 +53,7 @@
 - [XTab: Cross-table Pretraining for Tabular Transformers](https://arxiv.org/pdf/2305.06090.pdf), May 10 2023. [code](https://github.com/BingzhaoZhu/XTab).
 - [Generative Table Pre-training Empowers Models for Tabular Prediction](https://arxiv.org/pdf/2305.09696.pdf), May 16 2023. [code](https://github.com/ZhangTP1996/TapTap).
 - [RoTaR: Efficient Row-Based Table Representation Learning via Teacher-Student Training](https://arxiv.org/pdf/2306.11696.pdf), Jun. 20 2023.
+- [Enhancing Representation Learning on High-Dimensional, Small-Size Tabular Data: A Divide and Conquer Method with Ensembled VAEs](https://arxiv.org/pdf/2306.15661.pdf),Jun. 27 2023.
 
 ### Data augmentation
 
