@@ -63,6 +63,7 @@
 - [OpenFE: Automated Feature Generation with Expert-level Performance](https://openreview.net/attachment?id=1H1irbEaGV&name=pdf), `icml2023`. `automatic feature engineering`.
 - [Rethinking Data Augmentation for Tabular Data in Deep Learning](https://arxiv.org/pdf/2305.10308.pdf), May 22 2023.
 - [Semi-Supervised Learning with Data Augmentation for Tabular Data](https://web.archive.org/web/20221021061539id_/https://dl.acm.org/doi/pdf/10.1145/3511808.3557699), `cikm2022`.
+- [Programmable Synthetic Tabular Data Generation](https://arxiv.org/pdf/2307.03577.pdf), Jun. 7 2023.
 
 ### LLMs/FMs for tabular data
 
