@@ -102,6 +102,8 @@
 - [PWSHAP: A path-wise explanation model for targeted variables](https://arxiv.org/pdf/2306.14672.pdf), Jun. 26 2023.
 - [On Formal Feature Attribution and Its Approximation](https://arxiv.org/pdf/2307.03380.pdf), Jul. 7 2023. [code](https://github.com/ffattr/ffa).
 - [Generalizing Backpropagation for Gradient-Based Interpretability](https://arxiv.org/pdf/2307.03056.pdf), Jul. 6 2023. [code](https://github.com/kdu4108/semiring-backprop-exps).
+- [MDI+: A Flexible Random Forest-Based Feature Importance Framework](https://arxiv.org/pdf/2307.01932.pdf), Jul. 4 2023. [imodels](https://github.com/csinva/imodels).
+- [Shapley Sets: feature attribution via recursive function decomposition](https://arxiv.org/pdf/2307.01777.pdf), Jul. 4 2023.
 
 #### Critics and evaluation of feature importance
 
