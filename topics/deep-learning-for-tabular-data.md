@@ -35,6 +35,7 @@
 - [Tabular data imputation: choose kNN over deep learning](https://openreview.net/pdf?id=_MRiKN8-sw), `iclr2022 rejected`.
 - [Diffusion models for missing value imputation in tabular data](https://arxiv.org/pdf/2210.17128.pdf), Mar. 11 2023.
 - [TabRet: Pre-training transformer-based tabular models for unseen columns](https://arxiv.org/pdf/2303.15747.pdf), Mar. 28 2023.
+- [CasTGAN: cascaded generative adversarial networks for realistic tabular data synthesis](https://arxiv.org/pdf/2307.00384.pdf), Jul. 1 2023.
 
 ### Critics
 
