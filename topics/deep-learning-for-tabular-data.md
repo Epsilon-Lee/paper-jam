@@ -1,4 +1,5 @@
 
+
 # Awesome deep learning for tabular data
 
 ## Surveys
@@ -55,6 +56,7 @@
 - [Generative Table Pre-training Empowers Models for Tabular Prediction](https://arxiv.org/pdf/2305.09696.pdf), May 16 2023. [code](https://github.com/ZhangTP1996/TapTap).
 - [RoTaR: Efficient Row-Based Table Representation Learning via Teacher-Student Training](https://arxiv.org/pdf/2306.11696.pdf), Jun. 20 2023.
 - [Enhancing Representation Learning on High-Dimensional, Small-Size Tabular Data: A Divide and Conquer Method with Ensembled VAEs](https://arxiv.org/pdf/2306.15661.pdf),Jun. 27 2023.
+- [HYTREL: Hypergraph-enhanced Tabular Data Representation Learning](https://arxiv.org/pdf/2307.08623.pdf), Jul. 14 2023.
 
 ### Data augmentation
 
@@ -88,4 +90,7 @@
 
 
 
+# Classics
+
+- [CatBoost Versus XGBoost and LightGBM: Developing Enhanced Predictive Models for Zero-Inflated Insurance Claim Data](https://arxiv.org/pdf/2307.07771.pdf), Jul. 15 2023. `feature interaction strength`.
 
