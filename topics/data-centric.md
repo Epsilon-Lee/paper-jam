@@ -41,6 +41,7 @@ This repo is used to hold papers that propose data-centric perspectives for mach
 - [Provable Data Subset Selection For Efficient Neural Network Training](https://arxiv.org/pdf/2303.05151.pdf), Mar. 9 2023.
 - [Loss-Curvature Matching for Dataset Selection and Condensation](https://arxiv.org/pdf/2303.04449.pdf), Mar. 8 2023.
 - [Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective](https://arxiv.org/pdf/2306.13092.pdf), Jun. 22 2023. [code](https://arxiv.org/pdf/2306.13092.pdf).
+- [Dataset Distillation Meets Provable Subset Selection](https://arxiv.org/pdf/2307.08086.pdf), Jul. 16 2023.
 
 ### Machine Unlearning
 
