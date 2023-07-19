@@ -57,6 +57,7 @@
 - [RoTaR: Efficient Row-Based Table Representation Learning via Teacher-Student Training](https://arxiv.org/pdf/2306.11696.pdf), Jun. 20 2023.
 - [Enhancing Representation Learning on High-Dimensional, Small-Size Tabular Data: A Divide and Conquer Method with Ensembled VAEs](https://arxiv.org/pdf/2306.15661.pdf),Jun. 27 2023.
 - [HYTREL: Hypergraph-enhanced Tabular Data Representation Learning](https://arxiv.org/pdf/2307.08623.pdf), Jul. 14 2023.
+- [CT-BERT: Learning Better Tabular Representations Through Cross-Table Pre-training](https://arxiv.org/pdf/2307.04308.pdf), Jul. 10 2023.
 
 ### Data augmentation
 
