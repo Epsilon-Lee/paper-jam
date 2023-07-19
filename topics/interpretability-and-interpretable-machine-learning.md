@@ -33,6 +33,7 @@
 
 - [Seamful XAI: Operationalizing Seamful Design in Explainable AI](https://arxiv.org/pdf/2211.06753.pdf), Nov. 12 2022.
 - [Towards Formal Approximated Minimal Explanations of Neural Networks](https://arxiv.org/pdf/2210.13915.pdf), Oct. 25 2022.
+- [Is Task-Agnostic Explainable AI a Myth?](https://arxiv.org/pdf/2307.06963.pdf), Jul. 13 2023.
 
 ## Theory of interpretability
 
@@ -127,6 +128,10 @@
 - [Consistent Explanations in the Face of Model Indeterminacy via Ensembling](https://arxiv.org/pdf/2306.06193.pdf)， Jun. 13 2023.
 - [Four Axiomatic Characterizations of the Integrated Gradients Attribution Method](https://arxiv.org/pdf/2306.13753.pdf), Jun. 23 2023. `IG`.
 - [Evaluating the overall sensitivity of saliency-based explanation methods.](https://arxiv.org/ftp/arxiv/papers/2306/2306.13682.pdf)， Jun. 28 2023. `sensitivity` `faithfulness`.
+- [Stability guarantees for feature attributions with multiplicative smoothing](https://arxiv.org/pdf/2307.05902.pdf), Jul. 12 2023.
+- [Harmonizing Feature Attributions Across Deep Learning Architectures: Enhancing Interpretability and Consistency](https://arxiv.org/pdf/2307.02150.pdf), Jul. 5 2023.
+- [Fixing confirmation bias in feature attribution methods via semantic search](https://arxiv.org/pdf/2307.00897.pdf), Jul. 3 2023.
+- [The future of human-centric eXplainable Artificial Intelligence (XAI) is not post-hoc explanations](https://arxiv.org/pdf/2307.00364.pdf), Jul. 1 2023.
 
 ### Feature interaction
 
@@ -292,6 +297,8 @@
 - [Explainable AI using expressive Boolean formulas](https://arxiv.org/pdf/2306.03976.pdf), Jun. 6 2023.
 - [Tilted Sparse Additive Models](https://fengxianghe.github.io/paper/wang2023tilted.pdf), `icml2023`.
 - [Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks](https://arxiv.org/pdf/2306.14040.pdf), Jun. 24 2023. [code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL).
+- [Route, interpret, repeat: Blurring the line between post-hoc explainability and interpretable models](https://arxiv.org/pdf/2307.05350.pdf), Jul. 7 2023.
+  - _"we propose beginning with a flexible BlackBox model and gradually carving out a mixture of interpretable models and a residual network"_
 
 ### Logic-based model
 
