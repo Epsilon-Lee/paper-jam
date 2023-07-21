@@ -105,6 +105,7 @@
 - [Generalizing Backpropagation for Gradient-Based Interpretability](https://arxiv.org/pdf/2307.03056.pdf), Jul. 6 2023. [code](https://github.com/kdu4108/semiring-backprop-exps).
 - [MDI+: A Flexible Random Forest-Based Feature Importance Framework](https://arxiv.org/pdf/2307.01932.pdf), Jul. 4 2023. [imodels](https://github.com/csinva/imodels).
 - [Shapley Sets: feature attribution via recursive function decomposition](https://arxiv.org/pdf/2307.01777.pdf), Jul. 4 2023.
+- [Gradient strikes back: How filtering out high frequencies improves explanations](https://arxiv.org/pdf/2307.09829.pdf), Jul. 18 2023.
 
 #### Critics and evaluation of feature importance
 
