@@ -15,6 +15,11 @@
 
 ## Methods
 
+### Feature processing
+
+- [Exploiting Field Dependencies for Learning on Categorical Data](https://arxiv.org/pdf/2307.09321.pdf), Jul. 18 2023.
+- [A benchmark of categorical encoders for binary classification](https://arxiv.org/pdf/2307.09191.pdf), Jul. 19 2023.
+
 ### Architectures
 
 - [DeepGBM: A Deep Learning Framework Distilled by GBDT for Online Prediction Tasks](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/deepgbm_kdd2019__CR_.pdf). `kdd2019`. [code](https://github.com/motefly/DeepGBM/tree/master).
@@ -58,6 +63,7 @@
 - [Enhancing Representation Learning on High-Dimensional, Small-Size Tabular Data: A Divide and Conquer Method with Ensembled VAEs](https://arxiv.org/pdf/2306.15661.pdf),Jun. 27 2023.
 - [HYTREL: Hypergraph-enhanced Tabular Data Representation Learning](https://arxiv.org/pdf/2307.08623.pdf), Jul. 14 2023.
 - [CT-BERT: Learning Better Tabular Representations Through Cross-Table Pre-training](https://arxiv.org/pdf/2307.04308.pdf), Jul. 10 2023.
+- [UniTabE: Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data](https://arxiv.org/pdf/2307.09249.pdf), Jul. 18 2023.
 
 ### Data augmentation
 
