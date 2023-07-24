@@ -301,11 +301,23 @@
 - [Route, interpret, repeat: Blurring the line between post-hoc explainability and interpretable models](https://arxiv.org/pdf/2307.05350.pdf), Jul. 7 2023.
   - _"we propose beginning with a flexible BlackBox model and gradually carving out a mixture of interpretable models and a residual network"_
 
-### Logic-based model
+### Rule learning
+
+#### Rule extraction from NNs
+
+- [Using Neural Network Rule Extraction and Decision Tables for Credit-Risk Evaluation](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=9dc6ca547ec5caf449540655892ee66f5e0fd64c), 2003.
+- [Rule extraction: using neural networks on neural networks](https://jcst.ict.ac.cn/en/article/pdf/preview/1004.pdf), 2004. `Zhi-Hua Zhou`.
+- [Rule Extraction from Recurrent Neural Networks: A Taxonomy and Review](https://www.diva-portal.org/smash/get/diva2:2402/FULLTEXT01.pdf), 2005.
+- [Rule Extraction Algorithm for Deep Neural Networks: A Review](https://arxiv.org/ftp/arxiv/papers/1610/1610.05267.pdf), 2016.
+- [DeepRED: rule extraction from deep neural networks](https://link.springer.com/chapter/10.1007/978-3-319-46307-0_29), 2016. [slides](https://pdfs.semanticscholar.org/d41e/d85d5808addd0320b55cbd28415e15687854.pdf).
+- [Learning Accurate and Interpretable Decision Rule Sets from Neural Networks](https://arxiv.org/abs/2103.02826), `aaai2021`. [code](https://github.com/Joeyonng/decision-rules-network).
+- [Efficient Decompositional Rule Extraction for Deep Neural Networks](https://arxiv.org/pdf/2111.12628.pdf). [code: REMIX](https://github.com/mateoespinosa/remix).
+
+#### Logic-based model
 
 - [Interpretable and Explainable Logical Policies via Neurally Guided Symbolic Abstraction](https://arxiv.org/pdf/2306.01439.pdf), Jun. 2 2023. `neuro-symbolic` `rl`.
 
-### Rule list model
+#### Rule list model
 
 - [Falling rule lists](http://proceedings.mlr.press/v38/wang15a.pdf), `aistats2015`.
 - [Interpretable classifiers using rules and Bayesian analysis: Building a better stroke prediction model](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-9/issue-3/Interpretable-classifiers-using-rules-and-Bayesian-analysis--Building-a/10.1214/15-AOAS848.full), Sep. 2015, Ann. Appl. Stat. 9(3).
@@ -313,6 +325,7 @@
 - [Learning certifiably optimal rule lists for categorical data](https://www.jmlr.org/papers/volume18/17-716/17-716.pdf), `jmlr2018`.
 - [Scalable Bayesian rule lists](http://proceedings.mlr.press/v70/yang17h/yang17h.pdf), `icml2017`. [long version](https://arxiv.org/pdf/1602.08610.pdf).
 - [Globally-Consistent Rule-Based Summary-Explanations for Machine Learning Models: Application to Credit-Risk Evaluation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3395422), Jun. 12 2019.
+- [Compressed Rule Ensemble Learning](https://proceedings.mlr.press/v151/nalenz22a/nalenz22a.pdf), `aistats2022`.
 - [Causal rule sets for identifying subgroups with enhanced treatment effects](https://arxiv.org/pdf/1710.05426), `informs2022`.
 - [Fire: An Optimization Approach for Fast Interpretable Rule Extraction](https://arxiv.org/pdf/2306.07432.pdf), Jun. 12 2023.
 
