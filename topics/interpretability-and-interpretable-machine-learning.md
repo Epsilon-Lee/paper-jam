@@ -14,6 +14,7 @@
 - [Probing methods](#probing-methods)
 - [Evaluation](#evaluation)
 - [Transparent model](#transparent-model)
+  - [Rule learning](#rule-learning)
   - [Model editing](#model-editing)
   - [Model debugging](#model-debugging)
 - [Analysis](#analysis)
