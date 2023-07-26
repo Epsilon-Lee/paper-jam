@@ -50,6 +50,7 @@
 
 ### Pretraining and representation learning
 
+- [Table Pre-training: A Survey on Model Architectures, Pre-training Objectives, and Downstream Tasks](https://arxiv.org/pdf/2201.09745.pdf), Apr. 29 2022.
 - [SubTab: Subsetting Features of Tabular Data for Self-Supervised Representation Learning](https://proceedings.neurips.cc/paper/2021/file/9c8661befae6dbcd08304dbf4dcaf0db-Paper.pdf), `nips2021`.
 - [PTab: Using the Pre-trained Language Model for Modeling Tabular Data](https://arxiv.org/pdf/2209.08060.pdf), Sep. 15 2022.
   - Using key-value format for including semantics of table headers and utilizing pretrained language models like BERT.
