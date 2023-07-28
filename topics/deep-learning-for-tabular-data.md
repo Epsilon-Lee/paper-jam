@@ -34,6 +34,7 @@
 - [TabPFN: A Transformer that solves small tabular classification problems in a second](https://table-representation-learning.github.io/assets/papers/tabpfn_a_transformer_that_solv.pdf), `nips2022`. [code](https://huggingface.co/spaces/TabPFN/TabPFN).
 - [HyperTab: Hypernetwork Approach for Deep Learning on Small Tabular Datasets](https://arxiv.org/pdf/2304.03543.pdf), Apr. 7 2023.
 - [Enabling tabular deep learning when d ≫ n with an auxiliary knowledge graph](https://arxiv.org/pdf/2306.04766.pdf), Jun. 7 2023.
+- [NCART: Neural Classification and Regression Tree for Tabular Data](https://arxiv.org/pdf/2307.12198.pdf), Jul. 23 2023.
 
 ### Missing values
 
@@ -87,6 +88,10 @@
 - [TABLET: Learning From Instructions For Tabular Data](https://arxiv.org/pdf/2304.13188.pdf), Apr. 25 2023.
 - [Trompt: Towards a Better Deep Neural Network for Tabular Data](https://arxiv.org/pdf/2305.18446.pdf), May. 29 2023.
 - [Language models are weak learners](https://arxiv.org/pdf/2306.14101.pdf), Jun. 25 2023.
+
+### Anomly detection
+
+- [TabADM: Unsupervised Tabular Anomaly Detection with Diffusion Models](https://arxiv.org/pdf/2307.12336.pdf), Jul. 23 2023.
 
 ## Others
 
