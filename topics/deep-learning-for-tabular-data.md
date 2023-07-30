@@ -35,6 +35,7 @@
 - [HyperTab: Hypernetwork Approach for Deep Learning on Small Tabular Datasets](https://arxiv.org/pdf/2304.03543.pdf), Apr. 7 2023.
 - [Enabling tabular deep learning when d ≫ n with an auxiliary knowledge graph](https://arxiv.org/pdf/2306.04766.pdf), Jun. 7 2023.
 - [NCART: Neural Classification and Regression Tree for Tabular Data](https://arxiv.org/pdf/2307.12198.pdf), Jul. 23 2023.
+- [TabR: Unlocking the power of retrieval-augmented tabular deep learning](https://arxiv.org/pdf/2307.14338.pdf), Jul. 26 2023. [code](https://github.com/yandex-research/tabular-dl-tabr).
 
 ### Missing values
 
