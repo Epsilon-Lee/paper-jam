@@ -277,6 +277,7 @@
 - [Probing Classifiers: Promises, Shortcomings, and Advances](https://arxiv.org/abs/2102.12452), `cl2021`.
 - [Linear Guardedness and Its Implications](https://arxiv.org/pdf/2210.10012.pdf), Oct. 18 2022.
 - [Interventional Probing in High Dimensions: An NLI Case Study](https://arxiv.org/pdf/2304.10346.pdf), Apr. 20 2023.
+- [A Geometric Notion of Causal Probing](https://arxiv.org/pdf/2307.15054.pdf), Jul. 27 2023.
 
 ## Evaluation
 
