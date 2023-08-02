@@ -108,6 +108,7 @@
 - [Shapley Sets: feature attribution via recursive function decomposition](https://arxiv.org/pdf/2307.01777.pdf), Jul. 4 2023.
 - [Gradient strikes back: How filtering out high frequencies improves explanations](https://arxiv.org/pdf/2307.09829.pdf), Jul. 18 2023.
 - [Verifiable feature attributions: A bridge between post hoc explainabilty and inherent interpretability](https://arxiv.org/pdf/2307.15007.pdf), Jul. 27 2023.
+- [An Efficient Shapley Value Computation for the Naive Bayes Classifier](https://arxiv.org/pdf/2307.16718.pdf), Jul. 31 2023.
 
 #### Critics and evaluation of feature importance
 
@@ -135,6 +136,7 @@
 - [Harmonizing Feature Attributions Across Deep Learning Architectures: Enhancing Interpretability and Consistency](https://arxiv.org/pdf/2307.02150.pdf), Jul. 5 2023.
 - [Fixing confirmation bias in feature attribution methods via semantic search](https://arxiv.org/pdf/2307.00897.pdf), Jul. 3 2023.
 - [The future of human-centric eXplainable Artificial Intelligence (XAI) is not post-hoc explanations](https://arxiv.org/pdf/2307.00364.pdf), Jul. 1 2023.
+- [Confident Feature Ranking](https://arxiv.org/pdf/2307.15361.pdf), Jul. 28 2023.
 
 ### Feature interaction
 
