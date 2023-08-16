@@ -19,6 +19,7 @@
 
 - [Exploiting Field Dependencies for Learning on Categorical Data](https://arxiv.org/pdf/2307.09321.pdf), Jul. 18 2023.
 - [A benchmark of categorical encoders for binary classification](https://arxiv.org/pdf/2307.09191.pdf), Jul. 19 2023.
+- [FeatGeNN: Improving Model Performance for Tabular Data with Correlation-based Feature Extraction](https://arxiv.org/pdf/2308.07527.pdf), Aug. 15 2023.
 
 ### Architectures
 
@@ -107,4 +108,4 @@
 # Classics
 
 - [CatBoost Versus XGBoost and LightGBM: Developing Enhanced Predictive Models for Zero-Inflated Insurance Claim Data](https://arxiv.org/pdf/2307.07771.pdf), Jul. 15 2023. `feature interaction strength`.
-
+- [LCE - An Augmented Combination of Bagging and Boosting in Python](https://arxiv.org/pdf/2308.07250.pdf), Aug. 14 2023.
