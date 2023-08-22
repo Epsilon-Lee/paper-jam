@@ -137,6 +137,8 @@
 - [Fixing confirmation bias in feature attribution methods via semantic search](https://arxiv.org/pdf/2307.00897.pdf), Jul. 3 2023.
 - [The future of human-centric eXplainable Artificial Intelligence (XAI) is not post-hoc explanations](https://arxiv.org/pdf/2307.00364.pdf), Jul. 1 2023.
 - [Confident Feature Ranking](https://arxiv.org/pdf/2307.15361.pdf), Jul. 28 2023.
+- [A Dual-Perspective Approach to Evaluating Feature Attribution Methods](https://arxiv.org/pdf/2308.08949.pdf), Aug. 17 2023.
+- [On Gradient-like Explanation under a Black-box Setting: When Black-box Explanations Become as Good as White-box](https://arxiv.org/pdf/2308.09381.pdf), Aug. 18 2023.
 
 ### Feature interaction
 
