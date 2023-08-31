@@ -212,6 +212,7 @@
 - [Data Selection for Fine-tuning Large Language Models Using Transferred Shapley Values](https://arxiv.org/pdf/2306.10165.pdf), Jun. 16 2023. `application of data shapley`.
 - [Variance reduced shapley value estimation for trustworthy data valuation](https://www.sciencedirect.com/science/article/pii/S0305054823001697), Jun. 21 2023.
 - [Tools for Verifying Neural Models' Training Data](https://arxiv.org/abs/2307.00682), Jul. 2 2023.
+- [Threshold KNN-Shapley: A Linear-Time and Privacy-Friendly Approach to Data Valuation](https://arxiv.org/pdf/2308.15709.pdf), Aug. 30 2023.
 
 #### Critics of influence function
 
