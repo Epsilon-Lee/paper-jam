@@ -67,6 +67,7 @@
 #### Survey
 
 - [Explaining by Removing: A Unified Framework for Model Explanation](https://www.jmlr.org/papers/volume22/20-1316/20-1316.pdf), `jmlr2021`.
+- [A Survey on the Robustness of Feature Importance and Counterfactual Explanations](https://arxiv.org/pdf/2111.00358.pdf), Jan. 3 2023.
 
 #### Methods
 
