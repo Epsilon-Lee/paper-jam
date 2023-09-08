@@ -17,6 +17,10 @@
 
 ## Methods
 
+### Generative modeling
+
+- [Modeling Tabular data using Conditional GAN](https://arxiv.org/abs/1907.00503), Jul. 2019.
+
 ### Feature processing
 
 - [Exploiting Field Dependencies for Learning on Categorical Data](https://arxiv.org/pdf/2307.09321.pdf), Jul. 18 2023.
