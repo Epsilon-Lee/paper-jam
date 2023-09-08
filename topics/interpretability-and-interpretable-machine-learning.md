@@ -9,6 +9,7 @@
   - [Critics of feature importance](#critics-of-feature-importance)
   - [Dataset attribution methods](#dataset-attribution-methods)
     - [Critics of influence function](#critics-of-influence-function)
+  - [Counterfactual, contrastive explanation](#counterfactual,-contrastive-explanation)
 - [Visualization methods](#visualization-methods)
 - [Representation comparison](#representation-comparison)
 - [Probing methods](#probing-methods)
@@ -234,6 +235,7 @@
 - [Counterfactual Explanations for Machine Learning: A Review](https://arxiv.org/pdf/2010.10596.pdf), Oct. 20 2020.
 - [FACE: Feasible and Actionable Counterfactual Explanations](https://arxiv.org/pdf/1909.09369.pdf), Feb. 24 2020.
 - [DeDUCE: Generating Counterfactual Explanations At Scale](https://xai4debugging.github.io/files/papers/deduce_generating_counterfactu.pdf), `XAI4Debugging workshop`, 2021.
+- [Robust Counterfactual Explanations for Tree-Based Ensembles](https://arxiv.org/pdf/2207.02739.pdf), Jul. 17 2022. `icml2022`.
 - [Diffusion Visual Counterfactual Explanations](https://arxiv.org/pdf/2210.11841.pdf), Oct. 21 2022. `nips2022`.
 - [Counterfactual Generation Under Confounding](https://arxiv.org/abs/2210.12368), Oct. 22 2022.
 - [Explaining Model Confidence Using Counterfactuals](https://arxiv.org/pdf/2303.05729.pdf), Mar. 10 2023.
