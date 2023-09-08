@@ -9,7 +9,7 @@
   - [Critics of feature importance](#critics-of-feature-importance)
   - [Dataset attribution methods](#dataset-attribution-methods)
     - [Critics of influence function](#critics-of-influence-function)
-  - [Counterfactual, contrastive explanation](#counterfactual,-contrastive-explanation)
+  - [Counterfactual, contrastive explanation](#counterfactual-and-contrastive-explanation)
 - [Visualization methods](#visualization-methods)
 - [Representation comparison](#representation-comparison)
 - [Probing methods](#probing-methods)
@@ -229,7 +229,7 @@
 - [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://proceedings.neurips.cc/paper/2019/file/adf7ee2dcf142b0e11888e72b43fcb75-Paper.pdf), `nips2019`.
 - [Interpretable Counterfactual Explanations Guided by Prototypes](https://arxiv.org/pdf/1907.02584.pdf), Feb. 18 2020.
 
-### Counterfactual, contrastive explanation
+### Counterfactual and contrastive explanation
 
 - [Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives](https://proceedings.neurips.cc/paper/2018/file/c5ff2543b53f4cc0ad3819a36752467b-Paper.pdf), `nips2018`.
 - [Counterfactual Explanations for Machine Learning: A Review](https://arxiv.org/pdf/2010.10596.pdf), Oct. 20 2020.
