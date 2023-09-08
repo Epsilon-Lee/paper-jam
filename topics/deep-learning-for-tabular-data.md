@@ -7,6 +7,8 @@
 - [Deep Neural Networks and Tabular Data: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9998482), Feb. 2022.
 - [A Short Chronology Of Deep Learning For Tabular Data](https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html), Jul. 24 2022.
 - [Tabular Data: Deep learning is not all you need](https://arxiv.org/pdf/2106.03253.pdf), Nov. 23 2021.
+- [Revisiting Deep Learning Models for Tabular Data](https://arxiv.org/abs/2106.11959), `nips2021`.
+  - _revised Jul. 26 2023_
 
 ## Classic methods
 
@@ -59,6 +61,7 @@
   - Using key-value format for including semantics of table headers and utilizing pretrained language models like BERT.
 - [Transfer Learning with Deep Tabular Models](https://table-representation-learning.github.io/assets/papers/transfer_learning_with_deep_ta.pdf), `nips2022`.
   - It seems that dl can outperform XGBoost via transfer learning.
+  - [new version link](https://arxiv.org/pdf/2206.15306.pdf), `iclr2023` version.
 - [Explaining Anomalies using Denoising Autoencoders for Financial Tabular Data](https://arxiv.org/pdf/2209.10658.pdf), Oct. 3 2023. `anomaly detection`.
 - [Embeddings for Tabular Data: A Survey](https://arxiv.org/pdf/2302.11777.pdf), Feb. 23 2023.
 - [XTab: Cross-table Pretraining for Tabular Transformers](https://arxiv.org/pdf/2305.06090.pdf), May 10 2023. [code](https://github.com/BingzhaoZhu/XTab).
