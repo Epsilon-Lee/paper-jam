@@ -243,10 +243,8 @@
 - [Semi-supervised counterfactual explanations](https://arxiv.org/pdf/2303.12634.pdf), Mar. 22 2023.
 - [Explaining Groups of Instances Counterfactually for XAI: A Use Case, Algorithm and User Study for Group-Counterfactuals](https://arxiv.org/pdf/2303.09297.pdf), Mar. 16 2023.
 - [Ensemble of counterfactual explainers](https://arxiv.org/pdf/2308.15194.pdf), Aug. 29 2023.
-
-#### Leveraging interpretation
-
-/
+- [Learning to Counterfactually Explain Recommendations](https://arxiv.org/pdf/2211.09752.pdf), Feb. 8 2023. `counterfactual` `interpretability`.
+- [Counterfactual explanations via locally-guided sequential algorithmic recourse](https://arxiv.org/pdf/2309.04211.pdf), Sep. 8 2023. `counterfactual` `algorithmic recourse`.
 
 ## Visualization methods
 
