@@ -233,6 +233,7 @@
 ### Counterfactual and contrastive explanation
 
 - [Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives](https://proceedings.neurips.cc/paper/2018/file/c5ff2543b53f4cc0ad3819a36752467b-Paper.pdf), `nips2018`.
+- [Learning Model-Agnostic Counterfactual Explanations for Tabular Data](https://arxiv.org/pdf/1910.09398.pdf), May 3 2020.
 - [Counterfactual Explanations for Machine Learning: A Review](https://arxiv.org/pdf/2010.10596.pdf), Oct. 20 2020.
 - [FACE: Feasible and Actionable Counterfactual Explanations](https://arxiv.org/pdf/1909.09369.pdf), Feb. 24 2020.
 - [DeDUCE: Generating Counterfactual Explanations At Scale](https://xai4debugging.github.io/files/papers/deduce_generating_counterfactu.pdf), `XAI4Debugging workshop`, 2021.
@@ -245,6 +246,7 @@
 - [Ensemble of counterfactual explainers](https://arxiv.org/pdf/2308.15194.pdf), Aug. 29 2023.
 - [Learning to Counterfactually Explain Recommendations](https://arxiv.org/pdf/2211.09752.pdf), Feb. 8 2023. `counterfactual` `interpretability`.
 - [Counterfactual explanations via locally-guided sequential algorithmic recourse](https://arxiv.org/pdf/2309.04211.pdf), Sep. 8 2023. `counterfactual` `algorithmic recourse`.
+- [Flexible and Robust Counterfactual Explanations with Minimal Satisfiable Perturbations](https://arxiv.org/pdf/2309.04676.pdf), Sep. 9 2023.
 
 ## Visualization methods
 
