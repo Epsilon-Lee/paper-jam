@@ -12,8 +12,6 @@ And it is time to cover more important contents here.
 
 - [Reconstructing training data from model gradient, provably](https://arxiv.org/abs/2212.03714), Dec. 7 2022.
 
----
-
 ## Trustworthy data
 
 > _understand sub-populations, prototypes, noise-level, adaptivity (shift that close to the recent data distribution) of data, portrait of customers_
