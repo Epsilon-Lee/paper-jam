@@ -1,10 +1,8 @@
 
-## Trustworthy Machine Learning
+# Trustworthy Machine Learning
 
 This is a huge umbrella word, while I have created interpretability and out-of-distribution generalization as two topics that previously most interested me.
 And it is time to cover more important contents here.
-
----
 
 ### Algorithmic recourse
 
