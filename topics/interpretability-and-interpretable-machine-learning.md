@@ -20,6 +20,11 @@
   - [Model debugging](#model-debugging)
 - [Analysis](#analysis)
 - [Toolkits](#toolkits)
+- [Interpretability for traditional and tree models](#interpretability-for-traditional-and-tree-models)
+  - [Influence for tree models](#influence-for-tree-models)
+
+
+
 
 
 ## Definition of interpretability
@@ -373,16 +378,37 @@
 
 ## Interpretability for traditional and tree models
 
+- [Born-again tree ensembles](https://arxiv.org/abs/2003.11132), Aug. 2020. [slides](https://icml.cc/media/Slides/icml/2020/virtual(no-parent)-16-13-00UTC-6682-born-again_tree.pdf).
+- [Neural Prototype Trees for Interpretable Fine-grained Image Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Nauta_Neural_Prototype_Trees_for_Interpretable_Fine-Grained_Image_Recognition_CVPR_2021_paper.pdf), `cvpr2021`.
+- [A comparison among interpretative proposals for Random Forests](https://www.sciencedirect.com/science/article/pii/S2666827021000475), Dec. 15 2021.
 - [Finding Minimum-Cost Explanations for Predictions made by Tree Ensembles](https://arxiv.org/pdf/2303.09271.pdf), Mar. 16 2023.
+
+### Visualization of tree models
+
+- [iForest: Interpreting Random Forests via Visual Analytics](https://ieeexplore.ieee.org/abstract/document/8454906), `tvcg2019`.
 
 ### Influence for tree models
 
 - [Influence Functions for CART](https://hal.science/hal-00562039/document), Feb. 2 2011. [presentation](https://www.gdr-mascotnum.fr/media/mascot11poggi.pdf).
 - [Finding Influential Training Samples for Gradient Boosted Decision Trees](https://arxiv.org/pdf/1802.06640.pdf), Mar. 2018. `icml2018`.
-  - [Machine Unlearning for Random Forests](http://proceedings.mlr.press/v139/brophy21a/brophy21a.pdf), `icml2021`.
-- [TREX: Tree-Ensemble Representer-Point Explanations](https://arxiv.org/abs/2009.05530), Sep. 11 2020.
 - [Towards Efficient Data Valuation Based on the Shapley Value](http://proceedings.mlr.press/v89/jia19a/jia19a.pdf), `aistats2019`.
-- [Adapting and Evaluating Influence-Estimation Methods for Gradient-Boosted Decision Trees](https://arxiv.org/pdf/2205.00359.pdf), Apr. 30 2022. [code](https://github.com/jjbrophy47/tree_influence).
+  - [Machine Unlearning for Random Forests](http://proceedings.mlr.press/v139/brophy21a/brophy21a.pdf), `icml2021`.
+- [Tree space prototypes: another look at making tree ensembles interpretable](https://arxiv.org/pdf/1611.07115.pdf), `fods2020`. [code](https://github.com/shftan/tree_ensemble_distance).
+- [TREX: Tree-Ensemble Representer-Point Explanations](https://arxiv.org/abs/2009.05530), Sep. 11 2020.
+- [Adapting and Evaluating Influence-Estimation Methods for Gradient-Boosted Decision Trees](https://arxiv.org/pdf/2205.00359.pdf), Apr. 30 2022, [jmlr version](https://www.jmlr.org/papers/volume24/22-0449/22-0449.pdf), `jmlr2023`. [code](https://github.com/jjbrophy47/tree_influence).
+
+### Robustness and uncertainty
+
+- [DAW RF: Data AWare Random Forests](https://github.com/jjbrophy47/daw), 2022.
+- [Instance-Based Uncertainty Estimation for Gradient-Boosted Regression Trees](https://arxiv.org/abs/2205.11412), May 23 2022. [code](https://github.com/jjbrophy47/ibug). `uncertainty estimation`.
+
+### Adversarials and robustness
+
+- [Robust Decision Trees Against Adversarial Examples](https://proceedings.mlr.press/v97/chen19m/chen19m.pdf), `icml2019`.
+- [Provably Robust Boosted Decision Stumps and Trees against Adversarial Attacks](https://proceedings.neurips.cc/paper_files/paper/2019/file/4206e38996fae4028a26d43b24f68d32-Paper.pdf), `nips2019`.
+- [Robustness Verification of Tree-based Models](https://proceedings.neurips.cc/paper_files/paper/2019/file/cd9508fdaa5c1390e9cc329001cf1459-Paper.pdf), `nips2019`.
+- [Defending Against Adversarial Attacks Using Random Forest](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CV-COPS/Ding_Defending_Against_Adversarial_Attacks_Using_Random_Forest_CVPRW_2019_paper.pdf), `cvpr2019`.
+- [An Efficient Adversarial Attack for Tree Ensembles](https://proceedings.neurips.cc/paper/2020/file/ba3e9b6a519cfddc560b5d53210df1bd-Paper.pdf), `nips2020`.
 
 ## Human-in-the-loop
 
