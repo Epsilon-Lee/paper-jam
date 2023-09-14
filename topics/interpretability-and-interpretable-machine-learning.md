@@ -24,7 +24,7 @@
   - [Visualization of tree models](#visualization-of-tree-models)
   - [Influence for tree models](#influence-for-tree-models)
   - [Uncertainty](#uncertainty)
-  - [Adversarials and robustness](#adversarial-and-robustness)
+  - [Adversarials and robustness](#adversarials-and-robustness)
 
 
 
