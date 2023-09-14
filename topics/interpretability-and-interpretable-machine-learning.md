@@ -21,7 +21,10 @@
 - [Analysis](#analysis)
 - [Toolkits](#toolkits)
 - [Interpretability for traditional and tree models](#interpretability-for-traditional-and-tree-models)
+  - [Visualization of tree models](#visualization-of-tree-models)
   - [Influence for tree models](#influence-for-tree-models)
+  - [Uncertainty](#uncertainty)
+  - [Adversarials and robustness](#adversarial-and-robustness)
 
 
 
@@ -398,7 +401,7 @@
 - [TREX: Tree-Ensemble Representer-Point Explanations](https://arxiv.org/abs/2009.05530), Sep. 11 2020.
 - [Adapting and Evaluating Influence-Estimation Methods for Gradient-Boosted Decision Trees](https://arxiv.org/pdf/2205.00359.pdf), Apr. 30 2022, [jmlr version](https://www.jmlr.org/papers/volume24/22-0449/22-0449.pdf), `jmlr2023`. [code](https://github.com/jjbrophy47/tree_influence).
 
-### Robustness and uncertainty
+### Uncertainty
 
 - [DAW RF: Data AWare Random Forests](https://github.com/jjbrophy47/daw), 2022.
 - [Instance-Based Uncertainty Estimation for Gradient-Boosted Regression Trees](https://arxiv.org/abs/2205.11412), May 23 2022. [code](https://github.com/jjbrophy47/ibug). `uncertainty estimation`.
