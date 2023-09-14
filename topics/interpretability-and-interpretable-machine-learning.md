@@ -382,6 +382,7 @@
 - [Neural Prototype Trees for Interpretable Fine-grained Image Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Nauta_Neural_Prototype_Trees_for_Interpretable_Fine-Grained_Image_Recognition_CVPR_2021_paper.pdf), `cvpr2021`.
 - [A comparison among interpretative proposals for Random Forests](https://www.sciencedirect.com/science/article/pii/S2666827021000475), Dec. 15 2021.
 - [Finding Minimum-Cost Explanations for Predictions made by Tree Ensembles](https://arxiv.org/pdf/2303.09271.pdf), Mar. 16 2023.
+- [Abstract Interpretation of Decision Tree Ensemble Classifiers](https://ojs.aaai.org/index.php/AAAI/article/view/5998), `aaai2020`.
 
 ### Visualization of tree models
 
@@ -409,6 +410,8 @@
 - [Robustness Verification of Tree-based Models](https://proceedings.neurips.cc/paper_files/paper/2019/file/cd9508fdaa5c1390e9cc329001cf1459-Paper.pdf), `nips2019`.
 - [Defending Against Adversarial Attacks Using Random Forest](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CV-COPS/Ding_Defending_Against_Adversarial_Attacks_Using_Random_Forest_CVPRW_2019_paper.pdf), `cvpr2019`.
 - [An Efficient Adversarial Attack for Tree Ensembles](https://proceedings.neurips.cc/paper/2020/file/ba3e9b6a519cfddc560b5d53210df1bd-Paper.pdf), `nips2020`.
+- [Certifying Robustness to Programmable Data Bias in Decision Trees](https://proceedings.neurips.cc/paper_files/paper/2021/file/dcf531edc9b229acfe0f4b87e1e278dd-Paper.pdf), `nips2021`.
+- [Not all datasets are born equal: On heterogeneous tabular data and adversarial examples](https://arxiv.org/abs/2010.03180), `knowledge-base system 2022`.
 
 ## Human-in-the-loop
 
