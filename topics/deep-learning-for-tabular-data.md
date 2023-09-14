@@ -20,6 +20,7 @@
 ### Generative modeling
 
 - [Modeling Tabular data using Conditional GAN](https://arxiv.org/abs/1907.00503), Jul. 2019.
+- [A supervised generative optimization approach for tabular data](https://arxiv.org/pdf/2309.05079.pdf), Sep. 10 2023.
 
 ### Feature processing
 
@@ -110,9 +111,11 @@
 
 - [pytorch_tabular](https://github.com/manujosephv/pytorch_tabular).
 
-
-
 # Classics
 
 - [CatBoost Versus XGBoost and LightGBM: Developing Enhanced Predictive Models for Zero-Inflated Insurance Claim Data](https://arxiv.org/pdf/2307.07771.pdf), Jul. 15 2023. `feature interaction strength`.
 - [LCE - An Augmented Combination of Bagging and Boosting in Python](https://arxiv.org/pdf/2308.07250.pdf), Aug. 14 2023.
+
+
+
+
