@@ -81,6 +81,10 @@ And it is time to cover more important contents here.
 - [When Are Two Lists Better than One?: Benefits and Harms in Joint Decision-making](https://arxiv.org/pdf/2308.11721.pdf), Aug. 22 2023. `decision making`.
 - [Ideal Abstractions for Decision-Focused Learning](https://arxiv.org/pdf/2303.17062.pdf), Mar. 29 2023.
 
+### Constraint satisfication
+
+- [Constraint Enforcement on Decision Trees: A Survey](https://dl.acm.org/doi/pdf/10.1145/3506734), 2022.
+
 ## Trustworthy operation
 
 > _monitoring, and (fast) attribution of abnormal phenomenon_
