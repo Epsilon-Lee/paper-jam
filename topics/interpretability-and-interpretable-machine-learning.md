@@ -394,11 +394,12 @@
 ### Influence for tree models
 
 - [Influence Functions for CART](https://hal.science/hal-00562039/document), Feb. 2 2011. [presentation](https://www.gdr-mascotnum.fr/media/mascot11poggi.pdf).
-- [Finding Influential Training Samples for Gradient Boosted Decision Trees](https://arxiv.org/pdf/1802.06640.pdf), Mar. 2018. `icml2018`.
+- [Finding Influential Training Samples for Gradient Boosted Decision Trees](https://arxiv.org/pdf/1802.06640.pdf), Mar. 2018. `icml2018`. [code](https://github.com/bsharchilev/influence_boosting).
 - [Towards Efficient Data Valuation Based on the Shapley Value](http://proceedings.mlr.press/v89/jia19a/jia19a.pdf), `aistats2019`.
   - [Machine Unlearning for Random Forests](http://proceedings.mlr.press/v139/brophy21a/brophy21a.pdf), `icml2021`.
 - [Tree space prototypes: another look at making tree ensembles interpretable](https://arxiv.org/pdf/1611.07115.pdf), `fods2020`. [code](https://github.com/shftan/tree_ensemble_distance).
 - [TREX: Tree-Ensemble Representer-Point Explanations](https://arxiv.org/abs/2009.05530), Sep. 11 2020. [code](https://github.com/jjbrophy47/trex).
+- [Group’s Influence Value in Logistic Regression Model and Gradient Boosting Model](https://link.springer.com/chapter/10.1007/978-981-16-2377-6_66), 2021.
 - [Adapting and Evaluating Influence-Estimation Methods for Gradient-Boosted Decision Trees](https://arxiv.org/pdf/2205.00359.pdf), Apr. 30 2022, [jmlr version](https://www.jmlr.org/papers/volume24/22-0449/22-0449.pdf), `jmlr2023`. [code](https://github.com/jjbrophy47/tree_influence).
 
 ### Uncertainty
