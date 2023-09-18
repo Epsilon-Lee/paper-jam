@@ -388,6 +388,7 @@
 - [Born-again tree ensembles](https://arxiv.org/abs/2003.11132), Aug. 2020. [slides](https://icml.cc/media/Slides/icml/2020/virtual(no-parent)-16-13-00UTC-6682-born-again_tree.pdf).
 - [Neural Prototype Trees for Interpretable Fine-grained Image Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Nauta_Neural_Prototype_Trees_for_Interpretable_Fine-Grained_Image_Recognition_CVPR_2021_paper.pdf), `cvpr2021`.
 - [A comparison among interpretative proposals for Random Forests](https://www.sciencedirect.com/science/article/pii/S2666827021000475), Dec. 15 2021.
+- [Approximating XGBoost with an interpretable decision tree](https://dl.acm.org/doi/abs/10.1016/j.ins.2021.05.055), 2021. [code](https://github.com/sagyome/XGBoostTreeApproximator).
 - [TE2Rules: Explaining Tree Ensembles using Rules](https://arxiv.org/pdf/2206.14359.pdf), Aug. 25 2023. [code](https://github.com/linkedin/TE2Rules).
 - [Finding Minimum-Cost Explanations for Predictions made by Tree Ensembles](https://arxiv.org/pdf/2303.09271.pdf), Mar. 16 2023.
 - [Abstract Interpretation of Decision Tree Ensemble Classifiers](https://ojs.aaai.org/index.php/AAAI/article/view/5998), `aaai2020`.
