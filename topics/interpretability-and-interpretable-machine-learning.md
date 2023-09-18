@@ -223,6 +223,8 @@
 - [Variance reduced shapley value estimation for trustworthy data valuation](https://www.sciencedirect.com/science/article/pii/S0305054823001697), Jun. 21 2023.
 - [Tools for Verifying Neural Models' Training Data](https://arxiv.org/abs/2307.00682), Jul. 2 2023.
 - [Threshold KNN-Shapley: A Linear-Time and Privacy-Friendly Approach to Data Valuation](https://arxiv.org/pdf/2308.15709.pdf), Aug. 30 2023.
+- [Representer Point Selection for Explaining Regularized High-dimensional Models](https://proceedings.mlr.press/v202/tsai23a/tsai23a.pdf), `icml2023`.
+  - can the method be used for tree ensemble models?
 
 #### Critics of influence function
 
