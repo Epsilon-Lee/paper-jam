@@ -102,6 +102,7 @@
 ### Anomly detection
 
 - [TabADM: Unsupervised Tabular Anomaly Detection with Diffusion Models](https://arxiv.org/pdf/2307.12336.pdf), Jul. 23 2023.
+- [Understanding the limitations of self-supervised learning for tabular anomaly detection](https://arxiv.org/pdf/2309.08374.pdf), Sep. 15 2023.
 
 ## Others
 
