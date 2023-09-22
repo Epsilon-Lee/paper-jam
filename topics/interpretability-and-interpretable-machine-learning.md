@@ -225,6 +225,7 @@
 - [Threshold KNN-Shapley: A Linear-Time and Privacy-Friendly Approach to Data Valuation](https://arxiv.org/pdf/2308.15709.pdf), Aug. 30 2023.
 - [Representer Point Selection for Explaining Regularized High-dimensional Models](https://proceedings.mlr.press/v202/tsai23a/tsai23a.pdf), `icml2023`.
   - can the method be used for tree ensemble models?
+- [Anchor Points: Benchmarking Models with Much Fewer Examples](https://arxiv.org/pdf/2309.08638.pdf), Sep. 14 2023.
 
 #### Critics of influence function
 
@@ -322,6 +323,7 @@
 - [Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks](https://arxiv.org/pdf/2306.14040.pdf), Jun. 24 2023. [code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL).
 - [Route, interpret, repeat: Blurring the line between post-hoc explainability and interpretable models](https://arxiv.org/pdf/2307.05350.pdf), Jul. 7 2023.
   - _"we propose beginning with a flexible BlackBox model and gradually carving out a mixture of interpretable models and a residual network"_
+- [Learning by Self-Explaining](https://arxiv.org/pdf/2309.08395.pdf), Sep. 15 2023.
 
 ### Rule learning
 
@@ -386,6 +388,7 @@
 - [Interpreting Tree Ensembles with inTrees](https://arxiv.org/pdf/1408.5456.pdf), Aug. 23 2014. [R package](https://github.com/softwaredeng/inTrees).
 - [Making Tree Ensembles Interpretable: A Bayesian Model Selection Approach](https://proceedings.mlr.press/v84/hara18a/hara18a.pdf), `aistats2018`. [code](https://github.com/sato9hara/defragTrees).
 - [Born-again tree ensembles](https://arxiv.org/abs/2003.11132), Aug. 2020. [slides](https://icml.cc/media/Slides/icml/2020/virtual(no-parent)-16-13-00UTC-6682-born-again_tree.pdf).
+- [Generalized and Scalable Optimal Sparse Decision Trees](https://arxiv.org/abs/2006.08690), Jun. 15 2020. `icml2020`.
 - [Neural Prototype Trees for Interpretable Fine-grained Image Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Nauta_Neural_Prototype_Trees_for_Interpretable_Fine-Grained_Image_Recognition_CVPR_2021_paper.pdf), `cvpr2021`.
 - [A comparison among interpretative proposals for Random Forests](https://www.sciencedirect.com/science/article/pii/S2666827021000475), Dec. 15 2021.
 - [Approximating XGBoost with an interpretable decision tree](https://dl.acm.org/doi/abs/10.1016/j.ins.2021.05.055), 2021. [code](https://github.com/sagyome/XGBoostTreeApproximator).
