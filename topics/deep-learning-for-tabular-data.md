@@ -44,6 +44,7 @@
 - [Enabling tabular deep learning when d ≫ n with an auxiliary knowledge graph](https://arxiv.org/pdf/2306.04766.pdf), Jun. 7 2023.
 - [NCART: Neural Classification and Regression Tree for Tabular Data](https://arxiv.org/pdf/2307.12198.pdf), Jul. 23 2023.
 - [TabR: Unlocking the power of retrieval-augmented tabular deep learning](https://arxiv.org/pdf/2307.14338.pdf), Jul. 26 2023. [code](https://github.com/yandex-research/tabular-dl-tabr).
+- [SHAPNN: Shapley Value Regularized Tabular Neural Network](https://arxiv.org/pdf/2309.08799.pdf), Sep. 15 2023.
 
 ### Missing values
 
@@ -52,6 +53,7 @@
 - [Diffusion models for missing value imputation in tabular data](https://arxiv.org/pdf/2210.17128.pdf), Mar. 11 2023.
 - [TabRet: Pre-training transformer-based tabular models for unseen columns](https://arxiv.org/pdf/2303.15747.pdf), Mar. 28 2023.
 - [CasTGAN: cascaded generative adversarial networks for realistic tabular data synthesis](https://arxiv.org/pdf/2307.00384.pdf), Jul. 1 2023.
+- [Generating and Imputing Tabular Data via Diffusion and Flow-based Gradient-Boosted Trees](https://arxiv.org/pdf/2309.09968.pdf), Sep. 18 2023.
 
 ### Critics
 
