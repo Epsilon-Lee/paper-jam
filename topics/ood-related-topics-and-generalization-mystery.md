@@ -125,6 +125,10 @@ The application from principle of **Invariance**.
 - [Covariate-Shift Generalization via Random Sample Weighting](https://pengcui.thumedialab.com/papers/RandomSampleWeighting.pdf), `aaai2022`.
 - [Learning Rate Schedules in the Presence of Distribution Shift](https://arxiv.org/pdf/2303.15634.pdf), Mar. 27 2023.
 - [Beyond Invariance: Test-Time Label-Shift Adaptation for Addressing “Spurious” Correlations](https://arxiv.org/pdf/2211.15646.pdf), Feb. 2 2023.
+- [Prominent Roles of Conditionally Invariant Components in Domain Adaptation: Theory and Algorithms](https://arxiv.org/pdf/2309.10301.pdf), Sep. 19 2023. `domain adaptation` `invariance`.
+  - _"many DA algorithms have demonstrated considerable empirical success, blindly applying these algorithms can often lead to worse performance on new datasets [...] it is crucial to clarify the assumptions under which a DA algorithm has good target performance"_
+  - conditionally invariant components can be be estimated through conditional invariante penalty
+- [Invariant Probabilistic Prediction](https://arxiv.org/pdf/2309.10083.pdf), Sep. 18 2023. `uncertainty` `statistics`.
 
 #### Detection of distribution shift
 
