@@ -226,6 +226,8 @@
 - [Representer Point Selection for Explaining Regularized High-dimensional Models](https://proceedings.mlr.press/v202/tsai23a/tsai23a.pdf), `icml2023`.
   - can the method be used for tree ensemble models?
 - [Anchor Points: Benchmarking Models with Much Fewer Examples](https://arxiv.org/pdf/2309.08638.pdf), Sep. 14 2023.
+- [Shapley Based Residual Decomposition for Instance Analysis](https://proceedings.mlr.press/v202/liu23b/liu23b.pdf), `icml2023`.
+- [Data Banzhaf: A Robust Data Valuation Framework for Machine Learning](https://proceedings.mlr.press/v206/wang23e/wang23e.pdf), `aistats2023`.
 
 #### Critics of influence function
 
@@ -395,6 +397,10 @@
 - [TE2Rules: Explaining Tree Ensembles using Rules](https://arxiv.org/pdf/2206.14359.pdf), Aug. 25 2023. [code](https://github.com/linkedin/TE2Rules).
 - [Finding Minimum-Cost Explanations for Predictions made by Tree Ensembles](https://arxiv.org/pdf/2303.09271.pdf), Mar. 16 2023.
 - [Abstract Interpretation of Decision Tree Ensemble Classifiers](https://ojs.aaai.org/index.php/AAAI/article/view/5998), `aaai2020`.
+
+### Feature importance
+
+- [Improved feature importance computation for tree models based on the Banzhaf value](https://proceedings.mlr.press/v180/karczmarz22a.html), `uai2023`.
 
 ### Visualization of tree models
 
