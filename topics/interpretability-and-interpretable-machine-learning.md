@@ -119,6 +119,7 @@
 - [Gradient strikes back: How filtering out high frequencies improves explanations](https://arxiv.org/pdf/2307.09829.pdf), Jul. 18 2023.
 - [Verifiable feature attributions: A bridge between post hoc explainabilty and inherent interpretability](https://arxiv.org/pdf/2307.15007.pdf), Jul. 27 2023.
 - [An Efficient Shapley Value Computation for the Naive Bayes Classifier](https://arxiv.org/pdf/2307.16718.pdf), Jul. 31 2023.
+- [Signature Activation: A Sparse Signal View for Holistic Saliency](https://arxiv.org/pdf/2309.11443.pdf), Sep. 20 2023.
 
 #### Critics and evaluation of feature importance
 
@@ -149,6 +150,7 @@
 - [Confident Feature Ranking](https://arxiv.org/pdf/2307.15361.pdf), Jul. 28 2023.
 - [A Dual-Perspective Approach to Evaluating Feature Attribution Methods](https://arxiv.org/pdf/2308.08949.pdf), Aug. 17 2023.
 - [On Gradient-like Explanation under a Black-box Setting: When Black-box Explanations Become as Good as White-box](https://arxiv.org/pdf/2308.09381.pdf), Aug. 18 2023.
+- [Predictability and Comprehensibility in Post-Hoc XAI Methods: A User-Centered Analysis](https://arxiv.org/pdf/2309.11987.pdf), Sep. 21 2023.
 
 ### Feature interaction
 
