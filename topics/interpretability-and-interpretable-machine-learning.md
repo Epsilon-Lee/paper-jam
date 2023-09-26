@@ -230,6 +230,8 @@
 - [Anchor Points: Benchmarking Models with Much Fewer Examples](https://arxiv.org/pdf/2309.08638.pdf), Sep. 14 2023.
 - [Shapley Based Residual Decomposition for Instance Analysis](https://proceedings.mlr.press/v202/liu23b/liu23b.pdf), `icml2023`.
 - [Data Banzhaf: A Robust Data Valuation Framework for Machine Learning](https://proceedings.mlr.press/v206/wang23e/wang23e.pdf), `aistats2023`.
+- [Understanding deep gradient leakage via inversion influence functions](https://arxiv.org/pdf/2309.13016.pdf), Sep. 22 2023.
+  - [Deep Leakage from Gradients](https://arxiv.org/pdf/1906.08935.pdf), Dec. 19 2019. `nips2019`.
 
 #### Critics of influence function
 
