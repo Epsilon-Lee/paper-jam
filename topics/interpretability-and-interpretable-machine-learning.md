@@ -120,6 +120,7 @@
 - [Verifiable feature attributions: A bridge between post hoc explainabilty and inherent interpretability](https://arxiv.org/pdf/2307.15007.pdf), Jul. 27 2023.
 - [An Efficient Shapley Value Computation for the Naive Bayes Classifier](https://arxiv.org/pdf/2307.16718.pdf), Jul. 31 2023.
 - [Signature Activation: A Sparse Signal View for Holistic Saliency](https://arxiv.org/pdf/2309.11443.pdf), Sep. 20 2023.
+- [Towards attributions of input variables in a coalition](https://arxiv.org/pdf/2309.13411.pdf), Sep. 23 2023.
 
 #### Critics and evaluation of feature importance
 
