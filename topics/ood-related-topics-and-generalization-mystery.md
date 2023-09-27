@@ -241,6 +241,7 @@ The application from principle of **Invariance**.
 - [Neuron Activation Coverage: Rethinking Out-of-distribution Detection and Generalization](https://arxiv.org/pdf/2306.02879.pdf), Jun. 5 2023.
 - [No Free Lunch: The Hazards of Over-Expressive Representations in Anomaly Detection](https://arxiv.org/pdf/2306.07284.pdf), Jun. 12 2023.
 - [Non-parameteric outlier synthesis](https://arxiv.org/pdf/2303.02966.pdf), Mar. 6 2023.
+- [Dream the Impossible: Outlier Imagination with Diffusion Models](https://arxiv.org/pdf/2309.13415.pdf), Sep. 23 2023.
 
 #### Unsupervised
 
