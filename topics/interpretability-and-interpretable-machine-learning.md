@@ -233,6 +233,7 @@
 - [Data Banzhaf: A Robust Data Valuation Framework for Machine Learning](https://proceedings.mlr.press/v206/wang23e/wang23e.pdf), `aistats2023`.
 - [Understanding deep gradient leakage via inversion influence functions](https://arxiv.org/pdf/2309.13016.pdf), Sep. 22 2023.
   - [Deep Leakage from Gradients](https://arxiv.org/pdf/1906.08935.pdf), Dec. 19 2019. `nips2019`.
+- [What Learned Representations and Influence Functions Can Tell Us About Adversarial Examples](https://arxiv.org/pdf/2309.10916.pdf), Sep. 21 2023.
 
 #### Critics of influence function
 
