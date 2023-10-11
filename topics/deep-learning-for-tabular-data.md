@@ -106,6 +106,11 @@
 - [TabADM: Unsupervised Tabular Anomaly Detection with Diffusion Models](https://arxiv.org/pdf/2307.12336.pdf), Jul. 23 2023.
 - [Understanding the limitations of self-supervised learning for tabular anomaly detection](https://arxiv.org/pdf/2309.08374.pdf), Sep. 15 2023.
 
+### Interpretability
+
+- [Stable and Interpretable Deep Learning for Tabular Data: Introducing InterpreTabNet with the Novel InterpreStability Metric](https://browse.arxiv.org/pdf/2310.02870.pdf), Oct. 4 2023.
+- [Refutation of Shapley Values for XAI – Additional Evidence](https://arxiv.org/pdf/2310.00416.pdf), Sep. 30 2023.
+
 ## Others
 
 - [Rethinking Logic Minimization for Tabular Machine Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9964348), 2022.
