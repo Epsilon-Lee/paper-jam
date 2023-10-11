@@ -236,6 +236,7 @@
   - [Deep Leakage from Gradients](https://arxiv.org/pdf/1906.08935.pdf), Dec. 19 2019. `nips2019`.
 - [What Learned Representations and Influence Functions Can Tell Us About Adversarial Examples](https://arxiv.org/pdf/2309.10916.pdf), Sep. 21 2023.
 - [NPEFF: Non-negative per-example fisher factorization](https://arxiv.org/pdf/2310.04649.pdf), Oct. 7 2023. [code](https://github.com/mmatena/npeff_ref).
+- [Composable coresets for determinant maximization: greedy is almost optimal](https://browse.arxiv.org/pdf/2309.15286.pdf), Sep. 26 2023.
 
 #### Critics of influence function
 
