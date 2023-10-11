@@ -121,6 +121,7 @@
 - [An Efficient Shapley Value Computation for the Naive Bayes Classifier](https://arxiv.org/pdf/2307.16718.pdf), Jul. 31 2023.
 - [Signature Activation: A Sparse Signal View for Holistic Saliency](https://arxiv.org/pdf/2309.11443.pdf), Sep. 20 2023.
 - [Towards attributions of input variables in a coalition](https://arxiv.org/pdf/2309.13411.pdf), Sep. 23 2023.
+- [SPADE: Sparsity-guided debugging for deep neural networks](https://arxiv.org/pdf/2310.04519.pdf), Oct. 6 2023.
 
 #### Critics and evaluation of feature importance
 
@@ -234,6 +235,7 @@
 - [Understanding deep gradient leakage via inversion influence functions](https://arxiv.org/pdf/2309.13016.pdf), Sep. 22 2023.
   - [Deep Leakage from Gradients](https://arxiv.org/pdf/1906.08935.pdf), Dec. 19 2019. `nips2019`.
 - [What Learned Representations and Influence Functions Can Tell Us About Adversarial Examples](https://arxiv.org/pdf/2309.10916.pdf), Sep. 21 2023.
+- [NPEFF: Non-negative per-example fisher factorization](https://arxiv.org/pdf/2310.04649.pdf), Oct. 7 2023. [code](https://github.com/mmatena/npeff_ref).
 
 #### Critics of influence function
 
