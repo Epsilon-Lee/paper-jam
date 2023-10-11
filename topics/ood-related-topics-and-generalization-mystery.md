@@ -167,6 +167,7 @@ The application from principle of **Invariance**.
 - [Test-time recalibration of conformal predictors under distribution shift based on unlabeled examples](https://arxiv.org/pdf/2210.04166.pdf), Oct. 9 2022. `conformal prediction`
 - [Memory-Based Model Editing at Scale](https://proceedings.mlr.press/v162/mitchell22a/mitchell22a.pdf), `icml2022`.
 - [Test-time Adaptation via Self-Training with Nearest Neighbor Information](https://openreview.net/pdf?id=EzLtB4M1SbM), `iclr2023 submitted`.
+- [Bag of Tricks for Fully Test-Time Adaptation](https://browse.arxiv.org/pdf/2310.02416.pdf), Oct. 3 2023.
 
 ### Connection Between OOD and Adversarials
 
