@@ -158,6 +158,10 @@ The application from principle of **Invariance**.
 - [A Dirt-T Approach for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1802.08735.pdf), Mar. 19 2018. `citation: 483`.
 - [A Prototype-Oriented Framework for Unsupervised Domain Adaptation](https://proceedings.neurips.cc/paper/2021/file/8edd72158ccd2a879f79cb2538568fdc-Paper.pdf), `nips2021`.
 
+**Multisource domaiin adaptation**
+
+- [Subspace Identification for Multi-Source Domain Adaptation](https://arxiv.org/pdf/2310.04723.pdf), Oct. 7 2023.
+
 #### Test-time adaptation and inference
 
 - [Test-time recalibration of conformal predictors under distribution shift based on unlabeled examples](https://arxiv.org/pdf/2210.04166.pdf), Oct. 9 2022. `conformal prediction`
