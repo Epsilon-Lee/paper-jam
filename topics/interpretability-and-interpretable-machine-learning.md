@@ -351,6 +351,7 @@
 #### Logic-based model
 
 - [Interpretable and Explainable Logical Policies via Neurally Guided Symbolic Abstraction](https://arxiv.org/pdf/2306.01439.pdf), Jun. 2 2023. `neuro-symbolic` `rl`.
+- [Learning Reliable Logical Rules with SATNet](https://browse.arxiv.org/pdf/2310.02133.pdf), Oct. 3 2023. `nips2023`.
 
 #### Rule list model
 
