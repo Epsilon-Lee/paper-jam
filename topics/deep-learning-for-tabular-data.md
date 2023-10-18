@@ -78,6 +78,7 @@
 - [HYTREL: Hypergraph-enhanced Tabular Data Representation Learning](https://arxiv.org/pdf/2307.08623.pdf), Jul. 14 2023.
 - [CT-BERT: Learning Better Tabular Representations Through Cross-Table Pre-training](https://arxiv.org/pdf/2307.04308.pdf), Jul. 10 2023.
 - [UniTabE: Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data](https://arxiv.org/pdf/2307.09249.pdf), Jul. 18 2023.
+- [CAST: Cluster-aware self-training for tabular data](https://arxiv.org/pdf/2310.06380.pdf), Oct. 10 2023.
 
 ### Data augmentation
 
