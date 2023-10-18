@@ -153,6 +153,7 @@
 - [A Dual-Perspective Approach to Evaluating Feature Attribution Methods](https://arxiv.org/pdf/2308.08949.pdf), Aug. 17 2023.
 - [On Gradient-like Explanation under a Black-box Setting: When Black-box Explanations Become as Good as White-box](https://arxiv.org/pdf/2308.09381.pdf), Aug. 18 2023.
 - [Predictability and Comprehensibility in Post-Hoc XAI Methods: A User-Centered Analysis](https://arxiv.org/pdf/2309.11987.pdf), Sep. 21 2023.
+- [AttributionLab: Faithfulness of feature attribution under controllable environments](https://arxiv.org/pdf/2310.06514.pdf), Oct. 10 2023.
 
 ### Feature interaction
 
