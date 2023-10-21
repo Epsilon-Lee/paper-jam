@@ -111,6 +111,7 @@
 
 - [Stable and Interpretable Deep Learning for Tabular Data: Introducing InterpreTabNet with the Novel InterpreStability Metric](https://browse.arxiv.org/pdf/2310.02870.pdf), Oct. 4 2023.
 - [Refutation of Shapley Values for XAI – Additional Evidence](https://arxiv.org/pdf/2310.00416.pdf), Sep. 30 2023.
+- [TabCBM: Concept-based interpretable neural networks for tabular data](https://openreview.net/pdf?id=TIsrnWpjQ0), `tmlr2023`.
 
 ## Others
 
