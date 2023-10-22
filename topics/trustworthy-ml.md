@@ -15,6 +15,7 @@ And it is time to cover more important contents here.
 ### Privacy
 
 - [Reconstructing training data from model gradient, provably](https://arxiv.org/abs/2212.03714), Dec. 7 2022.
+- [S-GBDT: Frugal Differentially Private Gradient Boosting Decision Trees](https://arxiv.org/pdf/2309.12041.pdf), Sep. 28 2023.
 
 ## Trustworthy data
 
@@ -62,6 +63,7 @@ And it is time to cover more important contents here.
   - _"we show that access to side information about examples from the source and target domains can help relax sufficient assumptions on input variables and increase sample efficiency at the cost of collecting richer variable set"_
   - see Figure 1 in the paper for an intuitive demonstration
 - [Contextual Reliability: When Different Features Matter in Different Contexts](https://arxiv.org/pdf/2307.10026.pdf), Jul. 19 2023. `spurious correlation`.
+- [Robustness Verification of Tree-based Models](https://arxiv.org/pdf/1906.03849.pdf), Dec. 9 2019.
 
 ### Understand Distribution shift
 
