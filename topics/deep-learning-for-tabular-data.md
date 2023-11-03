@@ -45,6 +45,7 @@
 - [NCART: Neural Classification and Regression Tree for Tabular Data](https://arxiv.org/pdf/2307.12198.pdf), Jul. 23 2023.
 - [TabR: Unlocking the power of retrieval-augmented tabular deep learning](https://arxiv.org/pdf/2307.14338.pdf), Jul. 26 2023. [code](https://github.com/yandex-research/tabular-dl-tabr).
 - [SHAPNN: Shapley Value Regularized Tabular Neural Network](https://arxiv.org/pdf/2309.08799.pdf), Sep. 15 2023.
+- [Unlocking the transferability of tokens in deep models for tabular data](https://arxiv.org/pdf/2310.15149.pdf), Oct. 23 2023.
 
 ### Missing values
 
