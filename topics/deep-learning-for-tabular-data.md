@@ -115,6 +115,10 @@
 - [Refutation of Shapley Values for XAI – Additional Evidence](https://arxiv.org/pdf/2310.00416.pdf), Sep. 30 2023.
 - [TabCBM: Concept-based interpretable neural networks for tabular data](https://openreview.net/pdf?id=TIsrnWpjQ0), `tmlr2023`.
 
+### Benchmark
+
+- [TabRepo: A large scale repository of tabular model evaluations and its automl applications](https://arxiv.org/pdf/2311.02971.pdf), Nov. 6 2023.
+
 ## Others
 
 - [Rethinking Logic Minimization for Tabular Machine Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9964348), 2022.
