@@ -22,11 +22,12 @@
 - [Modeling Tabular data using Conditional GAN](https://arxiv.org/abs/1907.00503), Jul. 2019.
 - [A supervised generative optimization approach for tabular data](https://arxiv.org/pdf/2309.05079.pdf), Sep. 10 2023.
 
-### Feature processing
+### Feature processing and selection
 
 - [Exploiting Field Dependencies for Learning on Categorical Data](https://arxiv.org/pdf/2307.09321.pdf), Jul. 18 2023.
 - [A benchmark of categorical encoders for binary classification](https://arxiv.org/pdf/2307.09191.pdf), Jul. 19 2023.
 - [FeatGeNN: Improving Model Performance for Tabular Data with Correlation-based Feature Extraction](https://arxiv.org/pdf/2308.07527.pdf), Aug. 15 2023.
+- [A Performance-Driven Benchmark for Feature Selection in Tabular Deep Learning](https://arxiv.org/pdf/2311.05877.pdf), Nov. 10 2023.
 
 ### Architectures
 
