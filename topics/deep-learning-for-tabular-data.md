@@ -84,6 +84,7 @@
 - [Training-free generalization on heterogeneous tabular data via meta-representation](https://arxiv.org/pdf/2311.00055.pdf), Oct. 31 2023.
 - [High dimensional, tabular deep learning with an auxiliary knowledge graph](https://openreview.net/pdf?id=GGylthmehy), `nips2023`.
 - [Tabular few-shot generalization across heterogeneous feature spaces](https://arxiv.org/pdf/2311.10051.pdf), Nov. 16 2023.
+- [Classification of Tabular Data by Text Processing](https://arxiv.org/pdf/2311.12521.pdf), Nov. 21 2023.
 
 ### Data augmentation
 
