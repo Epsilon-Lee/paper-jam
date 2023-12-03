@@ -47,6 +47,7 @@
 - [TabR: Unlocking the power of retrieval-augmented tabular deep learning](https://arxiv.org/pdf/2307.14338.pdf), Jul. 26 2023. [code](https://github.com/yandex-research/tabular-dl-tabr).
 - [SHAPNN: Shapley Value Regularized Tabular Neural Network](https://arxiv.org/pdf/2309.08799.pdf), Sep. 15 2023.
 - [Unlocking the transferability of tokens in deep models for tabular data](https://arxiv.org/pdf/2310.15149.pdf), Oct. 23 2023.
+- [Scaling TabPFN: Sketching and Feature Selection for Tabular Prior-Data Fitted Networks](https://arxiv.org/pdf/2311.10609.pdf), Nov. 17 2023.
 
 ### Missing values
 
@@ -107,6 +108,7 @@
 - [TABLET: Learning From Instructions For Tabular Data](https://arxiv.org/pdf/2304.13188.pdf), Apr. 25 2023.
 - [Trompt: Towards a Better Deep Neural Network for Tabular Data](https://arxiv.org/pdf/2305.18446.pdf), May. 29 2023.
 - [Language models are weak learners](https://arxiv.org/pdf/2306.14101.pdf), Jun. 25 2023.
+- [Incorporating LLM Priors into Tabular Learners](https://arxiv.org/pdf/2311.11628.pdf), Nov. 20 2023.
 
 ### Anomly detection
 
