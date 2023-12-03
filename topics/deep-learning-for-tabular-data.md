@@ -60,8 +60,8 @@
 
 ### Critics
 
-- [When Do Neural Nets Outperform Boosted Trees on Tabular Data?](https://arxiv.org/pdf/2305.02997.pdf), May 4 2023.
 - [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/pdf/2207.08815.pdf), Jul. 18 2022. [benchmark](https://github.com/LeoGrin/tabular-benchmark).
+- [When Do Neural Nets Outperform Boosted Trees on Tabular Data?](https://arxiv.org/pdf/2305.02997.pdf), May 4 2023. [v3](https://arxiv.org/pdf/2305.02997.pdf).
 
 ### Pretraining and representation learning
 
