@@ -67,7 +67,7 @@ Contents of this archive:
 - [Out-of-Distribution Generalization with Deep Equilibrium Models](http://www.gatsby.ucl.ac.uk/~balaji/udl2021/accepted-papers/UDL2021-paper-072.pdf), 2021 icml workshop.
 - [Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution](https://arxiv.org/pdf/2202.10054.pdf), Feb. 21 2022.
 
-### OOD generalization methods
+### OOD/domain generalization methods
 
 - [Deep Stable Learning for Out-Of-Distribution Generalization](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Deep_Stable_Learning_for_Out-of-Distribution_Generalization_CVPR_2021_paper.pdf), `cvpr2021`
 - [LINDA: Unsupervised Learning to Interpolate in Natural Language Processing](https://arxiv.org/pdf/2112.13969.pdf), Dec. 28 2021. 
@@ -80,13 +80,22 @@ Contents of this archive:
 - [Visual Representation Learning Does Not Generalize Strongly within the Same Domain](https://arxiv.org/pdf/2107.08221.pdf&lt;/p&gt;), `iclr2022`.
 - [Probable Domain Generalization via Quantile Risk Minimization](https://arxiv.org/abs/2207.09944), Jul. 20 2022. [github](https://github.com/cianeastwood/qrm).
 - [Distributionally Robust Losses for Latent Covariate Mixtures](https://arxiv.org/pdf/2007.13982.pdf), arXiv.v2 Aug. 10 2022.
+- [Discovering environments with XRM](https://arxiv.org/pdf/2309.16748.pdf), Sep. 28 2023.
+  - _"Successful ood generalization requires environment annotations. Unfortunately, these are resource-intensive to obtain, and their relevance to model performance is limited by the expectations and percetual biases of human annotators"_
+  - _"Current proposals, which divide examples based on their training error, suffer from one fundamental problem. These methods add hyper-parameters and early-stopping criteria that are impossible to tune without a validatioin set with human-annotated environments"_
+  - _"XRM provides a recipe for hyper-parameter tuning, does not require early stopping, and can discover environmentse for all training and validationd data"_
+  - How to automatically discover environments from data?
 
 #### Invariant risk minimization
 
 The application from principle of **Invariance**.
 
+- [The risks of invariant risk minimization](https://arxiv.org/pdf/2010.05761.pdf), Mar. 27 2021.
+- [Does invariant risk minimization capture invariance](https://proceedings.mlr.press/v130/kamath21a/kamath21a.pdf), `aistats2021`.
+- [Empirical or invariant risk minimization? A sample complexity perspective](https://arxiv.org/pdf/2010.16412.pdf), Aug. 19 2022.
 - [DAIR: Data Augmented Invariant Regularization](https://arxiv.org/pdf/2110.11205.pdf), Oct. 21 2021.
 - [IRM - when it works and when it doesn't: A test case of natural language inference](https://openreview.net/forum?id=KtvHbjCF4v), `nips2021`.
+- [Adaptive risk minimization: Learning to adapt to domain shift](https://proceedings.neurips.cc/paper/2021/file/c705112d1ec18b97acac7e2d63973424-Paper.pdf), `nips2021`.
 - [Heterogeneous Risk Minimization](https://proceedings.mlr.press/v139/liu21h.html), `icml2021`.
 - [Kernelized Heterogeneous Risk Minimizaton](https://pengcui.thumedialab.com/papers/KernelHRM.pdf), `nips2021`.
 - [Enviroment Inference for Invariant Learning](http://proceedings.mlr.press/v139/creager21a/creager21a.pdf), `icml2021`.
