@@ -21,6 +21,7 @@
 
 - [Modeling Tabular data using Conditional GAN](https://arxiv.org/abs/1907.00503), Jul. 2019.
 - [A supervised generative optimization approach for tabular data](https://arxiv.org/pdf/2309.05079.pdf), Sep. 10 2023.
+- [TabMT: Generating tabular data with masked Transformers](https://arxiv.org/pdf/2312.06089.pdf), Dec. 11 2023. `nips2023`.
 
 ### Feature processing and selection
 
