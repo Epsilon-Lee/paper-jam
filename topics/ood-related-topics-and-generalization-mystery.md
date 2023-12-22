@@ -70,9 +70,12 @@ Contents of this archive:
 ### OOD/domain generalization methods
 
 - [Deep Stable Learning for Out-Of-Distribution Generalization](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Deep_Stable_Learning_for_Out-of-Distribution_Generalization_CVPR_2021_paper.pdf), `cvpr2021`
-- [LINDA: Unsupervised Learning to Interpolate in Natural Language Processing](https://arxiv.org/pdf/2112.13969.pdf), Dec. 28 2021. 
-- [Counterfactual Maximum Likelihood Estimation for Training Deep Networks](https://openreview.net/forum?id=o6s1b_-nDOE), `nips2021`
+- [LINDA: Unsupervised Learning to Interpolate in Natural Language Processing](https://arxiv.org/pdf/2112.13969.pdf), Dec. 28 2021.
+- [Environment Inference for Invariant Learning](https://arxiv.org/pdf/2010.07249.pdf), `icml2021`. `environment inference`.
+- [Heterogeneous Risk Minimization](https://arxiv.org/pdf/2105.03818.pdf), `icml2021`. `enviroment inference`.
+- [Counterfactual Maximum Likelihood Estimation for Training Deep Networks](https://openreview.net/forum?id=o6s1b_-nDOE), `nips2021`.
 - [Improving Out-of-Distribution Robustness via Selective Augmentation](https://arxiv.org/pdf/2201.00299.pdf), Jan. 2 2022.
+- [ZIN: When and How to Learn Invariance Without Environment Partition? ](https://openreview.net/forum?id=pUPFRSxfACD), `nips2022`. `environment inference`.
 - [On Distributionally Robust Optimization and Data Rebalancing](https://www.researchgate.net/profile/Agnieszka-Slowik-5/publication/358338470_On_Distributionally_Robust_Optimization_and_Data_Rebalancing/links/61fc4ca94393577abe0d75cc/On-Distributionally-Robust-Optimization-and-Data-Rebalancing.pdf), Feb. 2022.
 - [Learning Causal Semantic Representation for Out-of-Distribution Prediction](https://proceedings.neurips.cc/paper/2021/file/310614fca8fb8e5491295336298c340f-Paper.pdf), `nips2021`.
 - [Generalization and Robustness Implications in Object-Centric Learning](https://arxiv.org/pdf/2107.00637.pdf), `icml2021`.
@@ -80,7 +83,8 @@ Contents of this archive:
 - [Visual Representation Learning Does Not Generalize Strongly within the Same Domain](https://arxiv.org/pdf/2107.08221.pdf&lt;/p&gt;), `iclr2022`.
 - [Probable Domain Generalization via Quantile Risk Minimization](https://arxiv.org/abs/2207.09944), Jul. 20 2022. [github](https://github.com/cianeastwood/qrm).
 - [Distributionally Robust Losses for Latent Covariate Mixtures](https://arxiv.org/pdf/2007.13982.pdf), arXiv.v2 Aug. 10 2022.
-- [Discovering environments with XRM](https://arxiv.org/pdf/2309.16748.pdf), Sep. 28 2023.
+- [Model Agnostic Sample Reweighting for Out-of-Distribution Learning](https://arxiv.org/pdf/2301.09819.pdf), Jan. 24 2023.
+- [Discovering environments with XRM](https://arxiv.org/pdf/2309.16748.pdf), Sep. 28 2023. `environment inference`.
   - _"Successful ood generalization requires environment annotations. Unfortunately, these are resource-intensive to obtain, and their relevance to model performance is limited by the expectations and percetual biases of human annotators"_
   - _"Current proposals, which divide examples based on their training error, suffer from one fundamental problem. These methods add hyper-parameters and early-stopping criteria that are impossible to tune without a validatioin set with human-annotated environments"_
   - _"XRM provides a recipe for hyper-parameter tuning, does not require early stopping, and can discover environmentse for all training and validationd data"_
