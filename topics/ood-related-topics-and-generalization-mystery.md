@@ -7,7 +7,7 @@ Contents of this archive:
   - [Survey](#survey)
   - [OOD generalization theories](#ood-generalization-theories)
   - [Empirical observations](#empirical-observations)
-  - [OOD generalization methods](#ood-generalization-methods)
+  - [OOD and domain generalization methods](#ood-and-generalization-methods)
     - [Invariant risk minimization](#invariant-risk-minimization)
     - [Benchmarks](#benchmarks)
     - [Causal representation learning](#causal-representation-learning)
@@ -67,7 +67,7 @@ Contents of this archive:
 - [Out-of-Distribution Generalization with Deep Equilibrium Models](http://www.gatsby.ucl.ac.uk/~balaji/udl2021/accepted-papers/UDL2021-paper-072.pdf), 2021 icml workshop.
 - [Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution](https://arxiv.org/pdf/2202.10054.pdf), Feb. 21 2022.
 
-### OOD/domain generalization methods
+### OOD and domain generalization methods
 
 - [Deep Stable Learning for Out-Of-Distribution Generalization](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Deep_Stable_Learning_for_Out-of-Distribution_Generalization_CVPR_2021_paper.pdf), `cvpr2021`
 - [LINDA: Unsupervised Learning to Interpolate in Natural Language Processing](https://arxiv.org/pdf/2112.13969.pdf), Dec. 28 2021.
