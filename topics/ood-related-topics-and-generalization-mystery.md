@@ -7,7 +7,7 @@ Contents of this archive:
   - [Survey](#survey)
   - [OOD generalization theories](#ood-generalization-theories)
   - [Empirical observations](#empirical-observations)
-  - [OOD and domain generalization methods](#ood-and-generalization-methods)
+  - [OOD and domain generalization methods](#ood-and-domain-generalization-methods)
     - [Invariant risk minimization](#invariant-risk-minimization)
     - [Benchmarks](#benchmarks)
     - [Causal representation learning](#causal-representation-learning)
