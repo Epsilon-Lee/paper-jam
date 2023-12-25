@@ -50,6 +50,7 @@
 - [Unlocking the transferability of tokens in deep models for tabular data](https://arxiv.org/pdf/2310.15149.pdf), Oct. 23 2023.
 - [Scaling TabPFN: Sketching and Feature Selection for Tabular Prior-Data Fitted Networks](https://arxiv.org/pdf/2311.10609.pdf), Nov. 17 2023.
 - [Meditab: Scaling medical tabular data predictors via data consolidation, enrichment and refinement](https://arxiv.org/pdf/2305.12081.pdf), Oct. 5 2023.
+- [MotherNet: A Foundational Hypernetwork for Tabular Classification](https://arxiv.org/pdf/2312.08598.pdf), Dec. 14 2023.
 
 ### Missing values
 
