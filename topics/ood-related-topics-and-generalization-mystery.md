@@ -97,6 +97,7 @@ Contents of this archive:
 The application from principle of **Invariance**.
 
 - [The risks of invariant risk minimization](https://arxiv.org/pdf/2010.05761.pdf), Mar. 27 2021.
+- [An Empirical Study of Invariant Risk Minimization on Deep Models](https://www.gatsby.ucl.ac.uk/~balaji/udl2021/accepted-papers/UDL2021-paper-044.pdf), `icml2021` `workshop`.
 - [Does invariant risk minimization capture invariance](https://proceedings.mlr.press/v130/kamath21a/kamath21a.pdf), `aistats2021`.
 - [Empirical or invariant risk minimization? A sample complexity perspective](https://arxiv.org/pdf/2010.16412.pdf), Aug. 19 2022.
 - [DAIR: Data Augmented Invariant Regularization](https://arxiv.org/pdf/2110.11205.pdf), Oct. 21 2021.
