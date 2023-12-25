@@ -71,6 +71,7 @@ Contents of this archive:
 
 ### OOD and domain generalization methods
 
+- [An Empirical Investigation of Domain Generalization with Empirical Risk Minimizers](https://openreview.net/forum?id=Z8mLxlpSyrJ), `neurips2021`.
 - [Deep Stable Learning for Out-Of-Distribution Generalization](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Deep_Stable_Learning_for_Out-of-Distribution_Generalization_CVPR_2021_paper.pdf), `cvpr2021`
 - [LINDA: Unsupervised Learning to Interpolate in Natural Language Processing](https://arxiv.org/pdf/2112.13969.pdf), Dec. 28 2021.
 - [Environment Inference for Invariant Learning](https://arxiv.org/pdf/2010.07249.pdf), `icml2021`. `environment inference`.
@@ -91,6 +92,7 @@ Contents of this archive:
   - _"Current proposals, which divide examples based on their training error, suffer from one fundamental problem. These methods add hyper-parameters and early-stopping criteria that are impossible to tune without a validatioin set with human-annotated environments"_
   - _"XRM provides a recipe for hyper-parameter tuning, does not require early stopping, and can discover environmentse for all training and validationd data"_
   - How to automatically discover environments from data?
+- [ERM++: An Improved Baseline for Domain Generalization](https://arxiv.org/pdf/2304.01973.pdf), Aug. 15 2023.
 
 #### Invariant risk minimization
 
