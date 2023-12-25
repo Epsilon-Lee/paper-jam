@@ -52,7 +52,7 @@
 - [Meditab: Scaling medical tabular data predictors via data consolidation, enrichment and refinement](https://arxiv.org/pdf/2305.12081.pdf), Oct. 5 2023.
 - [MotherNet: A Foundational Hypernetwork for Tabular Classification](https://arxiv.org/pdf/2312.08598.pdf), Dec. 14 2023.
 
-### Missing values
+### Data augmentation and inputation
 
 - [Invertible Tabular GANs: Killing Two Birds with One Stone for Tabular Data Synthesis](https://proceedings.neurips.cc/paper/2021/file/22456f4b545572855c766df5eefc9832-Paper.pdf), `nips2021`.
 - [Tabular data imputation: choose kNN over deep learning](https://openreview.net/pdf?id=_MRiKN8-sw), `iclr2022 rejected`.
@@ -60,6 +60,7 @@
 - [TabRet: Pre-training transformer-based tabular models for unseen columns](https://arxiv.org/pdf/2303.15747.pdf), Mar. 28 2023.
 - [CasTGAN: cascaded generative adversarial networks for realistic tabular data synthesis](https://arxiv.org/pdf/2307.00384.pdf), Jul. 1 2023.
 - [Generating and Imputing Tabular Data via Diffusion and Flow-based Gradient-Boosted Trees](https://arxiv.org/pdf/2309.09968.pdf), Sep. 18 2023.
+- [Continuous Diffusion for Mixed-Type Tabular Data](https://arxiv.org/pdf/2312.10431.pdf), Dec. 16 2023.
 
 ### Critics
 
