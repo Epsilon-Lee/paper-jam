@@ -72,6 +72,8 @@ Contents of this archive:
 ### OOD and domain generalization methods
 
 - [An Empirical Investigation of Domain Generalization with Empirical Risk Minimizers](https://openreview.net/forum?id=Z8mLxlpSyrJ), `neurips2021`.
+  - _"Recent work demonstrates that deep neural networks trained using ERM can generalize under distribution shift, outperforming specialized training algorithms for domain generalization. The goal of this paper is to further understand this phenomenon"_
+  - _"Our investigation reveals that measures relating to the Fisher information, predictive entropy, and maximum mean discrepancy are good predictors of the ood generalization of ERM models"_
 - [Deep Stable Learning for Out-Of-Distribution Generalization](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Deep_Stable_Learning_for_Out-of-Distribution_Generalization_CVPR_2021_paper.pdf), `cvpr2021`
 - [LINDA: Unsupervised Learning to Interpolate in Natural Language Processing](https://arxiv.org/pdf/2112.13969.pdf), Dec. 28 2021.
 - [Environment Inference for Invariant Learning](https://arxiv.org/pdf/2010.07249.pdf), `icml2021`. `environment inference`.
@@ -86,6 +88,10 @@ Contents of this archive:
 - [Visual Representation Learning Does Not Generalize Strongly within the Same Domain](https://arxiv.org/pdf/2107.08221.pdf&lt;/p&gt;), `iclr2022`.
 - [Probable Domain Generalization via Quantile Risk Minimization](https://arxiv.org/abs/2207.09944), Jul. 20 2022. [github](https://github.com/cianeastwood/qrm).
 - [Distributionally Robust Losses for Latent Covariate Mixtures](https://arxiv.org/pdf/2007.13982.pdf), arXiv.v2 Aug. 10 2022.
+- [Ensemble of Averages: Improving Model Selection and Boosting Performance in Domain Generalization](https://proceedings.neurips.cc/paper_files/paper/2022/file/372cb7805eaccb2b7eed641271a30eec-Paper-Conference.pdf), `neurips2022`.
+- [Assaying out-of-distribution generalization in transfer learning](https://proceedings.neurips.cc/paper_files/paper/2022/file/2f5acc925919209370a3af4eac5cad4a-Paper-Conference.pdf), `neurips2022`.
+  - _"Since ood generalization is a generally ill-posed problem, various proxy targets (e.g. calibration, adversarial robustness, algorithmic corruptions, invariance across shifts) were studied across different research programs resulting in different recommendations"_
+  - _"Our findings  confirm that in- and out-of-distribution accuracies tend to increase jointly, but show that their relation is largely dataset-dependent, and in general more nuanced and more complex than posited by previous, smaller scale studies"_ 
 - [Model Agnostic Sample Reweighting for Out-of-Distribution Learning](https://arxiv.org/pdf/2301.09819.pdf), Jan. 24 2023.
 - [Discovering environments with XRM](https://arxiv.org/pdf/2309.16748.pdf), Sep. 28 2023. `environment inference`.
   - _"Successful ood generalization requires environment annotations. Unfortunately, these are resource-intensive to obtain, and their relevance to model performance is limited by the expectations and percetual biases of human annotators"_
@@ -124,7 +130,7 @@ The application from principle of **Invariance**.
 - [Temporally Disentangled Representation Learning](https://arxiv.org/pdf/2210.13647.pdf), Oct. 24 2022.
 - [Linear Causal Disentanglement via Interventions](https://arxiv.org/abs/2211.16467), Nov. 29 2022.
 
-### Distribution Shift
+### Distribution or dataset shift adaptation
 
 - [Domain Adaptation under Target and Conditional Shift](http://proceedings.mlr.press/v28/zhang13d.pdf), `icml2013`.
 - [Detecting and Correcting for Label Shift with Black Box Predictions](https://proceedings.mlr.press/v80/lipton18a.html), `icml2018`. `label shift`
@@ -147,6 +153,8 @@ The application from principle of **Invariance**.
   - _"many DA algorithms have demonstrated considerable empirical success, blindly applying these algorithms can often lead to worse performance on new datasets [...] it is crucial to clarify the assumptions under which a DA algorithm has good target performance"_
   - conditionally invariant components can be be estimated through conditional invariante penalty
 - [Invariant Probabilistic Prediction](https://arxiv.org/pdf/2309.10083.pdf), Sep. 18 2023. `uncertainty` `statistics`.
+- [RLSbench: Domain Adaptation Under Relaxed Label Shift](https://proceedings.mlr.press/v202/garg23a/garg23a.pdf), `icml2023`.
+  - _"a large-scale benchmark for relaxed label shift, consisting of >500 distribution shift pairs spanning vision, tabular, and language modalities, with varying label proportions. Unlike existing benchmarks, which primarily focus on shifts in class-conditional $$p(x \vert y)$$, our benchmark also focuses on label marginal shifts."_
 
 #### Detection of distribution shift
 
@@ -164,7 +172,7 @@ The application from principle of **Invariance**.
 - [How did model change? Efficiently assessing machine learning API shifts](https://lchen001.github.io/papers/2022_APIShift_ICLR.pdf), `iclr2022`.
 - [A learning based hypothesis test for harmful covariate shift](https://arxiv.org/abs/2212.02742), Dec. 6 2022. `iclr2023`.
 
-#### Unsupervised Domain Adaptation
+#### Unsupervised domain adaptation
 
 **Surveys**
 
