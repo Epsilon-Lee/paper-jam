@@ -6,9 +6,9 @@ A table of contents for different topics around the modeling and processing of t
 
 ---
 
-# Awesome deep learning for tabular data
+## Awesome deep learning for tabular data
 
-## Surveys
+### Surveys
 
 - [Deep Neural Networks and Tabular Data: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9998482), Feb. 2022.
 - [A Short Chronology Of Deep Learning For Tabular Data](https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html), Jul. 24 2022.
@@ -16,27 +16,36 @@ A table of contents for different topics around the modeling and processing of t
 - [Revisiting Deep Learning Models for Tabular Data](https://arxiv.org/abs/2106.11959), `nips2021`.
   - _revised Jul. 26 2023_
 
-## Classic methods
+### Methods
 
-- [Benchmarking state-of-the-art gradient boosting algorithms for classification](https://arxiv.org/pdf/2305.17094.pdf), May 26 2023.
-  - _with a focus on hyperparameter search with two methods: randomized search and Bayesian optimization using the Tree-stuctured Parzen Estimator_
-
-## Methods
-
-### Generative modeling
+#### Generative modeling and imputation
 
 - [Modeling Tabular data using Conditional GAN](https://arxiv.org/abs/1907.00503), Jul. 2019.
 - [A supervised generative optimization approach for tabular data](https://arxiv.org/pdf/2309.05079.pdf), Sep. 10 2023.
 - [TabMT: Generating tabular data with masked Transformers](https://arxiv.org/pdf/2312.06089.pdf), Dec. 11 2023. `nips2023`.
+- [Invertible Tabular GANs: Killing Two Birds with One Stone for Tabular Data Synthesis](https://proceedings.neurips.cc/paper/2021/file/22456f4b545572855c766df5eefc9832-Paper.pdf), `nips2021`.
+- [Tabular data imputation: choose kNN over deep learning](https://openreview.net/pdf?id=_MRiKN8-sw), `iclr2022 rejected`.
+- [Diffusion models for missing value imputation in tabular data](https://arxiv.org/pdf/2210.17128.pdf), Mar. 11 2023.
+- [TabRet: Pre-training transformer-based tabular models for unseen columns](https://arxiv.org/pdf/2303.15747.pdf), Mar. 28 2023.
+- [CasTGAN: cascaded generative adversarial networks for realistic tabular data synthesis](https://arxiv.org/pdf/2307.00384.pdf), Jul. 1 2023.
+- [Generating and Imputing Tabular Data via Diffusion and Flow-based Gradient-Boosted Trees](https://arxiv.org/pdf/2309.09968.pdf), Sep. 18 2023.
+- [Continuous Diffusion for Mixed-Type Tabular Data](https://arxiv.org/pdf/2312.10431.pdf), Dec. 16 2023.
+- [Data Augmentation Techniques for Tabular Data](https://www.mphasis.com/content/dam/mphasis-com/global/en/home/innovation/next-lab/Mphasis_Data-Augmentation-for-Tabular-Data_Whitepaper.pdf). `whitepaper`.
+- [DeltaPy⁠⁠ — Tabular Data Augmentation & Feature Engineering](https://github.com/firmai/deltapy/tree/master), 2020.
+- [Data Augmentation for Compositional Data: Advancing Predictive Models of the Microbiome](https://proceedings.neurips.cc/paper_files/paper/2022/file/81a28be483155f802ddef448d6fc4b57-Paper-Conference.pdf), `nips2022`. [code](https://github.com/cunningham-lab/AugCoDa).
+- [OpenFE: Automated Feature Generation with Expert-level Performance](https://openreview.net/attachment?id=1H1irbEaGV&name=pdf), `icml2023`. `automatic feature engineering`.
+- [Rethinking Data Augmentation for Tabular Data in Deep Learning](https://arxiv.org/pdf/2305.10308.pdf), May 22 2023.
+- [Semi-Supervised Learning with Data Augmentation for Tabular Data](https://web.archive.org/web/20221021061539id_/https://dl.acm.org/doi/pdf/10.1145/3511808.3557699), `cikm2022`.
+- [Programmable Synthetic Tabular Data Generation](https://arxiv.org/pdf/2307.03577.pdf), Jun. 7 2023.
 
-### Feature processing and selection
+#### Feature processing and selection
 
 - [Exploiting Field Dependencies for Learning on Categorical Data](https://arxiv.org/pdf/2307.09321.pdf), Jul. 18 2023.
 - [A benchmark of categorical encoders for binary classification](https://arxiv.org/pdf/2307.09191.pdf), Jul. 19 2023.
 - [FeatGeNN: Improving Model Performance for Tabular Data with Correlation-based Feature Extraction](https://arxiv.org/pdf/2308.07527.pdf), Aug. 15 2023.
 - [A Performance-Driven Benchmark for Feature Selection in Tabular Deep Learning](https://arxiv.org/pdf/2311.05877.pdf), Nov. 10 2023.
 
-### Architectures
+#### Architectures
 
 - [DeepGBM: A Deep Learning Framework Distilled by GBDT for Online Prediction Tasks](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/deepgbm_kdd2019__CR_.pdf). `kdd2019`. [code](https://github.com/motefly/DeepGBM/tree/master).
 - [Modeling Tabular Data using Conditional GAN](https://proceedings.neurips.cc/paper/2019/file/254ed7d2de3b23ab10936522dd547b78-Paper.pdf), `nips2019`. [code](https://github.com/sdv-dev/CTGAN).
@@ -58,22 +67,12 @@ A table of contents for different topics around the modeling and processing of t
 - [Meditab: Scaling medical tabular data predictors via data consolidation, enrichment and refinement](https://arxiv.org/pdf/2305.12081.pdf), Oct. 5 2023.
 - [MotherNet: A Foundational Hypernetwork for Tabular Classification](https://arxiv.org/pdf/2312.08598.pdf), Dec. 14 2023.
 
-### Data augmentation and inputation
-
-- [Invertible Tabular GANs: Killing Two Birds with One Stone for Tabular Data Synthesis](https://proceedings.neurips.cc/paper/2021/file/22456f4b545572855c766df5eefc9832-Paper.pdf), `nips2021`.
-- [Tabular data imputation: choose kNN over deep learning](https://openreview.net/pdf?id=_MRiKN8-sw), `iclr2022 rejected`.
-- [Diffusion models for missing value imputation in tabular data](https://arxiv.org/pdf/2210.17128.pdf), Mar. 11 2023.
-- [TabRet: Pre-training transformer-based tabular models for unseen columns](https://arxiv.org/pdf/2303.15747.pdf), Mar. 28 2023.
-- [CasTGAN: cascaded generative adversarial networks for realistic tabular data synthesis](https://arxiv.org/pdf/2307.00384.pdf), Jul. 1 2023.
-- [Generating and Imputing Tabular Data via Diffusion and Flow-based Gradient-Boosted Trees](https://arxiv.org/pdf/2309.09968.pdf), Sep. 18 2023.
-- [Continuous Diffusion for Mixed-Type Tabular Data](https://arxiv.org/pdf/2312.10431.pdf), Dec. 16 2023.
-
-### Critics
+#### Critics of deep learning
 
 - [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/pdf/2207.08815.pdf), Jul. 18 2022. [benchmark](https://github.com/LeoGrin/tabular-benchmark).
 - [When Do Neural Nets Outperform Boosted Trees on Tabular Data?](https://arxiv.org/pdf/2305.02997.pdf), May 4 2023. [v3](https://arxiv.org/pdf/2305.02997.pdf).
 
-### Pretraining and representation learning
+#### Pretraining and representation learning
 
 - [Table Pre-training: A Survey on Model Architectures, Pre-training Objectives, and Downstream Tasks](https://arxiv.org/pdf/2201.09745.pdf), Apr. 29 2022.
 - [SubTab: Subsetting Features of Tabular Data for Self-Supervised Representation Learning](https://proceedings.neurips.cc/paper/2021/file/9c8661befae6dbcd08304dbf4dcaf0db-Paper.pdf), `nips2021`.
@@ -97,17 +96,7 @@ A table of contents for different topics around the modeling and processing of t
 - [Tabular few-shot generalization across heterogeneous feature spaces](https://arxiv.org/pdf/2311.10051.pdf), Nov. 16 2023.
 - [Classification of Tabular Data by Text Processing](https://arxiv.org/pdf/2311.12521.pdf), Nov. 21 2023.
 
-### Data augmentation
-
-- [Data Augmentation Techniques for Tabular Data](https://www.mphasis.com/content/dam/mphasis-com/global/en/home/innovation/next-lab/Mphasis_Data-Augmentation-for-Tabular-Data_Whitepaper.pdf). `whitepaper`.
-- [DeltaPy⁠⁠ — Tabular Data Augmentation & Feature Engineering](https://github.com/firmai/deltapy/tree/master), 2020.
-- [Data Augmentation for Compositional Data: Advancing Predictive Models of the Microbiome](https://proceedings.neurips.cc/paper_files/paper/2022/file/81a28be483155f802ddef448d6fc4b57-Paper-Conference.pdf), `nips2022`. [code](https://github.com/cunningham-lab/AugCoDa).
-- [OpenFE: Automated Feature Generation with Expert-level Performance](https://openreview.net/attachment?id=1H1irbEaGV&name=pdf), `icml2023`. `automatic feature engineering`.
-- [Rethinking Data Augmentation for Tabular Data in Deep Learning](https://arxiv.org/pdf/2305.10308.pdf), May 22 2023.
-- [Semi-Supervised Learning with Data Augmentation for Tabular Data](https://web.archive.org/web/20221021061539id_/https://dl.acm.org/doi/pdf/10.1145/3511808.3557699), `cikm2022`.
-- [Programmable Synthetic Tabular Data Generation](https://arxiv.org/pdf/2307.03577.pdf), Jun. 7 2023.
-
-### LLMs/FMs for tabular data
+#### LLMs for tabular data
 
 - [Towards Parameter-Efficient Automation of Data Wrangling Tasks with Prefix-Tuning](https://openreview.net/pdf?id=8kyYJs2YkFH), `nips2022`.
 - [Can Foundation Models Wrangle Your Data?](https://arxiv.org/pdf/2205.09911.pdf), Dec. 24 2022.
@@ -120,7 +109,7 @@ A table of contents for different topics around the modeling and processing of t
 - [Language models are weak learners](https://arxiv.org/pdf/2306.14101.pdf), Jun. 25 2023.
 - [Incorporating LLM Priors into Tabular Learners](https://arxiv.org/pdf/2311.11628.pdf), Nov. 20 2023.
 
-### Anomly detection
+### Deep learning based anomaly detection
 
 - [TabADM: Unsupervised Tabular Anomaly Detection with Diffusion Models](https://arxiv.org/pdf/2307.12336.pdf), Jul. 23 2023.
 - [Understanding the limitations of self-supervised learning for tabular anomaly detection](https://arxiv.org/pdf/2309.08374.pdf), Sep. 15 2023.
@@ -135,21 +124,19 @@ A table of contents for different topics around the modeling and processing of t
 
 - [TabRepo: A large scale repository of tabular model evaluations and its automl applications](https://arxiv.org/pdf/2311.02971.pdf), Nov. 6 2023.
 
-## Others
-
-- [Rethinking Logic Minimization for Tabular Machine Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9964348), 2022.
-
-## Codebase
+### Codebase
 
 - [pytorch_tabular](https://github.com/manujosephv/pytorch_tabular).
 
 ---
 
-# Classic methdos for tabular data
+## Classic methods for tabular data
 
 - [CatBoost Versus XGBoost and LightGBM: Developing Enhanced Predictive Models for Zero-Inflated Insurance Claim Data](https://arxiv.org/pdf/2307.07771.pdf), Jul. 15 2023. `feature interaction strength`.
 - [LCE - An Augmented Combination of Bagging and Boosting in Python](https://arxiv.org/pdf/2308.07250.pdf), Aug. 14 2023.
-
+- [Benchmarking state-of-the-art gradient boosting algorithms for classification](https://arxiv.org/pdf/2305.17094.pdf), May 26 2023.
+  - _with a focus on hyperparameter search with two methods: randomized search and Bayesian optimization using the Tree-stuctured Parzen Estimator_
+- [Rethinking Logic Minimization for Tabular Machine Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9964348), 2022.
 
 
 
