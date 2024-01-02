@@ -2,6 +2,12 @@
 A table of contents for different topics around the modeling and processing of tabular data.
 
 - [Awesome deep learning for tabular data](#awesome-deep-learning-for-tabular-data)
+  - [Surveys](#surveys)
+  - [Methods](#methods)
+  - [Deep learning based tabular anomaly detection](#deep-learning-based-tabular-anomaly-detection)
+  - [Interpretability](#interpretability)
+  - [Benchmarks](#benchmarks)
+  - [Codebases](#codebases)
 - [Classic methods for tabular data](#classic-methods-for-tabular-data)
 
 ---
@@ -109,7 +115,7 @@ A table of contents for different topics around the modeling and processing of t
 - [Language models are weak learners](https://arxiv.org/pdf/2306.14101.pdf), Jun. 25 2023.
 - [Incorporating LLM Priors into Tabular Learners](https://arxiv.org/pdf/2311.11628.pdf), Nov. 20 2023.
 
-### Deep learning based anomaly detection
+### Deep learning based tabular anomaly detection
 
 - [TabADM: Unsupervised Tabular Anomaly Detection with Diffusion Models](https://arxiv.org/pdf/2307.12336.pdf), Jul. 23 2023.
 - [Understanding the limitations of self-supervised learning for tabular anomaly detection](https://arxiv.org/pdf/2309.08374.pdf), Sep. 15 2023.
@@ -120,11 +126,11 @@ A table of contents for different topics around the modeling and processing of t
 - [Refutation of Shapley Values for XAI – Additional Evidence](https://arxiv.org/pdf/2310.00416.pdf), Sep. 30 2023.
 - [TabCBM: Concept-based interpretable neural networks for tabular data](https://openreview.net/pdf?id=TIsrnWpjQ0), `tmlr2023`.
 
-### Benchmark
+### Benchmarks
 
 - [TabRepo: A large scale repository of tabular model evaluations and its automl applications](https://arxiv.org/pdf/2311.02971.pdf), Nov. 6 2023.
 
-### Codebase
+### Codebases
 
 - [pytorch_tabular](https://github.com/manujosephv/pytorch_tabular).
 
