@@ -93,6 +93,7 @@ Contents of this archive:
   - _"Since ood generalization is a generally ill-posed problem, various proxy targets (e.g. calibration, adversarial robustness, algorithmic corruptions, invariance across shifts) were studied across different research programs resulting in different recommendations"_
   - _"Our findings  confirm that in- and out-of-distribution accuracies tend to increase jointly, but show that their relation is largely dataset-dependent, and in general more nuanced and more complex than posited by previous, smaller scale studies"_ 
 - [Model Agnostic Sample Reweighting for Out-of-Distribution Learning](https://arxiv.org/pdf/2301.09819.pdf), Jan. 24 2023.
+- [RLSBench: Domain adaptation under relaxed label shift](https://proceedings.mlr.press/v202/garg23a/garg23a.pdf), `icml2023`.
 - [Discovering environments with XRM](https://arxiv.org/pdf/2309.16748.pdf), Sep. 28 2023. `environment inference`.
   - _"Successful ood generalization requires environment annotations. Unfortunately, these are resource-intensive to obtain, and their relevance to model performance is limited by the expectations and percetual biases of human annotators"_
   - _"Current proposals, which divide examples based on their training error, suffer from one fundamental problem. These methods add hyper-parameters and early-stopping criteria that are impossible to tune without a validatioin set with human-annotated environments"_
@@ -186,7 +187,9 @@ The application from principle of **Invariance**.
 
 **Multisource domaiin adaptation**
 
+- [Moment Matching for Multi-Source Domain Adaptation](https://arxiv.org/pdf/1812.01754.pdf), Aug. 27 2019.
 - [Subspace Identification for Multi-Source Domain Adaptation](https://arxiv.org/pdf/2310.04723.pdf), Oct. 7 2023.
+- [Benchmarking Multi-Domain Active Learning on Image Classification](https://arxiv.org/pdf/2312.00364.pdf), Dec. 1 2023.
 
 #### Test-time adaptation and inference
 
