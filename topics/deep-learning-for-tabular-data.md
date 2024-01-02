@@ -1,4 +1,10 @@
 
+A table of contents for different topics around the modeling and processing of tabular data.
+
+- [Awesome deep learning for tabular data](#awesome-deep-learning-for-tabular-data)
+- [Classic methods for tabular data](#classic-methods-for-tabular-data)
+
+---
 
 # Awesome deep learning for tabular data
 
@@ -137,7 +143,9 @@
 
 - [pytorch_tabular](https://github.com/manujosephv/pytorch_tabular).
 
-# Classics
+---
+
+# Classic methdos for tabular data
 
 - [CatBoost Versus XGBoost and LightGBM: Developing Enhanced Predictive Models for Zero-Inflated Insurance Claim Data](https://arxiv.org/pdf/2307.07771.pdf), Jul. 15 2023. `feature interaction strength`.
 - [LCE - An Augmented Combination of Bagging and Boosting in Python](https://arxiv.org/pdf/2308.07250.pdf), Aug. 14 2023.
