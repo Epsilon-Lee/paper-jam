@@ -149,6 +149,9 @@ A table of contents for different topics around the modeling and processing of t
 - [Benchmarking state-of-the-art gradient boosting algorithms for classification](https://arxiv.org/pdf/2305.17094.pdf), May 26 2023.
   - _with a focus on hyperparameter search with two methods: randomized search and Bayesian optimization using the Tree-stuctured Parzen Estimator_
 - [Rethinking Logic Minimization for Tabular Machine Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9964348), 2022.
-
+- [The Conditioning Bias in Binary Decision Trees and Random Forests and Its Elimination](https://arxiv.org/pdf/2312.10708.pdf), Dec. 17 2023.
+  - The formulation of an issue named 'conditioning bias' in decision tree learning
+- [Invariant Random Forest: Tree-Based Model Solution for OOD Generalization](https://arxiv.org/pdf/2312.04273.pdf), Dec. 20 2023. `ood generalization`.
+- [Robust Loss Functions for Training Decision Trees with Noisy Labels](https://arxiv.org/pdf/2312.12937.pdf), Dec. 20 2023.
 
 
