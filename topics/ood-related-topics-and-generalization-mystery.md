@@ -93,7 +93,6 @@ Contents of this archive:
   - _"Since ood generalization is a generally ill-posed problem, various proxy targets (e.g. calibration, adversarial robustness, algorithmic corruptions, invariance across shifts) were studied across different research programs resulting in different recommendations"_
   - _"Our findings  confirm that in- and out-of-distribution accuracies tend to increase jointly, but show that their relation is largely dataset-dependent, and in general more nuanced and more complex than posited by previous, smaller scale studies"_ 
 - [Model Agnostic Sample Reweighting for Out-of-Distribution Learning](https://arxiv.org/pdf/2301.09819.pdf), Jan. 24 2023.
-- [RLSBench: Domain adaptation under relaxed label shift](https://proceedings.mlr.press/v202/garg23a/garg23a.pdf), `icml2023`.
 - [Discovering environments with XRM](https://arxiv.org/pdf/2309.16748.pdf), Sep. 28 2023. `environment inference`.
   - _"Successful ood generalization requires environment annotations. Unfortunately, these are resource-intensive to obtain, and their relevance to model performance is limited by the expectations and percetual biases of human annotators"_
   - _"Current proposals, which divide examples based on their training error, suffer from one fundamental problem. These methods add hyper-parameters and early-stopping criteria that are impossible to tune without a validatioin set with human-annotated environments"_
@@ -123,6 +122,7 @@ The application from principle of **Invariance**.
 - [Extending the WILDS Benchmark for Unsupervised Adaptation](https://arxiv.org/pdf/2112.05090.pdf), Dec. 9 2021.
 - [Shifts: A Dataset of Real Distributional Shift Across Multiple Large-Scale Tasks](https://arxiv.org/pdf/2107.07455.pdf), Jul. 23 2021.
 - [Extending the WILDS Benchmark for Unsupervised Adaptation](https://arxiv.org/abs/2112.05090), arXiv.v1 Dec. 9 2021.
+- [GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-Distribution Generalization Perspective](https://arxiv.org/pdf/2211.08073.pdf), May 22 2023.
 - [Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations](https://arxiv.org/pdf/2306.04618.pdf), Jun. 7 2023.
 
 #### Causal representation learning
@@ -136,6 +136,7 @@ The application from principle of **Invariance**.
 - [Domain Adaptation under Target and Conditional Shift](http://proceedings.mlr.press/v28/zhang13d.pdf), `icml2013`.
 - [Detecting and Correcting for Label Shift with Black Box Predictions](https://proceedings.mlr.press/v80/lipton18a.html), `icml2018`. `label shift`
 - [Failing Loudly: An Empirical Study of Methods for Detecting Dataset Shift](https://proceedings.neurips.cc/paper/2019/file/846c260d715e5b854ffad5f70a516c88-Paper.pdf), `nips2019`.
+- [Domain Adaptation with Conditional Distribution Matching and Generalized Label Shift](https://arxiv.org/pdf/2003.04475.pdf), Dec. 11 2020.
 - [On Label Shift in Domain Adaptation via Wasserstein Distance](https://arxiv.org/pdf/2110.15520.pdf), Oct. 29 2021.
 - [An Information-theoretic Approach to Distribution Shifts](https://arxiv.org/pdf/2106.03783.pdf), Nov. 1 2021. `nips2021`
 - [An opinioin from Cho about distributional robustness](https://twitter.com/kchonyc/status/1455619054786519045), Nov. 3 2021.
