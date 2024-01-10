@@ -120,6 +120,11 @@ A table of contents for different topics around the modeling and processing of t
 - [Trompt: Towards a Better Deep Neural Network for Tabular Data](https://arxiv.org/pdf/2305.18446.pdf), May. 29 2023.
 - [Language models are weak learners](https://arxiv.org/pdf/2306.14101.pdf), Jun. 25 2023.
 - [Incorporating LLM Priors into Tabular Learners](https://arxiv.org/pdf/2311.11628.pdf), Nov. 20 2023.
+- [Rethinking tabular data understanding with large language models](https://arxiv.org/pdf/2312.16702.pdf), Dec. 27 2023.
+
+#### Automl for tabular
+
+- [Automated model selection for tabular data](https://arxiv.org/pdf/2401.00961.pdf), Jan. 1 2024.
 
 ### Deep learning based tabular anomaly detection
 
