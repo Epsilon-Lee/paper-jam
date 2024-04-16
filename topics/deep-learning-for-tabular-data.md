@@ -107,6 +107,8 @@ A table of contents for different topics around the modeling and processing of t
 - [High dimensional, tabular deep learning with an auxiliary knowledge graph](https://openreview.net/pdf?id=GGylthmehy), `nips2023`.
 - [Tabular few-shot generalization across heterogeneous feature spaces](https://arxiv.org/pdf/2311.10051.pdf), Nov. 16 2023.
 - [Classification of Tabular Data by Text Processing](https://arxiv.org/pdf/2311.12521.pdf), Nov. 21 2023.
+- [Relational Deep Learning: Graph Representation Learning on Relational Databases](https://arxiv.org/abs/2312.04615), Dec. 7 2023.
+- [PyTorch Frame: A Modular Framework for Multi-Modal Tabular Learning](https://arxiv.org/pdf/2404.00776.pdf), Mar. 31 2024.
 
 #### LLMs for tabular data
 
@@ -121,6 +123,7 @@ A table of contents for different topics around the modeling and processing of t
 - [Language models are weak learners](https://arxiv.org/pdf/2306.14101.pdf), Jun. 25 2023.
 - [Incorporating LLM Priors into Tabular Learners](https://arxiv.org/pdf/2311.11628.pdf), Nov. 20 2023.
 - [Rethinking tabular data understanding with large language models](https://arxiv.org/pdf/2312.16702.pdf), Dec. 27 2023.
+- [Unleashing the Potential of Large Language Models for Predictive Tabular Tasks in Data Science](https://arxiv.org/pdf/2403.20208.pdf), Mar. 29 2024.
 
 #### Automl for tabular
 
