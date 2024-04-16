@@ -49,6 +49,7 @@ A table of contents for different topics around the modeling and processing of t
 - [Rethinking Data Augmentation for Tabular Data in Deep Learning](https://arxiv.org/pdf/2305.10308.pdf), May 22 2023.
 - [Semi-Supervised Learning with Data Augmentation for Tabular Data](https://web.archive.org/web/20221021061539id_/https://dl.acm.org/doi/pdf/10.1145/3511808.3557699), `cikm2022`.
 - [Programmable Synthetic Tabular Data Generation](https://arxiv.org/pdf/2307.03577.pdf), Jun. 7 2023.
+- [Structured Evaluation of Synthetic Tabular Data](https://arxiv.org/pdf/2403.10424.pdf), Mar. 29 2024.
 
 #### Feature processing and selection
 
@@ -78,6 +79,7 @@ A table of contents for different topics around the modeling and processing of t
 - [Scaling TabPFN: Sketching and Feature Selection for Tabular Prior-Data Fitted Networks](https://arxiv.org/pdf/2311.10609.pdf), Nov. 17 2023.
 - [Meditab: Scaling medical tabular data predictors via data consolidation, enrichment and refinement](https://arxiv.org/pdf/2305.12081.pdf), Oct. 5 2023.
 - [MotherNet: A Foundational Hypernetwork for Tabular Classification](https://arxiv.org/pdf/2312.08598.pdf), Dec. 14 2023.
+- [Anytime neural architecture search on tabular data](https://arxiv.org/pdf/2403.10318.pdf), Mar. 15 2024.
 
 #### Critics of deep learning
 
@@ -124,6 +126,7 @@ A table of contents for different topics around the modeling and processing of t
 - [Incorporating LLM Priors into Tabular Learners](https://arxiv.org/pdf/2311.11628.pdf), Nov. 20 2023.
 - [Rethinking tabular data understanding with large language models](https://arxiv.org/pdf/2312.16702.pdf), Dec. 27 2023.
 - [Unleashing the Potential of Large Language Models for Predictive Tabular Tasks in Data Science](https://arxiv.org/pdf/2403.20208.pdf), Mar. 29 2024.
+- [Large Language Models(LLMs) on Tabular Data: Prediction, Generation, and Understanding - A Survey](https://arxiv.org/pdf/2402.17944.pdf), Mar. 1 2024.
 
 #### Automl for tabular
 
