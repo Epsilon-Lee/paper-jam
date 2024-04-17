@@ -30,3 +30,7 @@
 ## Understanding llms, transformers and beyond
 
 - [Localizing Paragraph Memorization in Language Models](https://arxiv.org/pdf/2403.19851.pdf), Mar. 28 2024.
+
+## Multimodality
+
+- [Tables as Images? Exploring the Strengths and Limitations of LLMs on Multimodal Representations of Tabular Data](https://arxiv.org/pdf/2402.12424.pdf), Feb. 23 2024.
