@@ -127,6 +127,7 @@ A table of contents for different topics around the modeling and processing of t
 - [Rethinking tabular data understanding with large language models](https://arxiv.org/pdf/2312.16702.pdf), Dec. 27 2023.
 - [Unleashing the Potential of Large Language Models for Predictive Tabular Tasks in Data Science](https://arxiv.org/pdf/2403.20208.pdf), Mar. 29 2024.
 - [Large Language Models(LLMs) on Tabular Data: Prediction, Generation, and Understanding - A Survey](https://arxiv.org/pdf/2402.17944.pdf), Mar. 1 2024.
+- [Elephants Never Forget: Memorization and Learning of Tabular Data in Large Language Models](https://arxiv.org/pdf/2404.06209.pdf), Apr. 9 2024. [code](https://github.com/interpretml/LLM-Tabular-Memorization-Checker).
 
 #### Automl for tabular
 
