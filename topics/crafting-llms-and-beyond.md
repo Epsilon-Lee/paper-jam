@@ -1,6 +1,13 @@
 
 # Crafting LLMs and Beyond
 
+- LLMs is a miracle to me, when trained using the next token prediction (ntp) loss, all kinds of human-like language understanding ability emerges via their generative behavior. What a human-made phenomenon instead of all the miracle phenomana of our mother nature. This document is particularlly dedicated to how to craft a LLM in a low-resource setting. Here the word low-resource indicates the relative scarcity of both compute and data resources, which is commom in many companies without thorough AI technique background. So the topics I am mainly interested in are:
+  - scaling laws
+  - continual pre-training using ntp loss or beyond
+  - pre-training and instruction-tuning data _curation_, _elicitation_, _synthesis_, _mixing_, _selection_ under the goal of building an expert LLM in certain domain or industry $\mathcal{I}$
+  - model inheritance, merging, pruning, distillation
+  - systematic training process control, monitoring, model selection and evaluation
+
 ## Data curation
 
 - [A Pretrainer’s Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity](https://arxiv.org/pdf/2305.13169.pdf), Nov. 13 2023.
