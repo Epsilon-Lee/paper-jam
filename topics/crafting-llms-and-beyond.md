@@ -3,18 +3,18 @@
 
 - LLMs is a miracle to me. When trained using the next token prediction (ntp) loss, all kinds of human-like language understanding ability emerges via their generative behavior. What a human-made phenomenon instead of all the miracle phenomana of our mother nature!
 - This document is particularlly dedicated to the art of crafting a LLM in a low-resource setting. Here the word low-resource indicates the relative scarcity of both compute and data resources, which is commom in many companies without thorough AI background.
-- Under the ambition of building an expert LLM in certain domain or business $\mathcal{B}$, I'd like to survey some topics that I most care about:
+- Under the ambition of building an expert LLM in certain domain or business **B**, I'd like to survey some topics that I most care about:
   - **scaling laws**
   - **continual pre-training** using ntp loss or beyond
   - pre-training and instruction-tuning **data sources, _curation_, _elicitation_, _synthesis_, _mixing_, _selection_**
   - **model inheritance, merging, pruning, distillation**
   - systematic **training process control, monitoring, model selection and evaluation**
 
-> _Note that: the $\mathcal{B}$ above might be industry, e-commerce, finance, health and medicine, logistic etc._
+> _Note that: the **B** above might be industry, e-commerce, finance, health and medicine, logistic etc._
 
 ### Scaling laws
 
-> The scaling laws are outstanding artifacts of the process as reserchers scale the compute (model and data size).
+> Scaling law is an outstanding artifact as reserchers continue to scale the compute (model and data size).
 
 - _[TODO: add paper links here.]_
 - [Predicting the performance of foundation models via agreement-on-the-line](https://arxiv.org/pdf/2404.01542.pdf), Apr. 2 2024.
