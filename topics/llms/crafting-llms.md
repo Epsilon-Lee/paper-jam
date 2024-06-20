@@ -25,8 +25,10 @@
 
 ### Data curation and selection
 
+- [Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey](https://arxiv.org/pdf/2305.18703), Mar. 29 2024.
 - [A Pretrainer’s Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity](https://arxiv.org/pdf/2305.13169.pdf), Nov. 13 2023.
 - [Scaling Laws for Data Filtering — Data Curation cannot be Compute Agnostic](https://arxiv.org/pdf/2404.07177.pdf), Apr. 10 2024.
+- [LMD3: Language Model Data Density Dependence](https://arxiv.org/pdf/2405.06331), May 10 2024.
 - [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/pdf/2406.11794), Jun. 17 2024. `data selection`.
 - [CoLoR-Filter: Conditional Loss Reduction Filtering for Targeted Language Model Pre-training](https://arxiv.org/pdf/2406.10670), Jun. 15 2024. `data selection`.
 - [Data Shapley in One Training Run](https://arxiv.org/pdf/2406.11011), Jun. 19 2024. `data selection`.
