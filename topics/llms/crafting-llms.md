@@ -23,10 +23,14 @@
 
 - _[TODO: refer to the Dolma paper]_
 
-### Data curation
+### Data curation and selection
 
 - [A Pretrainer’s Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity](https://arxiv.org/pdf/2305.13169.pdf), Nov. 13 2023.
 - [Scaling Laws for Data Filtering — Data Curation cannot be Compute Agnostic](https://arxiv.org/pdf/2404.07177.pdf), Apr. 10 2024.
+- [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/pdf/2406.11794), Jun. 17 2024. `data selection`.
+- [CoLoR-Filter: Conditional Loss Reduction Filtering for Targeted Language Model Pre-training](https://arxiv.org/pdf/2406.10670), Jun. 15 2024. `data selection`.
+- [Data Shapley in One Training Run](https://arxiv.org/pdf/2406.11011), Jun. 19 2024. `data selection`.
+- [Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling](https://arxiv.org/pdf/2401.16380), Jan. 29 2024. `data curation`.
 
 ### Alignment
 
