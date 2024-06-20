@@ -14,3 +14,4 @@
 - [Scaling Laws and Interpretability of Learning from Repeated Data](https://arxiv.org/pdf/2205.10487), May 21 2022.
 - [Data Mixing Made Efficient: A Bivariate Scaling Law for Language Model Pretraining](https://arxiv.org/pdf/2405.14908), May 23 2024.
 - [Scaling Law for Time Series Forecasting](https://arxiv.org/pdf/2405.15124), May 24 2024.
+- [Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling](https://arxiv.org/pdf/2405.14578v1), May 23 2024.
