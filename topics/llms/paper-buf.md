@@ -4,21 +4,26 @@
 - [Why Has Predicting Downstream Capabilities of Frontier AI Models with Scale Remained Elusive?](https://arxiv.org/pdf/2406.04391), Jun. 6 2024. `scaling law`.
 - [Lessons from the Trenches on Reproducible Evaluation of Language Models](https://arxiv.org/abs/2405.14782), May 23 2024. `evaluation`.
 - [Position: Will we run out of data? Limits of LLM scaling based on human-generated data](https://openreview.net/pdf?id=ViZcgDQjyG), ICML 2024. `scaling law`.
-- [Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling](https://arxiv.org/pdf/2401.16380), Jan. 29 2024. `data curation`.
-- [Data Shapley in One Training Run](https://arxiv.org/pdf/2406.11011), Jun. 19 2024. `data selection`.
-- [CoLoR-Filter: Conditional Loss Reduction Filtering for Targeted Language Model Pre-training](https://arxiv.org/pdf/2406.10670), Jun. 15 2024. `data selection`.
 - [Compact Proofs of Model Performance via Mechanistic Interpretability](https://arxiv.org/pdf/2406.11779), Jun. 17 2024. `mechanistic interpretability`.
-- [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/pdf/2406.11794), Jun. 17 2024. `data selection`.
 - [How Do Large Language Models Acquire Factual Knowledge During Pretraining?](https://arxiv.org/abs/2406.11813), Jun. 17 2024. `interpretability`.
 - [How Far Can Transformers Reason? The Locality Barrier and Inductive Scratchpad](https://arxiv.org/pdf/2406.06467), Jun. 10 2024. `reasoning`.
 - [Probing the Decision Boundaries of In-context Learning in Large Language Models](https://arxiv.org/pdf/2406.11233), Jun. 17 2024. `icl`.
-- [BPO: Supercharging Online Preference Learning by Adhering to the Proximity of Behavior LLM](https://arxiv.org/pdf/2406.12168), Jun. 18 2024. `alignment`.
 - [Transcoders Find Interpretable LLM Feature Circuits](https://arxiv.org/pdf/2406.11944), Jun. 17 2024. `interpretability`.
 - [Unraveling the Mechanics of Learning-Based Demonstration Selection for In-Context Learning](https://arxiv.org/pdf/2406.11890), Jun. 14 2024. `icl`.
 - [Large Scale Transfer Learning for Tabular Data via Language Modeling](https://arxiv.org/pdf/2406.12031), Jun. 2024. `tabular llm`.
-- [Mixture-of-Subspaces in Low-Rank Adaptation](https://arxiv.org/pdf/2406.11909), Jun. 16 2024. `alignment`.
 - [A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning](https://arxiv.org/pdf/2406.12255), Jun. 18 2024. `interpretability`.
 - [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/pdf/2406.11931), Jun. 17 2024. `tech report`.
 - [Measuring memorization in RLHF for code completion](https://arxiv.org/pdf/2406.11715), Jun. 17 2024.
 - [Position: Levels of AGI for Operationalizing Progress on the Path to AGI](https://openreview.net/pdf?id=0ofzEysK2D), ICML 2024.
-- [Scaling Laws in Linear Regression: Compute, Parameters, and Data](https://arxiv.org/abs/2406.08466), Jun. 12 2024. `theory` `scaling law`.
+- [Infinite Limits of Multi-head Transformer Dynamics](https://arxiv.org/pdf/2405.15712), May 24 2024. `learning dynamics`.
+- [MLPs Learn In-Context](https://arxiv.org/pdf/2405.15618), May 24 2024. `icl`.
+- [What Variables Affect Out-Of-Distribution Generalization in Pretrained Models?](https://arxiv.org/pdf/2405.15018), May 23 2024.
+- [Quantifying In-Context Reasoning Effects and Memorization Effects in LLMs](https://arxiv.org/pdf/2405.11880), May 20 2024. `icl`.
+- [Learning Beyond Pattern Matching? Assaying Mathematical Understanding in LLMs](https://arxiv.org/pdf/2405.15485), May 24 2024. `reasoning`.
+- [Towards Understanding How Transformer Perform Multi-step Reasoning with Matching Operation](https://arxiv.org/pdf/2405.15302), May 24 2024. `reasoning`.
+- [From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step](https://arxiv.org/pdf/2405.14838), May 23 2024. `reasoning`.
+- [Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models](https://arxiv.org/pdf/2405.15143), May 24 2024. `reasoning` `agent`.
+- [Why Larger Language Models Do In-context Learning Differently?](https://arxiv.org/pdf/2405.19592), May 30 2024. `icl`.
+- [From Words to Actions: Unveiling the Theoretical Underpinnings of LLM-Driven Autonomous Systems](https://arxiv.org/pdf/2405.19883), May 30 2024. `agent`.
+- [Kernel Language Entropy: Fine-grained Uncertainty Quantification for LLMs from Semantic Similarities](https://arxiv.org/pdf/2405.20003), May 30 2024. `uncertainty`.
+- [Is In-Context Learning Sufficient for Instruction Following in LLMs?](https://arxiv.org/pdf/2405.19874), May 30 2024. `icl`.
