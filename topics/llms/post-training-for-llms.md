@@ -3,6 +3,7 @@
 
 ## Few-shot and fine-tuning methods
 
+- [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751), Jun. 13 2019.
 - [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/pdf/1905.05583.pdf), arXiv.v3 Feb. 5 2020.
 - [Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/pdf/2004.10964.pdf), arXiv.v5 May 5 2020.
 - [Recall and learn: Fine-tuning deep pretrained language models with less forgetting](https://arxiv.org/abs/2004.12651), `emnlp2018`.
@@ -40,6 +41,8 @@
 
 ## Instruction-tuning (aka. supervised fine-tuning)
 
+- [Parameter-efficient fine-tuning of large-scale pre-trained language models](https://www.nature.com/articles/s42256-023-00626-4.pdf), Nature Machine Intelligence 2023.
+- [Towards a unified view of parameter-efficient transfer learning](https://arxiv.org/pdf/2405.14838), Feb. 2 2022.
 - [Fine-Tuning Language Models with Just Forward Passes](https://proceedings.neurips.cc/paper_files/paper/2023/file/a627810151be4d13f907ac898ff7e948-Paper-Conference.pdf), NeurIPS 2023.
 - [NefTune: Noisy Embeddings Improve Instruction Tuning](https://arxiv.org/pdf/2310.05914), Oct. 10 2023.  
 - [Bitune: Bidirectional Instruction-Tuning](https://arxiv.org/pdf/2405.14862), May 23 2024.
