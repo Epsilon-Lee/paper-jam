@@ -6,6 +6,8 @@
 - [A Solvable Model of Neural Scaling Laws](https://arxiv.org/pdf/2210.16859), Oct. 30 2022.
 - [Neural Scaling Laws From Large-N Field Theory: Solvable Model Beyond the Ridgeless Limit](https://arxiv.org/pdf/2405.19398), May 29 2024.
 - [4+3 Phases of Compute-Optimal Neural Scaling Laws](https://arxiv.org/pdf/2405.15074), May 23 2024.
+- [Scaling Laws in Linear Regression: Compute, Parameters, and Data](https://arxiv.org/abs/2406.08466), Jun. 12 2024. `theory` `scaling law`.
+
 
 ### Empirical scaling laws
 
