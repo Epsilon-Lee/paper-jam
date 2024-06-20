@@ -1,23 +1,20 @@
 
-# Few-shot and fine-tuning methods for foundation models
+# Post-training in bert era
+
+## Few-shot and fine-tuning methods
 
 - [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/pdf/1905.05583.pdf), arXiv.v3 Feb. 5 2020.
 - [Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/pdf/2004.10964.pdf), arXiv.v5 May 5 2020.
 - [Recall and learn: Fine-tuning deep pretrained language models with less forgetting](https://arxiv.org/abs/2004.12651), `emnlp2018`.
+- [On the stability of fine-tuning bert: Misconceptions, explainations, and strong baselines](https://openreview.net/pdf?id=nzpLWnVAyah), ICLR 2021.
 - [Mixout: Effective regularization to finetune large-scale pretrained language models](https://arxiv.org/abs/1909.11299), `iclr2020`.
 - [Smart: Robust and efficient fine-tuning for pre trained natural language models through principled regularized optimization](https://arxiv.org/abs/1911.03437), `acl2020`.
-- [Domain Adversarial Fine-Tuning as an Effective Regularizer](https://arxiv.org/abs/2009.13366), [github](https://github.com/GeorgeVern/AFTERV1.0), `emnlp2020`.
 - [Better fine-tuning by reducing representational collapse](https://arxiv.org/abs/2008.03156), `iclr2021`.
 - [NoisyTune: A Little Noise Can Help You Finetune Pretrained Language Models Better](https://arxiv.org/pdf/2202.12024.pdf), `acl2022`.
 - [Raise a child in large language model: Towards effective and generalizable fine-tuning](https://arxiv.org/abs/2109.05687), `emnlp2022`.
-- [AD-DROP: Attribution-Driven Dropout for Robust Language Model Fine-Tuning](https://arxiv.org/pdf/2210.05883.pdf), `nips2022`.
-- [ROSE: Robust Selective Fine-tuning for Pre-trained Language Models](https://arxiv.org/pdf/2210.09658.pdf), `emnlp2022`.
 - [Surgical Fine-Tuning Improves Adaptation to Distribution Shifts](https://arxiv.org/pdf/2210.11466.pdf), Oct. 20 2022.
-- [Finetuning language models via epistemic neural networks](https://arxiv.org/pdf/2211.01568.pdf), Nov. 2 2022.
 - [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://proceedings.mlr.press/v162/wortsman22a/wortsman22a.pdf), `icml2022`.
 - [Finetune like you pretrain: Improved finetuning of zero-shot vision models](https://arxiv.org/pdf/2212.00638.pdf), Dec. 1 2022. `vision`
-- [PEST: Combining Parameter-Efficient Fine-Tuning with Self-Training and Co-Training](https://neurips2022-enlsp.github.io/papers/paper_27.pdf), `nips2022`.
-- [SubTuning: Efficient Finetuning for Multi-Task Learning](https://arxiv.org/pdf/2302.06354.pdf), Feb. 14 2023.
 
 ## Few-shot methods
 
@@ -31,3 +28,33 @@
     - makes no assumption on available auxiliary data a-priori (in-domain, on-task, quality, quantity, etc.)
     - continuously updates belief on importance of auxiliary data, and
     - adds minimal memory and computational overhead.
+
+
+
+
+
+# Post-training in llms era
+
+- [Large Language Model Alignment: A Survey](https://arxiv.org/pdf/2309.15025), Sep. 26 2023.
+- [Aligning Large Language Models with Human: A Survey](https://arxiv.org/pdf/2307.12966), Jul. 24 2023.
+
+## Instruction-tuning (aka. supervised fine-tuning)
+
+- [Fine-Tuning Language Models with Just Forward Passes](https://proceedings.neurips.cc/paper_files/paper/2023/file/a627810151be4d13f907ac898ff7e948-Paper-Conference.pdf), NeurIPS 2023.
+- [NefTune: Noisy Embeddings Improve Instruction Tuning](https://arxiv.org/pdf/2310.05914), Oct. 10 2023.  
+- [Bitune: Bidirectional Instruction-Tuning](https://arxiv.org/pdf/2405.14862), May 23 2024.
+- [RE-Adapt: Reverse Engineered Adaptationof Large Language Models](https://arxiv.org/pdf/2405.15007), May 23 2024.
+
+## Peft
+
+- [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/pdf/2205.05638), Aug. 26 2022.
+
+## Preference learning/alignment
+
+- [Preference Ranking Optimization for Human Alignment](https://arxiv.org/pdf/2306.17492), Feb. 27 2024.
+- [Quantifying the Gain in Weak-to-Strong Generalization](https://arxiv.org/pdf/2405.15116), May 24 2024.
+- [Value Augmented Sampling for Language Model Alignment and Personalization](https://arxiv.org/pdf/2405.14578v1), May 23 2024.
+
+
+
+
