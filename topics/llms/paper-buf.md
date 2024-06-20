@@ -27,3 +27,23 @@
 - [From Words to Actions: Unveiling the Theoretical Underpinnings of LLM-Driven Autonomous Systems](https://arxiv.org/pdf/2405.19883), May 30 2024. `agent`.
 - [Kernel Language Entropy: Fine-grained Uncertainty Quantification for LLMs from Semantic Similarities](https://arxiv.org/pdf/2405.20003), May 30 2024. `uncertainty`.
 - [Is In-Context Learning Sufficient for Instruction Following in LLMs?](https://arxiv.org/pdf/2405.19874), May 30 2024. `icl`.
+- [A Language Model's Guide Through Latent Space](https://arxiv.org/pdf/2402.14433), Feb. 22 2024.
+- [Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models](https://proceedings.mlr.press/v202/liu23ao/liu23ao.pdf), ICML 2023.
+- [Training Trajectories of Language Models Across Scales](https://arxiv.org/pdf/2212.09803), May 30 2023. `training dynamics`.
+- [Pre-trained Large Language Models Use Fourier Features to Compute Addition](https://arxiv.org/pdf/2406.03445), Jun. 5 2024. `mechanistic interpretability`.
+- [How Truncating Weights Improves Reasoning in Language Models](https://arxiv.org/pdf/2406.03068), Jun. 5 2024. `reasoning`.
+- [Local to Global: Learning Dynamics and Effect of Initialization for Transformers](https://arxiv.org/pdf/2406.03072), Jun. 5 2024. `training dynamics`.
+- [Scaling Laws for Reward Model Overoptimization in Direct Alignment Algorithms](https://arxiv.org/pdf/2406.02900), Jun. 5 2024. `scaling law` `post-training`.
+- [Does learning the right latent variables necessarily improve in-context learning?](https://arxiv.org/pdf/2405.19162), May 29 2024.
+- [Towards an empirical understanding of MoE design choices](https://arxiv.org/pdf/2402.13089), Feb. 20 2024. `moe`.
+- [Studying Large Language Model Behaviors Under Realistic Knowledge Conflicts](https://arxiv.org/pdf/2404.16032), Apr. 24 2024. `knowledge`.
+- [StructLM: Towards Building Generalist Models for Structured Knowledge Grounding](https://arxiv.org/pdf/2402.16671), Apr. 24 2024. `structure knowledge`.
+- [Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation](https://arxiv.org/pdf/2402.18150), Jun. 12 2024.
+- [Chronos: Learning the Language of Time Series](https://arxiv.org/pdf/2403.07815), May 2 2024.
+- [Phase Transitions in the Output Distribution of Large Language Models](https://arxiv.org/pdf/2405.17088), May 27 2024. `training dynamics`.
+- [On Mesa-Optimization in Autoregressively Trained Transformers: Emergence and Capability](https://arxiv.org/pdf/2405.16845), May 27 2024.
+- [Theoretical Analysis of Weak-to-Strong Generalization](https://arxiv.org/pdf/2405.16043), May 25 2024.
+
+
+
+
