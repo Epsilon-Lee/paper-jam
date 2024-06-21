@@ -25,14 +25,17 @@
 
 ### Data curation and selection
 
-- [Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey](https://arxiv.org/pdf/2305.18703), Mar. 29 2024.
 - [A Pretrainer’s Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity](https://arxiv.org/pdf/2305.13169.pdf), Nov. 13 2023.
+- [D4: Improving LLM Pretraining via Document De-Duplication and Diversification](https://proceedings.neurips.cc/paper_files/paper/2023/file/a8f8cbd7f7a5fb2c837e578c75e5b615-Paper-Datasets_and_Benchmarks.pdf), NeurIPS 2023.
+- [Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey](https://arxiv.org/pdf/2305.18703), Mar. 29 2024.
 - [Scaling Laws for Data Filtering — Data Curation cannot be Compute Agnostic](https://arxiv.org/pdf/2404.07177.pdf), Apr. 10 2024.
+- [Text Quaility-Based Pruning for Efficient Training of Language Models](https://arxiv.org/pdf/2405.01582), May 10 2024.
 - [LMD3: Language Model Data Density Dependence](https://arxiv.org/pdf/2405.06331), May 10 2024.
 - [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/pdf/2406.11794), Jun. 17 2024. `data selection`.
 - [CoLoR-Filter: Conditional Loss Reduction Filtering for Targeted Language Model Pre-training](https://arxiv.org/pdf/2406.10670), Jun. 15 2024. `data selection`.
 - [Data Shapley in One Training Run](https://arxiv.org/pdf/2406.11011), Jun. 19 2024. `data selection`.
 - [Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling](https://arxiv.org/pdf/2401.16380), Jan. 29 2024. `data curation`.
+- [Automated Data Curation for Robust Language Model Fine-Tuning](https://arxiv.org/pdf/2403.12776), Mar. 19 2024.
 
 ### Alignment
 
