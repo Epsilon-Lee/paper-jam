@@ -43,7 +43,10 @@
 - [Phase Transitions in the Output Distribution of Large Language Models](https://arxiv.org/pdf/2405.17088), May 27 2024. `training dynamics`.
 - [On Mesa-Optimization in Autoregressively Trained Transformers: Emergence and Capability](https://arxiv.org/pdf/2405.16845), May 27 2024.
 - [Theoretical Analysis of Weak-to-Strong Generalization](https://arxiv.org/pdf/2405.16043), May 25 2024.
-
+- [Scaling and evaluating sparse autoencoders](https://arxiv.org/pdf/2406.04093), Jun. 6 2024.
+- [Repurposing Language Models into Embedding Models: Finding the Compute-Optimal Recipe](https://arxiv.org/pdf/2406.04165), Jun. 6 2024. `llm for embedding`.
+- [Intrinsic Dimensionality Explains The Effectiveness of Language Model Fine-Tuning](https://arxiv.org/pdf/2012.13255), Dec. 22 2020.
+- [Memorization Without Overfitting: Analyzing the Training Dynamics of Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/file/fa0509f4dab6807e2cb465715bf2d249-Paper-Conference.pdf), NeurIPS 2022.
 
 
 
