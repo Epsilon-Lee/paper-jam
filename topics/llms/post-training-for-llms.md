@@ -53,13 +53,15 @@
 ## Peft
 
 - [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/pdf/2205.05638), Aug. 26 2022.
+- [Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need](https://arxiv.org/pdf/2406.03216), Jun. 5 2024.
 
 ## Preference learning/alignment
 
+- [Scheming AIs Will AIs fake alignment during training in order to get power?](https://arxiv.org/pdf/2311.08379), Nov. 27 2023.
 - [Preference Ranking Optimization for Human Alignment](https://arxiv.org/pdf/2306.17492), Feb. 27 2024.
 - [Quantifying the Gain in Weak-to-Strong Generalization](https://arxiv.org/pdf/2405.15116), May 24 2024.
 - [Value Augmented Sampling for Language Model Alignment and Personalization](https://arxiv.org/pdf/2405.14578v1), May 23 2024.
-
+- [Self-Exploring Language Models: Active Preference Elicitation for Online Alignment](https://arxiv.org/pdf/2405.19332), May 29 2024.
 
 
 
