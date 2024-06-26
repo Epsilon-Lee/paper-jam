@@ -60,5 +60,8 @@
 - [Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation](https://arxiv.org/pdf/2402.18150v1), Feb. 28 2024. `post-training` `unsupervised` `rag`.
 - [InternLM-Law: An Open Source Chinese Legal Large Language Model](https://arxiv.org/pdf/2406.14887), Jun. 21 2024. `domain llms` `post-training`.
 - [On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey](https://arxiv.org/pdf/2406.15126), Jun. 14 2024. `data synthesis`.
+- [The Impact of Initialization on LoRA Finetuning Dynamics](https://arxiv.org/pdf/2406.08447), Jun. 12 2024. `lora`.
+
+
 
 
