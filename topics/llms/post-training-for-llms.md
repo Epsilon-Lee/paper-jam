@@ -36,8 +36,12 @@
 
 # Post-training in llms era
 
+## Surveys
+
 - [Large Language Model Alignment: A Survey](https://arxiv.org/pdf/2309.15025), Sep. 26 2023.
 - [Aligning Large Language Models with Human: A Survey](https://arxiv.org/pdf/2307.12966), Jul. 24 2023.
+- [Instruction Tuning for Large Language Models: A Survey](https://arxiv.org/pdf/2308.10792), Mar. 14 2024.
+- [Towards Bidirectional Human-AI Alignment: A Systematic Review for Clarifications, Framework, and Future Directions](https://arxiv.org/pdf/2406.09264), Jun. 17 2024.
 
 ## Instruction-tuning (aka. supervised fine-tuning)
 
@@ -62,6 +66,8 @@
 - [Quantifying the Gain in Weak-to-Strong Generalization](https://arxiv.org/pdf/2405.15116), May 24 2024.
 - [Value Augmented Sampling for Language Model Alignment and Personalization](https://arxiv.org/pdf/2405.14578v1), May 23 2024.
 - [Self-Exploring Language Models: Active Preference Elicitation for Online Alignment](https://arxiv.org/pdf/2405.19332), May 29 2024.
+- [Steering without side effects: Improving post-deployment control of language models](https://arxiv.org/pdf/2406.15518), Jun. 21 2024.
+
 
 
 
