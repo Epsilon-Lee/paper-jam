@@ -19,6 +19,7 @@
 - [On the Benefits of Over-parameterization for Out-of-Distribution Generalization](https://arxiv.org/pdf/2403.17592), Mar. 26 2024. `ood` `overparameterization`.
 - [Near-Interpolators: Rapid Norm Growth and the Trade-Off between Interpolation and Generalization](https://arxiv.org/pdf/2403.07264), Mar. 12 2024. `generalization theory`.
 - [On the Generalization Ability of Unsupervised Pretraining](https://arxiv.org/pdf/2403.06871), Mar. 11 2024.
+- [Are Logistic Models Really Interpretable?](https://arxiv.org/pdf/2406.13427), Jun. 19 2024. `interpretability`.
 
 ### LLMs related
 
@@ -94,5 +95,10 @@
 - [AutoEval Done Right: Using Synthetic Data for Model Evaluation](https://arxiv.org/pdf/2403.07008), May 28 2024.
 - [Approaching Human-Level Forecasting with Language Models](https://arxiv.org/pdf/2402.18563), Feb. 28 2024.
 - [Can LLMs Separate Instructions From Data? And What Do We Even Mean By That?](https://arxiv.org/pdf/2403.06833), Jun. 3 2024.
+- [Data-Centric AI in the Age of Large Language Models](https://arxiv.org/pdf/2406.14473), Jun. 20 2024. `data-centric`.
+- [Investigating the Pre-Training Dynamics of In-Context Learning: Task Recognition vs. Task Learning](https://arxiv.org/pdf/2406.14022), Jun. 20 2024. `learning dynamics`.
+- [Estimating Knowledge in Large Language Models Without Generating a Single Token](https://arxiv.org/pdf/2406.12673), Jun. 18 2024.
+- [FolkScope: Intention Knowledge Graph Construction for E-commerce Commonsense Discovery](https://arxiv.org/pdf/2211.08316), May 11 2023.
+- [EasyInstruct: An Easy-to-use Instruction Processing Framework for Large Language Models](https://arxiv.org/pdf/2402.03049), Mar. 21 2024.
 
 
