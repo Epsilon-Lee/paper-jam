@@ -36,6 +36,7 @@
 - [Data Shapley in One Training Run](https://arxiv.org/pdf/2406.11011), Jun. 19 2024. `data selection`.
 - [Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling](https://arxiv.org/pdf/2401.16380), Jan. 29 2024. `data curation`.
 - [Automated Data Curation for Robust Language Model Fine-Tuning](https://arxiv.org/pdf/2403.12776), Mar. 19 2024.
+- [AutoPureData: Automated Filtering of Web Data for LLM Fine-tuning](https://arxiv.org/abs/2406.19271), Jun. 27 2024. `data filtering`. [code](https://github.com/Pro-GenAI/AutoPureData).
 
 ### Alignment
 
