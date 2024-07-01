@@ -20,6 +20,10 @@
 - [Near-Interpolators: Rapid Norm Growth and the Trade-Off between Interpolation and Generalization](https://arxiv.org/pdf/2403.07264), Mar. 12 2024. `generalization theory`.
 - [On the Generalization Ability of Unsupervised Pretraining](https://arxiv.org/pdf/2403.06871), Mar. 11 2024.
 - [Are Logistic Models Really Interpretable?](https://arxiv.org/pdf/2406.13427), Jun. 19 2024. `interpretability`.
+- [Optimal synthesis embeddings](https://arxiv.org/pdf/2406.10259), Jun. 10 2024.
+- [Transcendence: Generative Models Can Outperform The Experts That Train Them](https://arxiv.org/pdf/2406.11741), Jun. 28 2024.
+- [A Label is Worth a Thousand Images in Dataset Distillation](https://arxiv.org/pdf/2406.10485), Jun. 15 2024. `dataset distillation`.
+- [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/pdf/2406.08929), Jun. 23 2024.
 
 ### LLMs related
 
@@ -100,5 +104,6 @@
 - [Estimating Knowledge in Large Language Models Without Generating a Single Token](https://arxiv.org/pdf/2406.12673), Jun. 18 2024.
 - [FolkScope: Intention Knowledge Graph Construction for E-commerce Commonsense Discovery](https://arxiv.org/pdf/2211.08316), May 11 2023.
 - [EasyInstruct: An Easy-to-use Instruction Processing Framework for Large Language Models](https://arxiv.org/pdf/2402.03049), Mar. 21 2024.
+- [Exploring the Impact of a Transformer’s Latent Space Geometry on Downstream Task Performance](https://arxiv.org/pdf/2406.12159), Jun. 18 2024.
 
 
