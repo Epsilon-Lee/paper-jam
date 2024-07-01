@@ -1,4 +1,27 @@
 
+### Others
+
+- [Binning as a Pretext Task: Improving Self-Supervised Learning in Tabular Domains](https://arxiv.org/pdf/2405.07414), May 13 2024.
+- [ImageNot: A contrast with ImageNet preserves model rankings](https://arxiv.org/pdf/2404.02112), Apr. 2 2024.
+- [Training Data Attribution via Approximate Unrolled Differentation](https://arxiv.org/pdf/2405.12186), May 21 2024.
+- [Selective Explanations](https://arxiv.org/pdf/2405.19562), May 29 2024. `interpretability`.
+- [Local vs. Global Interpretability:A Computational Complexity Perspective](https://arxiv.org/pdf/2406.02981), Jun. 5 2024. `interpretability`.
+- [Feature Contamination: Neural Networks Learn Uncorrelated Features and Fail to Generalize](https://arxiv.org/pdf/2406.03345), Jun. 5 2024. `ood generalization`.
+  - _"understanding of fundamental difficulty of ood generalization"_
+- [Beyond Discrepancy: A Closer Look at the Theory of Distribution Shift](https://arxiv.org/pdf/2405.19156), May 29 2024. `ood`.
+- [Quantifying Task Priority for Multi-Task Optimization](https://arxiv.org/pdf/2406.02996), Jun. 5 2024. `mtl`.
+- [Investigating the Impact of Model Instability on Explanations and Uncertainty](https://arxiv.org/pdf/2402.13006), Jun. 4 2024. `interpretability`.
+- [Guarantee Regions for Local Explanations](https://arxiv.org/pdf/2402.12737), Feb. 20 2024.
+- [Failures and Successes of Cross-Validation for Early-Stopped Gradient Descent](https://arxiv.org/pdf/2402.16793), Feb. 26 2024. `generealization theory`.
+- [When does compositional structure yield compositional generalization? A kernel theory.](https://arxiv.org/pdf/2405.16391), May 26 2024. `compositionality theory`.
+- [From Neurons to Neutrons: A Case Study in Interpretability](https://arxiv.org/pdf/2405.17425), May 27 2024. `mechanistic interpretability`.
+- [Explaining Explainability: Understanding Concept Activation Vectors](https://arxiv.org/pdf/2404.03713), Apr. 4 2024. `interpretability`.
+- [On the Benefits of Over-parameterization for Out-of-Distribution Generalization](https://arxiv.org/pdf/2403.17592), Mar. 26 2024. `ood` `overparameterization`.
+- [Near-Interpolators: Rapid Norm Growth and the Trade-Off between Interpolation and Generalization](https://arxiv.org/pdf/2403.07264), Mar. 12 2024. `generalization theory`.
+- [On the Generalization Ability of Unsupervised Pretraining](https://arxiv.org/pdf/2403.06871), Mar. 11 2024.
+
+### LLMs related
+
 - [WILDCHAT: 1M CHATGPT INTERACTION LOGS IN THE WILD](https://arxiv.org/pdf/2405.01470), May 2 2024.
   - It is interesting to know the data distribution of queries to ChatGPT.
 - [Why Has Predicting Downstream Capabilities of Frontier AI Models with Scale Remained Elusive?](https://arxiv.org/pdf/2406.04391), Jun. 6 2024. `scaling law`.
@@ -61,7 +84,15 @@
 - [InternLM-Law: An Open Source Chinese Legal Large Language Model](https://arxiv.org/pdf/2406.14887), Jun. 21 2024. `domain llms` `post-training`.
 - [On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey](https://arxiv.org/pdf/2406.15126), Jun. 14 2024. `data synthesis`.
 - [The Impact of Initialization on LoRA Finetuning Dynamics](https://arxiv.org/pdf/2406.08447), Jun. 12 2024. `lora`.
-
-
+- [Can language model explain their own classification behavior?](https://arxiv.org/pdf/2405.07436), May 13 2024.
+- [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221), Jul. 11 2022.
+- [xVal: A Continuous Number Encoding for Large Language Models](https://arxiv.org/abs/2310.02989), Oct. 4 2023.
+- [Memory Mosaics](https://arxiv.org/pdf/2405.06394), May 10 2024.
+- [Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data](https://arxiv.org/pdf/2404.01413), Apr. 29 2024. `synthetic data`.
+  - _"accumulating the successive generations of synthetic data alongside the original data avoids model collapse"_
+- [An Introduction to Vision-Language Modeling](https://arxiv.org/pdf/2405.17247), May 27 2024. `tutorial`.
+- [AutoEval Done Right: Using Synthetic Data for Model Evaluation](https://arxiv.org/pdf/2403.07008), May 28 2024.
+- [Approaching Human-Level Forecasting with Language Models](https://arxiv.org/pdf/2402.18563), Feb. 28 2024.
+- [Can LLMs Separate Instructions From Data? And What Do We Even Mean By That?](https://arxiv.org/pdf/2403.06833), Jun. 3 2024.
 
 
