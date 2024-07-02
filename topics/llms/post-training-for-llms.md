@@ -68,6 +68,8 @@
 - [Self-Exploring Language Models: Active Preference Elicitation for Online Alignment](https://arxiv.org/pdf/2405.19332), May 29 2024.
 - [Steering without side effects: Improving post-deployment control of language models](https://arxiv.org/pdf/2406.15518), Jun. 21 2024.
 - [Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback](https://arxiv.org/pdf/2406.09279), Jun. 13 2024.
+- [Model Alignment as Prospect Theoretic Optimization](https://openreview.net/pdf?id=iUwHnoENnl), ICML 2024.
+- [It Takes Two: On the Seamlessness between Reward and Policy Model in RLHF](https://arxiv.org/abs/2406.07971), Jul. 24 2024.
 
 
 
