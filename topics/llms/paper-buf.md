@@ -24,6 +24,7 @@
 - [Transcendence: Generative Models Can Outperform The Experts That Train Them](https://arxiv.org/pdf/2406.11741), Jun. 28 2024.
 - [A Label is Worth a Thousand Images in Dataset Distillation](https://arxiv.org/pdf/2406.10485), Jun. 15 2024. `dataset distillation`.
 - [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/pdf/2406.08929), Jun. 23 2024.
+- [I Bet You Did Not Mean That: Testing Semantic Importance via Betting](https://arxiv.org/pdf/2405.19146), May 29 2024. `interpretability`.
 
 ### LLMs related
 
@@ -105,5 +106,20 @@
 - [FolkScope: Intention Knowledge Graph Construction for E-commerce Commonsense Discovery](https://arxiv.org/pdf/2211.08316), May 11 2023.
 - [EasyInstruct: An Easy-to-use Instruction Processing Framework for Large Language Models](https://arxiv.org/pdf/2402.03049), Mar. 21 2024.
 - [Exploring the Impact of a Transformer’s Latent Space Geometry on Downstream Task Performance](https://arxiv.org/pdf/2406.12159), Jun. 18 2024.
+- [Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization](https://arxiv.org/pdf/2405.15071), May 27 2024. `mechanistic interpretability`.
+- [Empirical influence functions to understand the logic of fine-tuning](https://arxiv.org/pdf/2406.00509), Jun. 1 2024. `influence function` and `post-training`.
+- [Transcoders Find Interpretable LLM Feature Circuits](https://arxiv.org/pdf/2406.11944), Jun. 17 2024. `mechanistic interpretability`.
+- [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](https://arxiv.org/abs/2312.09979), Dec. 15 2023. `knowledge forgetting`.
+- [Understanding Finetuning for Factual Knowledge Extraction](https://arxiv.org/abs/2406.14785), Jun. 20 2024. [tweet](https://x.com/gaurav_ghosal/status/1806365312620589496). `post-training` `knowledge forgetting`.
+- [Theoretical Analysis of Weak-to-Strong Generalization](https://arxiv.org/pdf/2405.16043), May 25 2024.
+- [ReLU2 Wins: Discovering Efficient Activation Functions for Sparse LLMs](https://arxiv.org/abs/2402.03804), Feb. 6 2024.
+- [Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/pdf/2406.04692), Jun. 7 2024. `agent`.
+- [TextGrad: Automatic "Differentiation" via Text](https://arxiv.org/abs/2406.07496), Jun. 11 2024. `agent`.
+- [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608), Jun. 6 2024. `prompting`.
+- [An Empirical Study of Catastrophic Forgetting in Large Language Models During Continual Fine-tuning](https://arxiv.org/abs/2308.08747), Aug. 17 2023. `post-training`.
+- [WARP: On the Benefits of Weight Averaged Rewarded Policies](https://arxiv.org/abs/2406.16768), Jun. 24 2024. [tweet](https://x.com/ramealexandre/status/1805525340699185493). `post-training`.
+- [RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold](https://arxiv.org/pdf/2406.14532), Jun. 20 2024. `post-training`.
+- [Probing the Decision Boundaries of In-context Learning in Large Language Models](https://arxiv.org/pdf/2406.11233), Jun. 17 2024. [tweet](https://x.com/siyan_zhao/status/1805277462890492321). `interpretability`.
+- [Analyzing & Eliminating Learning Rate Warmup in GPT Pre-Training](https://openreview.net/pdf?id=RveSp5oESA), 2024. `learning dynamics`.
 
 
