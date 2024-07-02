@@ -84,7 +84,6 @@
 - [CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society](https://arxiv.org/pdf/2303.17760), Nov. 2 2023. `multi-agent`.
 - [Connecting the Dots: LLMs can Infer and VerbalizeLatent Structure from Disparate Training Data](https://arxiv.org/pdf/2406.14546), Jun. 20 2024. `post-training`.
 - [Dataverse: Open-Source ETL (Extract, Transform, Load) Pipeline for Large Language Models](https://arxiv.org/pdf/2403.19340), Mar. 28 2024. `data pipeline`.
-- [Understanding Finetuning for Factual Knowledge Extraction](https://arxiv.org/pdf/2406.14785), Jun. 20 2024. `forgetting` `post-training`.
 - [Efficient Continual Pre-training by Mitigating the Stability Gap](https://arxiv.org/pdf/2406.14833), Jun. 21 2024. `post-training` `cpt`.
 - [Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation](https://arxiv.org/pdf/2402.18150v1), Feb. 28 2024. `post-training` `unsupervised` `rag`.
 - [InternLM-Law: An Open Source Chinese Legal Large Language Model](https://arxiv.org/pdf/2406.14887), Jun. 21 2024. `domain llms` `post-training`.
