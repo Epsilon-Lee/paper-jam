@@ -121,5 +121,5 @@
 - [RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold](https://arxiv.org/pdf/2406.14532), Jun. 20 2024. `post-training`.
 - [Probing the Decision Boundaries of In-context Learning in Large Language Models](https://arxiv.org/pdf/2406.11233), Jun. 17 2024. [tweet](https://x.com/siyan_zhao/status/1805277462890492321). `interpretability`.
 - [Analyzing & Eliminating Learning Rate Warmup in GPT Pre-Training](https://openreview.net/pdf?id=RveSp5oESA), 2024. `learning dynamics`.
-
-
+- [Triton Puzzles](https://github.com/srush/Triton-Puzzles), Triton tutorial.
+- [Machine learning and information theory concepts towards an AI mathematician](https://www.ams.org/journals/bull/2024-61-03/S0273-0979-2024-01839-4/S0273-0979-2024-01839-4.pdf), May 15 2024. `math reasoning`.
