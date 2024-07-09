@@ -122,3 +122,10 @@
 - [Analyzing & Eliminating Learning Rate Warmup in GPT Pre-Training](https://openreview.net/pdf?id=RveSp5oESA), 2024. `learning dynamics`.
 - [Triton Puzzles](https://github.com/srush/Triton-Puzzles), Triton tutorial.
 - [Machine learning and information theory concepts towards an AI mathematician](https://www.ams.org/journals/bull/2024-61-03/S0273-0979-2024-01839-4/S0273-0979-2024-01839-4.pdf), May 15 2024. `math reasoning`.
+- [Understanding catastrophic forgetting in language models via implicit inference](https://openreview.net/pdf?id=VrHiF2hsrm), ICLR 2024. `sft and forgetting`.
+  - _"We hypothesize that language models implicitly infer the task of the prompt and then fine-tuning skews this inference towards tasks in the fine-tuning distribution."_
+- [Scaling Laws for Forgetting When Fine-Tuning Large Language Models](https://arxiv.org/pdf/2401.05605v1), Jan. 11 2024. `forgetting`.
+
+
+
+
