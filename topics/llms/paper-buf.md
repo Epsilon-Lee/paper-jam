@@ -131,6 +131,8 @@
 - [Monitoring Latent World States in Language Models with Propositional Probes](https://arxiv.org/pdf/2406.19501), Jun. 27 2024.
 - [LoRA Learns Less and Forgets Less](https://arxiv.org/pdf/2405.09673v1), May 15 2024.
 - [How to Precisely Update Large Language Models Knowledge While Avoiding Catastrophic Forgetting](https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/667bb159c9c6a5c07a689cfa/original/how-to-precisely-update-large-language-models-knowledge-while-avoiding-catastrophic-forgetting.pdf), 2024.
+- [What makes good data for alignment? A comphrehensive study of automatic data selection in instruction tuning](https://arxiv.org/pdf/2312.15685), Apr. 16 2024.
+- [Instruction Mining: When Data Mining Meets Large Language Model Finetuning](https://arxiv.org/abs/2307.06290), COLM 2024.
 
 
 
