@@ -9,3 +9,8 @@
 - [Nemotron-4 340B Technical Report](https://d1qx31qr3h6wln.cloudfront.net/publications/Nemotron_4_340B_8T_0.pdf), Jun. 2024.
 - [ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools](https://arxiv.org/pdf/2406.12793), Jun. 18 2024.
 - [Gemma 2: Improving Open Language Models at a Practical Size](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf), Jun. 27 2024.
+
+
+### Domain LLMs
+
+- [InternLM-Law: An Open Source Chinese Legal Large Language Model](https://arxiv.org/pdf/2406.14887), Jun. 21 2024. `domain llms` `post-training`.
