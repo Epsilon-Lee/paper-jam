@@ -28,6 +28,7 @@
 
 ## LLMs related
 
+- [Position: Levels of AGI for Operationalizing Progress on the Path to AGI](https://openreview.net/pdf?id=0ofzEysK2D), ICML 2024.
 - [WILDCHAT: 1M CHATGPT INTERACTION LOGS IN THE WILD](https://arxiv.org/pdf/2405.01470), May 2 2024.
   - It is interesting to know the data distribution of queries to ChatGPT.
 - [Lessons from the Trenches on Reproducible Evaluation of Language Models](https://arxiv.org/abs/2405.14782), May 23 2024. `evaluation`.
@@ -38,8 +39,6 @@
 - [Large Scale Transfer Learning for Tabular Data via Language Modeling](https://arxiv.org/pdf/2406.12031), Jun. 2024. `tabular llm`.
 - [A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning](https://arxiv.org/pdf/2406.12255), Jun. 18 2024. `interpretability`.
 - [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/pdf/2406.11931), Jun. 17 2024. `tech report`.
-- [Measuring memorization in RLHF for code completion](https://arxiv.org/pdf/2406.11715), Jun. 17 2024.
-- [Position: Levels of AGI for Operationalizing Progress on the Path to AGI](https://openreview.net/pdf?id=0ofzEysK2D), ICML 2024.
 - [Infinite Limits of Multi-head Transformer Dynamics](https://arxiv.org/pdf/2405.15712), May 24 2024. `learning dynamics`.
 - [MLPs Learn In-Context](https://arxiv.org/pdf/2405.15618), May 24 2024. `icl`.
 - [What Variables Affect Out-Of-Distribution Generalization in Pretrained Models?](https://arxiv.org/pdf/2405.15018), May 23 2024.
@@ -63,9 +62,7 @@
 - [Theoretical Analysis of Weak-to-Strong Generalization](https://arxiv.org/pdf/2405.16043), May 25 2024.
 - [Scaling and evaluating sparse autoencoders](https://arxiv.org/pdf/2406.04093), Jun. 6 2024.
 - [Repurposing Language Models into Embedding Models: Finding the Compute-Optimal Recipe](https://arxiv.org/pdf/2406.04165), Jun. 6 2024. `llm for embedding`.
-- [Intrinsic Dimensionality Explains The Effectiveness of Language Model Fine-Tuning](https://arxiv.org/pdf/2012.13255), Dec. 22 2020.
 - [miniCodeProps: a Minimal Benchmark for Proving Code Properties](https://arxiv.org/pdf/2406.11915), Jun. 16 2024. `coding` `benchmark`.
-- [From Crowdsourced Data to High-Quality Benchmarks: Arena-Hard and BenchBuilder Pipeline](https://arxiv.org/pdf/2406.11939), Jun. 17 2024. `benchmark`.
 - [What Did I Do Wrong? Quantifying LLMs’ Sensitivity and Consistency to Prompt Engineering](https://arxiv.org/pdf/2406.12334), Jun. 18 2024. `prompt engineering`.
 - [QOG:Question and Options Generation based on Language Model](https://arxiv.org/pdf/2406.12381), Jun. 18 2024. `data synthesis`.
 - [CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society](https://arxiv.org/pdf/2303.17760), Nov. 2 2023. `multi-agent`.
@@ -77,25 +74,24 @@
 - [Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data](https://arxiv.org/pdf/2404.01413), Apr. 29 2024. `synthetic data`.
   - _"accumulating the successive generations of synthetic data alongside the original data avoids model collapse"_
 - [An Introduction to Vision-Language Modeling](https://arxiv.org/pdf/2405.17247), May 27 2024. `tutorial`.
-- [AutoEval Done Right: Using Synthetic Data for Model Evaluation](https://arxiv.org/pdf/2403.07008), May 28 2024.
 - [Approaching Human-Level Forecasting with Language Models](https://arxiv.org/pdf/2402.18563), Feb. 28 2024.
 - [Can LLMs Separate Instructions From Data? And What Do We Even Mean By That?](https://arxiv.org/pdf/2403.06833), Jun. 3 2024.
 - [Data-Centric AI in the Age of Large Language Models](https://arxiv.org/pdf/2406.14473), Jun. 20 2024. `data-centric`.
-- [Estimating Knowledge in Large Language Models Without Generating a Single Token](https://arxiv.org/pdf/2406.12673), Jun. 18 2024.
 - [FolkScope: Intention Knowledge Graph Construction for E-commerce Commonsense Discovery](https://arxiv.org/pdf/2211.08316), May 11 2023.
 - [EasyInstruct: An Easy-to-use Instruction Processing Framework for Large Language Models](https://arxiv.org/pdf/2402.03049), Mar. 21 2024.
 - [Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization](https://arxiv.org/pdf/2405.15071), May 27 2024. `mechanistic interpretability`.
 - [Theoretical Analysis of Weak-to-Strong Generalization](https://arxiv.org/pdf/2405.16043), May 25 2024.
 - [ReLU2 Wins: Discovering Efficient Activation Functions for Sparse LLMs](https://arxiv.org/abs/2402.03804), Feb. 6 2024.
-- [Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/pdf/2406.04692), Jun. 7 2024. `agent`.
-- [TextGrad: Automatic "Differentiation" via Text](https://arxiv.org/abs/2406.07496), Jun. 11 2024. `agent`.
-- [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608), Jun. 6 2024. `prompting`.
 - [Machine learning and information theory concepts towards an AI mathematician](https://www.ams.org/journals/bull/2024-61-03/S0273-0979-2024-01839-4/S0273-0979-2024-01839-4.pdf), May 15 2024. `math reasoning`.
 - [Monitoring Latent World States in Language Models with Propositional Probes](https://arxiv.org/pdf/2406.19501), Jun. 27 2024.
-- [Can LLMs Learn by Teaching? A Preliminary Study](https://arxiv.org/pdf/2406.14629), Jun. 20 2024.
 - [End-To-End Causal Effect Estimation from Unstructured Natural Language Data](https://arxiv.org/pdf/2407.07018), Jul. 9 2024. `causal inference x llms`.
 - [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](https://arxiv.org/pdf/2407.04620), Jul. 5 2024. `architectural inductive bias`.
 - [How Does Quantization Affect Multilingual LLMs?](https://arxiv.org/pdf/2407.03211), Jul. 3 2024. `quantization`.
+
+### Prompting techniques
+
+- [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608), Jun. 6 2024. `prompting`.
+
 
 ### LLMs for traditional nlp tasks
 
@@ -106,9 +102,6 @@
 
 - [Fitting larger networks into memory](https://medium.com/tensorflow/fitting-larger-networks-into-memory-583e3c758ff9), Jan. 14 2018. `gradient checkpointing`. [github](https://github.com/cybertronai/gradient-checkpointing). [pytorch](https://github.com/prigoyal/pytorch_memonger/blob/master/tutorial/Checkpointing_for_PyTorch_models.ipynb).
 - [Triton Puzzles](https://github.com/srush/Triton-Puzzles), Triton tutorial.
-- [Probing the Decision Boundaries of In-context Learning in Large Language Models](https://arxiv.org/pdf/2406.11233), Jun. 17 2024. [tweet](https://x.com/siyan_zhao/status/1805277462890492321). `interpretability`.
-- [Token Erasure as a Footprint of Implicit Vocabulary Items in LLMs](https://arxiv.org/pdf/2406.20086), Jun. 28 2024. [code](https://footprints.baulab.info/). `mechanistic interpretability`.
-- [Transcoders Find Interpretable LLM Feature Circuits](https://arxiv.org/pdf/2406.11944), Jun. 17 2024. `mechanistic interpretability`.
 - [Flora: Low-Rank Adapters Are Secretly Gradient Compressors](https://arxiv.org/abs/2402.03293), Feb. 5 2024. `efficient training`. [github](https://github.com/BorealisAI/flora-opt). [blogpost](https://www.borealisai.com/research-blogs/pre-training-multi-billion-parameter-llms-on-a-single-gpu-with-flora/#Incorporating_FLORA_into_your_code).
 
 ### Interpretability
@@ -116,9 +109,14 @@
 - [Exploring the Impact of a Transformer’s Latent Space Geometry on Downstream Task Performance](https://arxiv.org/pdf/2406.12159), Jun. 18 2024.
 - [Pre-trained Large Language Models Use Fourier Features to Compute Addition](https://arxiv.org/pdf/2406.03445), Jun. 5 2024. `mechanistic interpretability`.
 - [Compact Proofs of Model Performance via Mechanistic Interpretability](https://arxiv.org/pdf/2406.11779), Jun. 17 2024. `mechanistic interpretability`.
+- [Probing the Decision Boundaries of In-context Learning in Large Language Models](https://arxiv.org/pdf/2406.11233), Jun. 17 2024. [tweet](https://x.com/siyan_zhao/status/1805277462890492321). `interpretability`.
+- [Token Erasure as a Footprint of Implicit Vocabulary Items in LLMs](https://arxiv.org/pdf/2406.20086), Jun. 28 2024. [code](https://footprints.baulab.info/). `mechanistic interpretability`.
+- [Transcoders Find Interpretable LLM Feature Circuits](https://arxiv.org/pdf/2406.11944), Jun. 17 2024. `mechanistic interpretability`.
+- [Estimating Knowledge in Large Language Models Without Generating a Single Token](https://arxiv.org/pdf/2406.12673), Jun. 18 2024.
 
 ### Pre-training
 
+- [Analyzing & Eliminating Learning Rate Warmup in GPT Pre-Training](https://openreview.net/pdf?id=RveSp5oESA), 2024. `learning dynamics`.
 - [Training Trajectories of Language Models Across Scales](https://arxiv.org/pdf/2212.09803), May 30 2023. `training dynamics`.
 - [Local to Global: Learning Dynamics and Effect of Initialization for Transformers](https://arxiv.org/pdf/2406.03072), Jun. 5 2024. `training dynamics`.
 - [Investigating the Pre-Training Dynamics of In-Context Learning: Task Recognition vs. Task Learning](https://arxiv.org/pdf/2406.14022), Jun. 20 2024. `learning dynamics`.
@@ -129,34 +127,51 @@
 
 ### Post-training, preference alignment, model editing
 
-- [Analyzing & Eliminating Learning Rate Warmup in GPT Pre-Training](https://openreview.net/pdf?id=RveSp5oESA), 2024. `learning dynamics`.
-- [LoRA Learns Less and Forgets Less](https://arxiv.org/pdf/2405.09673v1), May 15 2024.
-- [How to Precisely Update Large Language Models Knowledge While Avoiding Catastrophic Forgetting](https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/667bb159c9c6a5c07a689cfa/original/how-to-precisely-update-large-language-models-knowledge-while-avoiding-catastrophic-forgetting.pdf), 2024.
-- [Understanding Finetuning for Factual Knowledge Extraction](https://arxiv.org/abs/2406.14785), Jun. 20 2024. [tweet](https://x.com/gaurav_ghosal/status/1806365312620589496). `post-training` `knowledge forgetting`.
-- [The Impact of Initialization on LoRA Finetuning Dynamics](https://arxiv.org/pdf/2406.08447), Jun. 12 2024. `lora`.
-- [An Empirical Study of Catastrophic Forgetting in Large Language Models During Continual Fine-tuning](https://arxiv.org/abs/2308.08747), Aug. 17 2023. `post-training`.
+- [Intrinsic Dimensionality Explains The Effectiveness of Language Model Fine-Tuning](https://arxiv.org/pdf/2012.13255), Dec. 22 2020.
 - [Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation](https://arxiv.org/pdf/2406.20053), Jun. 28 2024. `post-training`.
-- [Empirical influence functions to understand the logic of fine-tuning](https://arxiv.org/pdf/2406.00509), Jun. 1 2024. `influence function` and `post-training`.
-- [Understanding catastrophic forgetting in language models via implicit inference](https://openreview.net/pdf?id=VrHiF2hsrm), ICLR 2024. `sft and forgetting`.
-  - _"We hypothesize that language models implicitly infer the task of the prompt and then fine-tuning skews this inference towards tasks in the fine-tuning distribution."_
 - [Connecting the Dots: LLMs can Infer and VerbalizeLatent Structure from Disparate Training Data](https://arxiv.org/pdf/2406.14546), Jun. 20 2024. `post-training`.
-- [Studying Large Language Model Behaviors Under Realistic Knowledge Conflicts](https://arxiv.org/pdf/2404.16032), Apr. 24 2024. `knowledge`.
-- [Scaling Laws for Reward Model Overoptimization in Direct Alignment Algorithms](https://arxiv.org/pdf/2406.02900), Jun. 5 2024. `scaling law` `post-training`.
-- [Scaling Laws for Forgetting When Fine-Tuning Large Language Models](https://arxiv.org/pdf/2401.05605v1), Jan. 11 2024. `forgetting`.
-- [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](https://arxiv.org/abs/2312.09979), Dec. 15 2023. `knowledge forgetting`.
-- [Efficient Continual Pre-training by Mitigating the Stability Gap](https://arxiv.org/pdf/2406.14833), Jun. 21 2024. `post-training` `cpt`.
-- [WARP: On the Benefits of Weight Averaged Rewarded Policies](https://arxiv.org/abs/2406.16768), Jun. 24 2024. [tweet](https://x.com/ramealexandre/status/1805525340699185493). `post-training`.
-- [RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold](https://arxiv.org/pdf/2406.14532), Jun. 20 2024. `post-training`.
-- [Measuring memorization in RLHF for code completion](https://arxiv.org/pdf/2406.11715), Jun. 17 2024.
-- [Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation](https://arxiv.org/pdf/2402.18150v1), Feb. 28 2024. `post-training` `unsupervised` `rag`.
-- [Fundamental Problems With Model Editing: How Should Rational Belief Revision Work in LLMs?](https://arxiv.org/pdf/2406.19354), Jun. 27 2024. `model editing`.
-- [Domain Adaptation of Llama3-70B-Instruct through Continual Pre-Training and Model Merging: A Comprehensive Evaluation](https://arxiv.org/pdf/2406.14971), Jun. 21 2024. `continual pre-training`.
-- [Gradient-Mask Tuning Elevates the Upper Limits of LLM Performance](https://arxiv.org/pdf/2406.15330), Jun. 21 2024. `other post-training method`.
 - [Exploring Design Choices for Building Language-Specific LLMs](https://arxiv.org/pdf/2406.14670), Jun. 20 2024. `post-training for multilinguality`.
 - [70B-parameter large language models in Japanese medical question-answering](https://arxiv.org/pdf/2406.14882), Jun. 21 2024. `post-training prompt design`.
 - [Towards Understanding Multi-Task Learning (Generalization) of LLMs via Detecting and Exploring Task-Specific Neurons](https://arxiv.org/pdf/2407.06488), Jul. 9 2024. `task-specific subnet in llms`.
 - [Raw Text is All you Need: Knowledge-intensive Multi-turn Instruction Tuning for Large Language Model](https://arxiv.org/pdf/2407.03040), Jul. 3 2024. `dialogue data curation`.
 - [Enhancing Translation Accuracy of Large Language Models through Continual Pre-Training on Parallel Data](https://arxiv.org/pdf/2407.03145), Jul. 3 2024. `post-training for mt`.
+
+#### RAG
+
+- [Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation](https://arxiv.org/pdf/2402.18150v1), Feb. 28 2024. `post-training` `unsupervised` `rag`.
+
+#### Continual learning (cpt, cft)
+
+- [Domain Adaptation of Llama3-70B-Instruct through Continual Pre-Training and Model Merging: A Comprehensive Evaluation](https://arxiv.org/pdf/2406.14971), Jun. 21 2024. `continual pre-training`.
+- [Understanding catastrophic forgetting in language models via implicit inference](https://openreview.net/pdf?id=VrHiF2hsrm), ICLR 2024. `sft and forgetting`.
+  - _"We hypothesize that language models implicitly infer the task of the prompt and then fine-tuning skews this inference towards tasks in the fine-tuning distribution."_
+- [Empirical influence functions to understand the logic of fine-tuning](https://arxiv.org/pdf/2406.00509), Jun. 1 2024. `influence function` and `post-training`.
+- [An Empirical Study of Catastrophic Forgetting in Large Language Models During Continual Fine-tuning](https://arxiv.org/abs/2308.08747), Aug. 17 2023. `post-training`.
+- [Scaling Laws for Forgetting When Fine-Tuning Large Language Models](https://arxiv.org/pdf/2401.05605v1), Jan. 11 2024. `forgetting`.
+- [Efficient Continual Pre-training by Mitigating the Stability Gap](https://arxiv.org/pdf/2406.14833), Jun. 21 2024. `post-training` `cpt`.
+- [Gradient-Mask Tuning Elevates the Upper Limits of LLM Performance](https://arxiv.org/pdf/2406.15330), Jun. 21 2024. `other post-training method`.
+- [Can LLMs Learn by Teaching? A Preliminary Study](https://arxiv.org/pdf/2406.14629), Jun. 20 2024.
+
+#### Peft
+
+- [LoRA Learns Less and Forgets Less](https://arxiv.org/pdf/2405.09673v1), May 15 2024.
+- [The Impact of Initialization on LoRA Finetuning Dynamics](https://arxiv.org/pdf/2406.08447), Jun. 12 2024. `lora`.
+- [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](https://arxiv.org/abs/2312.09979), Dec. 15 2023. `knowledge forgetting`.
+
+#### Knowledge updating, model editing
+
+- [Fundamental Problems With Model Editing: How Should Rational Belief Revision Work in LLMs?](https://arxiv.org/pdf/2406.19354), Jun. 27 2024. `model editing`.
+- [Studying Large Language Model Behaviors Under Realistic Knowledge Conflicts](https://arxiv.org/pdf/2404.16032), Apr. 24 2024. `knowledge`.
+- [Understanding Finetuning for Factual Knowledge Extraction](https://arxiv.org/abs/2406.14785), Jun. 20 2024. [tweet](https://x.com/gaurav_ghosal/status/1806365312620589496). `post-training` `knowledge forgetting`.
+- [How to Precisely Update Large Language Models Knowledge While Avoiding Catastrophic Forgetting](https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/667bb159c9c6a5c07a689cfa/original/how-to-precisely-update-large-language-models-knowledge-while-avoiding-catastrophic-forgetting.pdf), 2024.
+
+#### Preference alignment, reward model
+
+- [RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold](https://arxiv.org/pdf/2406.14532), Jun. 20 2024. `post-training`.
+- [Measuring memorization in RLHF for code completion](https://arxiv.org/pdf/2406.11715), Jun. 17 2024.
+- [WARP: On the Benefits of Weight Averaged Rewarded Policies](https://arxiv.org/abs/2406.16768), Jun. 24 2024. [tweet](https://x.com/ramealexandre/status/1805525340699185493). `post-training`.
+- [Scaling Laws for Reward Model Overoptimization in Direct Alignment Algorithms](https://arxiv.org/pdf/2406.02900), Jun. 5 2024. `scaling law` `post-training`.
+- [New Desiderata for Direct Preference Optimization](https://arxiv.org/pdf/2407.09072), Jul. 12 2024.
 
 ### Scaling laws
 
@@ -183,6 +198,17 @@
 
 ### Evaluation
 
+- [From Crowdsourced Data to High-Quality Benchmarks: Arena-Hard and BenchBuilder Pipeline](https://arxiv.org/pdf/2406.11939), Jun. 17 2024. `benchmark`.
 - [Unveiling the Spectrum of Data Contamination in Language Models: A Survey from Detection to Remediation](https://arxiv.org/pdf/2406.14644), Jun. 20 2024.
 - [Training on the Test Task Confounds Evaluation and Emergence](https://arxiv.org/pdf/2407.07890), Jul. 10 2024.
   - _"We argue that the seeming superriority of one model family over another may be explained by a different degree of training on the test task."_
+- [AutoEval Done Right: Using Synthetic Data for Model Evaluation](https://arxiv.org/pdf/2403.07008), May 28 2024.
+
+### Agent
+
+- [Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/pdf/2406.04692), Jun. 7 2024. `agent`.
+- [TextGrad: Automatic "Differentiation" via Text](https://arxiv.org/abs/2406.07496), Jun. 11 2024. `agent`.
+
+
+
+
