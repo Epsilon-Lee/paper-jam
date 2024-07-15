@@ -97,6 +97,11 @@
 - [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](https://arxiv.org/pdf/2407.04620), Jul. 5 2024. `architectural inductive bias`.
 - [How Does Quantization Affect Multilingual LLMs?](https://arxiv.org/pdf/2407.03211), Jul. 3 2024. `quantization`.
 
+### LLMs for traditional nlp tasks
+
+- [Is ChatGPT a Good Sentiment Analyzer? A Preliminary Study](https://arxiv.org/pdf/2304.04339), Feb. 17 2024.
+- [Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT](https://arxiv.org/pdf/2302.10198), Mar. 2 2023.
+
 ### Training and inference efficiency
 
 - [Fitting larger networks into memory](https://medium.com/tensorflow/fitting-larger-networks-into-memory-583e3c758ff9), Jan. 14 2018. `gradient checkpointing`. [github](https://github.com/cybertronai/gradient-checkpointing). [pytorch](https://github.com/prigoyal/pytorch_memonger/blob/master/tutorial/Checkpointing_for_PyTorch_models.ipynb).
