@@ -151,6 +151,7 @@
 - [Efficient Continual Pre-training by Mitigating the Stability Gap](https://arxiv.org/pdf/2406.14833), Jun. 21 2024. `post-training` `cpt`.
 - [Gradient-Mask Tuning Elevates the Upper Limits of LLM Performance](https://arxiv.org/pdf/2406.15330), Jun. 21 2024. `other post-training method`.
 - [Can LLMs Learn by Teaching? A Preliminary Study](https://arxiv.org/pdf/2406.14629), Jun. 20 2024.
+- [Skywork-Math: Data Scaling Laws for Mathematical Reasoning in Large Language Models — The Story Goes On](https://arxiv.org/pdf/2407.08348), Jul. 11 2024.
 
 #### Peft
 
@@ -164,6 +165,7 @@
 - [Studying Large Language Model Behaviors Under Realistic Knowledge Conflicts](https://arxiv.org/pdf/2404.16032), Apr. 24 2024. `knowledge`.
 - [Understanding Finetuning for Factual Knowledge Extraction](https://arxiv.org/abs/2406.14785), Jun. 20 2024. [tweet](https://x.com/gaurav_ghosal/status/1806365312620589496). `post-training` `knowledge forgetting`.
 - [How to Precisely Update Large Language Models Knowledge While Avoiding Catastrophic Forgetting](https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/667bb159c9c6a5c07a689cfa/original/how-to-precisely-update-large-language-models-knowledge-while-avoiding-catastrophic-forgetting.pdf), 2024.
+- [Knowledge Overshadowing Causes Amalgamated Hallucination in Large Language Models](https://arxiv.org/pdf/2407.08039), Jul. 10 2024. `hallucination`.
 
 #### Preference alignment, reward model
 
