@@ -209,7 +209,6 @@
 
 - [Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/pdf/2406.04692), Jun. 7 2024. `agent`.
 - [TextGrad: Automatic "Differentiation" via Text](https://arxiv.org/abs/2406.07496), Jun. 11 2024. `agent`.
-
-
+- [Internet of agents: Weaving a web of heterogeneous agents for collaborative intelligence](https://arxiv.org/pdf/2407.07061), Jul. 10 2024.
 
 
