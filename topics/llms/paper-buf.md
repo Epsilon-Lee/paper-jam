@@ -94,6 +94,8 @@
 - [Monitoring Latent World States in Language Models with Propositional Probes](https://arxiv.org/pdf/2406.19501), Jun. 27 2024.
 - [Can LLMs Learn by Teaching? A Preliminary Study](https://arxiv.org/pdf/2406.14629), Jun. 20 2024.
 - [End-To-End Causal Effect Estimation from Unstructured Natural Language Data](https://arxiv.org/pdf/2407.07018), Jul. 9 2024. `causal inference x llms`.
+- [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](https://arxiv.org/pdf/2407.04620), Jul. 5 2024. `architectural inductive bias`.
+- [How Does Quantization Affect Multilingual LLMs?](https://arxiv.org/pdf/2407.03211), Jul. 3 2024. `quantization`.
 
 ### Training and inference efficiency
 
@@ -148,6 +150,8 @@
 - [Exploring Design Choices for Building Language-Specific LLMs](https://arxiv.org/pdf/2406.14670), Jun. 20 2024. `post-training for multilinguality`.
 - [70B-parameter large language models in Japanese medical question-answering](https://arxiv.org/pdf/2406.14882), Jun. 21 2024. `post-training prompt design`.
 - [Towards Understanding Multi-Task Learning (Generalization) of LLMs via Detecting and Exploring Task-Specific Neurons](https://arxiv.org/pdf/2407.06488), Jul. 9 2024. `task-specific subnet in llms`.
+- [Raw Text is All you Need: Knowledge-intensive Multi-turn Instruction Tuning for Large Language Model](https://arxiv.org/pdf/2407.03040), Jul. 3 2024. `dialogue data curation`.
+- [Enhancing Translation Accuracy of Large Language Models through Continual Pre-Training on Parallel Data](https://arxiv.org/pdf/2407.03145), Jul. 3 2024. `post-training for mt`.
 
 ### Scaling laws
 
