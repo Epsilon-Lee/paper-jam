@@ -100,7 +100,6 @@
 - [Token Erasure as a Footprint of Implicit Vocabulary Items in LLMs](https://arxiv.org/pdf/2406.20086), Jun. 28 2024. [code](https://footprints.baulab.info/). `mechanistic interpretability`.
 - [Transcoders Find Interpretable LLM Feature Circuits](https://arxiv.org/pdf/2406.11944), Jun. 17 2024. `mechanistic interpretability`.
 
-
 ### Interpretability
 
 - [Exploring the Impact of a Transformer’s Latent Space Geometry on Downstream Task Performance](https://arxiv.org/pdf/2406.12159), Jun. 18 2024.
@@ -142,8 +141,17 @@
 
 ### Scaling laws
 
+- [Predicting emergent abilities with infinite resolution evaluation](https://arxiv.org/pdf/2310.03262), Apr. 17 2024.
 - [Why Has Predicting Downstream Capabilities of Frontier AI Models with Scale Remained Elusive?](https://arxiv.org/pdf/2406.04391), Jun. 6 2024. `scaling law`.
+- [Will we run out of data? Limits of LLM scaling based on human-generated data](https://arxiv.org/pdf/2211.04325), Jun. 4 2024.
 - [Position: Will we run out of data? Limits of LLM scaling based on human-generated data](https://openreview.net/pdf?id=ViZcgDQjyG), ICML 2024. `scaling law`.
+
+#### FLOPS
+
+- [First-principles on AI scaling](https://dynomight.net/scaling/), Jul. 2023.
+- [Transformer Inference Arithmetic](https://kipp.ly/transformer-inference-arithmetic/), Mar. 30 2022.
+- [The FLOPs Calculus of Language Model Training](https://medium.com/@dzmitrybahdanau/the-flops-calculus-of-language-model-training-3b19c1f025e4), Jan. 10 2022.
+- [Transformer FLOPs](https://www.adamcasson.com/posts/transformer-flops), May 16 2023.
 
 ### Data curation
 
@@ -153,4 +161,8 @@
   - _"we categorize the most widely used data source, web crawl snapshots, across the attributes of toxicity, quality, type of speech, and domain [...] we show how such attribute information can be used to further refine and improve the quality of a pretraining set"_
 - [On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey](https://arxiv.org/pdf/2406.15126), Jun. 14 2024. `data synthesis`.
 
+### Evaluation
+
+- [Training on the Test Task Confounds Evaluation and Emergence](https://arxiv.org/pdf/2407.07890), Jul. 10 2024.
+  - _"We argue that the seeming superriority of one model family over another may be explained by a different degree of training on the test task."_
 
