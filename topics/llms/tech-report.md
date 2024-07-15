@@ -9,6 +9,7 @@
 - [ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools](https://arxiv.org/pdf/2406.12793), Jun. 18 2024.
 - [Gemma 2: Improving Open Language Models at a Practical Size](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf), Jun. 27 2024.
 - [H2O-Danube3 Technical Report](https://arxiv.org/pdf/2407.09276), Jul. 12 2024.
+- [LokiLM: Technical Report](https://arxiv.org/abs/2407.07370), Jul. 10 2024.
 
 ### Domain LLMs
 
