@@ -203,6 +203,7 @@
 - [Training on the Test Task Confounds Evaluation and Emergence](https://arxiv.org/pdf/2407.07890), Jul. 10 2024.
   - _"We argue that the seeming superriority of one model family over another may be explained by a different degree of training on the test task."_
 - [AutoEval Done Right: Using Synthetic Data for Model Evaluation](https://arxiv.org/pdf/2403.07008), May 28 2024.
+- [Accuracy is not all you need](https://arxiv.org/pdf/2407.09141), Jul. 12 2024.
 
 ### Agent
 
