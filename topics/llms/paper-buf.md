@@ -92,13 +92,17 @@
 - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608), Jun. 6 2024. `prompting`.
 - [Machine learning and information theory concepts towards an AI mathematician](https://www.ams.org/journals/bull/2024-61-03/S0273-0979-2024-01839-4/S0273-0979-2024-01839-4.pdf), May 15 2024. `math reasoning`.
 - [Monitoring Latent World States in Language Models with Propositional Probes](https://arxiv.org/pdf/2406.19501), Jun. 27 2024.
+- [Can LLMs Learn by Teaching? A Preliminary Study](https://arxiv.org/pdf/2406.14629), Jun. 20 2024.
+- [End-To-End Causal Effect Estimation from Unstructured Natural Language Data](https://arxiv.org/pdf/2407.07018), Jul. 9 2024. `causal inference x llms`.
 
-### Efficiency
+### Training and inference efficiency
 
+- [Fitting larger networks into memory](https://medium.com/tensorflow/fitting-larger-networks-into-memory-583e3c758ff9), Jan. 14 2018. `gradient checkpointing`. [github](https://github.com/cybertronai/gradient-checkpointing). [pytorch](https://github.com/prigoyal/pytorch_memonger/blob/master/tutorial/Checkpointing_for_PyTorch_models.ipynb).
 - [Triton Puzzles](https://github.com/srush/Triton-Puzzles), Triton tutorial.
 - [Probing the Decision Boundaries of In-context Learning in Large Language Models](https://arxiv.org/pdf/2406.11233), Jun. 17 2024. [tweet](https://x.com/siyan_zhao/status/1805277462890492321). `interpretability`.
 - [Token Erasure as a Footprint of Implicit Vocabulary Items in LLMs](https://arxiv.org/pdf/2406.20086), Jun. 28 2024. [code](https://footprints.baulab.info/). `mechanistic interpretability`.
 - [Transcoders Find Interpretable LLM Feature Circuits](https://arxiv.org/pdf/2406.11944), Jun. 17 2024. `mechanistic interpretability`.
+- [Flora: Low-Rank Adapters Are Secretly Gradient Compressors](https://arxiv.org/abs/2402.03293), Feb. 5 2024. `efficient training`. [github](https://github.com/BorealisAI/flora-opt). [blogpost](https://www.borealisai.com/research-blogs/pre-training-multi-billion-parameter-llms-on-a-single-gpu-with-flora/#Incorporating_FLORA_into_your_code).
 
 ### Interpretability
 
@@ -138,12 +142,18 @@
 - [RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold](https://arxiv.org/pdf/2406.14532), Jun. 20 2024. `post-training`.
 - [Measuring memorization in RLHF for code completion](https://arxiv.org/pdf/2406.11715), Jun. 17 2024.
 - [Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation](https://arxiv.org/pdf/2402.18150v1), Feb. 28 2024. `post-training` `unsupervised` `rag`.
+- [Fundamental Problems With Model Editing: How Should Rational Belief Revision Work in LLMs?](https://arxiv.org/pdf/2406.19354), Jun. 27 2024. `model editing`.
+- [Domain Adaptation of Llama3-70B-Instruct through Continual Pre-Training and Model Merging: A Comprehensive Evaluation](https://arxiv.org/pdf/2406.14971), Jun. 21 2024. `continual pre-training`.
+- [Gradient-Mask Tuning Elevates the Upper Limits of LLM Performance](https://arxiv.org/pdf/2406.15330), Jun. 21 2024. `other post-training method`.
+- [Exploring Design Choices for Building Language-Specific LLMs](https://arxiv.org/pdf/2406.14670), Jun. 20 2024. `post-training for multilinguality`.
+- [70B-parameter large language models in Japanese medical question-answering](https://arxiv.org/pdf/2406.14882), Jun. 21 2024. `post-training prompt design`.
+- [Towards Understanding Multi-Task Learning (Generalization) of LLMs via Detecting and Exploring Task-Specific Neurons](https://arxiv.org/pdf/2407.06488), Jul. 9 2024. `task-specific subnet in llms`.
 
 ### Scaling laws
 
 - [Predicting emergent abilities with infinite resolution evaluation](https://arxiv.org/pdf/2310.03262), Apr. 17 2024.
 - [Why Has Predicting Downstream Capabilities of Frontier AI Models with Scale Remained Elusive?](https://arxiv.org/pdf/2406.04391), Jun. 6 2024. `scaling law`.
-- [Will we run out of data? Limits of LLM scaling based on human-generated data](https://arxiv.org/pdf/2211.04325), Jun. 4 2024.
+- [Will we run out of data? Limits of LLM scaling based on human-generated data](https://arxiv.org/pdf/2211.04325), Jun. 4 2024. `data scaling`.
 - [Position: Will we run out of data? Limits of LLM scaling based on human-generated data](https://openreview.net/pdf?id=ViZcgDQjyG), ICML 2024. `scaling law`.
 
 #### FLOPS
@@ -160,9 +170,10 @@
 - [Data, Data Everywhere: A Guide for Pretraining Dataset Construction](https://www.arxiv.org/pdf/2407.06380), Jul. 8 2024. `data curation`.
   - _"we categorize the most widely used data source, web crawl snapshots, across the attributes of toxicity, quality, type of speech, and domain [...] we show how such attribute information can be used to further refine and improve the quality of a pretraining set"_
 - [On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey](https://arxiv.org/pdf/2406.15126), Jun. 14 2024. `data synthesis`.
+- [Entropy Law: The Story Behind Data Compression and LLM Performance](https://arxiv.org/pdf/2407.06645), Jul. 11 2024. `data selection` `learning dynamics`.
 
 ### Evaluation
 
+- [Unveiling the Spectrum of Data Contamination in Language Models: A Survey from Detection to Remediation](https://arxiv.org/pdf/2406.14644), Jun. 20 2024.
 - [Training on the Test Task Confounds Evaluation and Emergence](https://arxiv.org/pdf/2407.07890), Jul. 10 2024.
   - _"We argue that the seeming superriority of one model family over another may be explained by a different degree of training on the test task."_
-
