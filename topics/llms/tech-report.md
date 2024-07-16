@@ -11,6 +11,7 @@
 - [H2O-Danube3 Technical Report](https://arxiv.org/pdf/2407.09276), Jul. 12 2024.
 - [LokiLM: Technical Report](https://arxiv.org/abs/2407.07370), Jul. 10 2024.
 - [H2O-Danube3 Technical Report](https://arxiv.org/pdf/2407.09276), Jul. 12 2024. `made for smartphone`.
+- [Qwen2 technical report](https://arxiv.org/pdf/2407.10671), Jul. 15 2024.
 
 ### Domain LLMs
 
