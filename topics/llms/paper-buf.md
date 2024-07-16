@@ -214,6 +214,7 @@
 - [AutoEval Done Right: Using Synthetic Data for Model Evaluation](https://arxiv.org/pdf/2403.07008), May 28 2024.
 - [Accuracy is not all you need](https://arxiv.org/pdf/2407.09141), Jul. 12 2024.
   - The paper dubs synthetic data from LLMs as generative teaching.
+- [Benchmarking Complex Instruction-Following with Multiple Constraints Composition](https://arxiv.org/pdf/2406.14491), Jul. 4 2024. [github](https://github.com/thu-coai/ComplexBench).
 
 ### Agent
 
