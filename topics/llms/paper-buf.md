@@ -34,7 +34,6 @@
 - [Lessons from the Trenches on Reproducible Evaluation of Language Models](https://arxiv.org/abs/2405.14782), May 23 2024. `evaluation`.
 - [How Far Can Transformers Reason? The Locality Barrier and Inductive Scratchpad](https://arxiv.org/pdf/2406.06467), Jun. 10 2024. `reasoning`.
 - [Probing the Decision Boundaries of In-context Learning in Large Language Models](https://arxiv.org/pdf/2406.11233), Jun. 17 2024. `icl`.
-- [Transcoders Find Interpretable LLM Feature Circuits](https://arxiv.org/pdf/2406.11944), Jun. 17 2024. `interpretability`.
 - [Unraveling the Mechanics of Learning-Based Demonstration Selection for In-Context Learning](https://arxiv.org/pdf/2406.11890), Jun. 14 2024. `icl`.
 - [Large Scale Transfer Learning for Tabular Data via Language Modeling](https://arxiv.org/pdf/2406.12031), Jun. 2024. `tabular llm`.
 - [A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning](https://arxiv.org/pdf/2406.12255), Jun. 18 2024. `interpretability`.
@@ -114,6 +113,8 @@
 - [Transcoders Find Interpretable LLM Feature Circuits](https://arxiv.org/pdf/2406.11944), Jun. 17 2024. `mechanistic interpretability`.
 - [Estimating Knowledge in Large Language Models Without Generating a Single Token](https://arxiv.org/pdf/2406.12673), Jun. 18 2024.
 - [Transformer Layers as Painters](https://arxiv.org/pdf/2407.09298), Jul. 12 2024. `representation similarity`.
+- [LLM Circuit Analyses Are Consistent Across Training and Scale](https://arxiv.org/pdf/2407.10827), Jul. 15 2024.
+  - _"we track how model mechanisms, operationalized as circuits, emerge and evolve across 300 billion tokens of training in decoder-only LLMs, in models ranging from 70b to 2.8b parameters."_
 
 ### Pre-training
 
@@ -155,6 +156,9 @@
 - [Skywork-Math: Data Scaling Laws for Mathematical Reasoning in Large Language Models — The Story Goes On](https://arxiv.org/pdf/2407.08348), Jul. 11 2024.
 - [Mitigating catasthrophic forgetting in language transfer via model merging](https://arxiv.org/pdf/2407.08699), Jul. 11 2024.
   - What are the differences between EMA and the proposed BAM method?
+- [Mix-CPT: A domain adaptation framework via decoupling knowledge learning and format alignment](https://arxiv.org/pdf/2407.10804), Jul. 15 2024.
+  - _*we revise this process and propose a new domain adaptation framework including domain knowledge learning and general format alignment,*_
+- [Fine-Tuning and Prompt Optimization: Two Great Steps that Work Better Together](https://arxiv.org/pdf/2407.10930), Jul. 15 2024.
 
 #### Peft
 
