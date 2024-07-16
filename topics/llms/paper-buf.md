@@ -87,6 +87,7 @@
 - [End-To-End Causal Effect Estimation from Unstructured Natural Language Data](https://arxiv.org/pdf/2407.07018), Jul. 9 2024. `causal inference x llms`.
 - [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](https://arxiv.org/pdf/2407.04620), Jul. 5 2024. `architectural inductive bias`.
 - [How Does Quantization Affect Multilingual LLMs?](https://arxiv.org/pdf/2407.03211), Jul. 3 2024. `quantization`.
+- [Chain-of-Thought Reasoning without Prompting](https://arxiv.org/pdf/2402.10200), May 23 2024. `reasoning`.
 
 ### Prompting techniques
 
@@ -191,12 +192,15 @@
 
 ### Data curation
 
+- [TinyGSM: achieving > 80% on GSM8k with small language models](https://arxiv.org/pdf/2312.09241), Dec. 14 2024.
 - [What makes good data for alignment? A comphrehensive study of automatic data selection in instruction tuning](https://arxiv.org/pdf/2312.15685), Apr. 16 2024.
 - [Instruction Mining: When Data Mining Meets Large Language Model Finetuning](https://arxiv.org/abs/2307.06290), COLM 2024.
 - [Data, Data Everywhere: A Guide for Pretraining Dataset Construction](https://www.arxiv.org/pdf/2407.06380), Jul. 8 2024. `data curation`.
   - _"we categorize the most widely used data source, web crawl snapshots, across the attributes of toxicity, quality, type of speech, and domain [...] we show how such attribute information can be used to further refine and improve the quality of a pretraining set"_
 - [On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey](https://arxiv.org/pdf/2406.15126), Jun. 14 2024. `data synthesis`.
 - [Entropy Law: The Story Behind Data Compression and LLM Performance](https://arxiv.org/pdf/2407.06645), Jul. 11 2024. `data selection` `learning dynamics`.
+- [AgentInstruct: Toward Generative Teaching with Agentic Flows](https://arxiv.org/pdf/2407.03502), Jul. 3 2024.
+- [Evaluating n-Gram Novelty of Language Models Using Rusty-DAWG](https://arxiv.org/abs/2406.13069), Jun. 24 2024.
 
 ### Evaluation
 
@@ -206,6 +210,7 @@
   - _"We argue that the seeming superriority of one model family over another may be explained by a different degree of training on the test task."_
 - [AutoEval Done Right: Using Synthetic Data for Model Evaluation](https://arxiv.org/pdf/2403.07008), May 28 2024.
 - [Accuracy is not all you need](https://arxiv.org/pdf/2407.09141), Jul. 12 2024.
+  - The paper dubs synthetic data from LLMs as generative teaching.
 
 ### Agent
 
