@@ -93,7 +93,6 @@
 
 - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608), Jun. 6 2024. `prompting`.
 
-
 ### LLMs for traditional nlp tasks
 
 - [Is ChatGPT a Good Sentiment Analyzer? A Preliminary Study](https://arxiv.org/pdf/2304.04339), Feb. 17 2024.
@@ -171,8 +170,9 @@
 - [How to Precisely Update Large Language Models Knowledge While Avoiding Catastrophic Forgetting](https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/667bb159c9c6a5c07a689cfa/original/how-to-precisely-update-large-language-models-knowledge-while-avoiding-catastrophic-forgetting.pdf), 2024.
 - [Knowledge Overshadowing Causes Amalgamated Hallucination in Large Language Models](https://arxiv.org/pdf/2407.08039), Jul. 10 2024. `hallucination`.
 
-#### Preference alignment, reward model
+#### Preference alignment, reward models
 
+- [The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions](https://arxiv.org/pdf/2404.13208), Apr. 19 2024. `system prompt`.
 - [RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold](https://arxiv.org/pdf/2406.14532), Jun. 20 2024. `post-training`.
 - [Measuring memorization in RLHF for code completion](https://arxiv.org/pdf/2406.11715), Jun. 17 2024.
 - [WARP: On the Benefits of Weight Averaged Rewarded Policies](https://arxiv.org/abs/2406.16768), Jun. 24 2024. [tweet](https://x.com/ramealexandre/status/1805525340699185493). `post-training`.
