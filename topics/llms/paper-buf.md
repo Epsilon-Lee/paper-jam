@@ -114,6 +114,7 @@
 - [Token Erasure as a Footprint of Implicit Vocabulary Items in LLMs](https://arxiv.org/pdf/2406.20086), Jun. 28 2024. [code](https://footprints.baulab.info/). `mechanistic interpretability`.
 - [Transcoders Find Interpretable LLM Feature Circuits](https://arxiv.org/pdf/2406.11944), Jun. 17 2024. `mechanistic interpretability`.
 - [Estimating Knowledge in Large Language Models Without Generating a Single Token](https://arxiv.org/pdf/2406.12673), Jun. 18 2024.
+- [Transformer Layers as Painters](https://arxiv.org/pdf/2407.09298), Jul. 12 2024. `representation similarity`.
 
 ### Pre-training
 
@@ -153,6 +154,8 @@
 - [Gradient-Mask Tuning Elevates the Upper Limits of LLM Performance](https://arxiv.org/pdf/2406.15330), Jun. 21 2024. `other post-training method`.
 - [Can LLMs Learn by Teaching? A Preliminary Study](https://arxiv.org/pdf/2406.14629), Jun. 20 2024.
 - [Skywork-Math: Data Scaling Laws for Mathematical Reasoning in Large Language Models — The Story Goes On](https://arxiv.org/pdf/2407.08348), Jul. 11 2024.
+- [Mitigating catasthrophic forgetting in language transfer via model merging](https://arxiv.org/pdf/2407.08699), Jul. 11 2024.
+  - What are the differences between EMA and the proposed BAM method?
 
 #### Peft
 
