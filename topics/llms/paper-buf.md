@@ -87,6 +87,7 @@
 - [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](https://arxiv.org/pdf/2407.04620), Jul. 5 2024. `architectural inductive bias`.
 - [How Does Quantization Affect Multilingual LLMs?](https://arxiv.org/pdf/2407.03211), Jul. 3 2024. `quantization`.
 - [Chain-of-Thought Reasoning without Prompting](https://arxiv.org/pdf/2402.10200), May 23 2024. `reasoning`.
+- [Transformer Alignment in Large Language Models](https://arxiv.org/pdf/2407.07810), Jul. 10 2024.
 
 ### Prompting techniques
 
