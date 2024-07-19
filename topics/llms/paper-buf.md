@@ -25,6 +25,8 @@
 - [A Label is Worth a Thousand Images in Dataset Distillation](https://arxiv.org/pdf/2406.10485), Jun. 15 2024. `dataset distillation`.
 - [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/pdf/2406.08929), Jun. 23 2024.
 - [I Bet You Did Not Mean That: Testing Semantic Importance via Betting](https://arxiv.org/pdf/2405.19146), May 29 2024. `interpretability`.
+- [Why Do You Grok? A Theoretical Analysis on Grokking Modular Addition](https://openreview.net/pdf?id=ad5I6No9G1), ICML 2024.
+- [Grokking as the transition from lazy to rich training dynamics](https://arxiv.org/pdf/2310.06110), ICLR 2024.
 
 ## LLMs related
 
@@ -139,6 +141,7 @@
 - [Towards Understanding Multi-Task Learning (Generalization) of LLMs via Detecting and Exploring Task-Specific Neurons](https://arxiv.org/pdf/2407.06488), Jul. 9 2024. `task-specific subnet in llms`.
 - [Raw Text is All you Need: Knowledge-intensive Multi-turn Instruction Tuning for Large Language Model](https://arxiv.org/pdf/2407.03040), Jul. 3 2024. `dialogue data curation`.
 - [Enhancing Translation Accuracy of Large Language Models through Continual Pre-Training on Parallel Data](https://arxiv.org/pdf/2407.03145), Jul. 3 2024. `post-training for mt`.
+- [Learning dynamics of llm finetuning](https://www.arxiv.org/pdf/2407.10490), Jul. 15 2024. [github](https://github.com/Joshua-Ren/Learning_dynamics_LLM).
 
 #### RAG
 
@@ -221,6 +224,7 @@
 - [Accuracy is not all you need](https://arxiv.org/pdf/2407.09141), Jul. 12 2024.
   - The paper dubs synthetic data from LLMs as generative teaching.
 - [Benchmarking Complex Instruction-Following with Multiple Constraints Composition](https://arxiv.org/pdf/2406.14491), Jul. 4 2024. [github](https://github.com/thu-coai/ComplexBench).
+- [GSM-Plus: A Comprehensive Benchmark for Evaluating the Robustness of LLMs as Mathematical Problem Solvers](https://arxiv.org/abs/2402.19255), Jul. 2 2024.
 
 ### Agent
 
