@@ -100,6 +100,7 @@
 
 - [Is ChatGPT a Good Sentiment Analyzer? A Preliminary Study](https://arxiv.org/pdf/2304.04339), Feb. 17 2024.
 - [Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT](https://arxiv.org/pdf/2302.10198), Mar. 2 2023.
+- [Whitening Not Recommended for Classification Tasks in LLMs](https://arxiv.org/pdf/2407.12886), Jul. 16 2024.
 
 ### Training and inference efficiency
 
@@ -187,6 +188,8 @@
 - [WARP: On the Benefits of Weight Averaged Rewarded Policies](https://arxiv.org/abs/2406.16768), Jun. 24 2024. [tweet](https://x.com/ramealexandre/status/1805525340699185493). `post-training`.
 - [Scaling Laws for Reward Model Overoptimization in Direct Alignment Algorithms](https://arxiv.org/pdf/2406.02900), Jun. 5 2024. `scaling law` `post-training`.
 - [New Desiderata for Direct Preference Optimization](https://arxiv.org/pdf/2407.09072), Jul. 12 2024.
+- [Weak-to-Strong Reasoning](https://arxiv.org/pdf/2407.13647), Jul. 18 2024.
+- [Understanding Reference Policies in Direct Preference Optimization](https://arxiv.org/pdf/2407.13709), Jul. 18 2024.
 
 ### Scaling laws
 
@@ -194,6 +197,9 @@
 - [Why Has Predicting Downstream Capabilities of Frontier AI Models with Scale Remained Elusive?](https://arxiv.org/pdf/2406.04391), Jun. 6 2024. `scaling law`.
 - [Will we run out of data? Limits of LLM scaling based on human-generated data](https://arxiv.org/pdf/2211.04325), Jun. 4 2024. `data scaling`.
 - [Position: Will we run out of data? Limits of LLM scaling based on human-generated data](https://openreview.net/pdf?id=ViZcgDQjyG), ICML 2024. `scaling law`.
+- [Scaling laws with vocabulary: Larger models deserve larger vocabularies](https://arxiv.org/pdf/2407.13623), Jul. 18 2024.
+  - _"we predict that th optimal vocabulary size of Llama2-70B should have been at least 216K, 7 times larger than its vocabulary size 32K."_
+- [Scaling retrieval-based language models with a trillion-token datastore](https://arxiv.org/pdf/2407.12854), Jul. 9 2024.
 
 #### FLOPS
 
@@ -216,15 +222,25 @@
 
 ### Evaluation
 
-- [From Crowdsourced Data to High-Quality Benchmarks: Arena-Hard and BenchBuilder Pipeline](https://arxiv.org/pdf/2406.11939), Jun. 17 2024. `benchmark`.
+#### Data contamination
+
 - [Unveiling the Spectrum of Data Contamination in Language Models: A Survey from Detection to Remediation](https://arxiv.org/pdf/2406.14644), Jun. 20 2024.
+- [Accuracy is not all you need](https://arxiv.org/pdf/2407.09141), Jul. 12 2024.
+  - The paper dubs synthetic data from LLMs as generative teaching.
+
+#### Benchmark
+
+- [From Crowdsourced Data to High-Quality Benchmarks: Arena-Hard and BenchBuilder Pipeline](https://arxiv.org/pdf/2406.11939), Jun. 17 2024. `benchmark`.
 - [Training on the Test Task Confounds Evaluation and Emergence](https://arxiv.org/pdf/2407.07890), Jul. 10 2024.
   - _"We argue that the seeming superriority of one model family over another may be explained by a different degree of training on the test task."_
 - [AutoEval Done Right: Using Synthetic Data for Model Evaluation](https://arxiv.org/pdf/2403.07008), May 28 2024.
-- [Accuracy is not all you need](https://arxiv.org/pdf/2407.09141), Jul. 12 2024.
-  - The paper dubs synthetic data from LLMs as generative teaching.
 - [Benchmarking Complex Instruction-Following with Multiple Constraints Composition](https://arxiv.org/pdf/2406.14491), Jul. 4 2024. [github](https://github.com/thu-coai/ComplexBench).
 - [GSM-Plus: A Comprehensive Benchmark for Evaluating the Robustness of LLMs as Mathematical Problem Solvers](https://arxiv.org/abs/2402.19255), Jul. 2 2024.
+- [metabench A Sparse Benchmark to Measure General Ability in Large Language Models](https://arxiv.org/pdf/2407.12844), Jul. 4 2024.
+
+#### Toolkit
+
+- [Foundation Model Evaluations Library](https://github.com/aws/fmeval), [paper](https://arxiv.org/pdf/2407.12872), Jul. 15 2024.
 
 ### Agent
 
