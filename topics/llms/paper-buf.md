@@ -95,6 +95,7 @@
 - [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/pdf/2311.17035), Nov. 28 2023. `data extraction`.
 - [The Foundations of Tokenization: Statistical and Computational Concerns](https://arxiv.org/pdf/2407.11606), Jul. 16 2024.
 - [Representing Rule-based Chatbots with Transformers](https://arxiv.org/pdf/2407.10949), Jul. 15 2024.
+- [Learning to Compile Programs to Neural Networks](https://arxiv.org/pdf/2407.15078), Jul. 21 2024.
 - [Faithfulness Measurable Masked Language Models](https://arxiv.org/abs/2310.07819), May 9 2024.
 - [Fast Matrix Multiplications for Lookup Table-Quantized LLMs](https://arxiv.org/pdf/2407.10960), Jul. 15 2024.
 
@@ -129,6 +130,13 @@
   - _"we track how model mechanisms, operationalized as circuits, emerge and evolve across 300 billion tokens of training in decoder-only LLMs, in models ranging from 70b to 2.8b parameters."_
 - [Understanding Counting in Small Transformers: The Interplay between Attention and Feed-Forward Layers](https://arxiv.org/pdf/2407.11542), Jul. 16 2024.
 - [Mechanistically Interpreting a Transformer-based 2-SAT Solver: An Axiomatic Approach](https://arxiv.org/pdf/2407.13594), Jul. 18 2024. [code](https://github.com/nilspalumbo/sat-mi).
+- [Adversarial Circuit Evaluation](https://arxiv.org/pdf/2407.15166), Jul. 21 2024. `circuits stability`.
+  - _" indicating that more robust circuits are needed for safety-critical applications."_
+- [NNsight and NDIF: Democratizing access to foundational model internals](https://arxiv.org/pdf/2407.14561), Jul. 18 2024.
+- [Generalization v.s. memorization: Tracing language models' capability back to pretraining data](https://arxiv.org/pdf/2407.14985), Jul. 20 2024.
+- [When Can Transformers Count to n?](https://arxiv.org/pdf/2407.15160), Jul. 21 2024.
+- [Dissecting Multiplication in Transformers: Insights into LLMs](https://arxiv.org/pdf/2407.15360), Jul. 22 2024.
+- [Answer, Assemble, Ace: Understanding How Transformers Answer Multiple Choice Questions](https://arxiv.org/pdf/2407.15018), Jul. 21 2024.
 
 ### Pre-training
 
@@ -213,6 +221,7 @@
 - [Lynx: An Open Source Hallucination Evaluation Model](https://arxiv.org/pdf/2407.08488), Jul. 11 2024.
 - [Towards understanding factual knowledge of large language models](https://openreview.net/pdf?id=9OevMUdods), ICLR 2024.
 - [Knowledge Card: Filling LLMs' Knowledge Gaps with Plug-in Specialized Language Models](https://openreview.net/pdf?id=WbWtOYIzIK), ICLR 2024.
+- [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/pdf/2407.15017), Jul. 22 2024.
 
 #### Preference alignment, reward models
 
@@ -226,6 +235,8 @@
 - [Understanding Reference Policies in Direct Preference Optimization](https://arxiv.org/pdf/2407.13709), Jul. 18 2024.
 - [Learning from Naturally Occurring Feedback](https://arxiv.org/pdf/2407.10944), Jul. 15 2024.
 - [Fine-tuning a "good" model with ppo](https://twitter.com/natolambert/status/1815412187617517612), Jul. 22 2024. `tweet`.
+- [Conditional language policy: A general framework for steerable multi-objective finetuning](https://arxiv.org/pdf/2407.15762), Jul. 22 2024.
+- [The Hitchhiker’s Guide to Human Alignment with *PO](https://arxiv.org/pdf/2407.15229), Jul. 21 2024.
 
 ### Scaling laws
 
@@ -256,6 +267,7 @@
 - [Entropy Law: The Story Behind Data Compression and LLM Performance](https://arxiv.org/pdf/2407.06645), Jul. 11 2024. `data selection` `learning dynamics`.
 - [AgentInstruct: Toward Generative Teaching with Agentic Flows](https://arxiv.org/pdf/2407.03502), Jul. 3 2024.
 - [How NuminaMath Won the 1st AIMO Progress Prize](https://huggingface.co/blog/winning-aimo-progress-prize), Jul. 11 2024. `blogpost`.
+- [TAGCOS: Task-agnostic gradient clustered coreset selection for instruction tuning data](https://arxiv.org/pdf/2407.15235), Jul. 21 2024. [code](https://github.com/2003pro/TAGCOS).
 
 ### Evaluation
 
