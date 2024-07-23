@@ -93,6 +93,9 @@
 - [SPREADSHEETLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/pdf/2407.09025), Jul. 12 2024. `structured knowledge`.
 - [LOTUS: Enabling Semantic Queries with LLMs Over Tables of Unstructured and Structured Data](https://arxiv.org/pdf/2407.11418), Jul. 16 2024.
 - [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/pdf/2311.17035), Nov. 28 2023. `data extraction`.
+- [The Foundations of Tokenization: Statistical and Computational Concerns](https://arxiv.org/pdf/2407.11606), Jul. 16 2024.
+- [Representing Rule-based Chatbots with Transformers](https://arxiv.org/pdf/2407.10949), Jul. 15 2024.
+- [Faithfulness Measurable Masked Language Models](https://arxiv.org/abs/2310.07819), May 9 2024.
 
 ### Prompting techniques
 
@@ -155,10 +158,12 @@
 - [Raw Text is All you Need: Knowledge-intensive Multi-turn Instruction Tuning for Large Language Model](https://arxiv.org/pdf/2407.03040), Jul. 3 2024. `dialogue data curation`.
 - [Enhancing Translation Accuracy of Large Language Models through Continual Pre-Training on Parallel Data](https://arxiv.org/pdf/2407.03145), Jul. 3 2024. `post-training for mt`.
 - [Learning dynamics of llm finetuning](https://www.arxiv.org/pdf/2407.10490), Jul. 15 2024. [github](https://github.com/Joshua-Ren/Learning_dynamics_LLM).
+- [Fine-tuning a "good" model with ppo](https://twitter.com/natolambert/status/1815412187617517612), Jul. 22 2024. `tweet`.
 
 #### RAG
 
 - [Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation](https://arxiv.org/pdf/2402.18150v1), Feb. 28 2024. `post-training` `unsupervised` `rag`.
+- [LLMs Know What They Need: Leveraging a Missing Information Guided Framework to Empower Retrieval-Augmented Generation](https://arxiv.org/pdf/2404.14043v1), Apr. 22 2024.
 
 #### Continual learning (cpt, cft)
 
@@ -187,10 +192,11 @@
 
 #### Knowledge updating, model editing
 
+- [Large Language Models Encode Clinical Knowledge](https://arxiv.org/pdf/2212.13138), Dec. 26 2022.
 - [Measuring and Modifying Factual Knowledge in Large Language Models](https://arxiv.org/pdf/2306.06264), Jun. 9 2023. `knowledge measurement`.
 - [Do LLMs Understand Social Knowledge? Evaluating the Sociability of Large Language Models with the SOCKET Benchmark](https://arxiv.org/pdf/2305.14938), Dec. 7 2023. `knowledge measurement`.
 - [Fundamental Problems With Model Editing: How Should Rational Belief Revision Work in LLMs?](https://arxiv.org/pdf/2406.19354), Jun. 27 2024. `model editing`.
-- [Studying Large Language Model Behaviors Under Realistic Knowledge Conflicts](https://arxiv.org/pdf/2404.16032), Apr. 24 2024. `knowledge`.
+- [Studying Large Language Model Behaviors Under Realistic Knowledge Conflicts](https://arxiv.org/pdf/2404.16032), Apr. 24 2024. `knowledge conflicts`.
 - [Understanding Finetuning for Factual Knowledge Extraction](https://arxiv.org/abs/2406.14785), Jun. 20 2024. [tweet](https://x.com/gaurav_ghosal/status/1806365312620589496). `post-training` `knowledge forgetting`.
 - [Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/pdf/2403.08319), Jun. 22 2024. `survey` `knowledge conflicts`.
 - [How to Precisely Update Large Language Models Knowledge While Avoiding Catastrophic Forgetting](https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/667bb159c9c6a5c07a689cfa/original/how-to-precisely-update-large-language-models-knowledge-while-avoiding-catastrophic-forgetting.pdf), 2024.
@@ -209,6 +215,8 @@
 - [New Desiderata for Direct Preference Optimization](https://arxiv.org/pdf/2407.09072), Jul. 12 2024.
 - [Weak-to-Strong Reasoning](https://arxiv.org/pdf/2407.13647), Jul. 18 2024.
 - [Understanding Reference Policies in Direct Preference Optimization](https://arxiv.org/pdf/2407.13709), Jul. 18 2024.
+- [Learning from Naturally Occurring Feedback](https://arxiv.org/pdf/2407.10944), Jul. 15 2024.
+- [Fast Matrix Multiplications for Lookup Table-Quantized LLMs](https://arxiv.org/pdf/2407.10960), Jul. 15 2024.
 
 ### Scaling laws
 
@@ -235,9 +243,10 @@
 - [Data, Data Everywhere: A Guide for Pretraining Dataset Construction](https://www.arxiv.org/pdf/2407.06380), Jul. 8 2024. `data curation`.
   - _"we categorize the most widely used data source, web crawl snapshots, across the attributes of toxicity, quality, type of speech, and domain [...] we show how such attribute information can be used to further refine and improve the quality of a pretraining set"_
 - [On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey](https://arxiv.org/pdf/2406.15126), Jun. 14 2024. `data synthesis`.
+- [Evaluating n-Gram Novelty of Language Models Using Rusty-DAWG](https://arxiv.org/abs/2406.13069), Jun. 24 2024.
 - [Entropy Law: The Story Behind Data Compression and LLM Performance](https://arxiv.org/pdf/2407.06645), Jul. 11 2024. `data selection` `learning dynamics`.
 - [AgentInstruct: Toward Generative Teaching with Agentic Flows](https://arxiv.org/pdf/2407.03502), Jul. 3 2024.
-- [Evaluating n-Gram Novelty of Language Models Using Rusty-DAWG](https://arxiv.org/abs/2406.13069), Jun. 24 2024.
+- [How NuminaMath Won the 1st AIMO Progress Prize](https://huggingface.co/blog/winning-aimo-progress-prize), Jul. 11 2024. `blogpost`.
 
 ### Evaluation
 
