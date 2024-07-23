@@ -96,6 +96,7 @@
 - [The Foundations of Tokenization: Statistical and Computational Concerns](https://arxiv.org/pdf/2407.11606), Jul. 16 2024.
 - [Representing Rule-based Chatbots with Transformers](https://arxiv.org/pdf/2407.10949), Jul. 15 2024.
 - [Faithfulness Measurable Masked Language Models](https://arxiv.org/abs/2310.07819), May 9 2024.
+- [Fast Matrix Multiplications for Lookup Table-Quantized LLMs](https://arxiv.org/pdf/2407.10960), Jul. 15 2024.
 
 ### Prompting techniques
 
@@ -127,6 +128,7 @@
 - [LLM Circuit Analyses Are Consistent Across Training and Scale](https://arxiv.org/pdf/2407.10827), Jul. 15 2024.
   - _"we track how model mechanisms, operationalized as circuits, emerge and evolve across 300 billion tokens of training in decoder-only LLMs, in models ranging from 70b to 2.8b parameters."_
 - [Understanding Counting in Small Transformers: The Interplay between Attention and Feed-Forward Layers](https://arxiv.org/pdf/2407.11542), Jul. 16 2024.
+- [Mechanistically Interpreting a Transformer-based 2-SAT Solver: An Axiomatic Approach](https://arxiv.org/pdf/2407.13594), Jul. 18 2024. [code](https://github.com/nilspalumbo/sat-mi).
 
 ### Pre-training
 
@@ -159,12 +161,14 @@
 - [Raw Text is All you Need: Knowledge-intensive Multi-turn Instruction Tuning for Large Language Model](https://arxiv.org/pdf/2407.03040), Jul. 3 2024. `dialogue data curation`.
 - [Enhancing Translation Accuracy of Large Language Models through Continual Pre-Training on Parallel Data](https://arxiv.org/pdf/2407.03145), Jul. 3 2024. `post-training for mt`.
 - [Learning dynamics of llm finetuning](https://www.arxiv.org/pdf/2407.10490), Jul. 15 2024. [github](https://github.com/Joshua-Ren/Learning_dynamics_LLM).
-- [Fine-tuning a "good" model with ppo](https://twitter.com/natolambert/status/1815412187617517612), Jul. 22 2024. `tweet`.
+- [InstructAV: Instruction Fine-tuning Large Language Models for Authorship Verification]()
 
 #### RAG
 
 - [Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation](https://arxiv.org/pdf/2402.18150v1), Feb. 28 2024. `post-training` `unsupervised` `rag`.
 - [LLMs Know What They Need: Leveraging a Missing Information Guided Framework to Empower Retrieval-Augmented Generation](https://arxiv.org/pdf/2404.14043v1), Apr. 22 2024.
+- [Evaluation of RAG Metrics for Question Answering in the Telecom Domain](https://arxiv.org/pdf/2407.12873), Jul. 15 2024.
+  - application in vertical-domain
 
 #### Continual learning (cpt, cft)
 
@@ -184,6 +188,8 @@
 - [Mix-CPT: A domain adaptation framework via decoupling knowledge learning and format alignment](https://arxiv.org/pdf/2407.10804), Jul. 15 2024.
   - _*we revise this process and propose a new domain adaptation framework including domain knowledge learning and general format alignment,*_
 - [Fine-Tuning and Prompt Optimization: Two Great Steps that Work Better Together](https://arxiv.org/pdf/2407.10930), Jul. 15 2024.
+- [InstructAV: Instruction Fine-tuning Large Language Models for Authorship Verification](https://arxiv.org/pdf/2407.12882), Jul. 16 2024.
+  - How to construct examples for domain-specific training?
 
 #### Peft
 
@@ -199,6 +205,8 @@
 - [Fundamental Problems With Model Editing: How Should Rational Belief Revision Work in LLMs?](https://arxiv.org/pdf/2406.19354), Jun. 27 2024. `model editing`.
 - [Studying Large Language Model Behaviors Under Realistic Knowledge Conflicts](https://arxiv.org/pdf/2404.16032), Apr. 24 2024. `knowledge conflicts`.
 - [Understanding Finetuning for Factual Knowledge Extraction](https://arxiv.org/abs/2406.14785), Jun. 20 2024. [tweet](https://x.com/gaurav_ghosal/status/1806365312620589496). `post-training` `knowledge forgetting`.
+  - A very similar paper is [Establishing Knowledge Preference in Language Models](https://arxiv.org/pdf/2407.13048), Jul. 17 2024.
+  - Another similar one is [Large Language Models as Reliable Knowledge Bases?](https://arxiv.org/pdf/2407.13578), Jul. 18 2024.
 - [Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/pdf/2403.08319), Jun. 22 2024. `survey` `knowledge conflicts`.
 - [How to Precisely Update Large Language Models Knowledge While Avoiding Catastrophic Forgetting](https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/667bb159c9c6a5c07a689cfa/original/how-to-precisely-update-large-language-models-knowledge-while-avoiding-catastrophic-forgetting.pdf), 2024.
 - [Knowledge Overshadowing Causes Amalgamated Hallucination in Large Language Models](https://arxiv.org/pdf/2407.08039), Jul. 10 2024. `hallucination`.
@@ -217,7 +225,7 @@
 - [Weak-to-Strong Reasoning](https://arxiv.org/pdf/2407.13647), Jul. 18 2024.
 - [Understanding Reference Policies in Direct Preference Optimization](https://arxiv.org/pdf/2407.13709), Jul. 18 2024.
 - [Learning from Naturally Occurring Feedback](https://arxiv.org/pdf/2407.10944), Jul. 15 2024.
-- [Fast Matrix Multiplications for Lookup Table-Quantized LLMs](https://arxiv.org/pdf/2407.10960), Jul. 15 2024.
+- [Fine-tuning a "good" model with ppo](https://twitter.com/natolambert/status/1815412187617517612), Jul. 22 2024. `tweet`.
 
 ### Scaling laws
 
@@ -265,7 +273,9 @@
 - [AutoEval Done Right: Using Synthetic Data for Model Evaluation](https://arxiv.org/pdf/2403.07008), May 28 2024.
 - [Benchmarking Complex Instruction-Following with Multiple Constraints Composition](https://arxiv.org/pdf/2406.14491), Jul. 4 2024. [github](https://github.com/thu-coai/ComplexBench).
 - [GSM-Plus: A Comprehensive Benchmark for Evaluating the Robustness of LLMs as Mathematical Problem Solvers](https://arxiv.org/abs/2402.19255), Jul. 2 2024.
-- [metabench A Sparse Benchmark to Measure General Ability in Large Language Models](https://arxiv.org/pdf/2407.12844), Jul. 4 2024.
+- [metabench A Sparse Benchmark to Measure General Ability in Large Language Models](https://arxiv.org/pdf/2407.12844), Jul. 4 2024. [code](https://github.com/adkipnis/metabench).
+- [AutoBencher: Creating Salient, Novel, Difficult Datasets for Language Models](https://arxiv.org/abs/2407.08351), Jul. 11 2024.
+- [Benchmark agreement testing done right: A guide to llm benchmark evaluation](https://arxiv.org/pdf/2407.13696), Jul. 18 2024.
 
 #### Toolkit
 
