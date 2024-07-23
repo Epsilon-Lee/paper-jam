@@ -140,6 +140,10 @@
 
 - [Deconstructing What Makes a Good Optimizer for Language Models](https://arxiv.org/pdf/2407.07972), Jul. 10 2024.
 
+### Reasoning
+
+- [System-1.x: Learning to Balance Fast and Slow Planning with Language Models](https://arxiv.org/pdf/2407.14414), Jul. 19 2024.
+
 ### Post-training, preference alignment, model editing
 
 - [Intrinsic Dimensionality Explains The Effectiveness of Language Model Fine-Tuning](https://arxiv.org/pdf/2012.13255), Dec. 22 2020.
