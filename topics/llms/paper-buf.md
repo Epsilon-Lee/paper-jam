@@ -100,6 +100,7 @@
 ### Prompting techniques
 
 - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608), Jun. 6 2024. `prompting`.
+- [A survey of prompt engineering methods in large language models for different nlp tasks](https://arxiv.org/pdf/2407.12994), Jul. 17 2024.
 
 ### LLMs for traditional nlp tasks
 
