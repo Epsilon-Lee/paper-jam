@@ -91,6 +91,8 @@
 - [Chain-of-Thought Reasoning without Prompting](https://arxiv.org/pdf/2402.10200), May 23 2024. `reasoning`.
 - [Transformer Alignment in Large Language Models](https://arxiv.org/pdf/2407.07810), Jul. 10 2024.
 - [SPREADSHEETLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/pdf/2407.09025), Jul. 12 2024. `structured knowledge`.
+- [LOTUS: Enabling Semantic Queries with LLMs Over Tables of Unstructured and Structured Data](https://arxiv.org/pdf/2407.11418), Jul. 16 2024.
+- [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/pdf/2311.17035), Nov. 28 2023. `data extraction`.
 
 ### Prompting techniques
 
@@ -120,6 +122,7 @@
 - [Transformer Layers as Painters](https://arxiv.org/pdf/2407.09298), Jul. 12 2024. `representation similarity`.
 - [LLM Circuit Analyses Are Consistent Across Training and Scale](https://arxiv.org/pdf/2407.10827), Jul. 15 2024.
   - _"we track how model mechanisms, operationalized as circuits, emerge and evolve across 300 billion tokens of training in decoder-only LLMs, in models ranging from 70b to 2.8b parameters."_
+- [Understanding Counting in Small Transformers: The Interplay between Attention and Feed-Forward Layers](https://arxiv.org/pdf/2407.11542), Jul. 16 2024.
 
 ### Pre-training
 
@@ -131,6 +134,11 @@
 - [Phase Transitions in the Output Distribution of Large Language Models](https://arxiv.org/pdf/2405.17088), May 27 2024. `training dynamics`.
 - [Memorization Without Overfitting: Analyzing the Training Dynamics of Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/file/fa0509f4dab6807e2cb465715bf2d249-Paper-Conference.pdf), NeurIPS 2022.
 - [How Do Large Language Models Acquire Factual Knowledge During Pretraining?](https://arxiv.org/abs/2406.11813), Jun. 17 2024. `interpretability`.
+- [How to Train Data-Efficient LLMs](https://arxiv.org/pdf/2402.09668), Feb. 15 2024.
+
+#### Optimization
+
+- [Deconstructing What Makes a Good Optimizer for Language Models](https://arxiv.org/pdf/2407.07972), Jul. 10 2024.
 
 ### Post-training, preference alignment, model editing
 
@@ -150,6 +158,7 @@
 
 #### Continual learning (cpt, cft)
 
+- [LLM Continue Pretrain](https://zhuanlan.zhihu.com/p/707751901), Jul. 10 2024. [MiniCPM](https://shengdinghu.notion.site/MiniCPM-c805a17c5c8046398914e47f0542095a#73df646223b54e22957bdd926b41fc0e).
 - [Domain Adaptation of Llama3-70B-Instruct through Continual Pre-Training and Model Merging: A Comprehensive Evaluation](https://arxiv.org/pdf/2406.14971), Jun. 21 2024. `continual pre-training`.
 - [Understanding catastrophic forgetting in language models via implicit inference](https://openreview.net/pdf?id=VrHiF2hsrm), ICLR 2024. `sft and forgetting`.
   - _"We hypothesize that language models implicitly infer the task of the prompt and then fine-tuning skews this inference towards tasks in the fine-tuning distribution."_
@@ -174,11 +183,17 @@
 
 #### Knowledge updating, model editing
 
+- [Measuring and Modifying Factual Knowledge in Large Language Models](https://arxiv.org/pdf/2306.06264), Jun. 9 2023. `knowledge measurement`.
+- [Do LLMs Understand Social Knowledge? Evaluating the Sociability of Large Language Models with the SOCKET Benchmark](https://arxiv.org/pdf/2305.14938), Dec. 7 2023. `knowledge measurement`.
 - [Fundamental Problems With Model Editing: How Should Rational Belief Revision Work in LLMs?](https://arxiv.org/pdf/2406.19354), Jun. 27 2024. `model editing`.
 - [Studying Large Language Model Behaviors Under Realistic Knowledge Conflicts](https://arxiv.org/pdf/2404.16032), Apr. 24 2024. `knowledge`.
 - [Understanding Finetuning for Factual Knowledge Extraction](https://arxiv.org/abs/2406.14785), Jun. 20 2024. [tweet](https://x.com/gaurav_ghosal/status/1806365312620589496). `post-training` `knowledge forgetting`.
+- [Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/pdf/2403.08319), Jun. 22 2024. `survey` `knowledge conflicts`.
 - [How to Precisely Update Large Language Models Knowledge While Avoiding Catastrophic Forgetting](https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/667bb159c9c6a5c07a689cfa/original/how-to-precisely-update-large-language-models-knowledge-while-avoiding-catastrophic-forgetting.pdf), 2024.
 - [Knowledge Overshadowing Causes Amalgamated Hallucination in Large Language Models](https://arxiv.org/pdf/2407.08039), Jul. 10 2024. `hallucination`.
+- [Lynx: An Open Source Hallucination Evaluation Model](https://arxiv.org/pdf/2407.08488), Jul. 11 2024.
+- [Towards understanding factual knowledge of large language models](https://openreview.net/pdf?id=9OevMUdods), ICLR 2024.
+- [Knowledge Card: Filling LLMs' Knowledge Gaps with Plug-in Specialized Language Models](https://openreview.net/pdf?id=WbWtOYIzIK), ICLR 2024.
 
 #### Preference alignment, reward models
 
