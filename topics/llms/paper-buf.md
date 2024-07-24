@@ -208,6 +208,8 @@
 #### Knowledge updating, model editing
 
 - [Large Language Models Encode Clinical Knowledge](https://arxiv.org/pdf/2212.13138), Dec. 26 2022.
+- [Editing models with task arithmic](https://arxiv.org/pdf/2212.04089), Mar. 31 2023. `task vector` `model merging`.
+  - _"A task vector specifies in the weight space of a pre-trained model, such that movement in that direction improves performance on the task. We build task vectors by subtracting the weights of a pre-trained model from the weights of the same model after fine-tuning on a task"_
 - [Measuring and Modifying Factual Knowledge in Large Language Models](https://arxiv.org/pdf/2306.06264), Jun. 9 2023. `knowledge measurement`.
 - [Do LLMs Understand Social Knowledge? Evaluating the Sociability of Large Language Models with the SOCKET Benchmark](https://arxiv.org/pdf/2305.14938), Dec. 7 2023. `knowledge measurement`.
 - [Fundamental Problems With Model Editing: How Should Rational Belief Revision Work in LLMs?](https://arxiv.org/pdf/2406.19354), Jun. 27 2024. `model editing`.
