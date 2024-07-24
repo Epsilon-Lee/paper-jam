@@ -102,6 +102,8 @@
 - [On the Benefits of Rank in Attention Layers](https://arxiv.org/pdf/2407.16153), Jul. 24 2024.
   - The question to tackle: _"hyperparameters such as the rank of the attention matrices and the number of heads are scaled nearly the same way in all realizations of this architecture, without theoretical justification"_
 - [Data Mixture Inference: What do BPE Tokenizers Reveal about their Training Data?](https://arxiv.org/pdf/2407.16607), Jul. 23 2024.
+- [Perceptions of linguistic uncertainty by language models and humans](https://arxiv.org/pdf/2407.15814), Jul. 22 2024.
+- [Internal Consistency and Self-Feedback in Large Language Models](https://arxiv.org/pdf/2407.14507), Jul. 19 2024.
 
 ### Prompting techniques
 
@@ -202,6 +204,7 @@
 - [InstructAV: Instruction Fine-tuning Large Language Models for Authorship Verification](https://arxiv.org/pdf/2407.12882), Jul. 16 2024.
   - How to construct examples for domain-specific training?
 - [DART-Math: Difficulty-Aware Rejection Tuning for Mathematical Problem-Solving](https://arxiv.org/pdf/2407.13690), Jun. 18 2024.
+- [DDK: Distilling Domain Knowledge for Efficient Large Language Models](https://arxiv.org/pdf/2407.16154), Jul. 23 2024.
 
 #### Peft
 
@@ -245,6 +248,7 @@
 - [The Hitchhiker’s Guide to Human Alignment with *PO](https://arxiv.org/pdf/2407.15229), Jul. 21 2024.
 - [Conditioned Language Policy: A General Framework for Steerable Multi-Objective Finetuning](https://arxiv.org/pdf/2407.15762), Jul. 22 2024.
 - [BOND: Aligning LLMs with Best-of-N Distillation](https://arxiv.org/pdf/2407.14622), Jul. 19 2024.
+- [A comprehensive survey of llm alignment techniques: rlhf, rlaif, ppo, dpo and more](https://arxiv.org/pdf/2407.16216), Jul. 23 2024.
 
 ### Scaling laws
 
@@ -278,6 +282,7 @@
 - [How NuminaMath Won the 1st AIMO Progress Prize](https://huggingface.co/blog/winning-aimo-progress-prize), Jul. 11 2024. `blogpost`.
 - [TAGCOS: Task-agnostic gradient clustered coreset selection for instruction tuning data](https://arxiv.org/pdf/2407.15235), Jul. 21 2024. [code](https://github.com/2003pro/TAGCOS).
 - [Consent in Crisis: The Rapid Decline of the AI Data Commons](https://arxiv.org/pdf/2407.14933), Jul. 20 2024.
+- [Open Artificial Knowledge](https://oakdataset.org/), Jul. 19 2024
 
 ### Evaluation
 
