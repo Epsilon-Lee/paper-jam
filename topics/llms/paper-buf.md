@@ -116,11 +116,12 @@
 - [Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT](https://arxiv.org/pdf/2302.10198), Mar. 2 2023.
 - [Whitening Not Recommended for Classification Tasks in LLMs](https://arxiv.org/pdf/2407.12886), Jul. 16 2024.
 
-### Training and inference efficiency
+### Efficient training and inference
 
 - [Fitting larger networks into memory](https://medium.com/tensorflow/fitting-larger-networks-into-memory-583e3c758ff9), Jan. 14 2018. `gradient checkpointing`. [github](https://github.com/cybertronai/gradient-checkpointing). [pytorch](https://github.com/prigoyal/pytorch_memonger/blob/master/tutorial/Checkpointing_for_PyTorch_models.ipynb).
 - [Triton Puzzles](https://github.com/srush/Triton-Puzzles), Triton tutorial.
 - [Flora: Low-Rank Adapters Are Secretly Gradient Compressors](https://arxiv.org/abs/2402.03293), Feb. 5 2024. `efficient training`. [github](https://github.com/BorealisAI/flora-opt). [blogpost](https://www.borealisai.com/research-blogs/pre-training-multi-billion-parameter-llms-on-a-single-gpu-with-flora/#Incorporating_FLORA_into_your_code).
+- [A visual guide to quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization#%C2%A7common-data-types), Jul. 22 2024.
 
 ### Interpretability
 
