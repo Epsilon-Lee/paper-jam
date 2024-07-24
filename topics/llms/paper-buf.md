@@ -27,6 +27,7 @@
 - [I Bet You Did Not Mean That: Testing Semantic Importance via Betting](https://arxiv.org/pdf/2405.19146), May 29 2024. `interpretability`.
 - [Why Do You Grok? A Theoretical Analysis on Grokking Modular Addition](https://openreview.net/pdf?id=ad5I6No9G1), ICML 2024.
 - [Grokking as the transition from lazy to rich training dynamics](https://arxiv.org/pdf/2310.06110), ICLR 2024.
+- [Auditing Local Explanations is Hard](https://arxiv.org/pdf/2407.13281), Jul. 2024.
 
 ## LLMs related
 
@@ -98,6 +99,9 @@
 - [Learning to Compile Programs to Neural Networks](https://arxiv.org/pdf/2407.15078), Jul. 21 2024.
 - [Faithfulness Measurable Masked Language Models](https://arxiv.org/abs/2310.07819), May 9 2024.
 - [Fast Matrix Multiplications for Lookup Table-Quantized LLMs](https://arxiv.org/pdf/2407.10960), Jul. 15 2024.
+- [On the Benefits of Rank in Attention Layers](https://arxiv.org/pdf/2407.16153), Jul. 24 2024.
+  - The question to tackle: _"hyperparameters such as the rank of the attention matrices and the number of heads are scaled nearly the same way in all realizations of this architecture, without theoretical justification"_
+- [Data Mixture Inference: What do BPE Tokenizers Reveal about their Training Data?](https://arxiv.org/pdf/2407.16607), Jul. 23 2024.
 
 ### Prompting techniques
 
@@ -169,7 +173,6 @@
 - [Raw Text is All you Need: Knowledge-intensive Multi-turn Instruction Tuning for Large Language Model](https://arxiv.org/pdf/2407.03040), Jul. 3 2024. `dialogue data curation`.
 - [Enhancing Translation Accuracy of Large Language Models through Continual Pre-Training on Parallel Data](https://arxiv.org/pdf/2407.03145), Jul. 3 2024. `post-training for mt`.
 - [Learning dynamics of llm finetuning](https://www.arxiv.org/pdf/2407.10490), Jul. 15 2024. [github](https://github.com/Joshua-Ren/Learning_dynamics_LLM).
-- [InstructAV: Instruction Fine-tuning Large Language Models for Authorship Verification]()
 
 #### RAG
 
@@ -198,6 +201,7 @@
 - [Fine-Tuning and Prompt Optimization: Two Great Steps that Work Better Together](https://arxiv.org/pdf/2407.10930), Jul. 15 2024.
 - [InstructAV: Instruction Fine-tuning Large Language Models for Authorship Verification](https://arxiv.org/pdf/2407.12882), Jul. 16 2024.
   - How to construct examples for domain-specific training?
+- [DART-Math: Difficulty-Aware Rejection Tuning for Mathematical Problem-Solving](https://arxiv.org/pdf/2407.13690), Jun. 18 2024.
 
 #### Peft
 
@@ -239,6 +243,8 @@
 - [Fine-tuning a "good" model with ppo](https://twitter.com/natolambert/status/1815412187617517612), Jul. 22 2024. `tweet`.
 - [Conditional language policy: A general framework for steerable multi-objective finetuning](https://arxiv.org/pdf/2407.15762), Jul. 22 2024.
 - [The Hitchhiker’s Guide to Human Alignment with *PO](https://arxiv.org/pdf/2407.15229), Jul. 21 2024.
+- [Conditioned Language Policy: A General Framework for Steerable Multi-Objective Finetuning](https://arxiv.org/pdf/2407.15762), Jul. 22 2024.
+- [BOND: Aligning LLMs with Best-of-N Distillation](https://arxiv.org/pdf/2407.14622), Jul. 19 2024.
 
 ### Scaling laws
 
@@ -266,10 +272,12 @@
   - _"we categorize the most widely used data source, web crawl snapshots, across the attributes of toxicity, quality, type of speech, and domain [...] we show how such attribute information can be used to further refine and improve the quality of a pretraining set"_
 - [On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey](https://arxiv.org/pdf/2406.15126), Jun. 14 2024. `data synthesis`.
 - [Evaluating n-Gram Novelty of Language Models Using Rusty-DAWG](https://arxiv.org/abs/2406.13069), Jun. 24 2024.
+- [The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale](https://arxiv.org/pdf/2406.17557v1), Jun. 25 2024.
 - [Entropy Law: The Story Behind Data Compression and LLM Performance](https://arxiv.org/pdf/2407.06645), Jul. 11 2024. `data selection` `learning dynamics`.
 - [AgentInstruct: Toward Generative Teaching with Agentic Flows](https://arxiv.org/pdf/2407.03502), Jul. 3 2024.
 - [How NuminaMath Won the 1st AIMO Progress Prize](https://huggingface.co/blog/winning-aimo-progress-prize), Jul. 11 2024. `blogpost`.
 - [TAGCOS: Task-agnostic gradient clustered coreset selection for instruction tuning data](https://arxiv.org/pdf/2407.15235), Jul. 21 2024. [code](https://github.com/2003pro/TAGCOS).
+- [Consent in Crisis: The Rapid Decline of the AI Data Commons](https://arxiv.org/pdf/2407.14933), Jul. 20 2024.
 
 ### Evaluation
 
@@ -300,5 +308,7 @@
 - [Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/pdf/2406.04692), Jun. 7 2024. `agent`.
 - [TextGrad: Automatic "Differentiation" via Text](https://arxiv.org/abs/2406.07496), Jun. 11 2024. `agent`.
 - [Internet of agents: Weaving a web of heterogeneous agents for collaborative intelligence](https://arxiv.org/pdf/2407.07061), Jul. 10 2024.
+- [On the Design and Analysis of LLM-Based Algorithms](https://arxiv.org/pdf/2407.14788), Jul. 20 2024.
+
 
 
