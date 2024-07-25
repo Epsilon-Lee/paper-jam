@@ -28,6 +28,7 @@
 - [Why Do You Grok? A Theoretical Analysis on Grokking Modular Addition](https://openreview.net/pdf?id=ad5I6No9G1), ICML 2024.
 - [Grokking as the transition from lazy to rich training dynamics](https://arxiv.org/pdf/2310.06110), ICLR 2024.
 - [Auditing Local Explanations is Hard](https://arxiv.org/pdf/2407.13281), Jul. 2024.
+- [Position: Measure Dataset Diversity, Don’t Just Claim It](https://arxiv.org/pdf/2407.08188), Jul. 11 2024.
 
 ## LLMs related
 
@@ -144,6 +145,7 @@
 - [When Can Transformers Count to n?](https://arxiv.org/pdf/2407.15160), Jul. 21 2024.
 - [Dissecting Multiplication in Transformers: Insights into LLMs](https://arxiv.org/pdf/2407.15360), Jul. 22 2024.
 - [Answer, Assemble, Ace: Understanding How Transformers Answer Multiple Choice Questions](https://arxiv.org/pdf/2407.15018), Jul. 21 2024.
+- [Latent causal probing: A formal perspective on probing with causal models of data](https://arxiv.org/pdf/2407.13765), Jul. 18 2024.
 
 ### Pre-training
 
