@@ -188,6 +188,7 @@
 - [Raw Text is All you Need: Knowledge-intensive Multi-turn Instruction Tuning for Large Language Model](https://arxiv.org/pdf/2407.03040), Jul. 3 2024. `dialogue data curation`.
 - [Enhancing Translation Accuracy of Large Language Models through Continual Pre-Training on Parallel Data](https://arxiv.org/pdf/2407.03145), Jul. 3 2024. `post-training for mt`.
 - [Learning dynamics of llm finetuning](https://www.arxiv.org/pdf/2407.10490), Jul. 15 2024. [github](https://github.com/Joshua-Ren/Learning_dynamics_LLM).
+- [Prover-verifier games improves legibility of llm outputs](https://arxiv.org/pdf/2407.13692), Jul. 18 2024.
 
 #### RAG
 
@@ -262,6 +263,7 @@
 - [Conditioned Language Policy: A General Framework for Steerable Multi-Objective Finetuning](https://arxiv.org/pdf/2407.15762), Jul. 22 2024.
 - [BOND: Aligning LLMs with Best-of-N Distillation](https://arxiv.org/pdf/2407.14622), Jul. 19 2024.
 - [A comprehensive survey of llm alignment techniques: rlhf, rlaif, ppo, dpo and more](https://arxiv.org/pdf/2407.16216), Jul. 23 2024.
+- [Rule based rewards for language model safety](https://cdn.openai.com/rule-based-rewards-for-language-model-safety.pdf), Jul. 2024.
 
 ### Scaling laws
 
@@ -273,7 +275,6 @@
   - _"we predict that th optimal vocabulary size of Llama2-70B should have been at least 216K, 7 times larger than its vocabulary size 32K."_
 - [Scaling retrieval-based language models with a trillion-token datastore](https://arxiv.org/pdf/2407.12854), Jul. 9 2024.
 - [Scaling Training Data with Lossy Image Compression](https://arxiv.org/pdf/2407.17954), Jul. 25 2024
-
 
 #### FLOPS
 
