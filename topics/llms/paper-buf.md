@@ -105,6 +105,9 @@
 - [Data Mixture Inference: What do BPE Tokenizers Reveal about their Training Data?](https://arxiv.org/pdf/2407.16607), Jul. 23 2024.
 - [Perceptions of linguistic uncertainty by language models and humans](https://arxiv.org/pdf/2407.15814), Jul. 22 2024.
 - [Internal Consistency and Self-Feedback in Large Language Models](https://arxiv.org/pdf/2407.14507), Jul. 19 2024.
+- [u-µP: The Unit-Scaled Maximal Update Parametrization](https://arxiv.org/pdf/2407.17465), Jul. 24 2024.
+- [X-Sample Contrastive Loss: Improving Contrastive Learning with Sample Similarity Graphs](https://arxiv.org/pdf/2407.18134), Jul. 25 2024.
+- [The Principles of Deep Learning Theory](https://deeplearningtheory.com/lectures/).
 
 ### Prompting techniques
 
@@ -146,6 +149,13 @@
 - [Dissecting Multiplication in Transformers: Insights into LLMs](https://arxiv.org/pdf/2407.15360), Jul. 22 2024.
 - [Answer, Assemble, Ace: Understanding How Transformers Answer Multiple Choice Questions](https://arxiv.org/pdf/2407.15018), Jul. 21 2024.
 - [Latent causal probing: A formal perspective on probing with causal models of data](https://arxiv.org/pdf/2407.13765), Jul. 18 2024.
+- [Demystifying Verbatim Memorization in Large Language Models](https://arxiv.org/pdf/2407.17817), Jul. 25 2024. `verbatim memorization`
+  - verbatim meaning: in a way that uses exactly the same words as were originally used.
+- [iNNspector: Visual, Interactive Deep Model Debugging](https://arxiv.org/pdf/2407.17998), Jul. 25 2024.
+- [Relating the Seemingly Unrelated: Principled Understanding of Generalization for Generative Models in Arithmetic Reasoning Tasks](https://arxiv.org/pdf/2407.17963), Jul. 25 2024.
+- [Transformers on Markov Data: Constant Depth Suffices](https://arxiv.org/pdf/2407.17686), Jul. 25 2024. [code](https://github.com/Bond1995/Constant-depth-Transformers).
+- [Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://arxiv.org/pdf/2407.18158), Jul. 25 2024.
+  - _"With Monarch matrices, Kronecker factorizations, and post-training quantization, we achieve non-vacuous generalization bounds for LLMs as large as LLaMA2-70B"_.
 
 ### Pre-training
 
@@ -262,6 +272,8 @@
 - [Scaling laws with vocabulary: Larger models deserve larger vocabularies](https://arxiv.org/pdf/2407.13623), Jul. 18 2024.
   - _"we predict that th optimal vocabulary size of Llama2-70B should have been at least 216K, 7 times larger than its vocabulary size 32K."_
 - [Scaling retrieval-based language models with a trillion-token datastore](https://arxiv.org/pdf/2407.12854), Jul. 9 2024.
+- [Scaling Training Data with Lossy Image Compression](https://arxiv.org/pdf/2407.17954), Jul. 25 2024
+
 
 #### FLOPS
 
@@ -317,6 +329,7 @@
 - [TextGrad: Automatic "Differentiation" via Text](https://arxiv.org/abs/2406.07496), Jun. 11 2024. `agent`.
 - [Internet of agents: Weaving a web of heterogeneous agents for collaborative intelligence](https://arxiv.org/pdf/2407.07061), Jul. 10 2024.
 - [On the Design and Analysis of LLM-Based Algorithms](https://arxiv.org/pdf/2407.14788), Jul. 20 2024.
+- [Recursive Introspection: Teaching Language Model Agents How to Self-Improve](https://arxiv.org/pdf/2407.18219), Jul. 25 2024.
 
 
 
