@@ -23,5 +23,7 @@
 - [HuatuoGPT, towards taming language models to be a doctor](https://arxiv.org/pdf/2305.15075), May 24 2023.
 - [InternLM-Law: An Open Source Chinese Legal Large Language Model](https://arxiv.org/pdf/2406.14887), Jun. 21 2024. `domain llms` `post-training`.
 - [LiLiuM: eBay's Large Language Models for E-Commerce](https://arxiv.org/pdf/2406.12023), Jun. 17 2024.
-
+- [SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal Domain](https://arxiv.org/pdf/2407.19584), Jul. 29 2024. `legal`.
+- [SeaLLMs - Large Language Models for Southeast Asia](https://arxiv.org/pdf/2312.00738), Jul. 1 2024. `multilinguality`.
+- [SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models for Southeast Asian Languages](https://arxiv.org/pdf/2407.19672), Jul. 29 2024. `multilinguality`.
 
