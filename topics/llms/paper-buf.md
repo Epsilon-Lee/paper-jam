@@ -219,6 +219,7 @@
   - How to construct examples for domain-specific training?
 - [DART-Math: Difficulty-Aware Rejection Tuning for Mathematical Problem-Solving](https://arxiv.org/pdf/2407.13690), Jun. 18 2024.
 - [DDK: Distilling Domain Knowledge for Efficient Large Language Models](https://arxiv.org/pdf/2407.16154), Jul. 23 2024.
+- [Towards effective and efficient continual pre-training of large language models](https://arxiv.org/pdf/2407.18743), Jul. 26 2024.
 
 #### Peft
 
@@ -275,6 +276,7 @@
   - _"we predict that th optimal vocabulary size of Llama2-70B should have been at least 216K, 7 times larger than its vocabulary size 32K."_
 - [Scaling retrieval-based language models with a trillion-token datastore](https://arxiv.org/pdf/2407.12854), Jul. 9 2024.
 - [Scaling Training Data with Lossy Image Compression](https://arxiv.org/pdf/2407.17954), Jul. 25 2024
+- [AutoScale - Automatic prediction of compute-optimal data composition for training LLMs](https://arxiv.org/pdf/2407.20177), Jul. 29 2024.
 
 #### FLOPS
 
