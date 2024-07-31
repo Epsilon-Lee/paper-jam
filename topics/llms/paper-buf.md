@@ -29,6 +29,7 @@
 - [Grokking as the transition from lazy to rich training dynamics](https://arxiv.org/pdf/2310.06110), ICLR 2024.
 - [Auditing Local Explanations is Hard](https://arxiv.org/pdf/2407.13281), Jul. 2024.
 - [Position: Measure Dataset Diversity, Don’t Just Claim It](https://arxiv.org/pdf/2407.08188), Jul. 11 2024.
+- [Learning dynamics paper list by Zeke Xie](https://github.com/zeke-xie/deep-learning-dynamics-paper-list). `nn learning dynamics`.
 
 ## LLMs related
 
