@@ -30,6 +30,7 @@
 - [Auditing Local Explanations is Hard](https://arxiv.org/pdf/2407.13281), Jul. 2024.
 - [Position: Measure Dataset Diversity, Don’t Just Claim It](https://arxiv.org/pdf/2407.08188), Jul. 11 2024.
 - [Learning dynamics paper list by Zeke Xie](https://github.com/zeke-xie/deep-learning-dynamics-paper-list). `nn learning dynamics`.
+- [RELBENCH: A Benchmark for Deep Learning on Relational Databases](https://arxiv.org/pdf/2407.20060), Jul. 29 2024.
 
 ## LLMs related
 
@@ -109,6 +110,12 @@
 - [u-µP: The Unit-Scaled Maximal Update Parametrization](https://arxiv.org/pdf/2407.17465), Jul. 24 2024.
 - [X-Sample Contrastive Loss: Improving Contrastive Learning with Sample Similarity Graphs](https://arxiv.org/pdf/2407.18134), Jul. 25 2024.
 - [The Principles of Deep Learning Theory](https://deeplearningtheory.com/lectures/).
+- [Understanding Memorisation in LLMs: Dynamics, Influencing Factors, and Implications](https://arxiv.org/pdf/2407.19262), Jul. 27 2024. `learning dynamics`.
+- [Do Language Models Have a Critical Period for Language Acquisition?](https://arxiv.org/pdf/2407.19325), Jul. 27 2024. `learning dynamics`.
+- [From Pre-training Corpora to Large Language Models: What Factors Influence LLM Performance in Causal Discovery Tasks?](https://arxiv.org/pdf/2407.19638), Jul. 29 2024. `knowledge extraction`, `causal knowledge`.
+- [Polynomial Regression as a Task for Understanding In-context Learning Through Finetuning and Alignment](https://arxiv.org/pdf/2407.19346), Jul. 27 2024.
+- [Understanding the Relationship between Prompts and Response Uncertainty in Large Language Models](https://arxiv.org/pdf/2407.14845), Jul. 20 2024. related to `knowledge extraction`.
+  - _"We show that the uncertainty decreases as the prompt's informativeness increases, similar to epistemic uncertainty"_
 
 ### Prompting techniques
 
@@ -157,6 +164,7 @@
 - [Transformers on Markov Data: Constant Depth Suffices](https://arxiv.org/pdf/2407.17686), Jul. 25 2024. [code](https://github.com/Bond1995/Constant-depth-Transformers).
 - [Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://arxiv.org/pdf/2407.18158), Jul. 25 2024.
   - _"With Monarch matrices, Kronecker factorizations, and post-training quantization, we achieve non-vacuous generalization bounds for LLMs as large as LLaMA2-70B"_.
+- [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://arxiv.org/pdf/2407.20311), Jul. 29 2024.
 
 ### Pre-training
 
