@@ -313,6 +313,8 @@
 
 ### Evaluation
 
+- [Evaluating language models as risk scores](https://arxiv.org/pdf/2407.14614), Jul. 19 2024.
+
 #### Data contamination
 
 - [Unveiling the Spectrum of Data Contamination in Language Models: A Survey from Detection to Remediation](https://arxiv.org/pdf/2406.14644), Jun. 20 2024.
