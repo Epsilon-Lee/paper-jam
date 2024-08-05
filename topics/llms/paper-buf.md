@@ -238,6 +238,7 @@
 - [LoRA Learns Less and Forgets Less](https://arxiv.org/pdf/2405.09673v1), May 15 2024.
 - [The Impact of Initialization on LoRA Finetuning Dynamics](https://arxiv.org/pdf/2406.08447), Jun. 12 2024. `lora`.
 - [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](https://arxiv.org/abs/2312.09979), Dec. 15 2023. `knowledge forgetting`.
+- [LoRA-Pro: Are Low-Rank Adapters Properly Optimized?](https://arxiv.org/pdf/2407.18242), Jul. 25 2024.
 
 #### Knowledge updating, model editing
 
