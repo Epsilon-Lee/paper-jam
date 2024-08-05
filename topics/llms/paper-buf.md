@@ -165,6 +165,7 @@
 - [Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://arxiv.org/pdf/2407.18158), Jul. 25 2024.
   - _"With Monarch matrices, Kronecker factorizations, and post-training quantization, we achieve non-vacuous generalization bounds for LLMs as large as LLaMA2-70B"_.
 - [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://arxiv.org/pdf/2407.20311), Jul. 29 2024.
+- [Memory-efficient Training of LLMs with Larger Mini-batches](https://arxiv.org/pdf/2407.19580), Jul. 28 2024.
 
 ### Pre-training
 
@@ -229,8 +230,10 @@
 - [DART-Math: Difficulty-Aware Rejection Tuning for Mathematical Problem-Solving](https://arxiv.org/pdf/2407.13690), Jun. 18 2024.
 - [DDK: Distilling Domain Knowledge for Efficient Large Language Models](https://arxiv.org/pdf/2407.16154), Jul. 23 2024.
 - [Towards effective and efficient continual pre-training of large language models](https://arxiv.org/pdf/2407.18743), Jul. 26 2024.
+- [Lawma: The power of specialization for legal tasks](https://arxiv.org/pdf/2407.16615), Jul. 23 2024. [github](https://github.com/socialfoundations/lawma).
+  - _"We then demostrate that a highly fine-tuned Llama 3 model vastly outperforms GPT-4 on almost all tasks. [...] find that larger models respond better to fine-tuning than smaller models. A few ten to hundreds of examples suffice to achieve high classification accuracy."_
 
-#### Peft
+#### Peft techniques
 
 - [LoRA Learns Less and Forgets Less](https://arxiv.org/pdf/2405.09673v1), May 15 2024.
 - [The Impact of Initialization on LoRA Finetuning Dynamics](https://arxiv.org/pdf/2406.08447), Jun. 12 2024. `lora`.
@@ -255,6 +258,7 @@
 - [Towards understanding factual knowledge of large language models](https://openreview.net/pdf?id=9OevMUdods), ICLR 2024.
 - [Knowledge Card: Filling LLMs' Knowledge Gaps with Plug-in Specialized Language Models](https://openreview.net/pdf?id=WbWtOYIzIK), ICLR 2024.
 - [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/pdf/2407.15017), Jul. 22 2024.
+- [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/pdf/2407.20999), Jul. 30 2024.
 
 #### Preference alignment, reward models
 
