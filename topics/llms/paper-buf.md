@@ -116,6 +116,12 @@
 - [Polynomial Regression as a Task for Understanding In-context Learning Through Finetuning and Alignment](https://arxiv.org/pdf/2407.19346), Jul. 27 2024.
 - [Understanding the Relationship between Prompts and Response Uncertainty in Large Language Models](https://arxiv.org/pdf/2407.14845), Jul. 20 2024. related to `knowledge extraction`.
   - _"We show that the uncertainty decreases as the prompt's informativeness increases, similar to epistemic uncertainty"_
+- [Self-Consuming Generative Models with Curated Data Provably Optimize Human Preferences](https://arxiv.org/pdf/2407.09499), Jun. 12 2024. `synthetic data` `theory`.
+- [Why Larger Language Models Do In-context Learning Differently?](https://arxiv.org/pdf/2405.19592), May 30 2024. `in-context learning`.
+- [Investigating the Pre-Training Dynamics of In-Context Learning: Task Recognition vs. Task Learning](https://arxiv.org/pdf/2406.14022), Jun. 20 2024. `in-context learning`.
+- [Can LLMs predict the convergence of Stochastic Gradient Descent?](https://arxiv.org/pdf/2408.01736), Aug. 3 2024.
+- [STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs](https://arxiv.org/pdf/2408.01803), Aug. 3 2024. `efficient llm`.
+- [Self-Taught Evaluators](https://arxiv.org/pdf/2408.02666), Aug. 8 2024. `self-eval`.
 
 ### Prompting techniques
 
@@ -232,6 +238,7 @@
 - [Towards effective and efficient continual pre-training of large language models](https://arxiv.org/pdf/2407.18743), Jul. 26 2024.
 - [Lawma: The power of specialization for legal tasks](https://arxiv.org/pdf/2407.16615), Jul. 23 2024. [github](https://github.com/socialfoundations/lawma).
   - _"We then demostrate that a highly fine-tuned Llama 3 model vastly outperforms GPT-4 on almost all tasks. [...] find that larger models respond better to fine-tuning than smaller models. A few ten to hundreds of examples suffice to achieve high classification accuracy."_
+- [Leveraging the Power of LLMs: A Fine-Tuning Approach for High-Quality Aspect-Based Summarization](https://arxiv.org/pdf/2408.02584), Aug. 5 2024.
 
 #### Peft techniques
 
@@ -263,6 +270,7 @@
 
 #### Preference alignment, reward models
 
+- [Dissecting Human and LLM Preferences](https://arxiv.org/pdf/2402.11296), Feb. 17 2024.
 - [The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions](https://arxiv.org/pdf/2404.13208), Apr. 19 2024. `system prompt`.
 - [RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold](https://arxiv.org/pdf/2406.14532), Jun. 20 2024. `post-training`.
 - [Measuring memorization in RLHF for code completion](https://arxiv.org/pdf/2406.11715), Jun. 17 2024.
@@ -349,6 +357,6 @@
 - [Internet of agents: Weaving a web of heterogeneous agents for collaborative intelligence](https://arxiv.org/pdf/2407.07061), Jul. 10 2024.
 - [On the Design and Analysis of LLM-Based Algorithms](https://arxiv.org/pdf/2407.14788), Jul. 20 2024.
 - [Recursive Introspection: Teaching Language Model Agents How to Self-Improve](https://arxiv.org/pdf/2407.18219), Jul. 25 2024.
-
+- [ReDel: A Toolkit for LLM-Powered Recursive Multi-Agent Systems](https://arxiv.org/pdf/2408.02248), Aug. 5 2024.
 
 
