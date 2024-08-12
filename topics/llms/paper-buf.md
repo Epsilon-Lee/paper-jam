@@ -362,6 +362,8 @@
 #### Toolkit
 
 - [Foundation Model Evaluations Library](https://github.com/aws/fmeval), [paper](https://arxiv.org/pdf/2407.12872), Jul. 15 2024.
+- [UltraEval](https://github.com/OpenBMB/UltraEval).
+- [simple-evals](https://github.com/openai/simple-evals), OpenAI simple-evals.
 
 ### Agent
 
@@ -374,5 +376,6 @@
 - [ReDel: A Toolkit for LLM-Powered Recursive Multi-Agent Systems](https://arxiv.org/pdf/2408.02248), Aug. 5 2024.
 - [ChatDev: Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924), Jun. 5 2024.
 - [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/pdf/2407.16741), Jul. 23 2024.
+- [RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation](https://arxiv.org/pdf/2408.02545), Aug. 5 2024. [code](https://github.com/IntelLabs/RAGFoundry).
 
 
