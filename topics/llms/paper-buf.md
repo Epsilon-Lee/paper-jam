@@ -33,6 +33,7 @@
 - [RELBENCH: A Benchmark for Deep Learning on Relational Databases](https://arxiv.org/pdf/2407.20060), Jul. 29 2024.
 - [Data Debugging is NP-hard for Classifiers Trained with SGD](https://arxiv.org/pdf/2408.01365), Aug. 2 2024. `data attribution`.
 - [Data Attribution at Scale](https://ml-data-tutorial.org/), ICML 2024 tutorial.
+- [The Principles of Deep Learning Theory](https://deeplearningtheory.com/lectures/).
 
 ## LLMs related
 
@@ -41,23 +42,16 @@
   - It is interesting to know the data distribution of queries to ChatGPT.
 - [Lessons from the Trenches on Reproducible Evaluation of Language Models](https://arxiv.org/abs/2405.14782), May 23 2024. `evaluation`.
 - [How Far Can Transformers Reason? The Locality Barrier and Inductive Scratchpad](https://arxiv.org/pdf/2406.06467), Jun. 10 2024. `reasoning`.
-- [Probing the Decision Boundaries of In-context Learning in Large Language Models](https://arxiv.org/pdf/2406.11233), Jun. 17 2024. `icl`.
-- [Unraveling the Mechanics of Learning-Based Demonstration Selection for In-Context Learning](https://arxiv.org/pdf/2406.11890), Jun. 14 2024. `icl`.
 - [Large Scale Transfer Learning for Tabular Data via Language Modeling](https://arxiv.org/pdf/2406.12031), Jun. 2024. `tabular llm`.
-- [A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning](https://arxiv.org/pdf/2406.12255), Jun. 18 2024. `interpretability`.
 - [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/pdf/2406.11931), Jun. 17 2024. `tech report`.
 - [Infinite Limits of Multi-head Transformer Dynamics](https://arxiv.org/pdf/2405.15712), May 24 2024. `learning dynamics`.
-- [MLPs Learn In-Context](https://arxiv.org/pdf/2405.15618), May 24 2024. `icl`.
 - [What Variables Affect Out-Of-Distribution Generalization in Pretrained Models?](https://arxiv.org/pdf/2405.15018), May 23 2024.
-- [Quantifying In-Context Reasoning Effects and Memorization Effects in LLMs](https://arxiv.org/pdf/2405.11880), May 20 2024. `icl`.
 - [Learning Beyond Pattern Matching? Assaying Mathematical Understanding in LLMs](https://arxiv.org/pdf/2405.15485), May 24 2024. `reasoning`.
 - [Towards Understanding How Transformer Perform Multi-step Reasoning with Matching Operation](https://arxiv.org/pdf/2405.15302), May 24 2024. `reasoning`.
 - [From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step](https://arxiv.org/pdf/2405.14838), May 23 2024. `reasoning`.
 - [Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models](https://arxiv.org/pdf/2405.15143), May 24 2024. `reasoning` `agent`.
-- [Why Larger Language Models Do In-context Learning Differently?](https://arxiv.org/pdf/2405.19592), May 30 2024. `icl`.
 - [From Words to Actions: Unveiling the Theoretical Underpinnings of LLM-Driven Autonomous Systems](https://arxiv.org/pdf/2405.19883), May 30 2024. `agent`.
 - [Kernel Language Entropy: Fine-grained Uncertainty Quantification for LLMs from Semantic Similarities](https://arxiv.org/pdf/2405.20003), May 30 2024. `uncertainty`.
-- [Is In-Context Learning Sufficient for Instruction Following in LLMs?](https://arxiv.org/pdf/2405.19874), May 30 2024. `icl`.
 - [A Language Model's Guide Through Latent Space](https://arxiv.org/pdf/2402.14433), Feb. 22 2024.
 - [Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models](https://proceedings.mlr.press/v202/liu23ao/liu23ao.pdf), ICML 2023.
 - [How Truncating Weights Improves Reasoning in Language Models](https://arxiv.org/pdf/2406.03068), Jun. 5 2024. `reasoning`.
@@ -111,7 +105,6 @@
 - [Internal Consistency and Self-Feedback in Large Language Models](https://arxiv.org/pdf/2407.14507), Jul. 19 2024.
 - [u-µP: The Unit-Scaled Maximal Update Parametrization](https://arxiv.org/pdf/2407.17465), Jul. 24 2024.
 - [X-Sample Contrastive Loss: Improving Contrastive Learning with Sample Similarity Graphs](https://arxiv.org/pdf/2407.18134), Jul. 25 2024.
-- [The Principles of Deep Learning Theory](https://deeplearningtheory.com/lectures/).
 - [Understanding Memorisation in LLMs: Dynamics, Influencing Factors, and Implications](https://arxiv.org/pdf/2407.19262), Jul. 27 2024. `learning dynamics`.
 - [Do Language Models Have a Critical Period for Language Acquisition?](https://arxiv.org/pdf/2407.19325), Jul. 27 2024. `learning dynamics`.
 - [From Pre-training Corpora to Large Language Models: What Factors Influence LLM Performance in Causal Discovery Tasks?](https://arxiv.org/pdf/2407.19638), Jul. 29 2024. `knowledge extraction`, `causal knowledge`.
@@ -119,13 +112,25 @@
 - [Understanding the Relationship between Prompts and Response Uncertainty in Large Language Models](https://arxiv.org/pdf/2407.14845), Jul. 20 2024. related to `knowledge extraction`.
   - _"We show that the uncertainty decreases as the prompt's informativeness increases, similar to epistemic uncertainty"_
 - [Self-Consuming Generative Models with Curated Data Provably Optimize Human Preferences](https://arxiv.org/pdf/2407.09499), Jun. 12 2024. `synthetic data` `theory`.
-- [Why Larger Language Models Do In-context Learning Differently?](https://arxiv.org/pdf/2405.19592), May 30 2024. `in-context learning`.
-- [Investigating the Pre-Training Dynamics of In-Context Learning: Task Recognition vs. Task Learning](https://arxiv.org/pdf/2406.14022), Jun. 20 2024. `in-context learning`.
 - [Can LLMs predict the convergence of Stochastic Gradient Descent?](https://arxiv.org/pdf/2408.01736), Aug. 3 2024.
 - [STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs](https://arxiv.org/pdf/2408.01803), Aug. 3 2024. `efficient llm`.
 - [Self-Taught Evaluators](https://arxiv.org/pdf/2408.02666), Aug. 8 2024. `self-eval`.
-- [Transformers are Universal In-context Learners](https://arxiv.org/pdf/2408.01367), Aug. 2 2024. `in-context learning`.
 - [A Survey of Mamba](https://arxiv.org/pdf/2408.01129), Aug. 2 2024.
+
+### In-context learning
+
+- [In-context Learning and Induction Heads](https://arxiv.org/pdf/2209.11895), Mar. 8 2022. `in-context-learning`.
+- [Inductive Biases and Variable Creation in Self-Attention Mechanisms](https://arxiv.org/pdf/2110.10090), Jun. 24 2024. `variable mechanism`.
+- [Is Mamba Capable of In-Context Learning?](https://arxiv.org/pdf/2402.03170v2), Apr. 24 2024.
+- [Quantifying In-Context Reasoning Effects and Memorization Effects in LLMs](https://arxiv.org/pdf/2405.11880), May 20 2024. `icl`.
+- [MLPs Learn In-Context](https://arxiv.org/pdf/2405.15618), May 24 2024. `icl`.
+- [Why Larger Language Models Do In-context Learning Differently?](https://arxiv.org/pdf/2405.19592), May 30 2024. `in-context learning`.
+- [Is In-Context Learning Sufficient for Instruction Following in LLMs?](https://arxiv.org/pdf/2405.19874), May 30 2024. `icl`.
+- [Why Larger Language Models Do In-context Learning Differently?](https://arxiv.org/pdf/2405.19592), May 30 2024. `icl`.
+- [Unraveling the Mechanics of Learning-Based Demonstration Selection for In-Context Learning](https://arxiv.org/pdf/2406.11890), Jun. 14 2024. `icl`.
+- [Probing the Decision Boundaries of In-context Learning in Large Language Models](https://arxiv.org/pdf/2406.11233), Jun. 17 2024. `icl`.
+- [Investigating the Pre-Training Dynamics of In-Context Learning: Task Recognition vs. Task Learning](https://arxiv.org/pdf/2406.14022), Jun. 20 2024. `in-context learning`.
+- [Transformers are Universal In-context Learners](https://arxiv.org/pdf/2408.01367), Aug. 2 2024. `in-context learning`.
 
 ### Prompting techniques
 
@@ -147,6 +152,7 @@
 
 ### Interpretability
 
+- [A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning](https://arxiv.org/pdf/2406.12255), Jun. 18 2024. `interpretability`.
 - [Exploring the Impact of a Transformer’s Latent Space Geometry on Downstream Task Performance](https://arxiv.org/pdf/2406.12159), Jun. 18 2024.
 - [Pre-trained Large Language Models Use Fourier Features to Compute Addition](https://arxiv.org/pdf/2406.03445), Jun. 5 2024. `mechanistic interpretability`.
 - [Compact Proofs of Model Performance via Mechanistic Interpretability](https://arxiv.org/pdf/2406.11779), Jun. 17 2024. `mechanistic interpretability`.
@@ -315,8 +321,9 @@
 
 ### Data curation
 
-- [TinyGSM: achieving > 80% on GSM8k with small language models](https://arxiv.org/pdf/2312.09241), Dec. 14 2024.
+- [TinyGSM: achieving > 80% on GSM8k with small language models](https://arxiv.org/pdf/2312.09241), Dec. 14 2023.
 - [What makes good data for alignment? A comphrehensive study of automatic data selection in instruction tuning](https://arxiv.org/pdf/2312.15685), Apr. 16 2024.
+- [MetaMath: Bootstrap your own methematical questions for large language models](https://arxiv.org/pdf/2309.12284), May 3 2024.
 - [Instruction Mining: When Data Mining Meets Large Language Model Finetuning](https://arxiv.org/abs/2307.06290), COLM 2024.
 - [Data, Data Everywhere: A Guide for Pretraining Dataset Construction](https://www.arxiv.org/pdf/2407.06380), Jul. 8 2024. `data curation`.
   - _"we categorize the most widely used data source, web crawl snapshots, across the attributes of toxicity, quality, type of speech, and domain [...] we show how such attribute information can be used to further refine and improve the quality of a pretraining set"_
@@ -358,6 +365,7 @@
 
 ### Agent
 
+- [Agentic Workflow新范式，基于大语言模型的工作流、业务流程、智能体大融合【附十篇相关论文】](https://mp.weixin.qq.com/s/i9QB_OtUboHnoZOKn-oKmA), Aug. 5 2024.
 - [Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/pdf/2406.04692), Jun. 7 2024. `agent`.
 - [TextGrad: Automatic "Differentiation" via Text](https://arxiv.org/abs/2406.07496), Jun. 11 2024. `agent`.
 - [Internet of agents: Weaving a web of heterogeneous agents for collaborative intelligence](https://arxiv.org/pdf/2407.07061), Jul. 10 2024.
