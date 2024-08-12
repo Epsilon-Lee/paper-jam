@@ -31,6 +31,8 @@
 - [Position: Measure Dataset Diversity, Don’t Just Claim It](https://arxiv.org/pdf/2407.08188), Jul. 11 2024.
 - [Learning dynamics paper list by Zeke Xie](https://github.com/zeke-xie/deep-learning-dynamics-paper-list). `nn learning dynamics`.
 - [RELBENCH: A Benchmark for Deep Learning on Relational Databases](https://arxiv.org/pdf/2407.20060), Jul. 29 2024.
+- [Data Debugging is NP-hard for Classifiers Trained with SGD](https://arxiv.org/pdf/2408.01365), Aug. 2 2024. `data attribution`.
+- [Data Attribution at Scale](https://ml-data-tutorial.org/), ICML 2024 tutorial.
 
 ## LLMs related
 
@@ -122,6 +124,8 @@
 - [Can LLMs predict the convergence of Stochastic Gradient Descent?](https://arxiv.org/pdf/2408.01736), Aug. 3 2024.
 - [STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs](https://arxiv.org/pdf/2408.01803), Aug. 3 2024. `efficient llm`.
 - [Self-Taught Evaluators](https://arxiv.org/pdf/2408.02666), Aug. 8 2024. `self-eval`.
+- [Transformers are Universal In-context Learners](https://arxiv.org/pdf/2408.01367), Aug. 2 2024. `in-context learning`.
+- [A Survey of Mamba](https://arxiv.org/pdf/2408.01129), Aug. 2 2024.
 
 ### Prompting techniques
 
@@ -172,6 +176,7 @@
   - _"With Monarch matrices, Kronecker factorizations, and post-training quantization, we achieve non-vacuous generalization bounds for LLMs as large as LLaMA2-70B"_.
 - [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://arxiv.org/pdf/2407.20311), Jul. 29 2024.
 - [Memory-efficient Training of LLMs with Larger Mini-batches](https://arxiv.org/pdf/2407.19580), Jul. 28 2024.
+- [The Quest for the Right Mediator: A History, Survey, and Theoretical Grounding of Causal Interpretability](https://arxiv.org/pdf/2408.01416), Aug. 2 2024.
 
 ### Pre-training
 
@@ -246,6 +251,7 @@
 - [The Impact of Initialization on LoRA Finetuning Dynamics](https://arxiv.org/pdf/2406.08447), Jun. 12 2024. `lora`.
 - [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](https://arxiv.org/abs/2312.09979), Dec. 15 2023. `knowledge forgetting`.
 - [LoRA-Pro: Are Low-Rank Adapters Properly Optimized?](https://arxiv.org/pdf/2407.18242), Jul. 25 2024.
+- [Conditional LoRA Parameter Generation](https://arxiv.org/pdf/2408.01415), Aug. 2024.
 
 #### Knowledge updating, model editing
 
@@ -358,5 +364,7 @@
 - [On the Design and Analysis of LLM-Based Algorithms](https://arxiv.org/pdf/2407.14788), Jul. 20 2024.
 - [Recursive Introspection: Teaching Language Model Agents How to Self-Improve](https://arxiv.org/pdf/2407.18219), Jul. 25 2024.
 - [ReDel: A Toolkit for LLM-Powered Recursive Multi-Agent Systems](https://arxiv.org/pdf/2408.02248), Aug. 5 2024.
+- [ChatDev: Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924), Jun. 5 2024.
+- [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/pdf/2407.16741), Jul. 23 2024.
 
 
