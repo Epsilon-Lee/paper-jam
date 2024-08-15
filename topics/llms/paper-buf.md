@@ -116,6 +116,14 @@
 - [STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs](https://arxiv.org/pdf/2408.01803), Aug. 3 2024. `efficient llm`.
 - [Self-Taught Evaluators](https://arxiv.org/pdf/2408.02666), Aug. 8 2024. `self-eval`.
 - [A Survey of Mamba](https://arxiv.org/pdf/2408.01129), Aug. 2 2024.
+- [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/pdf/2408.07666), Aug. 14 2024.
+- [A Survey on Model MoErging: Recycling and Routing Among Specialized Experts for Collaborative Learning](https://arxiv.org/pdf/2408.07057), Aug. 13 2024.
+- [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/pdf/2408.06292), Aug. 12 2024.
+- [Tree Attention: Topology-Aware Decoding for Long-Context Attention on GPU Clusters](https://arxiv.org/pdf/2408.04093), Aug. 9 2024.
+- [FUSE-ing Language Models: Zero-Shot Adapter Discovery for Prompt Optimization Across Tokenizers](https://arxiv.org/pdf/2408.04816), Aug. 9 2024.
+- [Natural Language Outlines for Code: Literate Programming in the LLM Era](https://arxiv.org/pdf/2408.04820), Aug. 9 2024.
+- [Can a Bayesian Oracle Prevent Harm from an Agent?](https://arxiv.org/pdf/2408.05284), Aug. 9 2024.
+- [Low-Rank Approximation, Adaptation, and Other Tales](https://arxiv.org/pdf/2408.05883), Aug. 12 2024.
 
 ### In-context learning
 
@@ -183,6 +191,8 @@
 - [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://arxiv.org/pdf/2407.20311), Jul. 29 2024.
 - [Memory-efficient Training of LLMs with Larger Mini-batches](https://arxiv.org/pdf/2407.19580), Jul. 28 2024.
 - [The Quest for the Right Mediator: A History, Survey, and Theoretical Grounding of Causal Interpretability](https://arxiv.org/pdf/2408.01416), Aug. 2 2024.
+- [Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2](https://arxiv.org/pdf/2408.05147), Aug. 9 2024.
+- [Mathematical Models of Computation in Superposition](https://arxiv.org/pdf/2408.05451), Aug. 10 2024.
 
 ### Pre-training
 
@@ -250,6 +260,7 @@
 - [Lawma: The power of specialization for legal tasks](https://arxiv.org/pdf/2407.16615), Jul. 23 2024. [github](https://github.com/socialfoundations/lawma).
   - _"We then demostrate that a highly fine-tuned Llama 3 model vastly outperforms GPT-4 on almost all tasks. [...] find that larger models respond better to fine-tuning than smaller models. A few ten to hundreds of examples suffice to achieve high classification accuracy."_
 - [Leveraging the Power of LLMs: A Fine-Tuning Approach for High-Quality Aspect-Based Summarization](https://arxiv.org/pdf/2408.02584), Aug. 5 2024.
+- [Re-TASK: Revisiting LLM Tasks from Capability, Skill, and Knowledge Perspectives](https://arxiv.org/pdf/2408.06904), Aug. 13 2024.
 
 #### Peft techniques
 
@@ -279,6 +290,7 @@
 - [Knowledge Card: Filling LLMs' Knowledge Gaps with Plug-in Specialized Language Models](https://openreview.net/pdf?id=WbWtOYIzIK), ICLR 2024.
 - [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/pdf/2407.15017), Jul. 22 2024.
 - [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/pdf/2407.20999), Jul. 30 2024.
+-[Knowledge in Superposition: Unveiling the Failures of Lifelong Knowledge Editing for Large Language Models](https://arxiv.org/pdf/2408.07413), Aug. 14 2024.
 
 #### Preference alignment, reward models
 
