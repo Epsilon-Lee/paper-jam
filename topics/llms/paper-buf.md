@@ -124,6 +124,9 @@
 - [Natural Language Outlines for Code: Literate Programming in the LLM Era](https://arxiv.org/pdf/2408.04820), Aug. 9 2024.
 - [Can a Bayesian Oracle Prevent Harm from an Agent?](https://arxiv.org/pdf/2408.05284), Aug. 9 2024.
 - [Low-Rank Approximation, Adaptation, and Other Tales](https://arxiv.org/pdf/2408.05883), Aug. 12 2024.
+- [Does Reasoning Emerge? Examining the Probabilities of Causation in Large Language Models](https://arxiv.org/pdf/2408.08210), Aug. 15 2024.
+- [BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts](https://arxiv.org/pdf/2408.08274), Aug. 15 2024.
+- [Out-of-Distribution Learning with Human Feedback](https://arxiv.org/pdf/2408.07772), Aug. 14 2024.
 
 ### In-context learning
 
@@ -213,6 +216,11 @@
 ### Reasoning
 
 - [System-1.x: Learning to Balance Fast and Slow Planning with Language Models](https://arxiv.org/pdf/2407.14414), Jul. 19 2024.
+- [Does reasoning emerge? Examing the probabilities of causation in large language models](https://arxiv.org/pdf/2408.08210), Aug. 15 2024.
+  - _"to what extent do LLMs perform actual reasoning"_
+  - two key probabilistic concepts that are essential for connecting causes to their effects: the probability of necessity (PN) and the probability of sufficiency (PS)
+  - Use PN and PS to assess LLMs.
+- [Can Large Language Models Understand Symbolic Graphics Programs?](https://arxiv.org/pdf/2408.08313), Aug. 15 2024.
 
 ### Post-training, preference alignment, model editing
 
@@ -290,7 +298,8 @@
 - [Knowledge Card: Filling LLMs' Knowledge Gaps with Plug-in Specialized Language Models](https://openreview.net/pdf?id=WbWtOYIzIK), ICLR 2024.
 - [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/pdf/2407.15017), Jul. 22 2024.
 - [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/pdf/2407.20999), Jul. 30 2024.
--[Knowledge in Superposition: Unveiling the Failures of Lifelong Knowledge Editing for Large Language Models](https://arxiv.org/pdf/2408.07413), Aug. 14 2024.
+- [Knowledge in Superposition: Unveiling the Failures of Lifelong Knowledge Editing for Large Language Models](https://arxiv.org/pdf/2408.07413), Aug. 14 2024.
+- [Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability]()
 
 #### Preference alignment, reward models
 
