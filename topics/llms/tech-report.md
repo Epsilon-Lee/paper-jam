@@ -29,4 +29,4 @@
 - [SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal Domain](https://arxiv.org/pdf/2407.19584), Jul. 29 2024. `legal`.
 - [SeaLLMs - Large Language Models for Southeast Asia](https://arxiv.org/pdf/2312.00738), Jul. 1 2024. `multilinguality`.
 - [SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models for Southeast Asian Languages](https://arxiv.org/pdf/2407.19672), Jul. 29 2024. `multilinguality`.
-
+- [Med42-v2: A suite of clinical LLMs](https://arxiv.org/pdf/2408.06142), Aug. 12 2024.
