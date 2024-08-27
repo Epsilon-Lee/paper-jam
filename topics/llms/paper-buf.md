@@ -208,6 +208,7 @@
 - [Memorization Without Overfitting: Analyzing the Training Dynamics of Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/file/fa0509f4dab6807e2cb465715bf2d249-Paper-Conference.pdf), NeurIPS 2022.
 - [How Do Large Language Models Acquire Factual Knowledge During Pretraining?](https://arxiv.org/abs/2406.11813), Jun. 17 2024. `interpretability`.
 - [How to Train Data-Efficient LLMs](https://arxiv.org/pdf/2402.09668), Feb. 15 2024.
+- [Simple and Scalable Strategies to Continually Pre-train Large Language Models](https://arxiv.org/pdf/2403.08763), Mar. 26 2024.
 
 #### Optimization
 
