@@ -34,6 +34,8 @@
 - [Data Debugging is NP-hard for Classifiers Trained with SGD](https://arxiv.org/pdf/2408.01365), Aug. 2 2024. `data attribution`.
 - [Data Attribution at Scale](https://ml-data-tutorial.org/), ICML 2024 tutorial.
 - [The Principles of Deep Learning Theory](https://deeplearningtheory.com/lectures/).
+- [Zero-Shot Object-Centric Representation Learning](https://arxiv.org/pdf/2408.09162), Aug. 17 2024.
+- [Representation Norm Amplification for Out-of-Distribution Detection in Long-Tail Learning](https://arxiv.org/pdf/2408.10676), Aug. 20 2024.
 
 ## LLMs related
 
@@ -127,6 +129,11 @@
 - [Does Reasoning Emerge? Examining the Probabilities of Causation in Large Language Models](https://arxiv.org/pdf/2408.08210), Aug. 15 2024.
 - [BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts](https://arxiv.org/pdf/2408.08274), Aug. 15 2024.
 - [Out-of-Distribution Learning with Human Feedback](https://arxiv.org/pdf/2408.07772), Aug. 14 2024.
+- [Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models](https://arxiv.org/pdf/2408.10189), Aug. 19 2024.
+- [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/pdf/2408.10205), Aug. 19 2024.
+- [Learning Randomized Algorithms with Transformers](https://arxiv.org/pdf/2408.10818), Aug. 20 2024.
+- [Classifier-Free Guidance is a Predictor-Corrector](https://arxiv.org/pdf/2408.09000), Aug. 23 2024.
+- [What can Large Language Models Capture about Code Functional Equivalence?](https://arxiv.org/pdf/2408.11081), Aug. 20 2024.
 
 ### In-context learning
 
@@ -142,6 +149,7 @@
 - [Probing the Decision Boundaries of In-context Learning in Large Language Models](https://arxiv.org/pdf/2406.11233), Jun. 17 2024. `icl`.
 - [Investigating the Pre-Training Dynamics of In-Context Learning: Task Recognition vs. Task Learning](https://arxiv.org/pdf/2406.14022), Jun. 20 2024. `in-context learning`.
 - [Transformers are Universal In-context Learners](https://arxiv.org/pdf/2408.01367), Aug. 2 2024. `in-context learning`.
+- [Memorization in in-context learning](https://arxiv.org/pdf/2408.11546), Aug. 21 2024.
 
 ### Prompting techniques
 
@@ -196,6 +204,27 @@
 - [The Quest for the Right Mediator: A History, Survey, and Theoretical Grounding of Causal Interpretability](https://arxiv.org/pdf/2408.01416), Aug. 2 2024.
 - [Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2](https://arxiv.org/pdf/2408.05147), Aug. 9 2024.
 - [Mathematical Models of Computation in Superposition](https://arxiv.org/pdf/2408.05451), Aug. 10 2024.
+- [Causal Abstraction: A Theoretical Foundation for Mechanistic Interpretability](https://arxiv.org/pdf/2301.04709), Aug. 7 2024.
+  - [Causal Abstractions of Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2021/file/4f5c422f4d49a5a807eda27434231040-Paper.pdf), NeurIPS 2021.
+- [A Mechanistic Interpretation of Syllogistic Reasoning in Auto-Regressive Language Models](https://arxiv.org/pdf/2408.08590), Aug. 16 2024.
+- [Where is the signal in tokenization space?](https://arxiv.org/pdf/2408.08541), Aug. 16 2024.
+
+#### Theory of Transformers
+
+- [Representational Strengths and Limitations of Transformers](https://arxiv.org/pdf/2306.02896), Nov. 16 2023.
+- [A mathematical perspective on Transformers](https://arxiv.org/pdf/2312.10794), Aug. 12 2024.
+- [How Transformers learn structured data: Insights from hierarchical filtering](https://arxiv.org/pdf/2408.15138), Aug. 27 2024.
+- [Out-of-distribution generalization via composition: a lens through induction heads in Transformers](https://arxiv.org/pdf/2408.09503), Aug. 18 2024.
+
+#### Theory of pre-training
+
+- [A Law of Next-Token Prediction in Large Language Models](https://arxiv.org/pdf/2408.13442), Aug. 24 2024.
+
+#### Theory of icl and prompting
+
+- [One-layer transformers fail to solve the induction heads task](https://arxiv.org/pdf/2408.14332), Aug. 26 2024.
+- [Unveiling the Statistical Foundations of Chain-of-Thought Prompting Methods](https://arxiv.org/pdf/2408.14511), Aug. 25 2024.
+- [In-Context Learning with Representations: Contextual Generalization of Trained Transformers](https://arxiv.org/pdf/2408.10147), Aug. 19 2024.
 
 ### Pre-training
 
@@ -213,6 +242,8 @@
 #### Optimization
 
 - [Deconstructing What Makes a Good Optimizer for Language Models](https://arxiv.org/pdf/2407.07972), Jul. 10 2024.
+- [Narrowing the Focus: Learned Optimizers for Pretrained Models](https://arxiv.org/pdf/2408.09310), Aug. 21 2024.
+- [Power scheduler: A batch size and token number agnostic learning rate scheduler](https://arxiv.org/pdf/2408.13359), Aug. 23 2024.
 
 ### Reasoning
 
@@ -235,6 +266,7 @@
 - [Enhancing Translation Accuracy of Large Language Models through Continual Pre-Training on Parallel Data](https://arxiv.org/pdf/2407.03145), Jul. 3 2024. `post-training for mt`.
 - [Learning dynamics of llm finetuning](https://www.arxiv.org/pdf/2407.10490), Jul. 15 2024. [github](https://github.com/Joshua-Ren/Learning_dynamics_LLM).
 - [Prover-verifier games improves legibility of llm outputs](https://arxiv.org/pdf/2407.13692), Jul. 18 2024.
+- [INSTRUCT-SKILLMIX: A Powerful Pipeline for LLM Instruction Tuning](https://arxiv.org/pdf/2408.14774), Aug. 27 2024.
 
 #### RAG
 
@@ -242,6 +274,7 @@
 - [LLMs Know What They Need: Leveraging a Missing Information Guided Framework to Empower Retrieval-Augmented Generation](https://arxiv.org/pdf/2404.14043v1), Apr. 22 2024.
 - [Evaluation of RAG Metrics for Question Answering in the Telecom Domain](https://arxiv.org/pdf/2407.12873), Jul. 15 2024.
   - application in vertical-domain
+- [Great Memory, Shallow Reasoning: Limits of kNN-LMs](https://arxiv.org/pdf/2408.11815), Aug. 21 2024. [code](https://arxiv.org/pdf/2408.11815).
 
 #### Continual learning (cpt, cft)
 
@@ -270,12 +303,16 @@
   - _"We then demostrate that a highly fine-tuned Llama 3 model vastly outperforms GPT-4 on almost all tasks. [...] find that larger models respond better to fine-tuning than smaller models. A few ten to hundreds of examples suffice to achieve high classification accuracy."_
 - [Leveraging the Power of LLMs: A Fine-Tuning Approach for High-Quality Aspect-Based Summarization](https://arxiv.org/pdf/2408.02584), Aug. 5 2024.
 - [Re-TASK: Revisiting LLM Tasks from Capability, Skill, and Knowledge Perspectives](https://arxiv.org/pdf/2408.06904), Aug. 13 2024.
+- [Instruction Tuning for Large Language Models: A Survey](https://arxiv.org/pdf/2308.10792), Mar. 14 2024. `survey`.
+- [LLM Pruning and Distillation in Practice: The Minitron Approach](https://arxiv.org/pdf/2408.11796), Aug. 26 2024.
 
 #### Peft techniques
 
 - [LoRA Learns Less and Forgets Less](https://arxiv.org/pdf/2405.09673v1), May 15 2024.
+- [QLoRA: Efficient finetuning of quantized LLMs](https://arxiv.org/pdf/2305.14314), May 23 2023.
 - [The Impact of Initialization on LoRA Finetuning Dynamics](https://arxiv.org/pdf/2406.08447), Jun. 12 2024. `lora`.
 - [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](https://arxiv.org/abs/2312.09979), Dec. 15 2023. `knowledge forgetting`.
+- [LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning](https://arxiv.org/pdf/2403.17919), May 25 2024.
 - [LoRA-Pro: Are Low-Rank Adapters Properly Optimized?](https://arxiv.org/pdf/2407.18242), Jul. 25 2024.
 - [Conditional LoRA Parameter Generation](https://arxiv.org/pdf/2408.01415), Aug. 2024.
 
@@ -321,6 +358,7 @@
 - [BOND: Aligning LLMs with Best-of-N Distillation](https://arxiv.org/pdf/2407.14622), Jul. 19 2024.
 - [A comprehensive survey of llm alignment techniques: rlhf, rlaif, ppo, dpo and more](https://arxiv.org/pdf/2407.16216), Jul. 23 2024.
 - [Rule based rewards for language model safety](https://cdn.openai.com/rule-based-rewards-for-language-model-safety.pdf), Jul. 2024.
+- [The Alignment Problem from a Deep Learning Perspective](https://arxiv.org/pdf/2209.00626), Mar. 19 2024.
 
 ### Scaling laws
 
@@ -333,6 +371,8 @@
 - [Scaling retrieval-based language models with a trillion-token datastore](https://arxiv.org/pdf/2407.12854), Jul. 9 2024.
 - [Scaling Training Data with Lossy Image Compression](https://arxiv.org/pdf/2407.17954), Jul. 25 2024
 - [AutoScale - Automatic prediction of compute-optimal data composition for training LLMs](https://arxiv.org/pdf/2407.20177), Jul. 29 2024.
+- [Scaling law with learning rate annealing](https://arxiv.org/pdf/2408.11029), Aug. 20 2024.
+- [Performance Law of Large Language Models](https://arxiv.org/pdf/2408.09895), Aug. 23 2024.
 
 #### FLOPS
 
@@ -380,6 +420,8 @@
 - [metabench A Sparse Benchmark to Measure General Ability in Large Language Models](https://arxiv.org/pdf/2407.12844), Jul. 4 2024. [code](https://github.com/adkipnis/metabench).
 - [AutoBencher: Creating Salient, Novel, Difficult Datasets for Language Models](https://arxiv.org/abs/2407.08351), Jul. 11 2024.
 - [Benchmark agreement testing done right: A guide to llm benchmark evaluation](https://arxiv.org/pdf/2407.13696), Jul. 18 2024.
+- [Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risk of Language Models](https://arxiv.org/pdf/2408.08926), Aug. 15 2024.
+- [Benchmarking Large Language Models for Math Reasoning Tasks](https://arxiv.org/pdf/2408.10839), Aug. 20 2024.
 
 #### Toolkit
 
@@ -400,4 +442,6 @@
 - [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/pdf/2407.16741), Jul. 23 2024.
 - [RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation](https://arxiv.org/pdf/2408.02545), Aug. 5 2024. [code](https://github.com/IntelLabs/RAGFoundry).
 
+### Multi-modality
 
+- [A Practitioner’s Guide to Continual Multimodal Pretraining](https://arxiv.org/pdf/2408.14471), Aug. 26 2024.
