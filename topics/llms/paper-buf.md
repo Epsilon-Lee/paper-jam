@@ -38,6 +38,8 @@
 - [Representation Norm Amplification for Out-of-Distribution Detection in Long-Tail Learning](https://arxiv.org/pdf/2408.10676), Aug. 20 2024.
 - [AlphaCube](https://alphacube.dev/),  [code](https://github.com/kyo-takano/alphacube).
   - [EfficientCube](https://github.com/kyo-takano/EfficientCube), [code](https://github.com/kyo-takano/EfficientCube), [paper](https://openreview.net/forum?id=bnBeNFB27b).
+- [A Geometric Perspective on Diffusion Models](https://arxiv.org/pdf/2305.19947), Aug. 22 2024.
+- [Learning Tree-Structured Composition of Data Augmentation](https://arxiv.org/pdf/2408.14381), Aug. 26 2024.
 
 ## LLMs related
 
@@ -145,6 +147,10 @@
   - _"we propose FUSE (Flexible Unification of Semantic Embeddings), an inexpensive approach to approximating an adapter layer that maps from one model's textual embedding space to another, even across different tokenizers."_
 - [COGEN: Learning from Feedback with Coupled Comprehension and Generation](https://arxiv.org/pdf/2408.15992), Aug. 28 2024.
 - [SWIFT:A Scalable lightWeight Infrastructure for Fine-Tuning](https://arxiv.org/pdf/2408.05517), Aug. 19 2024.
+- [The Unbearable Slowness of Being](https://arxiv.org/pdf/2408.10234), Aug. 3 2024.
+- [An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models](https://arxiv.org/pdf/2408.00724), Aug. 1 2024.
+  - _"We found that a smaller language model with a novel tree search algorithm typically achieves a Pareto-optimal trade-off. These results highlight the potential benefits of deploying smaller models equipped wiht more sophisticated decoding algorithms in budget-constrained scenarios, e.g. on-devices, to enhance problem-solving accuracy."_
+  - [From Decoding to Meta-Generation: Inference-time Algorithms for Large Language Models](https://arxiv.org/pdf/2406.16838), Jun. 24 2024.
 
 ### Length generalization
 
@@ -460,6 +466,7 @@
 - [ChatDev: Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924), Jun. 5 2024.
 - [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/pdf/2407.16741), Jul. 23 2024.
 - [RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation](https://arxiv.org/pdf/2408.02545), Aug. 5 2024. [code](https://github.com/IntelLabs/RAGFoundry).
+- [Automated Design of Agentic Systems](https://arxiv.org/pdf/2408.08435), Aug. 15 2024. [code](https://github.com/ShengranHu/ADAS).
 
 ### Multi-modality
 
