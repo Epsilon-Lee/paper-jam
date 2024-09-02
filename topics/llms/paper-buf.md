@@ -36,6 +36,8 @@
 - [The Principles of Deep Learning Theory](https://deeplearningtheory.com/lectures/).
 - [Zero-Shot Object-Centric Representation Learning](https://arxiv.org/pdf/2408.09162), Aug. 17 2024.
 - [Representation Norm Amplification for Out-of-Distribution Detection in Long-Tail Learning](https://arxiv.org/pdf/2408.10676), Aug. 20 2024.
+- [AlphaCube](https://alphacube.dev/),  [code](https://github.com/kyo-takano/alphacube).
+  - [EfficientCube](https://github.com/kyo-takano/EfficientCube), [code](https://github.com/kyo-takano/EfficientCube), [paper](https://openreview.net/forum?id=bnBeNFB27b).
 
 ## LLMs related
 
@@ -134,6 +136,10 @@
 - [Learning Randomized Algorithms with Transformers](https://arxiv.org/pdf/2408.10818), Aug. 20 2024.
 - [Classifier-Free Guidance is a Predictor-Corrector](https://arxiv.org/pdf/2408.09000), Aug. 23 2024.
 - [What can Large Language Models Capture about Code Functional Equivalence?](https://arxiv.org/pdf/2408.11081), Aug. 20 2024.
+- [Large Language Models for Supply Chain Optimization](https://arxiv.org/pdf/2307.03875), Jul. 13 2023.
+  - [HarnessingAI and LLMs to Revolutionize Retail and Supply Chain Management](https://www.pacificdataintegrators.com/hubfs/Website-Whitepapers/Harnessing%20AI%20and%20LLMs%20to%20Revolutionize%20Retail%20and%20Supply%20Chain%20Management-PDF.pdf).
+  - [OptiGuide](https://github.com/microsoft/OptiGuide).
+  - [Generative AI In Supply Chain](https://www.alvarezandmarsal.com/sites/default/files/article/pdf/Generative%20AI%20in%20Supply%20Chain%20Report%20-%20Compressed%20version.pdf).
 
 ### In-context learning
 
