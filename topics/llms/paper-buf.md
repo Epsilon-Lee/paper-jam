@@ -214,6 +214,8 @@
   - [Causal Abstractions of Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2021/file/4f5c422f4d49a5a807eda27434231040-Paper.pdf), NeurIPS 2021.
 - [A Mechanistic Interpretation of Syllogistic Reasoning in Auto-Regressive Language Models](https://arxiv.org/pdf/2408.08590), Aug. 16 2024.
 - [Where is the signal in tokenization space?](https://arxiv.org/pdf/2408.08541), Aug. 16 2024.
+- [Reframing Human-AI Collaboration for Generating Free-Text Explanations](https://arxiv.org/abs/2112.08674), Dec. 16 2021.
+  - _"Our approach is able to consistently filter GPT-3-generated explanations deemed acceptable by humans"_
 
 #### Theory of Transformers
 
