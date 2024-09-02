@@ -215,6 +215,7 @@
 - [Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://arxiv.org/pdf/2407.18158), Jul. 25 2024.
   - _"With Monarch matrices, Kronecker factorizations, and post-training quantization, we achieve non-vacuous generalization bounds for LLMs as large as LLaMA2-70B"_.
 - [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://arxiv.org/pdf/2407.20311), Jul. 29 2024.
+- [Physics of Language Models: Part 2.2, How to Learn From Mistakes on Grade-School Math Problems](https://arxiv.org/pdf/2408.16293), Aug. 29 2024.
 - [Memory-efficient Training of LLMs with Larger Mini-batches](https://arxiv.org/pdf/2407.19580), Jul. 28 2024.
 - [The Quest for the Right Mediator: A History, Survey, and Theoretical Grounding of Causal Interpretability](https://arxiv.org/pdf/2408.01416), Aug. 2 2024.
 - [Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2](https://arxiv.org/pdf/2408.05147), Aug. 9 2024.
@@ -376,6 +377,7 @@
 - [A comprehensive survey of llm alignment techniques: rlhf, rlaif, ppo, dpo and more](https://arxiv.org/pdf/2407.16216), Jul. 23 2024.
 - [Rule based rewards for language model safety](https://cdn.openai.com/rule-based-rewards-for-language-model-safety.pdf), Jul. 2024.
 - [The Alignment Problem from a Deep Learning Perspective](https://arxiv.org/pdf/2209.00626), Mar. 19 2024.
+- [A Gradient Analysis Framework for Rewarding Good and Penalizing Bad Examples in Language Models](https://arxiv.org/pdf/2408.16751), Aug. 29 2024.
 
 ### Scaling laws
 
