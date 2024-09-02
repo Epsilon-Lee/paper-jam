@@ -40,6 +40,7 @@
   - [EfficientCube](https://github.com/kyo-takano/EfficientCube), [code](https://github.com/kyo-takano/EfficientCube), [paper](https://openreview.net/forum?id=bnBeNFB27b).
 - [A Geometric Perspective on Diffusion Models](https://arxiv.org/pdf/2305.19947), Aug. 22 2024.
 - [Learning Tree-Structured Composition of Data Augmentation](https://arxiv.org/pdf/2408.14381), Aug. 26 2024.
+- [A more unified theory of transfer learning](https://arxiv.org/pdf/2408.16189), Aug. 29 2024.
 
 ## LLMs related
 
