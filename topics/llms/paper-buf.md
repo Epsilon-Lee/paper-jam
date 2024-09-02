@@ -140,6 +140,15 @@
   - [HarnessingAI and LLMs to Revolutionize Retail and Supply Chain Management](https://www.pacificdataintegrators.com/hubfs/Website-Whitepapers/Harnessing%20AI%20and%20LLMs%20to%20Revolutionize%20Retail%20and%20Supply%20Chain%20Management-PDF.pdf).
   - [OptiGuide](https://github.com/microsoft/OptiGuide).
   - [Generative AI In Supply Chain](https://www.alvarezandmarsal.com/sites/default/files/article/pdf/Generative%20AI%20in%20Supply%20Chain%20Report%20-%20Compressed%20version.pdf).
+- [Performative Prediction on Games and Mechanism Design](https://arxiv.org/pdf/2408.05146), Aug. 9 2024.
+- [FUSE-ing Language Models: Zero-Shot Adapter Discovery for Prompt Optimization Across Tokenizers](https://arxiv.org/pdf/2408.04816), Aug. 9 2024. `COLM2024`. [code](https://github.com/jnwilliams/FUSE_prompt_inversion).
+  - _"we propose FUSE (Flexible Unification of Semantic Embeddings), an inexpensive approach to approximating an adapter layer that maps from one model's textual embedding space to another, even across different tokenizers."_
+- [COGEN: Learning from Feedback with Coupled Comprehension and Generation](https://arxiv.org/pdf/2408.15992), Aug. 28 2024.
+- [SWIFT:A Scalable lightWeight Infrastructure for Fine-Tuning](https://arxiv.org/pdf/2408.05517), Aug. 19 2024.
+
+### Length generalization
+
+- [Your Context Is Not an Array: Unveiling Random Access Limitations in Transformers](https://arxiv.org/pdf/2408.05506), Aug. 10 2024.
 
 ### In-context learning
 
