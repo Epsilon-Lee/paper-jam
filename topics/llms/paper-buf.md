@@ -41,6 +41,8 @@
 - [A Geometric Perspective on Diffusion Models](https://arxiv.org/pdf/2305.19947), Aug. 22 2024.
 - [Learning Tree-Structured Composition of Data Augmentation](https://arxiv.org/pdf/2408.14381), Aug. 26 2024.
 - [A more unified theory of transfer learning](https://arxiv.org/pdf/2408.16189), Aug. 29 2024.
+- [The Many Faces of Optimal Weak-to-Strong Learning](https://arxiv.org/pdf/2408.17148), Aug. 30 2024.
+- [Training independent subnetworks for robust prediction](https://arxiv.org/pdf/2010.06610), ICLR 2021.
 
 ## LLMs related
 
@@ -233,6 +235,7 @@
 - [Where is the signal in tokenization space?](https://arxiv.org/pdf/2408.08541), Aug. 16 2024.
 - [Reframing Human-AI Collaboration for Generating Free-Text Explanations](https://arxiv.org/abs/2112.08674), Dec. 16 2021.
   - _"Our approach is able to consistently filter GPT-3-generated explanations deemed acceptable by humans"_
+- [Modularity in Transformers: Investigating Neuron Separability & Specialization](https://arxiv.org/pdf/2408.17324), Aug. 30 2024.
 
 #### Theory of Transformers
 
@@ -472,3 +475,4 @@
 ### Multi-modality
 
 - [A Practitioner’s Guide to Continual Multimodal Pretraining](https://arxiv.org/pdf/2408.14471), Aug. 26 2024.
+- [Visual agents as fast and slow thinker](https://arxiv.org/pdf/2408.08862), Aug. 16 2024.
