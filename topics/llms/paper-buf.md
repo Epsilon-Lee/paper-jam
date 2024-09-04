@@ -236,6 +236,9 @@
 - [Reframing Human-AI Collaboration for Generating Free-Text Explanations](https://arxiv.org/abs/2112.08674), Dec. 16 2021.
   - _"Our approach is able to consistently filter GPT-3-generated explanations deemed acceptable by humans"_
 - [Modularity in Transformers: Investigating Neuron Separability & Specialization](https://arxiv.org/pdf/2408.17324), Aug. 30 2024.
+- [Emergence of Hidden Capabilities: Exploring Learning Dynamics in Concept Space](https://arxiv.org/pdf/2406.19370), Jun. 27 2024.
+- [CONTEXTCITE: Attributing Model Generation to Context](https://openreview.net/pdf?id=PbIe0MNDQx),  ICML 2024 workshop.
+- [A percolation model of emergence: Analyzing Transformers trained on a formal language](https://arxiv.org/pdf/2408.12578), Aug. 22 2024. [code](https://github.com/EkdeepSLubana/ConceptPercolation).
 
 #### Theory of Transformers
 
