@@ -339,6 +339,7 @@
 - [Re-TASK: Revisiting LLM Tasks from Capability, Skill, and Knowledge Perspectives](https://arxiv.org/pdf/2408.06904), Aug. 13 2024.
 - [Instruction Tuning for Large Language Models: A Survey](https://arxiv.org/pdf/2308.10792), Mar. 14 2024. `survey`.
 - [LLM Pruning and Distillation in Practice: The Minitron Approach](https://arxiv.org/pdf/2408.11796), Aug. 26 2024.
+- [Simple and Scalable Strategies to Continually Pre-train Large Language Models](https://arxiv.org/pdf/2403.08763), Sep. 4 2024.
 
 #### Peft techniques
 
