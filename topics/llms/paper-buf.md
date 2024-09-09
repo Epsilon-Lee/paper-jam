@@ -154,6 +154,8 @@
 - [An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models](https://arxiv.org/pdf/2408.00724), Aug. 1 2024.
   - _"We found that a smaller language model with a novel tree search algorithm typically achieves a Pareto-optimal trade-off. These results highlight the potential benefits of deploying smaller models equipped wiht more sophisticated decoding algorithms in budget-constrained scenarios, e.g. on-devices, to enhance problem-solving accuracy."_
   - [From Decoding to Meta-Generation: Inference-time Algorithms for Large Language Models](https://arxiv.org/pdf/2406.16838), Jun. 24 2024.
+- [Olmoe: Open mixture-of-experts language models](https://arxiv.org/pdf/2409.02060), Sep. 3 2024. [data](https://huggingface.co/datasets/allenai/OLMoE-mix-0924).
+- [Reframing Data Value for Large Language Models Through the Lens of Plausability](https://arxiv.org/pdf/2409.00284), Aug. 30 2024.
 
 ### Length generalization
 
@@ -239,6 +241,7 @@
 - [Emergence of Hidden Capabilities: Exploring Learning Dynamics in Concept Space](https://arxiv.org/pdf/2406.19370), Jun. 27 2024.
 - [CONTEXTCITE: Attributing Model Generation to Context](https://openreview.net/pdf?id=PbIe0MNDQx),  ICML 2024 workshop.
 - [A percolation model of emergence: Analyzing Transformers trained on a formal language](https://arxiv.org/pdf/2408.12578), Aug. 22 2024. [code](https://github.com/EkdeepSLubana/ConceptPercolation).
+- [CONTEXTCITE: Attributing Model Generation to Context](https://arxiv.org/pdf/2409.00729), Sep. 1 2024.
 
 #### Theory of Transformers
 
