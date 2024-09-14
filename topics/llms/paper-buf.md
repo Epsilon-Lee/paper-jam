@@ -350,6 +350,9 @@
 - [LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning](https://arxiv.org/pdf/2403.17919), May 25 2024.
 - [LoRA-Pro: Are Low-Rank Adapters Properly Optimized?](https://arxiv.org/pdf/2407.18242), Jul. 25 2024.
 - [Conditional LoRA Parameter Generation](https://arxiv.org/pdf/2408.01415), Aug. 2024.
+- [Fast Forward Low-Rank Training](https://arxiv.org/pdf/2409.04206), Sep. 6  2024.
+  - _"In a Fast Forward stage, we **repeat** the most recent optimizer step until the loss stops improving on a tiny validation set."_
+  - _"By alternating between regular optimization steps and Fast Forward stages, Fast Forward provides up to an87% reduction in FLOPs and up to an 81% reduction in train time over standard SGD with Adam."_
 
 #### Knowledge updating, model editing
 
@@ -372,7 +375,7 @@
 - [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/pdf/2407.15017), Jul. 22 2024.
 - [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/pdf/2407.20999), Jul. 30 2024.
 - [Knowledge in Superposition: Unveiling the Failures of Lifelong Knowledge Editing for Large Language Models](https://arxiv.org/pdf/2408.07413), Aug. 14 2024.
-- [Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability]()
+- [Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability](https://arxiv.org/pdf/2408.07852v1), Aug. 14 2024.
 
 #### Preference alignment, reward models
 
