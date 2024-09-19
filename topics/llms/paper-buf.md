@@ -43,6 +43,9 @@
 - [A more unified theory of transfer learning](https://arxiv.org/pdf/2408.16189), Aug. 29 2024.
 - [The Many Faces of Optimal Weak-to-Strong Learning](https://arxiv.org/pdf/2408.17148), Aug. 30 2024.
 - [Training independent subnetworks for robust prediction](https://arxiv.org/pdf/2010.06610), ICLR 2021.
+- [Interactive Machine Teaching by Labeling Rules and Instances](https://arxiv.org/pdf/2409.05199), Sep. 8 2024.
+- [What to align in multimodal contrastive learning?](https://arxiv.org/pdf/2409.07402), Sep. 11 2024.
+- [Explanation, debate, align: A weak-to-strong framework for language model generalization](https://arxiv.org/pdf/2409.07335), Sep. 11 2024.
 
 ## LLMs related
 
@@ -156,6 +159,7 @@
   - [From Decoding to Meta-Generation: Inference-time Algorithms for Large Language Models](https://arxiv.org/pdf/2406.16838), Jun. 24 2024.
 - [Olmoe: Open mixture-of-experts language models](https://arxiv.org/pdf/2409.02060), Sep. 3 2024. [data](https://huggingface.co/datasets/allenai/OLMoE-mix-0924).
 - [Reframing Data Value for Large Language Models Through the Lens of Plausability](https://arxiv.org/pdf/2409.00284), Aug. 30 2024.
+- [Extracting Paragraphs from LLM Token Activations](https://arxiv.org/pdf/2409.06328), Sep. 10 2024.
 
 ### Length generalization
 
@@ -481,6 +485,7 @@
 - [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/pdf/2407.16741), Jul. 23 2024.
 - [RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation](https://arxiv.org/pdf/2408.02545), Aug. 5 2024. [code](https://github.com/IntelLabs/RAGFoundry).
 - [Automated Design of Agentic Systems](https://arxiv.org/pdf/2408.08435), Aug. 15 2024. [code](https://github.com/ShengranHu/ADAS).
+- [Agent Workflow Memory](https://arxiv.org/pdf/2409.07429), Sep. 11 2024.
 
 ### Multi-modality
 
