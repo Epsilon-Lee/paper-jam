@@ -160,6 +160,14 @@
 - [Olmoe: Open mixture-of-experts language models](https://arxiv.org/pdf/2409.02060), Sep. 3 2024. [data](https://huggingface.co/datasets/allenai/OLMoE-mix-0924).
 - [Reframing Data Value for Large Language Models Through the Lens of Plausability](https://arxiv.org/pdf/2409.00284), Aug. 30 2024.
 - [Extracting Paragraphs from LLM Token Activations](https://arxiv.org/pdf/2409.06328), Sep. 10 2024.
+- [Metacognitive Capabilities of LLMs: An Exploration in Mathematical Problem Solving](https://arxiv.org/pdf/2405.12205), May 20 2024.
+- [Instruct-SkillMix: A powerful pipeline for llm instruction tuning](https://www.arxiv.org/pdf/2408.14774v2), Sep. 9 2024.
+- [MambaByte: Token-free Selective State Space Model](https://arxiv.org/pdf/2401.13660), Aug. 9 2024.
+- [LESS: Selecting Influential Data for Targeted Instruction Tuning](https://arxiv.org/pdf/2402.04333), Jun. 13 2024.
+- [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/pdf/2409.12917), Sep. 19 2024.
+- [ConceptMix: A Compositional Image Generation Benchmark with Controllable Difficulty](https://arxiv.org/pdf/2408.14339), Aug. 26 2024.
+- [GRIN: GRadient-INformed MoE](https://arxiv.org/pdf/2409.12136), Sep. 18 2024.
+- [QWen2.5-Math technical report: Towards mathematical expert model via self-improvement](https://arxiv.org/pdf/2409.12122), Sep. 18 2024.
 
 ### Length generalization
 
@@ -253,6 +261,7 @@
 - [A mathematical perspective on Transformers](https://arxiv.org/pdf/2312.10794), Aug. 12 2024.
 - [How Transformers learn structured data: Insights from hierarchical filtering](https://arxiv.org/pdf/2408.15138), Aug. 27 2024.
 - [Out-of-distribution generalization via composition: a lens through induction heads in Transformers](https://arxiv.org/pdf/2408.09503), Aug. 18 2024.
+- [Transformers in DLOGTIME-Uniform TC0](https://arxiv.org/pdf/2409.13629), Sep. 20 2024.
 
 #### Theory of pre-training
 
@@ -291,6 +300,7 @@
   - two key probabilistic concepts that are essential for connecting causes to their effects: the probability of necessity (PN) and the probability of sufficiency (PS)
   - Use PN and PS to assess LLMs.
 - [Can Large Language Models Understand Symbolic Graphics Programs?](https://arxiv.org/pdf/2408.08313), Aug. 15 2024.
+- [To cot or not to cot? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/pdf/2409.12183), Sep. 18 2024.
 
 ### Post-training, preference alignment, model editing
 
@@ -344,6 +354,7 @@
 - [Instruction Tuning for Large Language Models: A Survey](https://arxiv.org/pdf/2308.10792), Mar. 14 2024. `survey`.
 - [LLM Pruning and Distillation in Practice: The Minitron Approach](https://arxiv.org/pdf/2408.11796), Aug. 26 2024.
 - [Simple and Scalable Strategies to Continually Pre-train Large Language Models](https://arxiv.org/pdf/2403.08763), Sep. 4 2024.
+- [Synthetic continued pretraining](https://arxiv.org/pdf/2409.07431), Sep. 11 2024.
 
 #### Peft techniques
 
@@ -380,6 +391,7 @@
 - [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/pdf/2407.20999), Jul. 30 2024.
 - [Knowledge in Superposition: Unveiling the Failures of Lifelong Knowledge Editing for Large Language Models](https://arxiv.org/pdf/2408.07413), Aug. 14 2024.
 - [Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability](https://arxiv.org/pdf/2408.07852v1), Aug. 14 2024.
+- [Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models](https://arxiv.org/pdf/2409.13474), Sep. 20 2024.
 
 #### Preference alignment, reward models
 
@@ -416,6 +428,7 @@
 - [AutoScale - Automatic prediction of compute-optimal data composition for training LLMs](https://arxiv.org/pdf/2407.20177), Jul. 29 2024.
 - [Scaling law with learning rate annealing](https://arxiv.org/pdf/2408.11029), Aug. 20 2024.
 - [Performance Law of Large Language Models](https://arxiv.org/pdf/2408.09895), Aug. 23 2024.
+- [Exploring Scaling Laws for Local SGD in Large Language Model Training](https://arxiv.org/pdf/2409.13198), Sep. 20 2024.
 
 #### FLOPS
 
