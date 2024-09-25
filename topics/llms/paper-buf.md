@@ -46,6 +46,7 @@
 - [Interactive Machine Teaching by Labeling Rules and Instances](https://arxiv.org/pdf/2409.05199), Sep. 8 2024.
 - [What to align in multimodal contrastive learning?](https://arxiv.org/pdf/2409.07402), Sep. 11 2024.
 - [Explanation, debate, align: A weak-to-strong framework for language model generalization](https://arxiv.org/pdf/2409.07335), Sep. 11 2024.
+- [Rethinking Conventional Wisdom in Machine Learning: From Generalization to Scaling](https://arxiv.org/pdf/2409.15156), Sep. 23 2024.
 
 ## LLMs related
 
@@ -168,6 +169,7 @@
 - [ConceptMix: A Compositional Image Generation Benchmark with Controllable Difficulty](https://arxiv.org/pdf/2408.14339), Aug. 26 2024.
 - [GRIN: GRadient-INformed MoE](https://arxiv.org/pdf/2409.12136), Sep. 18 2024.
 - [QWen2.5-Math technical report: Towards mathematical expert model via self-improvement](https://arxiv.org/pdf/2409.12122), Sep. 18 2024.
+- [A Controlled Study on Long Context Extension and Generalization in LLMs](https://arxiv.org/pdf/2409.12181), Sep. 23 2024.
 
 ### Length generalization
 
