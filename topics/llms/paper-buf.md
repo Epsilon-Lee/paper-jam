@@ -47,6 +47,22 @@
 - [What to align in multimodal contrastive learning?](https://arxiv.org/pdf/2409.07402), Sep. 11 2024.
 - [Explanation, debate, align: A weak-to-strong framework for language model generalization](https://arxiv.org/pdf/2409.07335), Sep. 11 2024.
 - [Rethinking Conventional Wisdom in Machine Learning: From Generalization to Scaling](https://arxiv.org/pdf/2409.15156), Sep. 23 2024.
+- [What is the Right Notion of Distance between Predict-then-Optimize Tasks?](https://arxiv.org/pdf/2409.06997), Sep. 11 2024.
+- [What makes a maze look like a maze?](https://arxiv.org/pdf/2409.08202), Sep. 12 2024.
+- [Is merging worth it? Securely evaluating the information gain for causal dataset acquisition](https://arxiv.org/pdf/2409.07215), Sep. 2024.
+- [Aligning Machine and Human Visual Representations across Abstraction Levels](https://arxiv.org/pdf/2409.06509), Sep. 16 2024.
+- [Input Space Mode Connectivity in Deep Neural Networks](https://arxiv.org/pdf/2409.05800), Sep. 9 2024.
+- [Modelling Global Trade with Optimal Transport](https://arxiv.org/pdf/2409.06554), Sep. 21 2024.
+- [Do Concept Bottleneck Models Respect Localities?](https://arxiv.org/pdf/2401.01259v3), Aug. 31 2024.
+- [From Model Explanation to Data Misinterpretation: Uncovering the Pitfalls of Post Hoc Explainers in Business Research](https://arxiv.org/pdf/2408.16987), Aug. 30 2024.
+- [Unifying causal representation learnign with the invariance principle](https://arxiv.org/pdf/2409.02772), Sep. 4 2024. `representation learning`.
+- [How does the brain compute with probabilities?](https://arxiv.org/pdf/2409.02709), Sep. 1 2024.
+- [Relative-Translation Invariant Wasserstein Distance](https://arxiv.org/pdf/2409.02416), Sep. 4 2024.
+- [Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering](https://arxiv.org/pdf/2409.02426), Sep. 4 2024.
+- [Interpretable Clustering: A Survey](https://arxiv.org/pdf/2409.00743), Sep. 1 2024.
+- [A Unified Causal Framework for Auditing Recommender Systems for Ethical Concerns](https://arxiv.org/pdf/2409.13210), Sep. 20 2024.
+- [MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://arxiv.org/pdf/2305.07185), May 19 2024.
+- [Theory, Analysis, and Best Practices for Sigmoid Self-Attention](https://arxiv.org/pdf/2409.04431), Sep. 6 2024.
 
 ## LLMs related
 
@@ -170,6 +186,18 @@
 - [GRIN: GRadient-INformed MoE](https://arxiv.org/pdf/2409.12136), Sep. 18 2024.
 - [QWen2.5-Math technical report: Towards mathematical expert model via self-improvement](https://arxiv.org/pdf/2409.12122), Sep. 18 2024.
 - [A Controlled Study on Long Context Extension and Generalization in LLMs](https://arxiv.org/pdf/2409.12181), Sep. 23 2024.
+- [Apple Intelligence Foundation Language Models](https://arxiv.org/pdf/2407.21075), Jul. 29 2024.
+- [Can Large Language Models Unlock Novel Scientific Research Ideas?](https://arxiv.org/pdf/2409.06185), Sep. 10 2024.
+- [(Implicit) Ensembles of Ensembles: Epistemic Uncertainty Collapse in Large Models](https://arxiv.org/pdf/2409.02628), Sep. 4 2024.
+- [Quantifying Emergence in Neural Networks: Insights from Pruning and Training Dynamics](https://arxiv.org/pdf/2409.01568), Sep. 3 2024.
+- [Hypothesizing Missing Causal Variables with LLMs](https://arxiv.org/pdf/2409.02604), Sep. 4 2024.
+- [NUDGE: Lightweight non-parametric fine-tuning of embeddings for retrieval](https://arxiv.org/pdf/2409.02343), Sep. 4 2024.
+- [Unforgettable Generalization in Language Models](https://arxiv.org/pdf/2409.02228), Sep. 3 2024.
+- [Inductive Learning of Logical Theories with LLMs: A Complexity-graded Analysis](https://arxiv.org/pdf/2408.16779), Aug. 15 2024.
+- [Configurable Foundation Models: Building LLMs from a Modular Perspective](https://arxiv.org/pdf/2409.02877), Sep. 4 2024.
+- [Non-instructional Fine-tuning: Enabling Instruction-Following Capabilities in Pre-trained Language Models without Instruction-Following Data](https://arxiv.org/pdf/2409.00096), Aug. 27 2024.
+- [A Formal Hierarchy of RNN Architectures](https://blog.allenai.org/a-formal-hierarchy-of-rnn-architectures-94c9d47566b5), Apr. 22 2020.
+- [Proof Automation with Large Language Models](https://arxiv.org/pdf/2409.14274), Sep. 22 2024.
 
 ### Length generalization
 
@@ -208,6 +236,7 @@
 - [Triton Puzzles](https://github.com/srush/Triton-Puzzles), Triton tutorial.
 - [Flora: Low-Rank Adapters Are Secretly Gradient Compressors](https://arxiv.org/abs/2402.03293), Feb. 5 2024. `efficient training`. [github](https://github.com/BorealisAI/flora-opt). [blogpost](https://www.borealisai.com/research-blogs/pre-training-multi-billion-parameter-llms-on-a-single-gpu-with-flora/#Incorporating_FLORA_into_your_code).
 - [A visual guide to quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization#%C2%A7common-data-types), Jul. 22 2024.
+- [Foundation of large language model compression - Part 1: Weight quantization](https://arxiv.org/pdf/2409.02026), Sep. 2024.
 
 ### Interpretability
 
@@ -256,6 +285,9 @@
 - [CONTEXTCITE: Attributing Model Generation to Context](https://openreview.net/pdf?id=PbIe0MNDQx),  ICML 2024 workshop.
 - [A percolation model of emergence: Analyzing Transformers trained on a formal language](https://arxiv.org/pdf/2408.12578), Aug. 22 2024. [code](https://github.com/EkdeepSLubana/ConceptPercolation).
 - [CONTEXTCITE: Attributing Model Generation to Context](https://arxiv.org/pdf/2409.00729), Sep. 1 2024.
+- [Evaluating Synthetic Activations composed of SAE Latents in GPT-2](https://arxiv.org/pdf/2409.15019), Sep. 23 2024.
+- [Investigating Layer Importance in Large Language Model](https://arxiv.org/pdf/2409.14381), Sep. 22 2024.
+- [Transformer-Based Models Are Not Yet Perfect At Learning to Emulate Structural Recursion](https://arxiv.org/pdf/2401.12947), Jan. 2024.
 
 #### Theory of Transformers
 
@@ -304,7 +336,7 @@
 - [Can Large Language Models Understand Symbolic Graphics Programs?](https://arxiv.org/pdf/2408.08313), Aug. 15 2024.
 - [To cot or not to cot? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/pdf/2409.12183), Sep. 18 2024.
 
-### Post-training, preference alignment, model editing
+### Post-training, model editing
 
 - [Intrinsic Dimensionality Explains The Effectiveness of Language Model Fine-Tuning](https://arxiv.org/pdf/2012.13255), Dec. 22 2020.
 - [Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation](https://arxiv.org/pdf/2406.20053), Jun. 28 2024. `post-training`.
@@ -370,6 +402,9 @@
 - [Fast Forward Low-Rank Training](https://arxiv.org/pdf/2409.04206), Sep. 6  2024.
   - _"In a Fast Forward stage, we **repeat** the most recent optimizer step until the loss stops improving on a tiny validation set."_
   - _"By alternating between regular optimization steps and Fast Forward stages, Fast Forward provides up to an87% reduction in FLOPs and up to an 81% reduction in train time over standard SGD with Adam."_
+- [3-in-1: 2D Rotary Adaptation for Efficient Finetuning, Efficient Batching and Composability](https://arxiv.org/pdf/2409.00119), Aug. 28 2024.
+- [Orthogonal Finetuning for Direct Preference Optimization](https://arxiv.org/pdf/2409.14836), Sep. 23 2024.
+- [Fast Forwarding Low-Rank Training](https://arxiv.org/pdf/2409.04206), Sep. 6 2024.
 
 #### Knowledge updating, model editing
 
@@ -416,6 +451,11 @@
 - [Rule based rewards for language model safety](https://cdn.openai.com/rule-based-rewards-for-language-model-safety.pdf), Jul. 2024.
 - [The Alignment Problem from a Deep Learning Perspective](https://arxiv.org/pdf/2209.00626), Mar. 19 2024.
 - [A Gradient Analysis Framework for Rewarding Good and Penalizing Bad Examples in Language Models](https://arxiv.org/pdf/2408.16751), Aug. 29 2024.
+- [Alignment of Diffusion Models: Fundamentals, Challenges, and Future](https://arxiv.org/pdf/2409.07253), Sep. 12 2024.
+- [Semi-Supervised Reward Modeling via Iterative Self-Training](https://arxiv.org/pdf/2409.06903), Sep. 10 2024.
+- [Programming Refusal with Conditional Activation Steering](https://arxiv.org/pdf/2409.05907), Sep. 6 2024.
+- [On the limited generalization capability of the implicit reward model induced by direct preference optimization](https://arxiv.org/pdf/2409.03650), Sep. 5 2024.
+- [Does Alignment Tuning Really Break LLMs’ Internal Confidence?](https://arxiv.org/pdf/2409.00352), Aug. 31 2024.
 
 ### Scaling laws
 
@@ -431,6 +471,7 @@
 - [Scaling law with learning rate annealing](https://arxiv.org/pdf/2408.11029), Aug. 20 2024.
 - [Performance Law of Large Language Models](https://arxiv.org/pdf/2408.09895), Aug. 23 2024.
 - [Exploring Scaling Laws for Local SGD in Large Language Model Training](https://arxiv.org/pdf/2409.13198), Sep. 20 2024.
+- [Small-scale proxies for large-scale Transformer training instabilities](https://arxiv.org/pdf/2309.14322), Oct. 16 2023.
 
 #### FLOPS
 
