@@ -73,6 +73,7 @@
 - [From lazy to rich: Extract learning dynamics in deep linear networks](https://arxiv.org/pdf/2409.14623), Sep. 22 2024.
 - [On the specialization of neural modules](https://arxiv.org/pdf/2409.14981), Sep. 23 2024.
 - [Synergy and Symmetry in Deep Learning: Interactions between the Data, Model, and Inference Algorithm](https://arxiv.org/pdf/2207.04612), Jul. 11 2022.
+- [Partially Interpretable Models with Guarantees on Coverage and Accuracy](https://proceedings.mlr.press/v237/frost24a/frost24a.pdf), alt 2024.
 
 ## LLMs related
 
@@ -209,6 +210,7 @@
 - [A Formal Hierarchy of RNN Architectures](https://blog.allenai.org/a-formal-hierarchy-of-rnn-architectures-94c9d47566b5), Apr. 22 2020.
 - [Proof Automation with Large Language Models](https://arxiv.org/pdf/2409.14274), Sep. 22 2024.
 - [Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers](https://arxiv.org/pdf/2409.04109), Sep. 6 2024.
+- [On the Computational Benefit of Multimodal Learning](https://proceedings.mlr.press/v237/lu24a/lu24a.pdf), alt 2024.
 
 ### Length generalization
 
@@ -318,6 +320,7 @@
 - [One-layer transformers fail to solve the induction heads task](https://arxiv.org/pdf/2408.14332), Aug. 26 2024.
 - [Unveiling the Statistical Foundations of Chain-of-Thought Prompting Methods](https://arxiv.org/pdf/2408.14511), Aug. 25 2024.
 - [In-Context Learning with Representations: Contextual Generalization of Trained Transformers](https://arxiv.org/pdf/2408.10147), Aug. 19 2024.
+- [A Mechanism for Sample-Efficient In-Context Learning for Sparse Retrieval Tasks](https://proceedings.mlr.press/v237/abernethy24a/abernethy24a.pdf), alt 2024.
 
 ### Pre-training
 
