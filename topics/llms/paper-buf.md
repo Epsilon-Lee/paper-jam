@@ -63,6 +63,16 @@
 - [A Unified Causal Framework for Auditing Recommender Systems for Ethical Concerns](https://arxiv.org/pdf/2409.13210), Sep. 20 2024.
 - [MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://arxiv.org/pdf/2305.07185), May 19 2024.
 - [Theory, Analysis, and Best Practices for Sigmoid Self-Attention](https://arxiv.org/pdf/2409.04431), Sep. 6 2024.
+- [Accelerating training with neuron interaction and noncasting networks](https://arxiv.org/pdf/2409.04434), Sep. 6 2024.
+  - Proposes NiNo network.
+- [Efficient Exploration and Discriminative World Model Learning with an Object-Centric Abstraction](https://arxiv.org/pdf/2408.11816), Aug. 21 2024.
+- [Localize-and-Stitch: Efficient Model Merging via Sparse Task Arithmetic](https://arxiv.org/pdf/2408.13656), Aug. 24 2024.
+- [Distributional Properties of Subword Regularization](https://arxiv.org/pdf/2408.11443), Aug. 21 2024.
+- [Building the Vision Transformer From Scratch](https://medium.com/@curttigges/building-the-vision-transformer-from-scratch-d77881edb5ff), Jun. 27 2022.
+- [Artificial intelligence for science: The easy and hard problems](https://arxiv.org/pdf/2408.14508), Aug. 24 2024.
+- [From lazy to rich: Extract learning dynamics in deep linear networks](https://arxiv.org/pdf/2409.14623), Sep. 22 2024.
+- [On the specialization of neural modules](https://arxiv.org/pdf/2409.14981), Sep. 23 2024.
+- [Synergy and Symmetry in Deep Learning: Interactions between the Data, Model, and Inference Algorithm](https://arxiv.org/pdf/2207.04612), Jul. 11 2022.
 
 ## LLMs related
 
@@ -185,7 +195,7 @@
 - [ConceptMix: A Compositional Image Generation Benchmark with Controllable Difficulty](https://arxiv.org/pdf/2408.14339), Aug. 26 2024.
 - [GRIN: GRadient-INformed MoE](https://arxiv.org/pdf/2409.12136), Sep. 18 2024.
 - [QWen2.5-Math technical report: Towards mathematical expert model via self-improvement](https://arxiv.org/pdf/2409.12122), Sep. 18 2024.
-- [A Controlled Study on Long Context Extension and Generalization in LLMs](https://arxiv.org/pdf/2409.12181), Sep. 23 2024.
+- [A Controlled Study on Long Context Extension and Generalization in LLMs](https://arxiv.org/pdf/2409.12181), Sep. 23 2024. `long-context`.
 - [Apple Intelligence Foundation Language Models](https://arxiv.org/pdf/2407.21075), Jul. 29 2024.
 - [Can Large Language Models Unlock Novel Scientific Research Ideas?](https://arxiv.org/pdf/2409.06185), Sep. 10 2024.
 - [(Implicit) Ensembles of Ensembles: Epistemic Uncertainty Collapse in Large Models](https://arxiv.org/pdf/2409.02628), Sep. 4 2024.
@@ -198,6 +208,7 @@
 - [Non-instructional Fine-tuning: Enabling Instruction-Following Capabilities in Pre-trained Language Models without Instruction-Following Data](https://arxiv.org/pdf/2409.00096), Aug. 27 2024.
 - [A Formal Hierarchy of RNN Architectures](https://blog.allenai.org/a-formal-hierarchy-of-rnn-architectures-94c9d47566b5), Apr. 22 2020.
 - [Proof Automation with Large Language Models](https://arxiv.org/pdf/2409.14274), Sep. 22 2024.
+- [Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers](https://arxiv.org/pdf/2409.04109), Sep. 6 2024.
 
 ### Length generalization
 
@@ -288,6 +299,7 @@
 - [Evaluating Synthetic Activations composed of SAE Latents in GPT-2](https://arxiv.org/pdf/2409.15019), Sep. 23 2024.
 - [Investigating Layer Importance in Large Language Model](https://arxiv.org/pdf/2409.14381), Sep. 22 2024.
 - [Transformer-Based Models Are Not Yet Perfect At Learning to Emulate Structural Recursion](https://arxiv.org/pdf/2401.12947), Jan. 2024.
+- [Residual Stream Analysis with Multi-Layer SAEs](https://arxiv.org/pdf/2409.04185), Sep. 6 2024. [code](https://github.com/tim-lawson/mlsae).
 
 #### Theory of Transformers
 
@@ -349,6 +361,8 @@
 - [Learning dynamics of llm finetuning](https://www.arxiv.org/pdf/2407.10490), Jul. 15 2024. [github](https://github.com/Joshua-Ren/Learning_dynamics_LLM).
 - [Prover-verifier games improves legibility of llm outputs](https://arxiv.org/pdf/2407.13692), Jul. 18 2024.
 - [INSTRUCT-SKILLMIX: A Powerful Pipeline for LLM Instruction Tuning](https://arxiv.org/pdf/2408.14774), Aug. 27 2024.
+- [How Do Your Code LLMs Perform? Empowering Code Instruction Tuning with High-Quality Data](https://arxiv.org/pdf/2409.03810), Sep. 5 2024.
+- [The Representation Landscape of Few-Shot Learning and Fine-Tuning in Large Language Models](https://arxiv.org/pdf/2409.03662), Sep. 7 2024.
 
 #### RAG
 
@@ -356,7 +370,7 @@
 - [LLMs Know What They Need: Leveraging a Missing Information Guided Framework to Empower Retrieval-Augmented Generation](https://arxiv.org/pdf/2404.14043v1), Apr. 22 2024.
 - [Evaluation of RAG Metrics for Question Answering in the Telecom Domain](https://arxiv.org/pdf/2407.12873), Jul. 15 2024.
   - application in vertical-domain
-- [Great Memory, Shallow Reasoning: Limits of kNN-LMs](https://arxiv.org/pdf/2408.11815), Aug. 21 2024. [code](https://arxiv.org/pdf/2408.11815).
+- [Great Memory, Shallow Reasoning: Limits of kNN-LMs](https://arxiv.org/pdf/2408.11815), Aug. 21 2024. [code](https://arxiv.org/pdf/2408.11815). [code](https://github.com/GSYfate/knnlm-limits).
 
 #### Continual learning (cpt, cft)
 
