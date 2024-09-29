@@ -556,6 +556,7 @@
 - [RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation](https://arxiv.org/pdf/2408.02545), Aug. 5 2024. [code](https://github.com/IntelLabs/RAGFoundry).
 - [Automated Design of Agentic Systems](https://arxiv.org/pdf/2408.08435), Aug. 15 2024. [code](https://github.com/ShengranHu/ADAS).
 - [Agent Workflow Memory](https://arxiv.org/pdf/2409.07429), Sep. 11 2024.
+- [xLAM: A Family of Large Action Models to Empower AI Agent Systems](https://arxiv.org/pdf/2409.03215), Sep. 5 2024.
 
 ### Multi-modality
 
