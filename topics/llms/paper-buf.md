@@ -70,10 +70,21 @@
 - [Distributional Properties of Subword Regularization](https://arxiv.org/pdf/2408.11443), Aug. 21 2024.
 - [Building the Vision Transformer From Scratch](https://medium.com/@curttigges/building-the-vision-transformer-from-scratch-d77881edb5ff), Jun. 27 2022.
 - [Artificial intelligence for science: The easy and hard problems](https://arxiv.org/pdf/2408.14508), Aug. 24 2024.
-- [From lazy to rich: Extract learning dynamics in deep linear networks](https://arxiv.org/pdf/2409.14623), Sep. 22 2024.
+- [From lazy to rich: Exact learning dynamics in deep linear networks](https://arxiv.org/pdf/2409.14623), Sep. 22 2024.
 - [On the specialization of neural modules](https://arxiv.org/pdf/2409.14981), Sep. 23 2024.
 - [Synergy and Symmetry in Deep Learning: Interactions between the Data, Model, and Inference Algorithm](https://arxiv.org/pdf/2207.04612), Jul. 11 2022.
 - [Partially Interpretable Models with Guarantees on Coverage and Accuracy](https://proceedings.mlr.press/v237/frost24a/frost24a.pdf), alt 2024.
+- [What Is Wrong with My Model? Identifying Systematic Problems with Semantic Data Slicing](https://arxiv.org/pdf/2409.09261), Sep. 14 2024.
+- [RandALO: Out-of-sample risk estimation in no time flat](https://arxiv.org/pdf/2409.09781), Sep. 15 2024.
+- [Promptriever: Instruction-Trained Retrievers Can Be Prompted Like Language Models](https://arxiv.org/pdf/2409.11136), Sep. 17 2024.
+- [EUREKA: Evaluating and Understanding Large Foundation Models](https://arxiv.org/pdf/2409.10566), Sep. 13 2024.
+- [Is All Learning (Natural) Gradient Descent?](https://arxiv.org/pdf/2409.16422), Sep. 24 2024.
+- [A Statistical Viewpoint on Differential Privacy: Hypothesis Testing, Representation and Blackwell’s Theorem](https://www.arxiv.org/pdf/2409.09558), Sep. 14 2024.
+- [Increasing Both Batch Size and Learning Rate Accelerates Stochastic Gradient Descent](https://www.arxiv.org/pdf/2409.09558), Sep. 14 2024.
+- [Optimal ablation for interpretability](https://www.arxiv.org/pdf/2409.09951), Sep. 16 2024.
+- [Revisiting inverse Hessian vector products for calculating influence functions](https://arxiv.org/pdf/2409.17357), Sep. 25 2024.
+- [GFlowNet pretraining with inexpensive rewards](https://arxiv.org/pdf/2409.09702), Sep. 15 2024.
+  - [Pre-Training and Fine-Tuning Generative Flow Networks](https://arxiv.org/pdf/2310.03419), Oct. 5 2024.
 
 ## LLMs related
 
@@ -211,6 +222,13 @@
 - [Proof Automation with Large Language Models](https://arxiv.org/pdf/2409.14274), Sep. 22 2024.
 - [Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers](https://arxiv.org/pdf/2409.04109), Sep. 6 2024.
 - [On the Computational Benefit of Multimodal Learning](https://proceedings.mlr.press/v237/lu24a/lu24a.pdf), alt 2024.
+- [Reranking Laws for Language Generation: A Communication-Theoretic Perspectiv](https://arxiv.org/pdf/2409.07131), Sep. 11 2024.
+- [Improving pretraining data using perplexity correlations](https://arxiv.org/pdf/2409.05816), Sep. 9 2024.
+- [Explaining Datasets in Words: Statistical Models with Natural Language Parameters](https://arxiv.org/abs/2409.08466), Sep. 13 2024.
+- [Language Models “Grok” to Copy](https://www.arxiv.org/pdf/2409.09281), Sep. 14 2024.
+- [Navigating the Shortcut Maze: A Comprehensive Analysis of Shortcut Learning in Text Classification by Language Models](https://arxiv.org/pdf/2409.17455), Sep. 26 2024.
+- [Order of Magnitude Speedups for LLM Membership Inference](https://arxiv.org/pdf/2409.14513), Sep. 24 2024.
+- [Estimating Wage Disparities Using Foundation Models](https://www.arxiv.org/pdf/2409.09894), Sep. 15 2024.
 
 ### Length generalization
 
@@ -302,6 +320,7 @@
 - [Investigating Layer Importance in Large Language Model](https://arxiv.org/pdf/2409.14381), Sep. 22 2024.
 - [Transformer-Based Models Are Not Yet Perfect At Learning to Emulate Structural Recursion](https://arxiv.org/pdf/2401.12947), Jan. 2024.
 - [Residual Stream Analysis with Multi-Layer SAEs](https://arxiv.org/pdf/2409.04185), Sep. 6 2024. [code](https://github.com/tim-lawson/mlsae).
+- [Characterizing stable regions in the residual stream of LLM](https://proceedings.mlr.press/v202/li23l/li23l.pdf), Sep. 26 2024.
 
 #### Theory of Transformers
 
@@ -310,10 +329,14 @@
 - [How Transformers learn structured data: Insights from hierarchical filtering](https://arxiv.org/pdf/2408.15138), Aug. 27 2024.
 - [Out-of-distribution generalization via composition: a lens through induction heads in Transformers](https://arxiv.org/pdf/2408.09503), Aug. 18 2024.
 - [Transformers in DLOGTIME-Uniform TC0](https://arxiv.org/pdf/2409.13629), Sep. 20 2024.
+- [Optimal Memorization Capacity of Transformers](https://arxiv.org/pdf/2409.17677), Sep. 26 2024.
+- [Neural Networks Generalize on Low Complexity Data](https://arxiv.org/pdf/2409.17357), Sep. 25 2024.
 
 #### Theory of pre-training
 
 - [A Law of Next-Token Prediction in Large Language Models](https://arxiv.org/pdf/2408.13442), Aug. 24 2024.
+- [Non-asymptotic Convergence of Training Transformers for Next-token Prediction](https://arxiv.org/pdf/2409.17335), Sep. 25 2024.
+- [Benign or Not-Benign Overfitting in Token Selection of Attention Mechanism](https://arxiv.org/pdf/2409.17625), Sep. 26 2024.
 
 #### Theory of icl and prompting
 
@@ -321,6 +344,7 @@
 - [Unveiling the Statistical Foundations of Chain-of-Thought Prompting Methods](https://arxiv.org/pdf/2408.14511), Aug. 25 2024.
 - [In-Context Learning with Representations: Contextual Generalization of Trained Transformers](https://arxiv.org/pdf/2408.10147), Aug. 19 2024.
 - [A Mechanism for Sample-Efficient In-Context Learning for Sparse Retrieval Tasks](https://proceedings.mlr.press/v237/abernethy24a/abernethy24a.pdf), alt 2024.
+- [Unveiling Induction Heads: Provable Training Dynamics and Feature Learning in Transformers](https://arxiv.org/pdf/2409.17357), Sep. 25 2024.
 
 ### Pre-training
 
@@ -340,6 +364,7 @@
 - [Deconstructing What Makes a Good Optimizer for Language Models](https://arxiv.org/pdf/2407.07972), Jul. 10 2024.
 - [Narrowing the Focus: Learned Optimizers for Pretrained Models](https://arxiv.org/pdf/2408.09310), Aug. 21 2024.
 - [Power scheduler: A batch size and token number agnostic learning rate scheduler](https://arxiv.org/pdf/2408.13359), Aug. 23 2024.
+- [SOAP: Improving and stabilizing Shampoo using Adam](https://arxiv.org/abs/2409.11321), Sep. 17 2024.
 
 ### Reasoning
 
@@ -473,6 +498,7 @@
 - [Programming Refusal with Conditional Activation Steering](https://arxiv.org/pdf/2409.05907), Sep. 6 2024.
 - [On the limited generalization capability of the implicit reward model induced by direct preference optimization](https://arxiv.org/pdf/2409.03650), Sep. 5 2024.
 - [Does Alignment Tuning Really Break LLMs’ Internal Confidence?](https://arxiv.org/pdf/2409.00352), Aug. 31 2024.
+- [Towards Data-Centric RLHF: Simple Metrics for Preference Dataset Comparison](https://www.arxiv.org/pdf/2409.09603), Sep. 15 2024.
 
 ### Scaling laws
 
@@ -489,6 +515,9 @@
 - [Performance Law of Large Language Models](https://arxiv.org/pdf/2408.09895), Aug. 23 2024.
 - [Exploring Scaling Laws for Local SGD in Large Language Model Training](https://arxiv.org/pdf/2409.13198), Sep. 20 2024.
 - [Small-scale proxies for large-scale Transformer training instabilities](https://arxiv.org/pdf/2309.14322), Oct. 16 2023.
+- [Rethinking conventional wisdom in machine learning: From generalization to scaling](https://arxiv.org/abs/2409.15156), Sep. 23 2024.
+- [Scaling FP8 training to trillion-token llms](https://arxiv.org/pdf/2409.12517), Sep. 19 2024.
+- [How feature learning can improve neural scaling laws](https://arxiv.org/pdf/2409.17858), Sep. 26 2024.
 
 #### FLOPS
 
@@ -514,6 +543,7 @@
 - [TAGCOS: Task-agnostic gradient clustered coreset selection for instruction tuning data](https://arxiv.org/pdf/2407.15235), Jul. 21 2024. [code](https://github.com/2003pro/TAGCOS).
 - [Consent in Crisis: The Rapid Decline of the AI Data Commons](https://arxiv.org/pdf/2407.14933), Jul. 20 2024.
 - [Open Artificial Knowledge](https://oakdataset.org/), Jul. 19 2024
+- [Programming every example: Lifting pretraining data quality like experts at scale](https://arxiv.org/pdf/2409.17115), Sep. 25 2024.
 
 ### Evaluation
 
@@ -560,6 +590,7 @@
 - [Automated Design of Agentic Systems](https://arxiv.org/pdf/2408.08435), Aug. 15 2024. [code](https://github.com/ShengranHu/ADAS).
 - [Agent Workflow Memory](https://arxiv.org/pdf/2409.07429), Sep. 11 2024.
 - [xLAM: A Family of Large Action Models to Empower AI Agent Systems](https://arxiv.org/pdf/2409.03215), Sep. 5 2024.
+- [The Impact of Element Ordering on LM Agent Performance](https://arxiv.org/pdf/2409.12089), Sep. 19 2024.
 
 ### Multi-modality
 
