@@ -345,6 +345,7 @@
 - [In-Context Learning with Representations: Contextual Generalization of Trained Transformers](https://arxiv.org/pdf/2408.10147), Aug. 19 2024.
 - [A Mechanism for Sample-Efficient In-Context Learning for Sparse Retrieval Tasks](https://proceedings.mlr.press/v237/abernethy24a/abernethy24a.pdf), alt 2024.
 - [Unveiling Induction Heads: Provable Training Dynamics and Feature Learning in Transformers](https://arxiv.org/pdf/2409.17357), Sep. 25 2024.
+- [Transformers as Algorithms: Generalization and Stability in In-context Learning](https://proceedings.mlr.press/v202/li23l/li23l.pdf), ICML 2023.
 
 ### Pre-training
 
