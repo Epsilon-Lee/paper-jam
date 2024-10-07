@@ -229,6 +229,8 @@
 - [Navigating the Shortcut Maze: A Comprehensive Analysis of Shortcut Learning in Text Classification by Language Models](https://arxiv.org/pdf/2409.17455), Sep. 26 2024.
 - [Order of Magnitude Speedups for LLM Membership Inference](https://arxiv.org/pdf/2409.14513), Sep. 24 2024.
 - [Estimating Wage Disparities Using Foundation Models](https://www.arxiv.org/pdf/2409.09894), Sep. 15 2024.
+- [Keeping LLMs Aligned After Fine-tuning: The Crucial Role of Prompt Templates](https://arxiv.org/pdf/2402.18540), Feb. 28 2024.
+- [Safety Alignment Should Be Made More Than Just a Few Tokens Deep](https://arxiv.org/pdf/2406.05946), Jun. 10 2024.
 
 ### Length generalization
 
@@ -321,6 +323,12 @@
 - [Transformer-Based Models Are Not Yet Perfect At Learning to Emulate Structural Recursion](https://arxiv.org/pdf/2401.12947), Jan. 2024.
 - [Residual Stream Analysis with Multi-Layer SAEs](https://arxiv.org/pdf/2409.04185), Sep. 6 2024. [code](https://github.com/tim-lawson/mlsae).
 - [Characterizing stable regions in the residual stream of LLM](https://proceedings.mlr.press/v202/li23l/li23l.pdf), Sep. 26 2024.
+- [Understanding Transformers via N-gram Statistics](https://www.arxiv.org/pdf/2407.12034), Jun. 30 2024.
+- [Understanding Linear Probing then Fine-tuning Language Models from NTK Perspective](https://arxiv.org/pdf/2405.16747), May 27 2024.
+- [Beyond Scaling Laws: Understanding Transformer Performance with Associative Memory](https://arxiv.org/pdf/2405.08707), May 14 2024.
+- [Talking Heads: Understanding Inter-layer Communication in Transformer Language Models](https://arxiv.org/pdf/2406.09519), Jun. 13 2024.
+- [Transcoders Find Interpretable LLM Feature Circuits](https://arxiv.org/pdf/2406.11944), Jun. 17 2024. [github](https://github.com/jacobdunefsky/transcoder_circuits).
+- [InterpBench: Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques](https://arxiv.org/pdf/2407.14494), Jul. 19 2024.
 
 #### Theory of Transformers
 
@@ -346,6 +354,7 @@
 - [A Mechanism for Sample-Efficient In-Context Learning for Sparse Retrieval Tasks](https://proceedings.mlr.press/v237/abernethy24a/abernethy24a.pdf), alt 2024.
 - [Unveiling Induction Heads: Provable Training Dynamics and Feature Learning in Transformers](https://arxiv.org/pdf/2409.17357), Sep. 25 2024.
 - [Transformers as Algorithms: Generalization and Stability in In-context Learning](https://proceedings.mlr.press/v202/li23l/li23l.pdf), ICML 2023.
+- [ALPINE: Unveiling the Planning Capability of Autoregressive Learning in Language Models](https://arxiv.org/pdf/2405.09220). May 27 2024.
 
 ### Pre-training
 
@@ -376,6 +385,7 @@
   - Use PN and PS to assess LLMs.
 - [Can Large Language Models Understand Symbolic Graphics Programs?](https://arxiv.org/pdf/2408.08313), Aug. 15 2024.
 - [To cot or not to cot? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/pdf/2409.12183), Sep. 18 2024.
+- [Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling](https://arxiv.org/pdf/2408.16737), Aug. 29 2024.
 
 ### Post-training, model editing
 
@@ -448,6 +458,7 @@
 - [3-in-1: 2D Rotary Adaptation for Efficient Finetuning, Efficient Batching and Composability](https://arxiv.org/pdf/2409.00119), Aug. 28 2024.
 - [Orthogonal Finetuning for Direct Preference Optimization](https://arxiv.org/pdf/2409.14836), Sep. 23 2024.
 - [Fast Forwarding Low-Rank Training](https://arxiv.org/pdf/2409.04206), Sep. 6 2024.
+- [ReFT: Representation Finetuning for Language Models](https://arxiv.org/abs/2404.03592), Apr. 4 2024.
 
 #### Knowledge updating, model editing
 
