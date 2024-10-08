@@ -88,6 +88,8 @@
 - [Stochastic Amortization: A Unified Approach to Accelerate Feature and Data Attribution](https://arxiv.org/pdf/2401.15866), Jan. 29 2024.
 - [Information-Theoretic Foundations for Machine Learning](https://arxiv.org/pdf/2407.12288), Aug. 20 2024.
 - [First Steps Toward Understanding the Extrapolation of Nonlinear Models to Unseen Domains](https://arxiv.org/pdf/2211.11719), Dec. 1 2022.
+- [Increasing Both Batch Size and Learning Rate Accelerates Stochastic Gradient Descent](https://arxiv.org/pdf/2409.08770), Sep. 21 2024.
+- [Selecting a classification performance measure: Matching the measure to the problem](https://arxiv.org/pdf/2409.12391), Sep. 19 2024.
 
 ## LLMs related
 
@@ -576,6 +578,7 @@
 - [Consent in Crisis: The Rapid Decline of the AI Data Commons](https://arxiv.org/pdf/2407.14933), Jul. 20 2024.
 - [Open Artificial Knowledge](https://oakdataset.org/), Jul. 19 2024
 - [Programming every example: Lifting pretraining data quality like experts at scale](https://arxiv.org/pdf/2409.17115), Sep. 25 2024.
+- [CRAFT Your Dataset: Task-Specific Synthetic Dataset Generation Through Corpus Retrieval and Augmentation](https://arxiv.org/pdf/2409.02098), Sep. 3 2024.
 
 ### Evaluation
 
