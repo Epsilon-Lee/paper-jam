@@ -633,6 +633,8 @@
 - [xLAM: A Family of Large Action Models to Empower AI Agent Systems](https://arxiv.org/pdf/2409.03215), Sep. 5 2024.
 - [The Impact of Element Ordering on LM Agent Performance](https://arxiv.org/pdf/2409.12089), Sep. 19 2024.
 - [MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation](https://arxiv.org/pdf/2310.03302), Apr. 14 2024.
+- [AgentScope: A Flexible yet Robust Multi-Agent Platform](https://arxiv.org/pdf/2402.14034), May 20 2024. [github](https://github.com/modelscope/agentscope).
+- [TextGrad: Automatic “Differentiation” via Text](https://arxiv.org/pdf/2406.07496), Jun. 11 2024. [github](https://github.com/zou-group/textgrad).
 
 ### Multi-modality
 
