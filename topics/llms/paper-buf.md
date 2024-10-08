@@ -90,6 +90,7 @@
 - [First Steps Toward Understanding the Extrapolation of Nonlinear Models to Unseen Domains](https://arxiv.org/pdf/2211.11719), Dec. 1 2022.
 - [Increasing Both Batch Size and Learning Rate Accelerates Stochastic Gradient Descent](https://arxiv.org/pdf/2409.08770), Sep. 21 2024.
 - [Selecting a classification performance measure: Matching the measure to the problem](https://arxiv.org/pdf/2409.12391), Sep. 19 2024.
+- [Bridging OOD Detection and Generalization: A Graph-Theoretic View](https://arxiv.org/pdf/2409.18205), Sep. 26 2024.
 
 ## LLMs related
 
@@ -241,6 +242,9 @@
 - [Amuro & Char: Analyzing the Relationship between Pre-Training and Fine-Tuning of Large Language Models](https://arxiv.org/abs/2408.06663), Aug. 13 2024.
 - [A Taxonomy for Data Contamination in Large Language Models](https://arxiv.org/abs/2407.08716), Jul. 11 2024.
 - [LLM Pruning and Distillation in Practice: The Minitron Approach](https://d1qx31qr3h6wln.cloudfront.net/publications/minitron_tech_report.pdf), Aug. 21 2024.
+- [Realistic evaluation of model merging for compositional generalization](https://arxiv.org/pdf/2409.18314), Sep. 26 2024.
+- [Transformer Memory as a Differentiable Search Index](https://proceedings.neurips.cc/paper_files/paper/2022/file/892840a6123b5ec99ebaab8be1530fba-Paper-Conference.pdf), NeurIPS 2022. [github](https://github.com/ArvinZhuang/DSI-transformers).
+  - [DSI++: Updating Transformer Memory with New Documents](https://aclanthology.org/2023.emnlp-main.510.pdf), EMNLP 2023.
 
 ### Length generalization
 
@@ -579,6 +583,7 @@
 - [Open Artificial Knowledge](https://oakdataset.org/), Jul. 19 2024
 - [Programming every example: Lifting pretraining data quality like experts at scale](https://arxiv.org/pdf/2409.17115), Sep. 25 2024.
 - [CRAFT Your Dataset: Task-Specific Synthetic Dataset Generation Through Corpus Retrieval and Augmentation](https://arxiv.org/pdf/2409.02098), Sep. 3 2024.
+- [Data-Prep-Kit: getting your data ready for LLM application development](https://arxiv.org/pdf/2409.18164), 2024.
 
 ### Evaluation
 
@@ -603,6 +608,7 @@
 - [Benchmark agreement testing done right: A guide to llm benchmark evaluation](https://arxiv.org/pdf/2407.13696), Jul. 18 2024.
 - [Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risk of Language Models](https://arxiv.org/pdf/2408.08926), Aug. 15 2024.
 - [Benchmarking Large Language Models for Math Reasoning Tasks](https://arxiv.org/pdf/2408.10839), Aug. 20 2024.
+- [Easy2Hard-Bench: Standardized Difficulty Labels for Profiling LLM Performance and Generalization](https://arxiv.org/pdf/2409.18433), Sep. 27 2024.
 
 #### Toolkit
 
