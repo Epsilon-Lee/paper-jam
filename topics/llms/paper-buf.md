@@ -91,6 +91,8 @@
 - [Increasing Both Batch Size and Learning Rate Accelerates Stochastic Gradient Descent](https://arxiv.org/pdf/2409.08770), Sep. 21 2024.
 - [Selecting a classification performance measure: Matching the measure to the problem](https://arxiv.org/pdf/2409.12391), Sep. 19 2024.
 - [Bridging OOD Detection and Generalization: A Graph-Theoretic View](https://arxiv.org/pdf/2409.18205), Sep. 26 2024.
+- [Life Lessons from the First Half-Century of My Career](https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/), Oct. 10 2024.
+- [Old Optimizer, New Norm: An Anthology](https://arxiv.org/abs/2409.20325), Sep. 30 2024.
 
 ## LLMs related
 
@@ -249,6 +251,7 @@
   - _TL;DR: "HPT aligns different embodiment to a shared latent space and investigates the scaling behaviors in policy learning. Put a scalable transformer in the middle of your policy and don't train from scratch!"_
 - [Geometric signatures of compositionality across a language model's lifetime](https://arxiv.org/pdf/2410.01444), Oct. 7 2024. `compositionality`.
 - [Dont' cut corners: Exact conditions for modularity in biologically inspired representations](https://arxiv.org/pdf/2410.06232v1), Oc.t 8 2024. [code](https://github.com/kylehkhsu/dont-cut-corners/). `compositionality`.
+- [Differential transformers](https://arxiv.org/pdf/2410.05258), Oct. 7 2024.
 
 ### Length generalization
 
@@ -444,7 +447,7 @@
 - [Great Memory, Shallow Reasoning: Limits of kNN-LMs](https://arxiv.org/pdf/2408.11815), Aug. 21 2024. [code](https://arxiv.org/pdf/2408.11815). [code](https://github.com/GSYfate/knnlm-limits).
 - [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/pdf/2408.08921), Aug. 15 2024.
 
-#### Continual learning (cpt, cft)
+#### Continual learning (cpt, cft), knowledge updating, model editing
 
 - [LLM Continue Pretrain](https://zhuanlan.zhihu.com/p/707751901), Jul. 10 2024. [MiniCPM](https://shengdinghu.notion.site/MiniCPM-c805a17c5c8046398914e47f0542095a#73df646223b54e22957bdd926b41fc0e).
 - [Domain Adaptation of Llama3-70B-Instruct through Continual Pre-Training and Model Merging: A Comprehensive Evaluation](https://arxiv.org/pdf/2406.14971), Jun. 21 2024. `continual pre-training`.
@@ -475,26 +478,6 @@
 - [LLM Pruning and Distillation in Practice: The Minitron Approach](https://arxiv.org/pdf/2408.11796), Aug. 26 2024.
 - [Simple and Scalable Strategies to Continually Pre-train Large Language Models](https://arxiv.org/pdf/2403.08763), Sep. 4 2024.
 - [Synthetic continued pretraining](https://arxiv.org/pdf/2409.07431), Sep. 11 2024.
-
-#### Peft techniques
-
-- [LoRA Learns Less and Forgets Less](https://arxiv.org/pdf/2405.09673v1), May 15 2024.
-- [QLoRA: Efficient finetuning of quantized LLMs](https://arxiv.org/pdf/2305.14314), May 23 2023.
-- [The Impact of Initialization on LoRA Finetuning Dynamics](https://arxiv.org/pdf/2406.08447), Jun. 12 2024. `lora`.
-- [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](https://arxiv.org/abs/2312.09979), Dec. 15 2023. `knowledge forgetting`.
-- [LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning](https://arxiv.org/pdf/2403.17919), May 25 2024.
-- [LoRA-Pro: Are Low-Rank Adapters Properly Optimized?](https://arxiv.org/pdf/2407.18242), Jul. 25 2024.
-- [Conditional LoRA Parameter Generation](https://arxiv.org/pdf/2408.01415), Aug. 2024.
-- [Fast Forward Low-Rank Training](https://arxiv.org/pdf/2409.04206), Sep. 6  2024.
-  - _"In a Fast Forward stage, we **repeat** the most recent optimizer step until the loss stops improving on a tiny validation set."_
-  - _"By alternating between regular optimization steps and Fast Forward stages, Fast Forward provides up to an87% reduction in FLOPs and up to an 81% reduction in train time over standard SGD with Adam."_
-- [3-in-1: 2D Rotary Adaptation for Efficient Finetuning, Efficient Batching and Composability](https://arxiv.org/pdf/2409.00119), Aug. 28 2024.
-- [Orthogonal Finetuning for Direct Preference Optimization](https://arxiv.org/pdf/2409.14836), Sep. 23 2024.
-- [Fast Forwarding Low-Rank Training](https://arxiv.org/pdf/2409.04206), Sep. 6 2024.
-- [ReFT: Representation Finetuning for Language Models](https://arxiv.org/abs/2404.03592), Apr. 4 2024.
-
-#### Knowledge updating, model editing
-
 - [Large Language Models Encode Clinical Knowledge](https://arxiv.org/pdf/2212.13138), Dec. 26 2022.
 - [Editing models with task arithmic](https://arxiv.org/pdf/2212.04089), Mar. 31 2023. `task vector` `model merging`.
   - _"A task vector specifies in the weight space of a pre-trained model, such that movement in that direction improves performance on the task. We build task vectors by subtracting the weights of a pre-trained model from the weights of the same model after fine-tuning on a task"_
@@ -519,6 +502,23 @@
 - [ClashEval: Quantifying the tug-of-war between an LLM’s internal prior and external evidence](https://arxiv.org/pdf/2404.10198), Jun. 10 2024.
 - [Large language model validity via enhanced conformal prediction methods](https://arxiv.org/pdf/2406.09714), Jun. 14 2024. [youtube](https://www.youtube.com/watch?v=fsgyllS43KY).
   - [Can Unconfident LLM Annotations Be Used for Confident Conclusions?](https://arxiv.org/pdf/2408.15204), Aug. 2024.
+
+#### Peft techniques
+
+- [LoRA Learns Less and Forgets Less](https://arxiv.org/pdf/2405.09673v1), May 15 2024.
+- [QLoRA: Efficient finetuning of quantized LLMs](https://arxiv.org/pdf/2305.14314), May 23 2023.
+- [The Impact of Initialization on LoRA Finetuning Dynamics](https://arxiv.org/pdf/2406.08447), Jun. 12 2024. `lora`.
+- [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](https://arxiv.org/abs/2312.09979), Dec. 15 2023. `knowledge forgetting`.
+- [LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning](https://arxiv.org/pdf/2403.17919), May 25 2024.
+- [LoRA-Pro: Are Low-Rank Adapters Properly Optimized?](https://arxiv.org/pdf/2407.18242), Jul. 25 2024.
+- [Conditional LoRA Parameter Generation](https://arxiv.org/pdf/2408.01415), Aug. 2024.
+- [Fast Forward Low-Rank Training](https://arxiv.org/pdf/2409.04206), Sep. 6  2024.
+  - _"In a Fast Forward stage, we **repeat** the most recent optimizer step until the loss stops improving on a tiny validation set."_
+  - _"By alternating between regular optimization steps and Fast Forward stages, Fast Forward provides up to an87% reduction in FLOPs and up to an 81% reduction in train time over standard SGD with Adam."_
+- [3-in-1: 2D Rotary Adaptation for Efficient Finetuning, Efficient Batching and Composability](https://arxiv.org/pdf/2409.00119), Aug. 28 2024.
+- [Orthogonal Finetuning for Direct Preference Optimization](https://arxiv.org/pdf/2409.14836), Sep. 23 2024.
+- [Fast Forwarding Low-Rank Training](https://arxiv.org/pdf/2409.04206), Sep. 6 2024.
+- [ReFT: Representation Finetuning for Language Models](https://arxiv.org/abs/2404.03592), Apr. 4 2024.
 
 #### Preference alignment, reward models
 
@@ -655,3 +655,4 @@
 - [A Practitioner’s Guide to Continual Multimodal Pretraining](https://arxiv.org/pdf/2408.14471), Aug. 26 2024.
 - [Visual agents as fast and slow thinker](https://arxiv.org/pdf/2408.08862), Aug. 16 2024.
 - [NVLM: Open Frontier-Class Multimodal LLMs](https://nvlm-project.github.io/), Sep. 17 2024.
+- [From generalist to specialist: Adapting vision language models via task-specific visual instruction tuning](https://arxiv.org/pdf/2410.06456), Oct. 9 2024.
