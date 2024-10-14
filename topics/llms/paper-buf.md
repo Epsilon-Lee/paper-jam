@@ -245,6 +245,10 @@
 - [Realistic evaluation of model merging for compositional generalization](https://arxiv.org/pdf/2409.18314), Sep. 26 2024.
 - [Transformer Memory as a Differentiable Search Index](https://proceedings.neurips.cc/paper_files/paper/2022/file/892840a6123b5ec99ebaab8be1530fba-Paper-Conference.pdf), NeurIPS 2022. [github](https://github.com/ArvinZhuang/DSI-transformers).
   - [DSI++: Updating Transformer Memory with New Documents](https://aclanthology.org/2023.emnlp-main.510.pdf), EMNLP 2023.
+- [Scaling proprioceptive-visual learning with heterogeneous pre-trained transformers](https://arxiv.org/pdf/2409.20537), Sep. 30 2024. `robotics foundation model`. NeurIPS 2024.
+  - _TL;DR: "HPT aligns different embodiment to a shared latent space and investigates the scaling behaviors in policy learning. Put a scalable transformer in the middle of your policy and don't train from scratch!"_
+- [Geometric signatures of compositionality across a language model's lifetime](https://arxiv.org/pdf/2410.01444), Oct. 7 2024. `compositionality`.
+- [Dont' cut corners: Exact conditions for modularity in biologically inspired representations](https://arxiv.org/pdf/2410.06232v1), Oc.t 8 2024. [code](https://github.com/kylehkhsu/dont-cut-corners/). `compositionality`.
 
 ### Length generalization
 
@@ -348,6 +352,14 @@
 - [Causal Estimation of Memorisation Profiles](https://arxiv.org/pdf/2406.04327), Jun. 6 2024.
 - [Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data](https://arxiv.org/pdf/2404.01413), Apr. 29 2024.
 - [Recurrent Neural Networks Learn to Store and Generate Sequences using Non-Linear Representations](https://arxiv.org/pdf/2408.10920), Aug. 29 2024. [github](https://github.com/robertcsordas/onion_representations).
+- [Recite, Reconstruct, Recollect: Memorization in LMs as a Multifaceted Phenomenon](https://arxiv.org/pdf/2406.17746), Jun. 25 2024. `memorization`.
+
+#### Auto-intepretation
+
+- [Can Large Language Models Explain Themselves? A Study of LLM-Generated Self-Explanations](https://arxiv.org/pdf/2310.11207), Oct. 17 2023.
+- [SelfIE: Self-Interpretation of Large Language Model Embeddings](https://arxiv.org/pdf/2403.10949), Mar. 26 2024.
+- [Are self-explanations from Large Language Models faithful?](https://arxiv.org/pdf/2401.07927), May 16 2024.
+- [FaithLM: Towards Faithful Explanations for Large Language Models](https://arxiv.org/pdf/2402.04678), Jun. 26 2024.
 
 #### Theory of Transformers
 
@@ -536,6 +548,7 @@
 - [Does Alignment Tuning Really Break LLMs’ Internal Confidence?](https://arxiv.org/pdf/2409.00352), Aug. 31 2024.
 - [Towards Data-Centric RLHF: Simple Metrics for Preference Dataset Comparison](https://www.arxiv.org/pdf/2409.09603), Sep. 15 2024.
 - [Interpreting Learned Feedback Patterns in Large Language Models](https://arxiv.org/pdf/2310.08164), Aug. 19 2024.
+- [The N Implementation Details of RLHF with PPO](https://iclr-blogposts.github.io/2024/blog/the-n-implementation-details-of-rlhf-with-ppo/), May 7 2024.
 
 ### Scaling laws
 
@@ -609,6 +622,7 @@
 - [Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risk of Language Models](https://arxiv.org/pdf/2408.08926), Aug. 15 2024.
 - [Benchmarking Large Language Models for Math Reasoning Tasks](https://arxiv.org/pdf/2408.10839), Aug. 20 2024.
 - [Easy2Hard-Bench: Standardized Difficulty Labels for Profiling LLM Performance and Generalization](https://arxiv.org/pdf/2409.18433), Sep. 27 2024.
+- [MLE-Bench: Evaluating machine learning agents on machine learning engineering](https://arxiv.org/pdf/2410.07095), Oct. 9 2024.
 
 #### Toolkit
 
@@ -640,3 +654,4 @@
 
 - [A Practitioner’s Guide to Continual Multimodal Pretraining](https://arxiv.org/pdf/2408.14471), Aug. 26 2024.
 - [Visual agents as fast and slow thinker](https://arxiv.org/pdf/2408.08862), Aug. 16 2024.
+- [NVLM: Open Frontier-Class Multimodal LLMs](https://nvlm-project.github.io/), Sep. 17 2024.
