@@ -98,6 +98,9 @@
 - [Non-convergence to global minimizers in data driven supervised deep learning: Adam and stochastic gradient descent optimization provably fail to converge to global minimizers in the training of deep neural networks with ReLU activation](https://arxiv.org/pdf/2410.10533), Oct. 14 2024.
 - [Scaling Gaussian Processes for Learning Curve Prediction via Latent Kronecker Structure](https://arxiv.org/pdf/2410.09239), Oct. 11 2024.
 - [The Epochal Sawtooth Effect: Unveiling Training Loss Oscillations in Adam and Other Optimizers](https://arxiv.org/pdf/2410.10056), Oct. 14 2024.
+- [Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf), 
+- [Simultaneous linear connectivity of neural networks modulo permutation](https://arxiv.org/pdf/2404.06498), Apr. 9 2024.
+- [The Non-Local Model Merging Problem: Permutation Symmetries and Variance Collapse](https://arxiv.org/pdf/2410.12766), Oct. 16 2024. [code](https://github.com/ekanshs/tact-merge).
 
 ## LLMs related
 
@@ -370,6 +373,8 @@
 - [Hypothesis Testing the Circuit Hypothesis in LLMs](https://arxiv.org/pdf/2410.13032), Oct. 16 2024. `circuits`.
 - [Mechanistic?](https://arxiv.org/pdf/2410.09087), Oct. 7 2024.
 - [When attention sink emerges in language models: An empirical view](https://arxiv.org/pdf/2410.10781), Oct. 14 2024.
+- [Investigating sensitive directions in GPT-2: An improved baseline and comparative analysis of SAEs](https://arxiv.org/pdf/2410.12555), Oct. 16 2024.
+- [Analyzing (In)Abilities of SAEs via Formal Languages](https://arxiv.org/pdf/2410.11767), Oct. 15 2024.
 
 #### Auto-intepretation
 
@@ -394,6 +399,7 @@
 - [A Law of Next-Token Prediction in Large Language Models](https://arxiv.org/pdf/2408.13442), Aug. 24 2024.
 - [Non-asymptotic Convergence of Training Transformers for Next-token Prediction](https://arxiv.org/pdf/2409.17335), Sep. 25 2024.
 - [Benign or Not-Benign Overfitting in Token Selection of Attention Mechanism](https://arxiv.org/pdf/2409.17625), Sep. 26 2024.
+- [Implicit Bias of Next-Token Prediction](https://arxiv.org/pdf/2402.18551), Feb. 28 2024.
 
 #### Theory of icl and prompting
 
@@ -407,6 +413,8 @@
 - [Can in-context learning really generalize to out-of-distribution tasks?](https://arxiv.org/pdf/2410.09695), Oct. 13 2024.
 - [Towards the effect of examples on in-context learning: A theoretical case study](https://arxiv.org/pdf/2410.09411), Oct. 12 2024.
 - [Inference and Verbalization Functions During In-Context Learning](https://arxiv.org/pdf/2410.09349), Oct. 12 2024. [code](https://github.com/JunyiTao/infer-then-verbalize-during-icl).
+- [How Transformers Implement Induction Heads: Approximation and Optimization Analysis](https://arxiv.org/pdf/2410.11474), Oct. 16 2024.
+- [Context-scaling versus task-scaling in in-context learning](https://arxiv.org/pdf/2410.12783), Oct. 16 2024.
 
 ### Pre-training
 
@@ -528,6 +536,7 @@
 - [STACKFEED: Structured textual actor-critic knowledge base editing with feedback](https://arxiv.org/pdf/2410.10584), Oct. 14 2024.
 - [Mix data or merge models? Optimizing for diverse multi-task learning](https://arxiv.org/pdf/2410.10801), Oct. 14 2024.
 - [MTL-LoRA: Low-Rank Adaptation for Multi-Task Learning](https://arxiv.org/pdf/2410.09437), Oct. 15 2024. 
+- [Open Domain Question Answering with Conflicting Contexts](https://arxiv.org/pdf/2410.12311), Oct. 18 2024.
 
 #### Peft techniques
 
@@ -600,6 +609,9 @@
 - [Scaling FP8 training to trillion-token llms](https://arxiv.org/pdf/2409.12517), Sep. 19 2024.
 - [How feature learning can improve neural scaling laws](https://arxiv.org/pdf/2409.17858), Sep. 26 2024.
 - [Scaling laws for multilingual language models](https://arxiv.org/pdf/2410.12883), Oct. 15 2024.
+- [Adaptive data optimization: Dynamic sample selection with scaling laws](https://arxiv.org/pdf/2410.11820), Oct. 15 2024. [code](https://github.com/yidingjiang/ado).
+- [A hitchhiker's guide to scaling law estimation](https://arxiv.org/pdf/2410.11840), Oct. 15 2024.
+- [Towards neural scaling laws for time series foundation models](https://arxiv.org/pdf/2410.12360), Oct. 16 2024.
 
 #### FLOPS
 
@@ -634,6 +646,8 @@
 ### Evaluation
 
 - [Evaluating language models as risk scores](https://arxiv.org/pdf/2407.14614), Jul. 19 2024.
+- [Training on the test task confounds evaluation and emergence](https://arxiv.org/pdf/2407.07890?), Jul. 10 2024. [code](https://github.com/socialfoundations/training-on-the-test-task).
+- [Language model developers should report train-test overlap](https://arxiv.org/abs/2410.08385), Oct. 10 2024. [code](https://github.com/stanford-crfm/data-overlap).
 
 #### Data contamination
 
