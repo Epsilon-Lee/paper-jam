@@ -263,6 +263,8 @@
 - [LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch](https://arxiv.org/pdf/2410.13213), Oct. 17 2024.
 - [A simple baseline for predicting events with auto-regressive tabular transformers](https://arxiv.org/pdf/2410.10648), Oct. 14 2024.
 - [DARE the Extreme Ð: Revisiting Delta-Parameter Pruning For Fine-Tuned Models](https://arxiv.org/pdf/2410.09344), Oct. 12 2024. `pruning`.
+- [LoLCATs: On Low-Rank Linearizing of Large Language Models](https://arxiv.org/pdf/2410.10254), Oct. 14 2024. [code](https://github.com/HazyResearch/lolcats).
+- [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace), Oct. 2024.
 
 ### Length generalization
 
@@ -375,6 +377,11 @@
 - [When attention sink emerges in language models: An empirical view](https://arxiv.org/pdf/2410.10781), Oct. 14 2024.
 - [Investigating sensitive directions in GPT-2: An improved baseline and comparative analysis of SAEs](https://arxiv.org/pdf/2410.12555), Oct. 16 2024.
 - [Analyzing (In)Abilities of SAEs via Formal Languages](https://arxiv.org/pdf/2410.11767), Oct. 15 2024.
+
+#### Computational complexity theory of transformers and beyond
+
+- [On the practical computational power of finite precision rnns for language recognition](https://aclanthology.org/P18-2117.pdf), ACL 2018.
+- [On Efficiently Representing Regular Languages as RNNs](https://aclanthology.org/2024.findings-acl.244.pdf), ACL 2024. [code](https://github.com/rycolab/bpdas).
 
 #### Auto-intepretation
 
@@ -698,6 +705,7 @@
 - [AgentScope: A Flexible yet Robust Multi-Agent Platform](https://arxiv.org/pdf/2402.14034), May 20 2024. [github](https://github.com/modelscope/agentscope).
 - [TextGrad: Automatic “Differentiation” via Text](https://arxiv.org/pdf/2406.07496), Jun. 11 2024. [github](https://github.com/zou-group/textgrad).
 - [AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762), Oct. 14 2024.
+- [AFlow: Automatic agentic workflow generation](https://arxiv.org/pdf/2410.10762), Oct. 14 2024. [code](https://github.com/geekan/MetaGPT).
 
 ### Multi-modality
 
