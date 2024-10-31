@@ -101,6 +101,7 @@
 - [Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf), 
 - [Simultaneous linear connectivity of neural networks modulo permutation](https://arxiv.org/pdf/2404.06498), Apr. 9 2024.
 - [The Non-Local Model Merging Problem: Permutation Symmetries and Variance Collapse](https://arxiv.org/pdf/2410.12766), Oct. 16 2024. [code](https://github.com/ekanshs/tact-merge).
+- [Optimal Protocols for Continual Learning via Statistical Physics and Control Theory](https://arxiv.org/pdf/2409.18061), 
 
 ## LLMs related
 
@@ -265,6 +266,7 @@
 - [DARE the Extreme Ð: Revisiting Delta-Parameter Pruning For Fine-Tuned Models](https://arxiv.org/pdf/2410.09344), Oct. 12 2024. `pruning`.
 - [LoLCATs: On Low-Rank Linearizing of Large Language Models](https://arxiv.org/pdf/2410.10254), Oct. 14 2024. [code](https://github.com/HazyResearch/lolcats).
 - [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace), Oct. 2024.
+- [Predicting Emergent Capabilities by Finetuning](https://openreview.net/pdf?id=vL8BIGuFTF), COLM 2024.
 
 ### Length generalization
 
@@ -380,6 +382,15 @@
 
 #### Computational complexity theory of transformers and beyond
 
+- [LSTM recurrent networks learn simple context free and context sensitive languages](https://sferics.idsia.ch/pub/juergen/L-IEEE.pdf), 2001.
+- [On the Practical Computational Power of Finite Precision RNNs for Language Recognition(https://arxiv.org/pdf/1805.04908), May 13 2018.
+- [On the Turing completeness of mordern neural network architecture](https://arxiv.org/abs/1901.03429), Jan. 10 2019.
+- [A Formal Hierarchy of RNN Architectures](https://arxiv.org/pdf/2004.08500), Sep. 19 2020.
+- [Theoretical Limitations of Self-Attention in Neural Sequence Models](https://arxiv.org/abs/1906.06755), Feb. 12 2020.
+- [Attention is Turing Complete](https://jmlr.org/papers/volume22/20-302/20-302.pdf), JMLR 2021.
+- [What Formal Languages Can Transformers Express? A Survey](https://arxiv.org/pdf/2311.00208), Sep. 4 2024.
+- [Transformers in DLOGTIME-Uniform TC0](https://arxiv.org/pdf/2409.13629), Sep. 2024.
+- 
 - [On the practical computational power of finite precision rnns for language recognition](https://aclanthology.org/P18-2117.pdf), ACL 2018.
 - [On Efficiently Representing Regular Languages as RNNs](https://aclanthology.org/2024.findings-acl.244.pdf), ACL 2024. [code](https://github.com/rycolab/bpdas).
 
@@ -455,6 +466,8 @@
 - [Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling](https://arxiv.org/pdf/2408.16737), Aug. 29 2024.
 - [How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs](https://arxiv.org/pdf/2410.13857), Oct. 17 2024.
 - [MathGAP: Out-of-distribution evaluation on problems with arbitrarily complex proofs](https://arxiv.org/pdf/2410.13502), Oct. 17 2024.
+- [awesome-o1](https://github.com/srush/awesome-o1/).
+- [LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench](https://arxiv.org/abs/2409.13373), Sep 20 2024.
 
 #### RAG
 
