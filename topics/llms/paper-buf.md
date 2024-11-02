@@ -417,6 +417,7 @@
 - [Optimal Memorization Capacity of Transformers](https://arxiv.org/pdf/2409.17677), Sep. 26 2024.
 - [Neural Networks Generalize on Low Complexity Data](https://arxiv.org/pdf/2409.17357), Sep. 25 2024.
 - [Learning linear attention in polynomial time](https://arxiv.org/pdf/2410.10101), Oct. 18 2024.
+- [Bilinear sequence regression: A model for learning from long sequences of high-dimensional tokens](https://arxiv.org/pdf/2410.18858), Oct. 24 2024. [code](https://github.com/SPOC-group/bilinear-sequence-regression).
 
 #### Theory of pre-training
 
@@ -479,6 +480,7 @@
 - [LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench](https://arxiv.org/abs/2409.13373), Sep 20 2024.
 - [Sampling Language from Latent System 2 Reasoning](https://openreview.net/pdf?id=OdUqJwu0Gr), NeurIPS 2024.
 - [Thinking LLMs: General instruction following with thought generation](https://arxiv.org/pdf/2410.10630), Oct. 14 2024.
+- [Building math agents with multi-turn iterative preference learning](https://arxiv.org/pdf/2409.02392), Sep. 4 2024.
 
 #### RAG
 
