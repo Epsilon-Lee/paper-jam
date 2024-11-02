@@ -16,7 +16,7 @@
 - [H2O-Danube3 Technical Report](https://arxiv.org/pdf/2407.09276), Jul. 12 2024. `made for smartphone`.
 - [Qwen2 technical report](https://arxiv.org/pdf/2407.10671), Jul. 15 2024.
 - [Falcon2-11b technical report](https://arxiv.org/pdf/2407.14885), Jul. 20 2024.
-- [The Llama 3 herd of models](https://scontent-nrt1-1.xx.fbcdn.net/v/t39.2365-6/452387774_1036916434819166_4173978747091533306_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=t6egZJ8QdI4Q7kNvgGEgnHv&_nc_ht=scontent-nrt1-1.xx&oh=00_AYCRNeyng8Ti3PRi27xvMptEr8ajxVxOVJhz9PanLEya1g&oe=66A642CD), Jul. 23 2024.
+- [The Llama 3 herd of models](https://scontent-nrt1-1.xx.fbcdn.net/v/t39.2365-6/452387774_1036916434819166_4173978747091533306_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=t6egZJ8QdI4Q7kNvgGEgnHv&_nc_ht=scontent-nrt1-1.xx&oh=00_AYCRNeyng8Ti3PRi27xvMptEr8ajxVxOVJhz9PanLEya1g&oe=66A642CD), Jul. 23 2024. [alphaxiv](https://www.alphaxiv.org/abs/2407.21783v1).
 - [Aquila2 Technical Report](https://arxiv.org/pdf/2408.07410), Aug. 14 2024.
 - [DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search](https://arxiv.org/pdf/2408.08152).
 
