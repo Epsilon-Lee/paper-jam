@@ -101,7 +101,9 @@
 - [Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf), 
 - [Simultaneous linear connectivity of neural networks modulo permutation](https://arxiv.org/pdf/2404.06498), Apr. 9 2024.
 - [The Non-Local Model Merging Problem: Permutation Symmetries and Variance Collapse](https://arxiv.org/pdf/2410.12766), Oct. 16 2024. [code](https://github.com/ekanshs/tact-merge).
-- [Optimal Protocols for Continual Learning via Statistical Physics and Control Theory](https://arxiv.org/pdf/2409.18061), 
+- [Optimal Protocols for Continual Learning via Statistical Physics and Control Theory](https://arxiv.org/pdf/2409.18061),
+- [Artificial Kuramoto oscillatory neurons](https://arxiv.org/pdf/2410.13821), Oct. 17 2024. [code](https://github.com/autonomousvision/akorn).
+  - [Binding dynamics in rotating features](https://arxiv.org/pdf/2402.05627), Feb. 8 2024.
 
 ## LLMs related
 
@@ -379,6 +381,7 @@
 - [When attention sink emerges in language models: An empirical view](https://arxiv.org/pdf/2410.10781), Oct. 14 2024.
 - [Investigating sensitive directions in GPT-2: An improved baseline and comparative analysis of SAEs](https://arxiv.org/pdf/2410.12555), Oct. 16 2024.
 - [Analyzing (In)Abilities of SAEs via Formal Languages](https://arxiv.org/pdf/2410.11767), Oct. 15 2024.
+- [VibeCheck: Discover & quantify qualitative differences in large language models](https://arxiv.org/pdf/2410.12851), Oct. 28 2024. [code](https://github.com/lisadunlap/VibeCheck).
 
 #### Computational complexity theory of transformers and beyond
 
@@ -456,6 +459,7 @@
 
 ### Reasoning
 
+- [Program of thoughts prompting: Disentangling computation from reasoning for numerical reasoning tasks](https://arxiv.org/pdf/2211.12588), Oct. 23 2023. [code](https://github.com/TIGER-AI-Lab/Program-of-Thoughts).
 - [System-1.x: Learning to Balance Fast and Slow Planning with Language Models](https://arxiv.org/pdf/2407.14414), Jul. 19 2024.
 - [Does reasoning emerge? Examing the probabilities of causation in large language models](https://arxiv.org/pdf/2408.08210), Aug. 15 2024.
   - _"to what extent do LLMs perform actual reasoning"_
@@ -468,6 +472,8 @@
 - [MathGAP: Out-of-distribution evaluation on problems with arbitrarily complex proofs](https://arxiv.org/pdf/2410.13502), Oct. 17 2024.
 - [awesome-o1](https://github.com/srush/awesome-o1/).
 - [LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench](https://arxiv.org/abs/2409.13373), Sep 20 2024.
+- [Sampling Language from Latent System 2 Reasoning](https://openreview.net/pdf?id=OdUqJwu0Gr), NeurIPS 2024.
+- [Thinking LLMs: General instruction following with thought generation](https://arxiv.org/pdf/2410.10630), Oct. 14 2024.
 
 #### RAG
 
@@ -477,6 +483,8 @@
   - application in vertical-domain
 - [Great Memory, Shallow Reasoning: Limits of kNN-LMs](https://arxiv.org/pdf/2408.11815), Aug. 21 2024. [code](https://arxiv.org/pdf/2408.11815). [code](https://github.com/GSYfate/knnlm-limits).
 - [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/pdf/2408.08921), Aug. 15 2024.
+- [Grounding by trying: LLMs with reinforcement learning-enhanced retrieval](https://arxiv.org/pdf/2410.23214), Oct. 31 2024. [code](https://github.com/sher222/LeReT).
+- [BRIGHT: A realistic and challenging benchmark for reasoning-intensitve retrieval](https://arxiv.org/pdf/2407.12883), Oct. 24 2024.
 
 #### Continual learning (cpt, cft), knowledge updating, model editing, model merging
 
