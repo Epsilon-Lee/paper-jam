@@ -104,6 +104,8 @@
 - [Optimal Protocols for Continual Learning via Statistical Physics and Control Theory](https://arxiv.org/pdf/2409.18061),
 - [Artificial Kuramoto oscillatory neurons](https://arxiv.org/pdf/2410.13821), Oct. 17 2024. [code](https://github.com/autonomousvision/akorn).
   - [Binding dynamics in rotating features](https://arxiv.org/pdf/2402.05627), Feb. 8 2024.
+- [Understanding optimization in deep learning with central flows](https://arxiv.org/pdf/2410.24206), Oct. 31 2024.
+- [When do large learning rates lead us?](https://arxiv.org/pdf/2410.22113), Oct. 29 2024. [code](https://github.com/isadrtdinov/understanding-large-lrs).
 
 ## LLMs related
 
@@ -382,6 +384,7 @@
 - [Investigating sensitive directions in GPT-2: An improved baseline and comparative analysis of SAEs](https://arxiv.org/pdf/2410.12555), Oct. 16 2024.
 - [Analyzing (In)Abilities of SAEs via Formal Languages](https://arxiv.org/pdf/2410.11767), Oct. 15 2024.
 - [VibeCheck: Discover & quantify qualitative differences in large language models](https://arxiv.org/pdf/2410.12851), Oct. 28 2024. [code](https://github.com/lisadunlap/VibeCheck).
+- [Distinguishing ignorance from error in LLM hallucinations](https://arxiv.org/pdf/2410.22071), Oct. 29 2024. [code](https://github.com/technion-cs-nlp/hallucination-mitigation).
 
 #### Computational complexity theory of transformers and beyond
 
@@ -456,6 +459,8 @@
 - [Narrowing the Focus: Learned Optimizers for Pretrained Models](https://arxiv.org/pdf/2408.09310), Aug. 21 2024.
 - [Power scheduler: A batch size and token number agnostic learning rate scheduler](https://arxiv.org/pdf/2408.13359), Aug. 23 2024.
 - [SOAP: Improving and stabilizing Shampoo using Adam](https://arxiv.org/abs/2409.11321), Sep. 17 2024.
+- [Analyzing & reducing the need for learning rate warmup in GPT training](https://arxiv.org/pdf/2410.23922), Oct. 31 2024.
+- [How does critical batch size scale in pre-training?](https://arxiv.org/pdf/2410.21676), Oct. 29 2024. [code](https://github.com/hlzhang109/critical-batch-size).
 
 ### Reasoning
 
