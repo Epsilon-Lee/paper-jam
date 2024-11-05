@@ -106,6 +106,8 @@
   - [Binding dynamics in rotating features](https://arxiv.org/pdf/2402.05627), Feb. 8 2024.
 - [Understanding optimization in deep learning with central flows](https://arxiv.org/pdf/2410.24206), Oct. 31 2024.
 - [When do large learning rates lead us?](https://arxiv.org/pdf/2410.22113), Oct. 29 2024. [code](https://github.com/isadrtdinov/understanding-large-lrs).
+- [Zipfian Whitening](https://arxiv.org/pdf/2411.00680), Nov. 1 2024.
+- [Disentangling Interactions and Dependencies in Feature Attribution](https://arxiv.org/pdf/2410.23772), Oct. 31 2024. `feature attribution`.
 
 ## LLMs related
 
@@ -481,6 +483,8 @@
 - [Sampling Language from Latent System 2 Reasoning](https://openreview.net/pdf?id=OdUqJwu0Gr), NeurIPS 2024.
 - [Thinking LLMs: General instruction following with thought generation](https://arxiv.org/pdf/2410.10630), Oct. 14 2024.
 - [Building math agents with multi-turn iterative preference learning](https://arxiv.org/pdf/2409.02392), Sep. 4 2024.
+- [Can large language models act as symbolic reasoners?](https://arxiv.org/pdf/2410.21490), Oct. 30 2024.
+- [Mixture of parrots: Experts improve memorization more than reasoning](https://arxiv.org/pdf/2410.19034), Oct. 24 2024.
 
 #### RAG
 
@@ -624,6 +628,7 @@
 - [Nudging: Inference-time alignment via model collaboration](https://arxiv.org/pdf/2410.09300), Oct. 15 2024. [code](https://github.com/fywalter/nudging).
 - [Alignment Between the Decision-Making Logic of LLMs and Human Cognition: A Case Study on Legal LLMs](https://arxiv.org/pdf/2410.09083), Oct. 6 2024.
 - [Instructional segment embedding: Improving LLM safety with instruction hierarchy](https://arxiv.org/pdf/2410.09102), Oct. 9 2024.
+- [Reducing the scope of language models with circuit breakers](https://arxiv.org/pdf/2410.21597), Oct. 28 2024.
 
 ### Scaling laws
 
