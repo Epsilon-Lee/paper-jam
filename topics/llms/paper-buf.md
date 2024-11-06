@@ -109,6 +109,10 @@
 - [Zipfian Whitening](https://arxiv.org/pdf/2411.00680), Nov. 1 2024.
 - [Disentangling Interactions and Dependencies in Feature Attribution](https://arxiv.org/pdf/2410.23772), Oct. 31 2024. `feature attribution`.
 
+## Codebases
+
+- [mbrs](https://github.com/naist-nlp/mbrs/tree/main), [paper](https://arxiv.org/abs/2408.04167), Oct. 21 2024.
+
 ## LLMs related
 
 - [Position: Levels of AGI for Operationalizing Progress on the Path to AGI](https://openreview.net/pdf?id=0ofzEysK2D), ICML 2024.
@@ -273,6 +277,7 @@
 - [LoLCATs: On Low-Rank Linearizing of Large Language Models](https://arxiv.org/pdf/2410.10254), Oct. 14 2024. [code](https://github.com/HazyResearch/lolcats).
 - [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace), Oct. 2024.
 - [Predicting Emergent Capabilities by Finetuning](https://openreview.net/pdf?id=vL8BIGuFTF), COLM 2024.
+- [End-to-End Ontology Learning with Large Language Models](https://arxiv.org/pdf/2410.23584), Oct. 31 2024. [code](https://github.com/andylolu2/ollm).
 
 ### Length generalization
 
