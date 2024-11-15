@@ -278,6 +278,9 @@
 - [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace), Oct. 2024.
 - [Predicting Emergent Capabilities by Finetuning](https://openreview.net/pdf?id=vL8BIGuFTF), COLM 2024.
 - [End-to-End Ontology Learning with Large Language Models](https://arxiv.org/pdf/2410.23584), Oct. 31 2024. [code](https://github.com/andylolu2/ollm).
+- [Language Models as Causal Effect Generators](https://arxiv.org/pdf/2411.08019), Nov. 12 2024. [code](https://github.com/lbynum/sequence-driven-scms).
+- [On the limits of language generation: Trade-offs between hallucination and mode collapse](https://arxiv.org/pdf/2411.09642), Nov. 14 2024.
+- [SEQ-VCR: Preventing collapse in intermediate transformer representations for enhanced reasoning](https://arxiv.org/pdf/2411.02344), Nov. 4 2024. [code](https://github.com/rarefin/seq_vcr).
 
 ### Length generalization
 
@@ -425,6 +428,7 @@
 - [Neural Networks Generalize on Low Complexity Data](https://arxiv.org/pdf/2409.17357), Sep. 25 2024.
 - [Learning linear attention in polynomial time](https://arxiv.org/pdf/2410.10101), Oct. 18 2024.
 - [Bilinear sequence regression: A model for learning from long sequences of high-dimensional tokens](https://arxiv.org/pdf/2410.18858), Oct. 24 2024. [code](https://github.com/SPOC-group/bilinear-sequence-regression).
+- [Circuit Complexity Bounds for RoPE-based Transformer Architecture](https://arxiv.org/pdf/2411.07602), Nov. 12 2024.
 
 #### Theory of pre-training
 
@@ -469,6 +473,7 @@
 - [SOAP: Improving and stabilizing Shampoo using Adam](https://arxiv.org/abs/2409.11321), Sep. 17 2024.
 - [Analyzing & reducing the need for learning rate warmup in GPT training](https://arxiv.org/pdf/2410.23922), Oct. 31 2024.
 - [How does critical batch size scale in pre-training?](https://arxiv.org/pdf/2410.21676), Oct. 29 2024. [code](https://github.com/hlzhang109/critical-batch-size).
+- [What do learning dynamics reveal about generalization in LLM reasoning](https://arxiv.org/pdf/2411.07681), Nov. 12 2024. [code](https://github.com/katiekang1998/reasoning_generalization).
 
 ### Reasoning
 
@@ -490,6 +495,7 @@
 - [Building math agents with multi-turn iterative preference learning](https://arxiv.org/pdf/2409.02392), Sep. 4 2024.
 - [Can large language models act as symbolic reasoners?](https://arxiv.org/pdf/2410.21490), Oct. 30 2024.
 - [Mixture of parrots: Experts improve memorization more than reasoning](https://arxiv.org/pdf/2410.19034), Oct. 24 2024.
+- [The surprising effectiveness of test-time training for abstract reasoning](https://arxiv.org/pdf/2411.07279), Nov. 11 2024.
 
 #### RAG
 
@@ -501,6 +507,7 @@
 - [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/pdf/2408.08921), Aug. 15 2024.
 - [Grounding by trying: LLMs with reinforcement learning-enhanced retrieval](https://arxiv.org/pdf/2410.23214), Oct. 31 2024. [code](https://github.com/sher222/LeReT).
 - [BRIGHT: A realistic and challenging benchmark for reasoning-intensitve retrieval](https://arxiv.org/pdf/2407.12883), Oct. 24 2024.
+- [Likelihood as a Performance Gauge for Retrieval-Augmented Generation](https://arxiv.org/pdf/2411.07773), Nov. 12 2024. [code](https://github.com/lyutyuh/poptimizer).
 
 #### Continual learning (cpt, cft), knowledge updating, model editing, model merging
 
@@ -581,6 +588,8 @@
 - [Mix data or merge models? Optimizing for diverse multi-task learning](https://arxiv.org/pdf/2410.10801), Oct. 14 2024.
 - [MTL-LoRA: Low-Rank Adaptation for Multi-Task Learning](https://arxiv.org/pdf/2410.09437), Oct. 15 2024. 
 - [Open Domain Question Answering with Conflicting Contexts](https://arxiv.org/pdf/2410.12311), Oct. 18 2024.
+- [Understanding finetuning for factual knowledge extraction from language models](https://arxiv.org/pdf/2301.11293), Jan. 26 2023.
+- [Knowledge Circuits in Pretrained Transformers](https://arxiv.org/pdf/2405.17969), Oct. 16 2024. [code](https://github.com/zjunlp/KnowledgeCircuits/tree/main).
 
 #### Peft techniques
 
@@ -657,6 +666,8 @@
 - [Adaptive data optimization: Dynamic sample selection with scaling laws](https://arxiv.org/pdf/2410.11820), Oct. 15 2024. [code](https://github.com/yidingjiang/ado).
 - [A hitchhiker's guide to scaling law estimation](https://arxiv.org/pdf/2410.11840), Oct. 15 2024.
 - [Towards neural scaling laws for time series foundation models](https://arxiv.org/pdf/2410.12360), Oct. 16 2024.
+- [Scaling Laws for Precision](https://arxiv.org/pdf/2411.04330), Nov. 7 2024.
+- [Warmstarting for Scaling Language Models](https://arxiv.org/pdf/2411.07340), Nov. 11 2024.
 
 #### FLOPS
 
