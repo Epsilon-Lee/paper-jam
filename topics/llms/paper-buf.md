@@ -432,6 +432,7 @@
 - [Learning linear attention in polynomial time](https://arxiv.org/pdf/2410.10101), Oct. 18 2024.
 - [Bilinear sequence regression: A model for learning from long sequences of high-dimensional tokens](https://arxiv.org/pdf/2410.18858), Oct. 24 2024. [code](https://github.com/SPOC-group/bilinear-sequence-regression).
 - [Circuit Complexity Bounds for RoPE-based Transformer Architecture](https://arxiv.org/pdf/2411.07602), Nov. 12 2024.
+- [Unraveling the Gradient Descent Dynamics of Transformers](https://arxiv.org/pdf/2411.07538), Nov. 12 2024.
 
 #### Theory of pre-training
 
@@ -594,6 +595,7 @@
 - [Open Domain Question Answering with Conflicting Contexts](https://arxiv.org/pdf/2410.12311), Oct. 18 2024.
 - [Understanding finetuning for factual knowledge extraction from language models](https://arxiv.org/pdf/2301.11293), Jan. 26 2023.
 - [Knowledge Circuits in Pretrained Transformers](https://arxiv.org/pdf/2405.17969), Oct. 16 2024. [code](https://github.com/zjunlp/KnowledgeCircuits/tree/main).
+- [Head-to-Tail: How Knowledgeable are Large Language Models (LLMs)? A.K.A. Will LLMs Replace Knowledge Graphs?](https://arxiv.org/pdf/2308.10168), Apr. 3 2024.
 
 #### Peft techniques
 
