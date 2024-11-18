@@ -496,6 +496,7 @@
 - [Can large language models act as symbolic reasoners?](https://arxiv.org/pdf/2410.21490), Oct. 30 2024.
 - [Mixture of parrots: Experts improve memorization more than reasoning](https://arxiv.org/pdf/2410.19034), Oct. 24 2024.
 - [The surprising effectiveness of test-time training for abstract reasoning](https://arxiv.org/pdf/2411.07279), Nov. 11 2024.
+- [Large Language Models Orchestrating Structured Reasoning Achieve Kaggle Grandmaster Level](https://arxiv.org/pdf/2411.03562), Nov. 5 2024.
 
 #### RAG
 
