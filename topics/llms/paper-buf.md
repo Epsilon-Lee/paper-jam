@@ -677,7 +677,7 @@
 - [The FLOPs Calculus of Language Model Training](https://medium.com/@dzmitrybahdanau/the-flops-calculus-of-language-model-training-3b19c1f025e4), Jan. 10 2022.
 - [Transformer FLOPs](https://www.adamcasson.com/posts/transformer-flops), May 16 2023.
 
-### Data curation
+### Data curation and mixing
 
 - [DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining](https://arxiv.org/pdf/2305.10429), Nov. 21 2023.
 - [TinyGSM: achieving > 80% on GSM8k with small language models](https://arxiv.org/pdf/2312.09241), Dec. 14 2023.
@@ -699,6 +699,8 @@
 - [CRAFT Your Dataset: Task-Specific Synthetic Dataset Generation Through Corpus Retrieval and Augmentation](https://arxiv.org/pdf/2409.02098), Sep. 3 2024.
 - [Data-Prep-Kit: getting your data ready for LLM application development](https://arxiv.org/pdf/2409.18164), 2024.
 - [A Little Human Data Goes A Long Way](https://arxiv.org/pdf/2410.13098), Oct. 17 2024.
+- [DEM: Distribution Edited Model for Training with Mixed Data Distributions](https://arxiv.org/pdf/2406.15570), Nov. 5 2024.
+- [AgentInstruct: Toward Generative Teaching with Agentic Flows](https://www.microsoft.com/en-us/research/uploads/prod/2024/07/AgentInstruct.pdf), [blogpost](https://www.microsoft.com/en-us/research/blog/orca-agentinstruct-agentic-flows-can-be-effective-synthetic-data-generators/), Jul. 2024.
 
 ### Evaluation
 
