@@ -108,6 +108,7 @@
 - [When do large learning rates lead us?](https://arxiv.org/pdf/2410.22113), Oct. 29 2024. [code](https://github.com/isadrtdinov/understanding-large-lrs).
 - [Zipfian Whitening](https://arxiv.org/pdf/2411.00680), Nov. 1 2024.
 - [Disentangling Interactions and Dependencies in Feature Attribution](https://arxiv.org/pdf/2410.23772), Oct. 31 2024. `feature attribution`.
+- [Provable unlearning in topic modeling and downstream tasks](https://arxiv.org/pdf/2411.12600), Nov. 19 2024.
 
 ## Codebases
 
@@ -284,6 +285,9 @@
 - [Language Models as Causal Effect Generators](https://arxiv.org/pdf/2411.08019), Nov. 12 2024. [code](https://github.com/lbynum/sequence-driven-scms).
 - [On the limits of language generation: Trade-offs between hallucination and mode collapse](https://arxiv.org/pdf/2411.09642), Nov. 14 2024.
 - [SEQ-VCR: Preventing collapse in intermediate transformer representations for enhanced reasoning](https://arxiv.org/pdf/2411.02344), Nov. 4 2024. [code](https://github.com/rarefin/seq_vcr).
+- [Generative Agent Simulations of 1,000 People](https://arxiv.org/pdf/2411.10109), Nov. 2024.
+- [Does Prompt Formatting Have Any Impact on LLM Performance?](https://arxiv.org/pdf/2411.10541), Nov. 15 2024.
+- [Efficient Alignment of Large Language Models via Data Sampling](https://arxiv.org/pdf/2411.10545), Nov. 15 2024.
 
 ### Length generalization
 
@@ -306,6 +310,7 @@
 - [Memorization in in-context learning](https://arxiv.org/pdf/2408.11546), Aug. 21 2024.
 - [Divide, reweight, and conquer: A logit arithmetic approach for in-context learning](https://arxiv.org/pdf/2410.10074), Oct. 14 2024. [code](https://github.com/Chengsong-Huang/LARA).
 - [Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models](https://arxiv.org/pdf/2410.09701), Oct. 13 2024.
+- [Re-examing learning linear functions in context](https://arxiv.org/pdf/2411.11465), Nov. 18 2024.
 
 ### Prompting techniques
 
@@ -398,6 +403,8 @@
 - [Analyzing (In)Abilities of SAEs via Formal Languages](https://arxiv.org/pdf/2410.11767), Oct. 15 2024.
 - [VibeCheck: Discover & quantify qualitative differences in large language models](https://arxiv.org/pdf/2410.12851), Oct. 28 2024. [code](https://github.com/lisadunlap/VibeCheck).
 - [Distinguishing ignorance from error in LLM hallucinations](https://arxiv.org/pdf/2410.22071), Oct. 29 2024. [code](https://github.com/technion-cs-nlp/hallucination-mitigation).
+- [Features that Make a Difference: Leveraging Gradients for Improved Dictionary Learning](https://arxiv.org/pdf/2411.10397), Nov. 15 2024.
+- [Mechanism and emergence of stacked attention heads in multi-layer transformers](https://arxiv.org/pdf/2411.12118), Nov. 18 2024.
 
 #### Computational complexity theory of transformers and beyond
 
@@ -409,7 +416,6 @@
 - [Attention is Turing Complete](https://jmlr.org/papers/volume22/20-302/20-302.pdf), JMLR 2021.
 - [What Formal Languages Can Transformers Express? A Survey](https://arxiv.org/pdf/2311.00208), Sep. 4 2024.
 - [Transformers in DLOGTIME-Uniform TC0](https://arxiv.org/pdf/2409.13629), Sep. 2024.
-- 
 - [On the practical computational power of finite precision rnns for language recognition](https://aclanthology.org/P18-2117.pdf), ACL 2018.
 - [On Efficiently Representing Regular Languages as RNNs](https://aclanthology.org/2024.findings-acl.244.pdf), ACL 2024. [code](https://github.com/rycolab/bpdas).
 
@@ -433,6 +439,7 @@
 - [Bilinear sequence regression: A model for learning from long sequences of high-dimensional tokens](https://arxiv.org/pdf/2410.18858), Oct. 24 2024. [code](https://github.com/SPOC-group/bilinear-sequence-regression).
 - [Circuit Complexity Bounds for RoPE-based Transformer Architecture](https://arxiv.org/pdf/2411.07602), Nov. 12 2024.
 - [Unraveling the Gradient Descent Dynamics of Transformers](https://arxiv.org/pdf/2411.07538), Nov. 12 2024.
+- [One-Layer Transformer Provably Learns One-Nearest Neighbor In Context](https://arxiv.org/pdf/2411.10830), Nov. 16 2024.
 
 #### Theory of pre-training
 
@@ -478,6 +485,7 @@
 - [Analyzing & reducing the need for learning rate warmup in GPT training](https://arxiv.org/pdf/2410.23922), Oct. 31 2024.
 - [How does critical batch size scale in pre-training?](https://arxiv.org/pdf/2410.21676), Oct. 29 2024. [code](https://github.com/hlzhang109/critical-batch-size).
 - [What do learning dynamics reveal about generalization in LLM reasoning](https://arxiv.org/pdf/2411.07681), Nov. 12 2024. [code](https://github.com/katiekang1998/reasoning_generalization).
+- [MARS: Unleashing the Power of Variance Reduction for Training Large Models](https://arxiv.org/pdf/2411.10438), Nov. 15 2024.
 
 ### Reasoning
 
@@ -501,6 +509,8 @@
 - [Mixture of parrots: Experts improve memorization more than reasoning](https://arxiv.org/pdf/2410.19034), Oct. 24 2024.
 - [The surprising effectiveness of test-time training for abstract reasoning](https://arxiv.org/pdf/2411.07279), Nov. 11 2024.
 - [Large Language Models Orchestrating Structured Reasoning Achieve Kaggle Grandmaster Level](https://arxiv.org/pdf/2411.03562), Nov. 5 2024.
+- [Procedural knowledge in pretraining drives reasoning in large language models](https://arxiv.org/pdf/2411.12580), Nov. 19 2024.
+- [Understanding chain-of-thought in LLMs through information theory](https://arxiv.org/pdf/2411.11984), Nov. 18 2024.
 
 #### RAG
 
@@ -513,6 +523,7 @@
 - [Grounding by trying: LLMs with reinforcement learning-enhanced retrieval](https://arxiv.org/pdf/2410.23214), Oct. 31 2024. [code](https://github.com/sher222/LeReT).
 - [BRIGHT: A realistic and challenging benchmark for reasoning-intensitve retrieval](https://arxiv.org/pdf/2407.12883), Oct. 24 2024.
 - [Likelihood as a Performance Gauge for Retrieval-Augmented Generation](https://arxiv.org/pdf/2411.07773), Nov. 12 2024. [code](https://github.com/lyutyuh/poptimizer).
+- [Drowning in Documents: Consequences of Scaling Reranker Inference](https://arxiv.org/pdf/2411.11767), Nov. 18 2024.
 
 #### Continual learning (cpt, cft), knowledge updating, model editing, model merging
 
@@ -649,6 +660,8 @@
 - [Alignment Between the Decision-Making Logic of LLMs and Human Cognition: A Case Study on Legal LLMs](https://arxiv.org/pdf/2410.09083), Oct. 6 2024.
 - [Instructional segment embedding: Improving LLM safety with instruction hierarchy](https://arxiv.org/pdf/2410.09102), Oct. 9 2024.
 - [Reducing the scope of language models with circuit breakers](https://arxiv.org/pdf/2410.21597), Oct. 28 2024.
+- [Steering language model refusal with sparse autoencoders](https://arxiv.org/pdf/2411.11296), Nov. 18 2024.
+- [Pluralistic Alignment Over Time](https://arxiv.org/pdf/2411.10654), Nov. 2024.
 
 ### Scaling laws
 
