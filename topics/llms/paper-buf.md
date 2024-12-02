@@ -296,6 +296,9 @@
 - [Generative Agent Simulations of 1,000 People](https://arxiv.org/pdf/2411.10109), Nov. 2024.
 - [Does Prompt Formatting Have Any Impact on LLM Performance?](https://arxiv.org/pdf/2411.10541), Nov. 15 2024.
 - [Efficient Alignment of Large Language Models via Data Sampling](https://arxiv.org/pdf/2411.10545), Nov. 15 2024.
+- [Language-to-Code Translation with a Single Labeled Example](https://aclanthology.org/2024.emnlp-main.462.pdf), 2024.
+- [Do LLMs Think Fast and Slow? A Causal Study on Sentiment Analysis](https://aclanthology.org/2024.findings-emnlp.547.pdf), EMNLP 2024. [code](https://github.com/cogito233/causal-sa).
+- [To Believe or Not to Believe Your LLM: Iterative Prompting for Estimating Epistemic Uncertainty](https://openreview.net/pdf?id=k6iyUfwdI9), NeurIPS 2024.
 
 ### Length generalization
 
@@ -622,6 +625,7 @@
 Continual Pre-training](https://arxiv.org/pdf/2411.14318), Nov. 21 2024.
 - [Source-Aware Training Enables Knowledge Attribution in Language Models](https://arxiv.org/pdf/2404.01019), Aug. 13 2024. [code](https://github.com/mukhal/intrinsic-source-citation).
 - [Do I know this entity? Knowledge awareness and hallucinations in language models](https://arxiv.org/pdf/2411.14257), Nov. 21 2024.
+- [In Search of the Long-Tail: Systematic Generation of Long-Tail Inferential Knowledge via Logical Rule Guided Search](https://aclanthology.org/2024.emnlp-main.140.pdf), EMNLP 2024.
 
 #### Peft techniques
 
