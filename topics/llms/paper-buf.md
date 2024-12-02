@@ -118,6 +118,8 @@
 
 ## Codebases
 
+- [thefuzz](https://github.com/seatgeek/thefuzz).
+
 ### Machine learning
 
 - [mbrs](https://github.com/naist-nlp/mbrs/tree/main), [paper](https://arxiv.org/abs/2408.04167), Oct. 21 2024.
@@ -531,6 +533,7 @@
 - [BRIGHT: A realistic and challenging benchmark for reasoning-intensitve retrieval](https://arxiv.org/pdf/2407.12883), Oct. 24 2024.
 - [Likelihood as a Performance Gauge for Retrieval-Augmented Generation](https://arxiv.org/pdf/2411.07773), Nov. 12 2024. [code](https://github.com/lyutyuh/poptimizer).
 - [Drowning in Documents: Consequences of Scaling Reranker Inference](https://arxiv.org/pdf/2411.11767), Nov. 18 2024.
+- [OpenScholar: Synthesizing scientific literature with retrieval-augmented LMs](https://arxiv.org/pdf/2411.14199), Nov. 21 2024. [code](https://github.com/AkariAsai/OpenScholar).
 
 #### Continual learning (cpt, cft), knowledge updating, model editing, model merging
 
