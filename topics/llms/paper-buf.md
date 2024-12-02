@@ -109,6 +109,9 @@
 - [Zipfian Whitening](https://arxiv.org/pdf/2411.00680), Nov. 1 2024.
 - [Disentangling Interactions and Dependencies in Feature Attribution](https://arxiv.org/pdf/2410.23772), Oct. 31 2024. `feature attribution`.
 - [Provable unlearning in topic modeling and downstream tasks](https://arxiv.org/pdf/2411.12600), Nov. 19 2024.
+- [Understanding the gains from repeated self-distillation](https://arxiv.org/pdf/2407.04600), Jul. 5 2024.
+  - _"Our analysis shows that the excess risk achieved by multi-step self-distillation can significantly improve upon a single step of self-distillation, reducing the excess risk by a factor as large as d, where d is the input dimension. Empirical results on regression tasks from the UCI repository show a reduction in the learnt model's risk (MSE) by up to 47%."_
+  - _"At a high-level, self-distillation can use data more effectively, since it allows us to extract more knowledge from the same training dataset."_
 
 ## Codebases
 
