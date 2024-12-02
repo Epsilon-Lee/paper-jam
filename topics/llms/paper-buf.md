@@ -112,6 +112,9 @@
 - [Understanding the gains from repeated self-distillation](https://arxiv.org/pdf/2407.04600), Jul. 5 2024.
   - _"Our analysis shows that the excess risk achieved by multi-step self-distillation can significantly improve upon a single step of self-distillation, reducing the excess risk by a factor as large as d, where d is the input dimension. Empirical results on regression tasks from the UCI repository show a reduction in the learnt model's risk (MSE) by up to 47%."_
   - _"At a high-level, self-distillation can use data more effectively, since it allows us to extract more knowledge from the same training dataset."_
+- [Training Data Attribution via Approximate Unrolling](https://openreview.net/pdf?id=3NaqGg92KZ), NeurIPS 2024.
+- [A Theory of Initialisation’s Impact on Specialisation](https://openreview.net/pdf?id=OdoxWJMapK), Submitted to the Mathematics of Modern Machine Learning Workshop at NeurIPS 2024.
+- [∆-Influence: Unlearning Poisons via Influence Functions](https://arxiv.org/pdf/2411.13731), Nov. 20 2024. [code](https://github.com/andyisokay/delta-influence).
 
 ## Codebases
 
@@ -408,6 +411,7 @@
 - [Distinguishing ignorance from error in LLM hallucinations](https://arxiv.org/pdf/2410.22071), Oct. 29 2024. [code](https://github.com/technion-cs-nlp/hallucination-mitigation).
 - [Features that Make a Difference: Leveraging Gradients for Improved Dictionary Learning](https://arxiv.org/pdf/2411.10397), Nov. 15 2024.
 - [Mechanism and emergence of stacked attention heads in multi-layer transformers](https://arxiv.org/pdf/2411.12118), Nov. 18 2024.
+- [AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution](https://arxiv.org/pdf/2411.15102), Nov. 22 2024. [code](https://github.com/r-three/AttriBoT).
 
 #### Computational complexity theory of transformers and beyond
 
@@ -610,6 +614,11 @@
 - [Understanding finetuning for factual knowledge extraction from language models](https://arxiv.org/pdf/2301.11293), Jan. 26 2023.
 - [Knowledge Circuits in Pretrained Transformers](https://arxiv.org/pdf/2405.17969), Oct. 16 2024. [code](https://github.com/zjunlp/KnowledgeCircuits/tree/main).
 - [Head-to-Tail: How Knowledgeable are Large Language Models (LLMs)? A.K.A. Will LLMs Replace Knowledge Graphs?](https://arxiv.org/pdf/2308.10168), Apr. 3 2024.
+- [Continual memorization of factoids in large language models](https://arxiv.org/pdf/2411.07175), Nov. 11 2024. [code](https://github.com/princeton-nlp/continual-factoid-memorization).
+- [Velocitune: A Velocity-based Dynamic Domain Reweighting Method for
+Continual Pre-training](https://arxiv.org/pdf/2411.14318), Nov. 21 2024.
+- [Source-Aware Training Enables Knowledge Attribution in Language Models](https://arxiv.org/pdf/2404.01019), Aug. 13 2024. [code](https://github.com/mukhal/intrinsic-source-citation).
+- [Do I know this entity? Knowledge awareness and hallucinations in language models](https://arxiv.org/pdf/2411.14257), Nov. 21 2024.
 
 #### Peft techniques
 
