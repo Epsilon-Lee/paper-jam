@@ -166,7 +166,7 @@
 - [Explaining the Model and Feature Dependencies by Decomposition of the Shapley Value](https://arxiv.org/pdf/2306.10880.pdf), Jun. 19 2023.
 - [Feature Selection: A perspective on inter-attribute cooperation.](https://arxiv.org/pdf/2306.16559.pdf), Jun. 28 2023. 
 
-### Dataset attribution methods
+### Training data attribution (TDA) methods
 
 #### Survey
 
@@ -239,6 +239,10 @@
 - [NPEFF: Non-negative per-example fisher factorization](https://arxiv.org/pdf/2310.04649.pdf), Oct. 7 2023. [code](https://github.com/mmatena/npeff_ref).
 - [Composable coresets for determinant maximization: greedy is almost optimal](https://browse.arxiv.org/pdf/2309.15286.pdf), Sep. 26 2023.
 - [Accelerated Shapley Value Approximation for Data Evaluation](https://arxiv.org/pdf/2311.05346.pdf), Nov. 9 2023.
+- [On Training Data Influence of GPT Models](https://aclanthology.org/2024.emnlp-main.183.pdf), ACL 2024. [code](https://github.com/ernie-research/gptfluence).
+- [Towards tracing factual knowledge in language models back to the training data](https://arxiv.org/pdf/2205.11482), Oct. 25 2022.
+- [Simfluence: Modeling the influence of individual training examples by simulating training runs](https://arxiv.org/pdf/2303.08114), Mar. 14 2023.
+- [Scalable influence and fact tracing for large language model pretraining](https://arxiv.org/pdf/2410.17413), Oct. 22 2024.
 
 #### Critics of influence function
 
@@ -253,6 +257,15 @@
 - [Examples are not enough, learn to criticize! critism for interpretability](https://proceedings.neurips.cc/paper/2016/file/5680522b8e2bb01943234bce7bf84534-Paper.pdf), `nips2016`.
 - [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://proceedings.neurips.cc/paper/2019/file/adf7ee2dcf142b0e11888e72b43fcb75-Paper.pdf), `nips2019`.
 - [Interpretable Counterfactual Explanations Guided by Prototypes](https://arxiv.org/pdf/1907.02584.pdf), Feb. 18 2020.
+
+#### Codes for TDA to reuse
+
+- [quanda](https://github.com/dilyabareeva/quanda). [paper](https://arxiv.org/pdf/2410.07158).
+- [dattri](https://github.com/TRAIS-Lab/dattri). [paper](https://arxiv.org/pdf/2410.04555).
+- [simple-data-attribution](https://github.com/vasusingla/simple-data-attribution). [paper](https://arxiv.org/abs/2311.03386).
+- [bayesian-tda](https://github.com/ElisaNguyen/bayesian-tda). [paper](https://arxiv.org/pdf/2305.19765), NeurIPS 2023.
+- [instance_attribution_NLP]. [paper](https://arxiv.org/abs/2104.04128).
+- [influence-function-analysis](https://github.com/xhan77/influence-function-analysis/tree/master). [paper](https://arxiv.org/abs/2005.06676), ACL 2020.
 
 ### Counterfactual and contrastive explanation
 
