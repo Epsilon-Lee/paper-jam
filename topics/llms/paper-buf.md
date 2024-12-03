@@ -124,6 +124,7 @@
 
 - [mbrs](https://github.com/naist-nlp/mbrs/tree/main), [paper](https://arxiv.org/abs/2408.04167), Oct. 21 2024.
 - [alphafold3](https://github.com/google-deepmind/alphafold3), [paper](https://www.nature.com/articles/s41586-024-07487-w), May 8 2024.
+- [Mooncake](https://github.com/kvcache-ai/Mooncake), [paper](https://arxiv.org/abs/2407.00079), Jun. 2024.
 
 ## LLMs related
 
