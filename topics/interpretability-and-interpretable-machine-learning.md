@@ -7,7 +7,7 @@
 - [Interpretation methods](#interpretation-methods)
   - [Feature attribution methods](#feature-attribution-methods)
   - [Critics of feature importance](#critics-of-feature-importance)
-  - [Dataset attribution methods](#dataset-attribution-methods)
+  - [Training data attribution methods](#training-data-attribution-methods)
     - [Critics of influence function](#critics-of-influence-function)
   - [Counterfactual, contrastive explanation](#counterfactual-and-contrastive-explanation)
 - [Visualization methods](#visualization-methods)
@@ -166,7 +166,7 @@
 - [Explaining the Model and Feature Dependencies by Decomposition of the Shapley Value](https://arxiv.org/pdf/2306.10880.pdf), Jun. 19 2023.
 - [Feature Selection: A perspective on inter-attribute cooperation.](https://arxiv.org/pdf/2306.16559.pdf), Jun. 28 2023. 
 
-### Training data attribution (TDA) methods
+### Training data attribution methods
 
 #### Survey
 
@@ -243,6 +243,7 @@
 - [Towards tracing factual knowledge in language models back to the training data](https://arxiv.org/pdf/2205.11482), Oct. 25 2022.
 - [Simfluence: Modeling the influence of individual training examples by simulating training runs](https://arxiv.org/pdf/2303.08114), Mar. 14 2023.
 - [Scalable influence and fact tracing for large language model pretraining](https://arxiv.org/pdf/2410.17413), Oct. 22 2024.
+- [A versatile influence function for data attribution with non-decomposible loss](https://arxiv.org/pdf/2412.01335), Dec. 2 2024.
 
 #### Critics of influence function
 
