@@ -115,6 +115,15 @@
 - [Training Data Attribution via Approximate Unrolling](https://openreview.net/pdf?id=3NaqGg92KZ), NeurIPS 2024.
 - [A Theory of Initialisation’s Impact on Specialisation](https://openreview.net/pdf?id=OdoxWJMapK), Submitted to the Mathematics of Modern Machine Learning Workshop at NeurIPS 2024.
 - [∆-Influence: Unlearning Poisons via Influence Functions](https://arxiv.org/pdf/2411.13731), Nov. 20 2024. [code](https://github.com/andyisokay/delta-influence).
+- [A complexity-based theory of compositionality](https://arxiv.org/pdf/2410.14817), Oct. 18 2024.
+- [The large learning rate phase of deep learning: the catapult mechanism](https://arxiv.org/pdf/2003.02218), Mar. 4 2020.
+
+### Contrastive learning
+
+- [CLIPScore: A Reference-free Evaluation Metric for Image Captioning](https://arxiv.org/abs/2104.08718), Mar. 23 2022.
+- [CLIPLoss and Norm-Based Data Selection Methods for Multimodal Contrastive Learning](https://arxiv.org/pdf/2405.19547), May 29 2024.
+- [Learning smooth distance functions via queries](https://arxiv.org/pdf/2412.01290), Dec. 2 2024.
+- [On erroneous agreements of CLIP image embeddings](https://arxiv.org/pdf/2411.05195), Nov. 7 2024.
 
 ## Codebases
 
@@ -524,6 +533,9 @@
 - [Large Language Models Orchestrating Structured Reasoning Achieve Kaggle Grandmaster Level](https://arxiv.org/pdf/2411.03562), Nov. 5 2024.
 - [Procedural knowledge in pretraining drives reasoning in large language models](https://arxiv.org/pdf/2411.12580), Nov. 19 2024.
 - [Understanding chain-of-thought in LLMs through information theory](https://arxiv.org/pdf/2411.11984), Nov. 18 2024.
+- [Out-of-Distribution Generalization as Reasoning: Are LLMs Competitive?](https://www.youtube.com/watch?v=rvLUo0xiSxg), Simons Institute talk by Les Viliant.
+  - [Robust logics](https://dl.acm.org/doi/pdf/10.1145/301250.301425), STOC 1999.
+  - [Knowledge infusion](https://cdn.aaai.org/AAAI/2006/AAAI06-247.pdf), AAAI 2006.
 
 #### RAG
 
@@ -682,6 +694,7 @@ Continual Pre-training](https://arxiv.org/pdf/2411.14318), Nov. 21 2024.
 - [Reducing the scope of language models with circuit breakers](https://arxiv.org/pdf/2410.21597), Oct. 28 2024.
 - [Steering language model refusal with sparse autoencoders](https://arxiv.org/pdf/2411.11296), Nov. 18 2024.
 - [Pluralistic Alignment Over Time](https://arxiv.org/pdf/2411.10654), Nov. 2024.
+- [Dataset Reset Policy Optimization for RLHF](https://arxiv.org/pdf/2404.08495), Apr. 16 2024. [code](https://github.com/Cornell-RL/drpo).
 
 ### Scaling laws
 
