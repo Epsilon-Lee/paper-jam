@@ -134,6 +134,7 @@
 - [mbrs](https://github.com/naist-nlp/mbrs/tree/main), [paper](https://arxiv.org/abs/2408.04167), Oct. 21 2024.
 - [alphafold3](https://github.com/google-deepmind/alphafold3), [paper](https://www.nature.com/articles/s41586-024-07487-w), May 8 2024.
 - [Mooncake](https://github.com/kvcache-ai/Mooncake), [paper](https://arxiv.org/abs/2407.00079), Jun. 2024.
+- [inseq](https://github.com/inseq-team/inseq). Interpretability for sequence generation models 🐛 🔍.
 
 ## LLMs related
 
@@ -758,6 +759,7 @@ Continual Pre-training](https://arxiv.org/pdf/2411.14318), Nov. 21 2024.
 - [Evaluating language models as risk scores](https://arxiv.org/pdf/2407.14614), Jul. 19 2024.
 - [Training on the test task confounds evaluation and emergence](https://arxiv.org/pdf/2407.07890?), Jul. 10 2024. [code](https://github.com/socialfoundations/training-on-the-test-task).
 - [Language model developers should report train-test overlap](https://arxiv.org/abs/2410.08385), Oct. 10 2024. [code](https://github.com/stanford-crfm/data-overlap).
+- [Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations](https://arxiv.org/pdf/2411.00640), Nov. 1 2024.
 
 #### Data contamination
 
