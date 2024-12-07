@@ -544,6 +544,8 @@
   - [Robust logics](https://dl.acm.org/doi/pdf/10.1145/301250.301425), STOC 1999.
   - [Knowledge infusion](https://cdn.aaai.org/AAAI/2006/AAAI06-247.pdf), AAAI 2006.
 - [Embedding trajectory for out-of-distribution detection in mathematical reasoning](https://arxiv.org/pdf/2405.14039), Oct. 30 2024. [code](https://github.com/Alsace08/OOD-Math-Reasoning).
+- [LLMs Do Not Think Step-by-step In Implicit Reasoning](https://arxiv.org/pdf/2411.15862), Nov. 24 2024.
+  - _"We probe the info. of intermediate steps from the model's hidden states when it is performing implicit CoT. indicate that LLMs hardly think about intermediate steps, suggesting they may just rely on experience rather than strict step-by-step reasoning"_
 
 #### RAG
 
@@ -558,6 +560,7 @@
 - [Likelihood as a Performance Gauge for Retrieval-Augmented Generation](https://arxiv.org/pdf/2411.07773), Nov. 12 2024. [code](https://github.com/lyutyuh/poptimizer).
 - [Drowning in Documents: Consequences of Scaling Reranker Inference](https://arxiv.org/pdf/2411.11767), Nov. 18 2024.
 - [OpenScholar: Synthesizing scientific literature with retrieval-augmented LMs](https://arxiv.org/pdf/2411.14199), Nov. 21 2024. [code](https://github.com/AkariAsai/OpenScholar).
+- [Retrieval-Augmented Generation for Domain-Specific Question Answering: A Case Study on Pittsburgh and CMU](https://arxiv.org/pdf/2411.13691), Nov. 20 2024.
 
 #### Continual learning (cpt, cft), knowledge updating, model editing, model merging
 
@@ -647,6 +650,7 @@ Continual Pre-training](https://arxiv.org/pdf/2411.14318), Nov. 21 2024.
 - [Source-Aware Training Enables Knowledge Attribution in Language Models](https://arxiv.org/pdf/2404.01019), Aug. 13 2024. [code](https://github.com/mukhal/intrinsic-source-citation).
 - [Do I know this entity? Knowledge awareness and hallucinations in language models](https://arxiv.org/pdf/2411.14257), Nov. 21 2024.
 - [In Search of the Long-Tail: Systematic Generation of Long-Tail Inferential Knowledge via Logical Rule Guided Search](https://aclanthology.org/2024.emnlp-main.140.pdf), EMNLP 2024.
+- [Knowledge Graphs, Large Language Models, and Hallucinations: An NLP Perspective](https://arxiv.org/pdf/2411.14258), Nov. 21 2024.
 
 #### Peft techniques
 
@@ -703,6 +707,7 @@ Continual Pre-training](https://arxiv.org/pdf/2411.14318), Nov. 21 2024.
 - [Steering language model refusal with sparse autoencoders](https://arxiv.org/pdf/2411.11296), Nov. 18 2024.
 - [Pluralistic Alignment Over Time](https://arxiv.org/pdf/2411.10654), Nov. 2024.
 - [Dataset Reset Policy Optimization for RLHF](https://arxiv.org/pdf/2404.08495), Apr. 16 2024. [code](https://github.com/Cornell-RL/drpo).
+- [Learning Loss Landscapes in Preference Optimization](https://arxiv.org/pdf/2411.06568), Nov. 10 2024.
 
 ### Scaling laws
 
