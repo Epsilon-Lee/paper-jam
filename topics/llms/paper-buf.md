@@ -116,6 +116,7 @@
 - [A Theory of Initialisation’s Impact on Specialisation](https://openreview.net/pdf?id=OdoxWJMapK), Submitted to the Mathematics of Modern Machine Learning Workshop at NeurIPS 2024.
 - [∆-Influence: Unlearning Poisons via Influence Functions](https://arxiv.org/pdf/2411.13731), Nov. 20 2024. [code](https://github.com/andyisokay/delta-influence).
 - [A complexity-based theory of compositionality](https://arxiv.org/pdf/2410.14817), Oct. 18 2024.
+- [Geometric signatures of compositionality across a language model's lifetime](https://arxiv.org/pdf/2410.01444), Oct. 7 2024.
 - [The large learning rate phase of deep learning: the catapult mechanism](https://arxiv.org/pdf/2003.02218), Mar. 4 2020.
 
 ### Contrastive learning
@@ -310,10 +311,12 @@
 - [Language-to-Code Translation with a Single Labeled Example](https://aclanthology.org/2024.emnlp-main.462.pdf), 2024.
 - [Do LLMs Think Fast and Slow? A Causal Study on Sentiment Analysis](https://aclanthology.org/2024.findings-emnlp.547.pdf), EMNLP 2024. [code](https://github.com/cogito233/causal-sa).
 - [To Believe or Not to Believe Your LLM: Iterative Prompting for Estimating Epistemic Uncertainty](https://openreview.net/pdf?id=k6iyUfwdI9), NeurIPS 2024.
+- [Visual autoregressive modeling: Scalable image generation via next-scale prediction](https://arxiv.org/pdf/2404.02905), Jun. 10 2024.
 
 ### Length generalization
 
 - [Your Context Is Not an Array: Unveiling Random Access Limitations in Transformers](https://arxiv.org/pdf/2408.05506), Aug. 10 2024.
+- [A formal framework for understanding length generalization in transformers](https://arxiv.org/pdf/2410.02140), Oct. 3 2024.
 
 ### In-context learning
 
@@ -441,6 +444,7 @@
 - [Transformers in DLOGTIME-Uniform TC0](https://arxiv.org/pdf/2409.13629), Sep. 2024.
 - [On the practical computational power of finite precision rnns for language recognition](https://aclanthology.org/P18-2117.pdf), ACL 2018.
 - [On Efficiently Representing Regular Languages as RNNs](https://aclanthology.org/2024.findings-acl.244.pdf), ACL 2024. [code](https://github.com/rycolab/bpdas).
+- [InversionView: A general-purpose method for reading information from neural activations](https://arxiv.org/pdf/2405.17653), Nov. 2 2024. [code](https://github.com/huangxt39/InversionView).
 
 #### Auto-intepretation
 
@@ -463,6 +467,7 @@
 - [Circuit Complexity Bounds for RoPE-based Transformer Architecture](https://arxiv.org/pdf/2411.07602), Nov. 12 2024.
 - [Unraveling the Gradient Descent Dynamics of Transformers](https://arxiv.org/pdf/2411.07538), Nov. 12 2024.
 - [One-Layer Transformer Provably Learns One-Nearest Neighbor In Context](https://arxiv.org/pdf/2411.10830), Nov. 16 2024.
+- [When can transformers ground and compose: Insights from compositional generalization benchmarks](https://arxiv.org/pdf/2210.12786), Oct. 31 2022. [code](https://github.com/ankursikarwar/Grounded-Compositional-Generalization).
 
 #### Theory of pre-training
 
@@ -485,6 +490,7 @@
 - [Inference and Verbalization Functions During In-Context Learning](https://arxiv.org/pdf/2410.09349), Oct. 12 2024. [code](https://github.com/JunyiTao/infer-then-verbalize-during-icl).
 - [How Transformers Implement Induction Heads: Approximation and Optimization Analysis](https://arxiv.org/pdf/2410.11474), Oct. 16 2024.
 - [Context-scaling versus task-scaling in in-context learning](https://arxiv.org/pdf/2410.12783), Oct. 16 2024.
+- [A theory of emergent in-context learning as implicit structure induction](https://arxiv.org/pdf/2303.07971), Mar. 14 2024.
 
 ### Pre-training
 
@@ -537,6 +543,7 @@
 - [Out-of-Distribution Generalization as Reasoning: Are LLMs Competitive?](https://www.youtube.com/watch?v=rvLUo0xiSxg), Simons Institute talk by Les Viliant.
   - [Robust logics](https://dl.acm.org/doi/pdf/10.1145/301250.301425), STOC 1999.
   - [Knowledge infusion](https://cdn.aaai.org/AAAI/2006/AAAI06-247.pdf), AAAI 2006.
+- [Embedding trajectory for out-of-distribution detection in mathematical reasoning](https://arxiv.org/pdf/2405.14039), Oct. 30 2024. [code](https://github.com/Alsace08/OOD-Math-Reasoning).
 
 #### RAG
 
@@ -811,6 +818,7 @@ Continual Pre-training](https://arxiv.org/pdf/2411.14318), Nov. 21 2024.
 - [TextGrad: Automatic “Differentiation” via Text](https://arxiv.org/pdf/2406.07496), Jun. 11 2024. [github](https://github.com/zou-group/textgrad).
 - [AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762), Oct. 14 2024.
 - [AFlow: Automatic agentic workflow generation](https://arxiv.org/pdf/2410.10762), Oct. 14 2024. [code](https://github.com/geekan/MetaGPT).
+- [Agent skill acquisition for large language models via CycleQD](https://arxiv.org/pdf/2410.14735), Nov. 27 2024. [code](https://github.com/SakanaAI/CycleQD).
 
 ### Multi-modality
 
