@@ -118,6 +118,8 @@
 - [A complexity-based theory of compositionality](https://arxiv.org/pdf/2410.14817), Oct. 18 2024.
 - [Geometric signatures of compositionality across a language model's lifetime](https://arxiv.org/pdf/2410.01444), Oct. 7 2024.
 - [The large learning rate phase of deep learning: the catapult mechanism](https://arxiv.org/pdf/2003.02218), Mar. 4 2020.
+- [The birth of self-supervised learning: A supervised theory](https://openreview.net/pdf?id=NhYAjAAdQT), NeurIPS 2024 SSL Workshop.
+- [Art-Free generative models: Art creation without graphic art knowledge](https://arxiv.org/pdf/2412.00176), Nov. 29 2024.
 
 ### Contrastive learning
 
@@ -546,6 +548,8 @@
 - [Embedding trajectory for out-of-distribution detection in mathematical reasoning](https://arxiv.org/pdf/2405.14039), Oct. 30 2024. [code](https://github.com/Alsace08/OOD-Math-Reasoning).
 - [LLMs Do Not Think Step-by-step In Implicit Reasoning](https://arxiv.org/pdf/2411.15862), Nov. 24 2024.
   - _"We probe the info. of intermediate steps from the model's hidden states when it is performing implicit CoT. indicate that LLMs hardly think about intermediate steps, suggesting they may just rely on experience rather than strict step-by-step reasoning"_
+- [Let's think var-by-var: Large language models enable ad hoc probabilistic reasoning](https://arxiv.org/pdf/2412.02081), Dec. 3 2024.
+- [Artificial expert intelligence through pac-reasoning](https://arxiv.org/pdf/2412.02441), Dec. 3 2024.
 
 #### RAG
 
@@ -824,6 +828,9 @@ Continual Pre-training](https://arxiv.org/pdf/2411.14318), Nov. 21 2024.
 - [AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762), Oct. 14 2024.
 - [AFlow: Automatic agentic workflow generation](https://arxiv.org/pdf/2410.10762), Oct. 14 2024. [code](https://github.com/geekan/MetaGPT).
 - [Agent skill acquisition for large language models via CycleQD](https://arxiv.org/pdf/2410.14735), Nov. 27 2024. [code](https://github.com/SakanaAI/CycleQD).
+- [Commit0: Library generation from scratch](https://arxiv.org/pdf/2412.01769), Dec. 2 2024.
+ [code](https://github.com/commit-0/commit0).
+[Magentic-One: A generalist multi-agent system for solving complex tasks](https://arxiv.org/pdf/2411.04468), Nov. 7 2024. [blogpost](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/).
 
 ### Multi-modality
 
