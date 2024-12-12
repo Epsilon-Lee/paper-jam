@@ -769,6 +769,7 @@ Continual Pre-training](https://arxiv.org/pdf/2411.14318), Nov. 21 2024.
 - [A Little Human Data Goes A Long Way](https://arxiv.org/pdf/2410.13098), Oct. 17 2024.
 - [DEM: Distribution Edited Model for Training with Mixed Data Distributions](https://arxiv.org/pdf/2406.15570), Nov. 5 2024.
 - [AgentInstruct: Toward Generative Teaching with Agentic Flows](https://www.microsoft.com/en-us/research/uploads/prod/2024/07/AgentInstruct.pdf), [blogpost](https://www.microsoft.com/en-us/research/blog/orca-agentinstruct-agentic-flows-can-be-effective-synthetic-data-generators/), Jul. 2024.
+- [Not all tokens are what you need for pretraining](https://openreview.net/pdf?id=0NMzBwqaAJ), NeurIPS 2024 best paper runner up. [code](https://github.com/microsoft/rho).
 
 ### Evaluation
 
