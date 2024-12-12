@@ -831,6 +831,7 @@ Continual Pre-training](https://arxiv.org/pdf/2411.14318), Nov. 21 2024.
 - [Commit0: Library generation from scratch](https://arxiv.org/pdf/2412.01769), Dec. 2 2024.
  [code](https://github.com/commit-0/commit0).
 [Magentic-One: A generalist multi-agent system for solving complex tasks](https://arxiv.org/pdf/2411.04468), Nov. 7 2024. [blogpost](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/).
+- [Trace is the Next AutoDiff: Generative Optimization with Rich Feedback, Execution Traces, and LLMs](https://arxiv.org/pdf/2406.16218), Nov. 1 2024. [code](https://microsoft.github.io/Trace/).
 
 ### Multi-modality
 
