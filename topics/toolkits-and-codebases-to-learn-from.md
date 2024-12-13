@@ -1,13 +1,8 @@
 
 # Toolkits to Learn From
 
-- [AI](#ai)
 - [Annotation](#annotation)
 - [Production tools](#production-tools)
-
-## AI
-
-- [weaviate](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate), Semantic search through a vectorized Wikipedia (SentenceBERT) with the Weaviate vector search engine.
 
 ## Annotation
 
@@ -39,10 +34,6 @@
 - [codon](https://github.com/exaloop/codon), A high-performance, zero-overhead, extensible Python compiler using LLVM.
 
 ## Data Science
-
-### Knowledge graph
-
-- [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver).
 
 ### Traditional ML and DL framework
 
@@ -96,10 +87,37 @@
 
 - [cvxpy](https://github.com/cvxpy/cvxpy), A Python-embedded modeling language for convex optimization problems.
 
-### LLMs and toolkits around
+### NLP and LLMs toolkits around
+
+**LLM-related**
+
+- [openai-python](https://github.com/openai/openai-python), The official Python library for the OpenAI API.
+- [mcp-servers](https://github.com/modelcontextprotocol/servers), from Anthropic, [python-sdk](https://github.com/modelcontextprotocol/python-sdk).
+- [swarm](https://github.com/openai/swarm), Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
+
+**RAG and knowledge graph**
+
+- [MinerU](https://github.com/opendatalab/MinerU), A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
+- [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver).
+- [graphrag](https://github.com/microsoft/graphrag), A modular graph-based Retrieval-Augmented Generation (RAG) system.
+- [lightrag](https://github.com/HKUDS/LightRAG), "LightRAG: Simple and Fast Retrieval-Augmented Generation".
+- [pyg](https://github.com/pyg-team/pytorch_geometric), Graph Neural Network Library for PyTorch.
+- [ogb](https://github.com/snap-stanford/ogb), Benchmark datasets, data loaders, and evaluators for graph machine learning.
+
+**Embedding, vector db**
 
 - [faiss](https://github.com/modelcontextprotocol/python-sdk).
-- [mcp-servers](https://github.com/modelcontextprotocol/servers), from Anthropic, [python-sdk](https://github.com/modelcontextprotocol/python-sdk).
+- [ColBERT](https://github.com/stanford-futuredata/ColBERT), ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22, ACL'23, EMNLP'23).
+- [weaviate](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate), Semantic search through a vectorized Wikipedia (SentenceBERT) with the Weaviate vector search engine.
+- [serve](https://github.com/jina-ai/serve), ☁️ Build multimodal AI applications with cloud-native stack at Jina AI.
+
+**Traditional NLP**
+
+- [string2string](https://github.com/stanfordnlp/string2string), String-to-String Algorithms for Natural Language Processing.
+- [ltp](https://github.com/HIT-SCIR/ltp), Language Technology Platform.
+- [allen-nlp](https://github.com/allenai/allennlp).
+- [spaCy](https://github.com/explosion/spaCy), 💫 Industrial-strength Natural Language Processing (NLP) in Python.
+- [stanza](https://github.com/stanfordnlp/stanza), Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages.
 
 **QA**
 
@@ -131,5 +149,11 @@
 
 **Visualization**
 
+- [penzai](https://github.com/google-deepmind/penzai), A JAX research toolkit for building, editing, and visualizing neural networks.
 - [WassersteinTSNE](https://github.com/fsvbach/WassersteinTSNE), wasserstein version of the t-sne algorithm.
 - [ManimML](https://github.com/helblazer811/ManimML), ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.
+- [wizmap](https://github.com/poloclub/wizmap), Explore and interpret large embeddings in your browser with interactive visualization! 📍.
+- [pyvene](https://github.com/stanfordnlp/pyvene), Stanford NLP Python Library for Understanding and Improving PyTorch Models via Interventions.
+- [tracr](https://github.com/google-deepmind/tracr), Tracr: TRAnsformer Compiler for RASP.
+
+
