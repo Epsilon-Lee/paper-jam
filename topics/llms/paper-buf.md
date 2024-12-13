@@ -120,6 +120,8 @@
 - [The large learning rate phase of deep learning: the catapult mechanism](https://arxiv.org/pdf/2003.02218), Mar. 4 2020.
 - [The birth of self-supervised learning: A supervised theory](https://openreview.net/pdf?id=NhYAjAAdQT), NeurIPS 2024 SSL Workshop.
 - [Art-Free generative models: Art creation without graphic art knowledge](https://arxiv.org/pdf/2412.00176), Nov. 29 2024.
+- [The Pitfalls of Memorization: When Memorization
+Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 
 ### Contrastive learning
 
@@ -433,6 +435,8 @@
 - [Features that Make a Difference: Leveraging Gradients for Improved Dictionary Learning](https://arxiv.org/pdf/2411.10397), Nov. 15 2024.
 - [Mechanism and emergence of stacked attention heads in multi-layer transformers](https://arxiv.org/pdf/2411.12118), Nov. 18 2024.
 - [AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution](https://arxiv.org/pdf/2411.15102), Nov. 22 2024. [code](https://github.com/r-three/AttriBoT).
+- [Does representation matter? Exploring intermediate layers in large language models](https://arxiv.org/abs/2412.09563), Dec. 12 2024.
+- [Capturing the temporal dependence of training data influence](https://arxiv.org/pdf/2412.09538), Dec. 12 2024.
 
 #### Computational complexity theory of transformers and beyond
 
@@ -493,6 +497,7 @@
 - [How Transformers Implement Induction Heads: Approximation and Optimization Analysis](https://arxiv.org/pdf/2410.11474), Oct. 16 2024.
 - [Context-scaling versus task-scaling in in-context learning](https://arxiv.org/pdf/2410.12783), Oct. 16 2024.
 - [A theory of emergent in-context learning as implicit structure induction](https://arxiv.org/pdf/2303.07971), Mar. 14 2024.
+- [Can generative ai solve your in-context learning problem? A martingale perspective](https://arxiv.org/pdf/2412.06033), Dec. 8 2024.
 
 ### Pre-training
 
@@ -655,6 +660,7 @@ Continual Pre-training](https://arxiv.org/pdf/2411.14318), Nov. 21 2024.
 - [Do I know this entity? Knowledge awareness and hallucinations in language models](https://arxiv.org/pdf/2411.14257), Nov. 21 2024.
 - [In Search of the Long-Tail: Systematic Generation of Long-Tail Inferential Knowledge via Logical Rule Guided Search](https://aclanthology.org/2024.emnlp-main.140.pdf), EMNLP 2024.
 - [Knowledge Graphs, Large Language Models, and Hallucinations: An NLP Perspective](https://arxiv.org/pdf/2411.14258), Nov. 21 2024.
+- [Filter-then-Generate: Large Language Models with Structure-Text Adapter for Knowledge Graph Completion](https://arxiv.org/abs/2412.09094), Dec. 12 2024.
 
 #### Peft techniques
 
@@ -770,6 +776,8 @@ Continual Pre-training](https://arxiv.org/pdf/2411.14318), Nov. 21 2024.
 - [DEM: Distribution Edited Model for Training with Mixed Data Distributions](https://arxiv.org/pdf/2406.15570), Nov. 5 2024.
 - [AgentInstruct: Toward Generative Teaching with Agentic Flows](https://www.microsoft.com/en-us/research/uploads/prod/2024/07/AgentInstruct.pdf), [blogpost](https://www.microsoft.com/en-us/research/blog/orca-agentinstruct-agentic-flows-can-be-effective-synthetic-data-generators/), Jul. 2024.
 - [Not all tokens are what you need for pretraining](https://openreview.net/pdf?id=0NMzBwqaAJ), NeurIPS 2024 best paper runner up. [code](https://github.com/microsoft/rho).
+- [GREATS: Online selection of high-quality data for llm training in every iteration](https://openreview.net/pdf/ac1fcb465f6684c753ea5fbbef2742c636cf326a.pdf), NeurIPS 2024.
+- [RedStone: Curating general, code, math, and QA data for large language models](https://arxiv.org/pdf/2412.03398), Dec. 4 2024. [code](https://github.com/microsoft/redstone).
 
 ### Evaluation
 
