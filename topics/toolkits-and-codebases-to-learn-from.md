@@ -40,6 +40,10 @@
 
 ## Data Science
 
+### Knowledge graph
+
+- [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver).
+
 ### Traditional ML and DL framework
 
 - [xgboost](https://github.com/dmlc/xgboost).
@@ -64,6 +68,8 @@
 
 ### Training + Modeling
 
+- [BERTopic](https://github.com/MaartenGr/BERTopic), [paper](https://arxiv.org/abs/2203.05794).
+- [bm25s](https://github.com/xhluca/bm25s/tree/main), [paper](https://arxiv.org/pdf/2407.03618), [blogpost](https://huggingface.co/blog/xhluca/bm25s).
 - [fairseq](https://github.com/facebookresearch/fairseq), Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [transformers](https://github.com/huggingface/transformers), 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [alpha](https://github.com/alpa-projects/alpa), training and serving large-scale neural networks. `jax`.
@@ -91,6 +97,9 @@
 - [cvxpy](https://github.com/cvxpy/cvxpy), A Python-embedded modeling language for convex optimization problems.
 
 ### LLMs and toolkits around
+
+- [faiss](https://github.com/modelcontextprotocol/python-sdk).
+- [mcp-servers](https://github.com/modelcontextprotocol/servers), from Anthropic, [python-sdk](https://github.com/modelcontextprotocol/python-sdk).
 
 **QA**
 
