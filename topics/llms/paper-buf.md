@@ -789,6 +789,7 @@ Continual Pre-training](https://arxiv.org/pdf/2411.14318), Nov. 21 2024.
 - [Training on the test task confounds evaluation and emergence](https://arxiv.org/pdf/2407.07890?), Jul. 10 2024. [code](https://github.com/socialfoundations/training-on-the-test-task).
 - [Language model developers should report train-test overlap](https://arxiv.org/abs/2410.08385), Oct. 10 2024. [code](https://github.com/stanford-crfm/data-overlap).
 - [Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations](https://arxiv.org/pdf/2411.00640), Nov. 1 2024.
+- [Evaluating Generative AI Systems is a Social Science Measurement Challenge](https://arxiv.org/pdf/2411.10939), Nov. 7 2024.
 
 #### Data contamination
 
