@@ -122,6 +122,7 @@
 - [Art-Free generative models: Art creation without graphic art knowledge](https://arxiv.org/pdf/2412.00176), Nov. 29 2024.
 - [The Pitfalls of Memorization: When Memorization
 Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
+- [Beyond Reweighting: On the Predictive Role of Covariate Shift in Effect Generalization](https://arxiv.org/pdf/2412.08869), Dec. 12 2024. [code](https://github.com/ying531/predictive-shift).
 
 ### Contrastive learning
 
