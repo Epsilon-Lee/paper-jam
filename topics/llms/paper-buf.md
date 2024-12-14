@@ -437,6 +437,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution](https://arxiv.org/pdf/2411.15102), Nov. 22 2024. [code](https://github.com/r-three/AttriBoT).
 - [Does representation matter? Exploring intermediate layers in large language models](https://arxiv.org/abs/2412.09563), Dec. 12 2024.
 - [Capturing the temporal dependence of training data influence](https://arxiv.org/pdf/2412.09538), Dec. 12 2024.
+- [LatentQA: Teaching llms to decode activations into natural language](https://arxiv.org/pdf/2412.08686), Dec. 11 2024. [code](https://github.com/aypan17/latentqa), [blogpost](https://latentqa.github.io/).
 
 #### Computational complexity theory of transformers and beyond
 
