@@ -447,6 +447,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Capturing the temporal dependence of training data influence](https://arxiv.org/pdf/2412.09538), Dec. 12 2024.
 - [LatentQA: Teaching llms to decode activations into natural language](https://arxiv.org/pdf/2412.08686), Dec. 11 2024. [code](https://github.com/aypan17/latentqa), [blogpost](https://latentqa.github.io/).
 - [The buffer mechanism for multi-step information reasoning in language models](https://arxiv.org/pdf/2405.15302), 2024.
+- [Gradient routing: Masking gradients to localize computation in neural networks](https://arxiv.org/pdf/2410.04332), Nov. 29 2024. [blogpost](https://turntrout.com/gradient-routing).
 
 #### Computational complexity theory of transformers and beyond
 
@@ -693,7 +694,7 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [ReFT: Representation Finetuning for Language Models](https://arxiv.org/abs/2404.03592), Apr. 4 2024.
 - [ALLoRA: Adaptive learning rate mitigates LoRA fatal flaws](https://arxiv.org/pdf/2410.09692), Oct. 13 2024.
 
-#### Preference alignment, reward models
+#### Alignment, preference alignment, reward models
 
 - [Dissecting Human and LLM Preferences](https://arxiv.org/pdf/2402.11296), Feb. 17 2024.
 - [The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions](https://arxiv.org/pdf/2404.13208), Apr. 19 2024. `system prompt`.
@@ -731,6 +732,7 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [Pluralistic Alignment Over Time](https://arxiv.org/pdf/2411.10654), Nov. 2024.
 - [Dataset Reset Policy Optimization for RLHF](https://arxiv.org/pdf/2404.08495), Apr. 16 2024. [code](https://github.com/Cornell-RL/drpo).
 - [Learning Loss Landscapes in Preference Optimization](https://arxiv.org/pdf/2411.06568), Nov. 10 2024.
+- [ALMA: Alignment with minimal annotation](https://arxiv.org/pdf/2412.04305), Dec. 5 2024.
 - [ALMA: Alignment with minimal annotation](https://arxiv.org/pdf/2412.04305), Dec. 5 2024.
 
 ### Scaling laws
@@ -864,3 +866,5 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [Visual agents as fast and slow thinker](https://arxiv.org/pdf/2408.08862), Aug. 16 2024.
 - [NVLM: Open Frontier-Class Multimodal LLMs](https://nvlm-project.github.io/), Sep. 17 2024.
 - [From generalist to specialist: Adapting vision language models via task-specific visual instruction tuning](https://arxiv.org/pdf/2410.06456), Oct. 9 2024.
+
+
