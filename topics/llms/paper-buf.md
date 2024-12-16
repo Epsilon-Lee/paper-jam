@@ -733,7 +733,6 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [Dataset Reset Policy Optimization for RLHF](https://arxiv.org/pdf/2404.08495), Apr. 16 2024. [code](https://github.com/Cornell-RL/drpo).
 - [Learning Loss Landscapes in Preference Optimization](https://arxiv.org/pdf/2411.06568), Nov. 10 2024.
 - [ALMA: Alignment with minimal annotation](https://arxiv.org/pdf/2412.04305), Dec. 5 2024.
-- [ALMA: Alignment with minimal annotation](https://arxiv.org/pdf/2412.04305), Dec. 5 2024.
 
 ### Scaling laws
 
