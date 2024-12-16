@@ -117,6 +117,8 @@
 - [∆-Influence: Unlearning Poisons via Influence Functions](https://arxiv.org/pdf/2411.13731), Nov. 20 2024. [code](https://github.com/andyisokay/delta-influence).
 - [A complexity-based theory of compositionality](https://arxiv.org/pdf/2410.14817), Oct. 18 2024.
 - [Geometric signatures of compositionality across a language model's lifetime](https://arxiv.org/pdf/2410.01444), Oct. 7 2024.
+- [Sometimes I am a Tree: Data Drives Unstable
+Hierarchical Generalization](https://arxiv.org/pdf/2412.04619), Dec. 5 2024. [code](https://github.com/sunnytqin/concept_comp).
 - [The large learning rate phase of deep learning: the catapult mechanism](https://arxiv.org/pdf/2003.02218), Mar. 4 2020.
 - [The birth of self-supervised learning: A supervised theory](https://openreview.net/pdf?id=NhYAjAAdQT), NeurIPS 2024 SSL Workshop.
 - [Art-Free generative models: Art creation without graphic art knowledge](https://arxiv.org/pdf/2412.00176), Nov. 29 2024.
@@ -318,6 +320,9 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Do LLMs Think Fast and Slow? A Causal Study on Sentiment Analysis](https://aclanthology.org/2024.findings-emnlp.547.pdf), EMNLP 2024. [code](https://github.com/cogito233/causal-sa).
 - [To Believe or Not to Believe Your LLM: Iterative Prompting for Estimating Epistemic Uncertainty](https://openreview.net/pdf?id=k6iyUfwdI9), NeurIPS 2024.
 - [Visual autoregressive modeling: Scalable image generation via next-scale prediction](https://arxiv.org/pdf/2404.02905), Jun. 10 2024.
+- [Machine unlearning doesn't do what you think: Lessons for generative AI policy, research and practice](https://arxiv.org/pdf/2412.06966), Dec. 9 2024. `machine unlearning`.
+- [Normalizing flows are capable generative models](https://arxiv.org/pdf/2412.06329), Dec. 10 2024. [code](https://github.com/apple/ml-tarflow).
+- [Toward ai-driven digital organism: A system of multiscale foundation models for predicting, simulating and programming biology at all levels](https://www.cs.cmu.edu/~epxing/papers/2025/AIDO.pdf), Nov. 26 2024.
 
 ### Length generalization
 
@@ -342,6 +347,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Divide, reweight, and conquer: A logit arithmetic approach for in-context learning](https://arxiv.org/pdf/2410.10074), Oct. 14 2024. [code](https://github.com/Chengsong-Huang/LARA).
 - [Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models](https://arxiv.org/pdf/2410.09701), Oct. 13 2024.
 - [Re-examing learning linear functions in context](https://arxiv.org/pdf/2411.11465), Nov. 18 2024.
+- [Many-Shot In-Context Learning](https://arxiv.org/pdf/2404.11018), Oct. 17 2024.
 
 ### Prompting techniques
 
@@ -440,6 +446,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Does representation matter? Exploring intermediate layers in large language models](https://arxiv.org/abs/2412.09563), Dec. 12 2024.
 - [Capturing the temporal dependence of training data influence](https://arxiv.org/pdf/2412.09538), Dec. 12 2024.
 - [LatentQA: Teaching llms to decode activations into natural language](https://arxiv.org/pdf/2412.08686), Dec. 11 2024. [code](https://github.com/aypan17/latentqa), [blogpost](https://latentqa.github.io/).
+- [The buffer mechanism for multi-step information reasoning in language models](https://arxiv.org/pdf/2405.15302), 2024.
 
 #### Computational complexity theory of transformers and beyond
 
@@ -559,7 +566,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Let's think var-by-var: Large language models enable ad hoc probabilistic reasoning](https://arxiv.org/pdf/2412.02081), Dec. 3 2024.
 - [Artificial expert intelligence through pac-reasoning](https://arxiv.org/pdf/2412.02441), Dec. 3 2024.
 
-#### RAG
+#### RAG and knowledge graph
 
 - [Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation](https://arxiv.org/pdf/2402.18150v1), Feb. 28 2024. `post-training` `unsupervised` `rag`.
 - [LLMs Know What They Need: Leveraging a Missing Information Guided Framework to Empower Retrieval-Augmented Generation](https://arxiv.org/pdf/2404.14043v1), Apr. 22 2024.
@@ -573,6 +580,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Drowning in Documents: Consequences of Scaling Reranker Inference](https://arxiv.org/pdf/2411.11767), Nov. 18 2024.
 - [OpenScholar: Synthesizing scientific literature with retrieval-augmented LMs](https://arxiv.org/pdf/2411.14199), Nov. 21 2024. [code](https://github.com/AkariAsai/OpenScholar).
 - [Retrieval-Augmented Generation for Domain-Specific Question Answering: A Case Study on Pittsburgh and CMU](https://arxiv.org/pdf/2411.13691), Nov. 20 2024.
+- [Filter-then-generate: Large language models with structure-text adapter for knowledge graph completion](https://arxiv.org/pdf/2412.09094), Dec. 12 2024.
 
 #### Continual learning (cpt, cft), knowledge updating, model editing, model merging
 
@@ -664,6 +672,8 @@ Continual Pre-training](https://arxiv.org/pdf/2411.14318), Nov. 21 2024.
 - [In Search of the Long-Tail: Systematic Generation of Long-Tail Inferential Knowledge via Logical Rule Guided Search](https://aclanthology.org/2024.emnlp-main.140.pdf), EMNLP 2024.
 - [Knowledge Graphs, Large Language Models, and Hallucinations: An NLP Perspective](https://arxiv.org/pdf/2411.14258), Nov. 21 2024.
 - [Filter-then-Generate: Large Language Models with Structure-Text Adapter for Knowledge Graph Completion](https://arxiv.org/abs/2412.09094), Dec. 12 2024.
+- [Extractive Structures Learned in Pretraining Enable Generalization on
+Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 
 #### Peft techniques
 
@@ -747,6 +757,7 @@ Continual Pre-training](https://arxiv.org/pdf/2411.14318), Nov. 21 2024.
 - [Towards neural scaling laws for time series foundation models](https://arxiv.org/pdf/2410.12360), Oct. 16 2024.
 - [Scaling Laws for Precision](https://arxiv.org/pdf/2411.04330), Nov. 7 2024.
 - [Warmstarting for Scaling Language Models](https://arxiv.org/pdf/2411.07340), Nov. 11 2024.
+- [Scaling laws in jet classification](https://arxiv.org/pdf/2312.02264), Dec. 4 2023.
 
 #### FLOPS
 
