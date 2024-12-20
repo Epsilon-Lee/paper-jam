@@ -1,24 +1,69 @@
 
-- [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/pdf/2112.11446), Jan. 21 2022.
 - [Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model](https://arxiv.org/pdf/2201.11990), Feb. 4 2022.
-- [QWen Technincal Report](https://arxiv.org/pdf/2309.16609), Sep. 28 2023.
 - [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/pdf/2304.01373), May 31 2023.
 - [InternLM2 Technical Report](https://arxiv.org/pdf/2403.17297), Mar. 26 2024.
 - [Sailor: Open Language Models for South-East Asia](https://arxiv.org/pdf/2404.03608), Apr. 4 2024.
 - [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/pdf/2406.11931), Jun. 17 2024.
 - [Nemotron-4 340B Technical Report](https://d1qx31qr3h6wln.cloudfront.net/publications/Nemotron_4_340B_8T_0.pdf), Jun. 2024.
 - [ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools](https://arxiv.org/pdf/2406.12793), Jun. 18 2024.
+- [LokiLM: Technical Report](https://arxiv.org/abs/2407.07370), Jul. 10 2024.
+- [H2O-Danube3 Technical Report](https://arxiv.org/pdf/2407.09276), Jul. 12 2024. `made for smartphone`.
+- [Falcon2-11b technical report](https://arxiv.org/pdf/2407.14885), Jul. 20 2024.
+- [Aquila2 Technical Report](https://arxiv.org/pdf/2408.07410), Aug. 14 2024.
+
+
+
+**Llama series**
+
+- [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971), Feb. 27 2023.
+- [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288), Jul. 18 2023.
+- [The Llama 3 herd of models](https://scontent-nrt1-1.xx.fbcdn.net/v/t39.2365-6/452387774_1036916434819166_4173978747091533306_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=t6egZJ8QdI4Q7kNvgGEgnHv&_nc_ht=scontent-nrt1-1.xx&oh=00_AYCRNeyng8Ti3PRi27xvMptEr8ajxVxOVJhz9PanLEya1g&oe=66A642CD), Jul. 23 2024. [alphaxiv](https://www.alphaxiv.org/abs/2407.21783v1).
+
+**Claude**
+
+- [Introducing Claude](https://www.anthropic.com/news/introducing-claude), Mar. 14 2023.
+- [Model Card and Evaluations for Claude Models](https://www-cdn.anthropic.com/bd2a28d2535bfb0494cc8e2a3bf135d2e7523226/Model-Card-Claude-2.pdf), Jul. 8 2023.
+- [The Claude 3 Model Family: Opus, Sonnet, Haiku](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf), [blogpost](https://www.anthropic.com/news/claude-3-family), Mar. 4 2024.
+
+**GPT series**
+
+- [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774), Mar. 15 2023.
+- [GPT-4o System Card](https://arxiv.org/pdf/2410.21276), Aug. 8 2024.
+
+**Phi series**
+
+- [Textbooks Are All You Need](https://arxiv.org/pdf/2306.11644), Oct. 2 2023.
+- [Textbooks Are All You Need II: phi-1.5 technical report](https://arxiv.org/abs/2309.05463), Sep. 11 2023.
+- [Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone](https://arxiv.org/abs/2404.14219), Apr. 22 2024.
+- [Phi-4 technical report](https://arxiv.org/pdf/2412.08905), Dec. 12 2024.
+
+**Gemini and Gemma**
+
+- [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/pdf/2112.11446), Jan. 21 2022.
 - [Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/pdf/2312.11805), Jun. 17 2024.
 - [Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](https://arxiv.org/pdf/2403.05530), Jun. 14 2024.
 - [Gemma 2: Improving Open Language Models at a Practical Size](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf), Jun. 27 2024.
-- [H2O-Danube3 Technical Report](https://arxiv.org/pdf/2407.09276), Jul. 12 2024.
-- [LokiLM: Technical Report](https://arxiv.org/abs/2407.07370), Jul. 10 2024.
-- [H2O-Danube3 Technical Report](https://arxiv.org/pdf/2407.09276), Jul. 12 2024. `made for smartphone`.
+- [Introducing Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/#ceo-message).
+
+**Deepseek series**
+
+- [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://arxiv.org/abs/2401.02954), Jan. 2024.
+- [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/abs/2405.04434), May 7 2024.
+- [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/abs/2406.11931), Jun. 17 2024.
+- [DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search](https://arxiv.org/pdf/2408.08152), Aug. 2024.
+
+**AI2**
+
+- [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838), Feb. 1 2024.
+- [OLMo 2: The best fully open language model to date](https://allenai.org/blog/olmo2), Nov. 26 2024.
+- [TÜLU 3: Pushing Frontiers in Open Language Model Post-Training](https://arxiv.org/pdf/2411.15124), Dec. 6 2024.
+
+**Qwen series**
+
+- [Qwen Technincal Report](https://arxiv.org/pdf/2309.16609), Sep. 28 2023.
 - [Qwen2 technical report](https://arxiv.org/pdf/2407.10671), Jul. 15 2024.
-- [Falcon2-11b technical report](https://arxiv.org/pdf/2407.14885), Jul. 20 2024.
-- [The Llama 3 herd of models](https://scontent-nrt1-1.xx.fbcdn.net/v/t39.2365-6/452387774_1036916434819166_4173978747091533306_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=t6egZJ8QdI4Q7kNvgGEgnHv&_nc_ht=scontent-nrt1-1.xx&oh=00_AYCRNeyng8Ti3PRi27xvMptEr8ajxVxOVJhz9PanLEya1g&oe=66A642CD), Jul. 23 2024. [alphaxiv](https://www.alphaxiv.org/abs/2407.21783v1).
-- [Aquila2 Technical Report](https://arxiv.org/pdf/2408.07410), Aug. 14 2024.
-- [DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search](https://arxiv.org/pdf/2408.08152).
+- [Qwen2.5 Technical Report](https://arxiv.org/pdf/2412.15115), Dec. 19 2024.
+
 
 ### Domain LLMs
 
