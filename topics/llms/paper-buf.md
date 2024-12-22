@@ -323,6 +323,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Machine unlearning doesn't do what you think: Lessons for generative AI policy, research and practice](https://arxiv.org/pdf/2412.06966), Dec. 9 2024. `machine unlearning`.
 - [Normalizing flows are capable generative models](https://arxiv.org/pdf/2412.06329), Dec. 10 2024. [code](https://github.com/apple/ml-tarflow).
 - [Toward ai-driven digital organism: A system of multiscale foundation models for predicting, simulating and programming biology at all levels](https://www.cs.cmu.edu/~epxing/papers/2025/AIDO.pdf), Nov. 26 2024.
+- [Memory Layers at Scale](https://arxiv.org/pdf/2412.09764), Dec. 12 2024. [code](https://github.com/facebookresearch/memory).
 
 ### Length generalization
 
