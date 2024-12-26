@@ -576,6 +576,8 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
   - _"We probe the info. of intermediate steps from the model's hidden states when it is performing implicit CoT. indicate that LLMs hardly think about intermediate steps, suggesting they may just rely on experience rather than strict step-by-step reasoning"_
 - [Let's think var-by-var: Large language models enable ad hoc probabilistic reasoning](https://arxiv.org/pdf/2412.02081), Dec. 3 2024.
 - [Artificial expert intelligence through pac-reasoning](https://arxiv.org/pdf/2412.02441), Dec. 3 2024.
+- [Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding](https://arxiv.org/abs/2411.04282), Nov. 6 2024.
+- [Formal Mathematical Reasoning: A New Frontier in AI](https://arxiv.org/pdf/2412.16075), Dec. 20 2024.
 
 #### RAG and knowledge graph
 
