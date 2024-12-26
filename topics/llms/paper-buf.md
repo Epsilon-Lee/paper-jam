@@ -126,6 +126,9 @@ Hierarchical Generalization](https://arxiv.org/pdf/2412.04619), Dec. 5 2024. [co
 Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Beyond Reweighting: On the Predictive Role of Covariate Shift in Effect Generalization](https://arxiv.org/pdf/2412.08869), Dec. 12 2024. [code](https://github.com/ying531/predictive-shift).
 - [Of dice and games: A theory of generalized boosting](https://arxiv.org/pdf/2412.08012), Dec. 11 2024.
+- [Are Neurons Actually Collapsed? On the Fine-Grained Structure in Neural Representations](), ICML 2023.
+- [Tutorial on Practical Prediction Theory for Classification](https://www.jmlr.org/papers/volume6/langford05a/langford05a.pdf), JMLR 2005.
+- [Machine Learning Reductions Tutorial](https://hunch.net/~reductions_tutorial/reductions_icml09.pdf), ICML 2009.
 
 ### Contrastive learning
 
@@ -144,6 +147,10 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [alphafold3](https://github.com/google-deepmind/alphafold3), [paper](https://www.nature.com/articles/s41586-024-07487-w), May 8 2024.
 - [Mooncake](https://github.com/kvcache-ai/Mooncake), [paper](https://arxiv.org/abs/2407.00079), Jun. 2024.
 - [inseq](https://github.com/inseq-team/inseq). Interpretability for sequence generation models 🐛 🔍.
+
+## Cognitive science
+
+- [Two views on the cognitive brain](https://static1.squarespace.com/static/6305272e303de360fa96632b/t/63f4143cbcc9c36bd399dd87/1676940350093/Two+views+on+the+cognitive+brain.pdf), 2021.
 
 ## LLMs related
 
@@ -324,6 +331,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Normalizing flows are capable generative models](https://arxiv.org/pdf/2412.06329), Dec. 10 2024. [code](https://github.com/apple/ml-tarflow).
 - [Toward ai-driven digital organism: A system of multiscale foundation models for predicting, simulating and programming biology at all levels](https://www.cs.cmu.edu/~epxing/papers/2025/AIDO.pdf), Nov. 26 2024.
 - [Memory Layers at Scale](https://arxiv.org/pdf/2412.09764), Dec. 12 2024. [code](https://github.com/facebookresearch/memory).
+- [Smarter, Better, Faster, Longer: A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference](https://arxiv.org/pdf/2412.13663), Dec. 2024.
 
 ### Length generalization
 
@@ -449,6 +457,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [LatentQA: Teaching llms to decode activations into natural language](https://arxiv.org/pdf/2412.08686), Dec. 11 2024. [code](https://github.com/aypan17/latentqa), [blogpost](https://latentqa.github.io/).
 - [The buffer mechanism for multi-step information reasoning in language models](https://arxiv.org/pdf/2405.15302), 2024.
 - [Gradient routing: Masking gradients to localize computation in neural networks](https://arxiv.org/pdf/2410.04332), Nov. 29 2024. [blogpost](https://turntrout.com/gradient-routing).
+- [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/pdf/2407.15017), Dec. 24 2024.
 
 #### Computational complexity theory of transformers and beyond
 
@@ -734,6 +743,7 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [Dataset Reset Policy Optimization for RLHF](https://arxiv.org/pdf/2404.08495), Apr. 16 2024. [code](https://github.com/Cornell-RL/drpo).
 - [Learning Loss Landscapes in Preference Optimization](https://arxiv.org/pdf/2411.06568), Nov. 10 2024.
 - [ALMA: Alignment with minimal annotation](https://arxiv.org/pdf/2412.04305), Dec. 5 2024.
+- [Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision](https://arxiv.org/abs/2403.09472#), Mar. 14 2024.
 
 ### Scaling laws
 
@@ -866,5 +876,4 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [Visual agents as fast and slow thinker](https://arxiv.org/pdf/2408.08862), Aug. 16 2024.
 - [NVLM: Open Frontier-Class Multimodal LLMs](https://nvlm-project.github.io/), Sep. 17 2024.
 - [From generalist to specialist: Adapting vision language models via task-specific visual instruction tuning](https://arxiv.org/pdf/2410.06456), Oct. 9 2024.
-
 
