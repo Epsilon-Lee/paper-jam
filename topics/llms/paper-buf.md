@@ -129,6 +129,8 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Are Neurons Actually Collapsed? On the Fine-Grained Structure in Neural Representations](), ICML 2023.
 - [Tutorial on Practical Prediction Theory for Classification](https://www.jmlr.org/papers/volume6/langford05a/langford05a.pdf), JMLR 2005.
 - [Machine Learning Reductions Tutorial](https://hunch.net/~reductions_tutorial/reductions_icml09.pdf), ICML 2009.
+- [Subtle adversarial image manipulations influence both human and machine perception](https://www.nature.com/articles/s41467-023-40499-0), Nature 2023.
+- [Ensemble everything everywhere: Multi-scale aggregation for adversarial robustness](https://arxiv.org/abs/2408.05446), Aug. 8 2024.
 
 ### Contrastive learning
 
@@ -332,6 +334,8 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Toward ai-driven digital organism: A system of multiscale foundation models for predicting, simulating and programming biology at all levels](https://www.cs.cmu.edu/~epxing/papers/2025/AIDO.pdf), Nov. 26 2024.
 - [Memory Layers at Scale](https://arxiv.org/pdf/2412.09764), Dec. 12 2024. [code](https://github.com/facebookresearch/memory).
 - [Smarter, Better, Faster, Longer: A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference](https://arxiv.org/pdf/2412.13663), Dec. 2024.
+- [Scaling Laws for Adversarial Attacks on Language Model Activations](https://arxiv.org/pdf/2312.02780), Dec. 5 2023
+  - [A Universal Law of Robustness via Isoperimetry](https://arxiv.org/pdf/2105.12806), Dec. 23 2024.
 
 ### Length generalization
 
