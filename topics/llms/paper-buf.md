@@ -131,6 +131,8 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Machine Learning Reductions Tutorial](https://hunch.net/~reductions_tutorial/reductions_icml09.pdf), ICML 2009.
 - [Subtle adversarial image manipulations influence both human and machine perception](https://www.nature.com/articles/s41467-023-40499-0), Nature 2023.
 - [Ensemble everything everywhere: Multi-scale aggregation for adversarial robustness](https://arxiv.org/abs/2408.05446), Aug. 8 2024.
+- [softmax is not enough (for sharp out-of-distribution)](https://arxiv.org/pdf/2410.01104), Oct. 7 2024.
+- [Universality of representation in biological and artificial neural networks](https://www.biorxiv.org/content/10.1101/2024.12.26.629294v1.full), Dec. 26 2024.
 
 ### Contrastive learning
 
@@ -750,6 +752,7 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [Learning Loss Landscapes in Preference Optimization](https://arxiv.org/pdf/2411.06568), Nov. 10 2024.
 - [ALMA: Alignment with minimal annotation](https://arxiv.org/pdf/2412.04305), Dec. 5 2024.
 - [Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision](https://arxiv.org/abs/2403.09472#), Mar. 14 2024.
+- [A Systematic Examination of Preference Learning through the Lens of Instruction-Following](https://arxiv.org/pdf/2412.15282), Dec. 18 2024.
 
 ### Scaling laws
 
