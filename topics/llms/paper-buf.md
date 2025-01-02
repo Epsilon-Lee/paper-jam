@@ -753,6 +753,8 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [ALMA: Alignment with minimal annotation](https://arxiv.org/pdf/2412.04305), Dec. 5 2024.
 - [Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision](https://arxiv.org/abs/2403.09472#), Mar. 14 2024.
 - [A Systematic Examination of Preference Learning through the Lens of Instruction-Following](https://arxiv.org/pdf/2412.15282), Dec. 18 2024.
+- [A theory of appropriateness with applications to generative artificial intelligence](https://arxiv.org/pdf/2412.19010), Dec. 26 2024.
+- [Fundamental limitations of alignment in large language models](https://arxiv.org/pdf/2304.11082), Jun. 3 2024.
 
 ### Scaling laws
 
