@@ -133,6 +133,8 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Ensemble everything everywhere: Multi-scale aggregation for adversarial robustness](https://arxiv.org/abs/2408.05446), Aug. 8 2024.
 - [softmax is not enough (for sharp out-of-distribution)](https://arxiv.org/pdf/2410.01104), Oct. 7 2024.
 - [Universality of representation in biological and artificial neural networks](https://www.biorxiv.org/content/10.1101/2024.12.26.629294v1.full), Dec. 26 2024.
+- [A Linear Network Theory of Iterated Learning](https://openreview.net/pdf?id=xudmoaroxQ), NeurIPS 2024 workshop.
+  - _"Here we theoretically study the emergence of compositional language, and the ability of simple neural networks to leverage this compositionality to systematically generalize"_
 
 ### Contrastive learning
 
@@ -140,6 +142,8 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [CLIPLoss and Norm-Based Data Selection Methods for Multimodal Contrastive Learning](https://arxiv.org/pdf/2405.19547), May 29 2024.
 - [Learning smooth distance functions via queries](https://arxiv.org/pdf/2412.01290), Dec. 2 2024.
 - [On erroneous agreements of CLIP image embeddings](https://arxiv.org/pdf/2411.05195), Nov. 7 2024.
+
+---
 
 ## Codebases
 
@@ -155,6 +159,8 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 ## Cognitive science
 
 - [Two views on the cognitive brain](https://static1.squarespace.com/static/6305272e303de360fa96632b/t/63f4143cbcc9c36bd399dd87/1676940350093/Two+views+on+the+cognitive+brain.pdf), 2021.
+
+---
 
 ## LLMs related
 
@@ -338,6 +344,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Smarter, Better, Faster, Longer: A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference](https://arxiv.org/pdf/2412.13663), Dec. 2024.
 - [Scaling Laws for Adversarial Attacks on Language Model Activations](https://arxiv.org/pdf/2312.02780), Dec. 5 2023
   - [A Universal Law of Robustness via Isoperimetry](https://arxiv.org/pdf/2105.12806), Dec. 23 2024.
+- [LearnLM: Improving Gemini for Learning](https://arxiv.org/pdf/2412.16429), Dec. 25 2024.
 
 ### Length generalization
 
@@ -363,6 +370,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models](https://arxiv.org/pdf/2410.09701), Oct. 13 2024.
 - [Re-examing learning linear functions in context](https://arxiv.org/pdf/2411.11465), Nov. 18 2024.
 - [Many-Shot In-Context Learning](https://arxiv.org/pdf/2404.11018), Oct. 17 2024.
+- [Multi-Attribute Constraint Satisfaction via Language Model Rewriting](https://arxiv.org/abs/2412.19198), Dec. 26 2024.
 
 ### Prompting techniques
 
