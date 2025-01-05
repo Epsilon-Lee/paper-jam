@@ -345,6 +345,8 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Scaling Laws for Adversarial Attacks on Language Model Activations](https://arxiv.org/pdf/2312.02780), Dec. 5 2023
   - [A Universal Law of Robustness via Isoperimetry](https://arxiv.org/pdf/2105.12806), Dec. 23 2024.
 - [LearnLM: Improving Gemini for Learning](https://arxiv.org/pdf/2412.16429), Dec. 25 2024.
+- [The Responsible Foundation Model Development Cheatsheet: A Review of Tools & Resources](https://openreview.net/pdf?id=tH1dQH20eZ), TMLR 2024.
+- [Rule Extrapolation in Language Models: A Study of Compositional Generalization on OOD Prompts](https://arxiv.org/pdf/2409.13728), Oct. 24 2024. [code](https://github.com/meszarosanna/rule_extrapolation).
 
 ### Length generalization
 
@@ -592,6 +594,8 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Artificial expert intelligence through pac-reasoning](https://arxiv.org/pdf/2412.02441), Dec. 3 2024.
 - [Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding](https://arxiv.org/abs/2411.04282), Nov. 6 2024.
 - [Formal Mathematical Reasoning: A New Frontier in AI](https://arxiv.org/pdf/2412.16075), Dec. 20 2024.
+- [Learning Beyond Pattern Matching? Assaying Mathematical Understanding in LLMs](https://arxiv.org/pdf/2405.15485), ICML 2024.
+- [Tree of Problems: Improving structured problem solving with compositionality](https://arxiv.org/pdf/2410.06634), Oct. 9 2024.
 
 #### RAG and knowledge graph
 
@@ -763,6 +767,7 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [A Systematic Examination of Preference Learning through the Lens of Instruction-Following](https://arxiv.org/pdf/2412.15282), Dec. 18 2024.
 - [A theory of appropriateness with applications to generative artificial intelligence](https://arxiv.org/pdf/2412.19010), Dec. 26 2024.
 - [Fundamental limitations of alignment in large language models](https://arxiv.org/pdf/2304.11082), Jun. 3 2024.
+- [Process Reinforcement through Implicit Rewards](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f), [code](https://github.com/PRIME-RL/PRIME).
 
 ### Scaling laws
 
