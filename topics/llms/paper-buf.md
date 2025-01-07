@@ -548,6 +548,8 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [How Do Large Language Models Acquire Factual Knowledge During Pretraining?](https://arxiv.org/abs/2406.11813), Jun. 17 2024. `interpretability`.
 - [How to Train Data-Efficient LLMs](https://arxiv.org/pdf/2402.09668), Feb. 15 2024.
 - [Simple and Scalable Strategies to Continually Pre-train Large Language Models](https://arxiv.org/pdf/2403.08763), Mar. 26 2024.
+- [Metadata conditioning accelerates language model pre-training](https://arxiv.org/pdf/2501.01956), Jan. 3 2025. [code](https://github.com/princeton-pli/MeCo).
+  - _"MeCo first provides metadata (e.g. URLs like en.wikipedia.org alongside the text during training and later uses a cooldown phase with only the standard text, theirby enabling the model to function normally even without metadata.)"_
 
 #### Optimization
 
