@@ -536,6 +536,67 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [A theory of emergent in-context learning as implicit structure induction](https://arxiv.org/pdf/2303.07971), Mar. 14 2024.
 - [Can generative ai solve your in-context learning problem? A martingale perspective](https://arxiv.org/pdf/2412.06033), Dec. 8 2024.
 
+### Scaling laws
+
+- [Predicting emergent abilities with infinite resolution evaluation](https://arxiv.org/pdf/2310.03262), Apr. 17 2024.
+- [Why Has Predicting Downstream Capabilities of Frontier AI Models with Scale Remained Elusive?](https://arxiv.org/pdf/2406.04391), Jun. 6 2024. `scaling law`.
+- [Will we run out of data? Limits of LLM scaling based on human-generated data](https://arxiv.org/pdf/2211.04325), Jun. 4 2024. `data scaling`.
+- [Position: Will we run out of data? Limits of LLM scaling based on human-generated data](https://openreview.net/pdf?id=ViZcgDQjyG), ICML 2024. `scaling law`.
+- [Scaling laws with vocabulary: Larger models deserve larger vocabularies](https://arxiv.org/pdf/2407.13623), Jul. 18 2024.
+  - _"we predict that th optimal vocabulary size of Llama2-70B should have been at least 216K, 7 times larger than its vocabulary size 32K."_
+- [Scaling retrieval-based language models with a trillion-token datastore](https://arxiv.org/pdf/2407.12854), Jul. 9 2024.
+- [Scaling Training Data with Lossy Image Compression](https://arxiv.org/pdf/2407.17954), Jul. 25 2024
+- [AutoScale - Automatic prediction of compute-optimal data composition for training LLMs](https://arxiv.org/pdf/2407.20177), Jul. 29 2024.
+- [Scaling law with learning rate annealing](https://arxiv.org/pdf/2408.11029), Aug. 20 2024.
+- [Performance Law of Large Language Models](https://arxiv.org/pdf/2408.09895), Aug. 23 2024.
+- [Exploring Scaling Laws for Local SGD in Large Language Model Training](https://arxiv.org/pdf/2409.13198), Sep. 20 2024.
+- [Small-scale proxies for large-scale Transformer training instabilities](https://arxiv.org/pdf/2309.14322), Oct. 16 2023.
+- [Rethinking conventional wisdom in machine learning: From generalization to scaling](https://arxiv.org/abs/2409.15156), Sep. 23 2024.
+- [Scaling FP8 training to trillion-token llms](https://arxiv.org/pdf/2409.12517), Sep. 19 2024.
+- [How feature learning can improve neural scaling laws](https://arxiv.org/pdf/2409.17858), Sep. 26 2024.
+- [Scaling laws for multilingual language models](https://arxiv.org/pdf/2410.12883), Oct. 15 2024.
+- [Adaptive data optimization: Dynamic sample selection with scaling laws](https://arxiv.org/pdf/2410.11820), Oct. 15 2024. [code](https://github.com/yidingjiang/ado).
+- [A hitchhiker's guide to scaling law estimation](https://arxiv.org/pdf/2410.11840), Oct. 15 2024.
+- [Towards neural scaling laws for time series foundation models](https://arxiv.org/pdf/2410.12360), Oct. 16 2024.
+- [Scaling Laws for Precision](https://arxiv.org/pdf/2411.04330), Nov. 7 2024.
+- [Warmstarting for Scaling Language Models](https://arxiv.org/pdf/2411.07340), Nov. 11 2024.
+- [Scaling laws in jet classification](https://arxiv.org/pdf/2312.02264), Dec. 4 2023.
+
+#### FLOPS
+
+- [First-principles on AI scaling](https://dynomight.net/scaling/), Jul. 2023.
+- [Transformer Inference Arithmetic](https://kipp.ly/transformer-inference-arithmetic/), Mar. 30 2022.
+- [The FLOPs Calculus of Language Model Training](https://medium.com/@dzmitrybahdanau/the-flops-calculus-of-language-model-training-3b19c1f025e4), Jan. 10 2022.
+- [Transformer FLOPs](https://www.adamcasson.com/posts/transformer-flops), May 16 2023.
+
+### Data curation and mixing
+
+- [DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining](https://arxiv.org/pdf/2305.10429), Nov. 21 2023.
+- [TinyGSM: achieving > 80% on GSM8k with small language models](https://arxiv.org/pdf/2312.09241), Dec. 14 2023.
+- [What makes good data for alignment? A comphrehensive study of automatic data selection in instruction tuning](https://arxiv.org/pdf/2312.15685), Apr. 16 2024.
+- [MetaMath: Bootstrap your own methematical questions for large language models](https://arxiv.org/pdf/2309.12284), May 3 2024.
+- [Instruction Mining: When Data Mining Meets Large Language Model Finetuning](https://arxiv.org/abs/2307.06290), COLM 2024.
+- [Data, Data Everywhere: A Guide for Pretraining Dataset Construction](https://www.arxiv.org/pdf/2407.06380), Jul. 8 2024. `data curation`.
+  - _"we categorize the most widely used data source, web crawl snapshots, across the attributes of toxicity, quality, type of speech, and domain [...] we show how such attribute information can be used to further refine and improve the quality of a pretraining set"_
+- [On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey](https://arxiv.org/pdf/2406.15126), Jun. 14 2024. `data synthesis`.
+- [Evaluating n-Gram Novelty of Language Models Using Rusty-DAWG](https://arxiv.org/abs/2406.13069), Jun. 24 2024.
+- [The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale](https://arxiv.org/pdf/2406.17557v1), Jun. 25 2024.
+- [Entropy Law: The Story Behind Data Compression and LLM Performance](https://arxiv.org/pdf/2407.06645), Jul. 11 2024. `data selection` `learning dynamics`.
+- [AgentInstruct: Toward Generative Teaching with Agentic Flows](https://arxiv.org/pdf/2407.03502), Jul. 3 2024.
+- [How NuminaMath Won the 1st AIMO Progress Prize](https://huggingface.co/blog/winning-aimo-progress-prize), Jul. 11 2024. `blogpost`.
+- [TAGCOS: Task-agnostic gradient clustered coreset selection for instruction tuning data](https://arxiv.org/pdf/2407.15235), Jul. 21 2024. [code](https://github.com/2003pro/TAGCOS).
+- [Consent in Crisis: The Rapid Decline of the AI Data Commons](https://arxiv.org/pdf/2407.14933), Jul. 20 2024.
+- [Open Artificial Knowledge](https://oakdataset.org/), Jul. 19 2024
+- [Programming every example: Lifting pretraining data quality like experts at scale](https://arxiv.org/pdf/2409.17115), Sep. 25 2024.
+- [CRAFT Your Dataset: Task-Specific Synthetic Dataset Generation Through Corpus Retrieval and Augmentation](https://arxiv.org/pdf/2409.02098), Sep. 3 2024.
+- [Data-Prep-Kit: getting your data ready for LLM application development](https://arxiv.org/pdf/2409.18164), 2024.
+- [A Little Human Data Goes A Long Way](https://arxiv.org/pdf/2410.13098), Oct. 17 2024.
+- [DEM: Distribution Edited Model for Training with Mixed Data Distributions](https://arxiv.org/pdf/2406.15570), Nov. 5 2024.
+- [AgentInstruct: Toward Generative Teaching with Agentic Flows](https://www.microsoft.com/en-us/research/uploads/prod/2024/07/AgentInstruct.pdf), [blogpost](https://www.microsoft.com/en-us/research/blog/orca-agentinstruct-agentic-flows-can-be-effective-synthetic-data-generators/), Jul. 2024.
+- [Not all tokens are what you need for pretraining](https://openreview.net/pdf?id=0NMzBwqaAJ), NeurIPS 2024 best paper runner up. [code](https://github.com/microsoft/rho).
+- [GREATS: Online selection of high-quality data for llm training in every iteration](https://openreview.net/pdf/ac1fcb465f6684c753ea5fbbef2742c636cf326a.pdf), NeurIPS 2024.
+- [RedStone: Curating general, code, math, and QA data for large language models](https://arxiv.org/pdf/2412.03398), Dec. 4 2024. [code](https://github.com/microsoft/redstone).
+
 ### Pre-training
 
 - [Analyzing & Eliminating Learning Rate Warmup in GPT Pre-Training](https://openreview.net/pdf?id=RveSp5oESA), 2024. `learning dynamics`.
@@ -551,7 +612,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Metadata conditioning accelerates language model pre-training](https://arxiv.org/pdf/2501.01956), Jan. 3 2025. [code](https://github.com/princeton-pli/MeCo).
   - _"MeCo first provides metadata (e.g. URLs like en.wikipedia.org alongside the text during training and later uses a cooldown phase with only the standard text, theirby enabling the model to function normally even without metadata.)"_
 
-#### Optimization
+### Optimization
 
 - [Deconstructing What Makes a Good Optimizer for Language Models](https://arxiv.org/pdf/2407.07972), Jul. 10 2024.
 - [Narrowing the Focus: Learned Optimizers for Pretrained Models](https://arxiv.org/pdf/2408.09310), Aug. 21 2024.
@@ -562,60 +623,25 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [What do learning dynamics reveal about generalization in LLM reasoning](https://arxiv.org/pdf/2411.07681), Nov. 12 2024. [code](https://github.com/katiekang1998/reasoning_generalization).
 - [MARS: Unleashing the Power of Variance Reduction for Training Large Models](https://arxiv.org/pdf/2411.10438), Nov. 15 2024.
 
-### Reasoning
+### Peft techniques
 
-- [Program of thoughts prompting: Disentangling computation from reasoning for numerical reasoning tasks](https://arxiv.org/pdf/2211.12588), Oct. 23 2023. [code](https://github.com/TIGER-AI-Lab/Program-of-Thoughts).
-- [System-1.x: Learning to Balance Fast and Slow Planning with Language Models](https://arxiv.org/pdf/2407.14414), Jul. 19 2024.
-- [Does reasoning emerge? Examing the probabilities of causation in large language models](https://arxiv.org/pdf/2408.08210), Aug. 15 2024.
-  - _"to what extent do LLMs perform actual reasoning"_
-  - two key probabilistic concepts that are essential for connecting causes to their effects: the probability of necessity (PN) and the probability of sufficiency (PS)
-  - Use PN and PS to assess LLMs.
-- [Can Large Language Models Understand Symbolic Graphics Programs?](https://arxiv.org/pdf/2408.08313), Aug. 15 2024.
-- [To cot or not to cot? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/pdf/2409.12183), Sep. 18 2024.
-- [Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling](https://arxiv.org/pdf/2408.16737), Aug. 29 2024.
-- [How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs](https://arxiv.org/pdf/2410.13857), Oct. 17 2024.
-- [MathGAP: Out-of-distribution evaluation on problems with arbitrarily complex proofs](https://arxiv.org/pdf/2410.13502), Oct. 17 2024.
-- [awesome-o1](https://github.com/srush/awesome-o1/).
-- [LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench](https://arxiv.org/abs/2409.13373), Sep 20 2024.
-- [Sampling Language from Latent System 2 Reasoning](https://openreview.net/pdf?id=OdUqJwu0Gr), NeurIPS 2024.
-- [Thinking LLMs: General instruction following with thought generation](https://arxiv.org/pdf/2410.10630), Oct. 14 2024.
-- [Building math agents with multi-turn iterative preference learning](https://arxiv.org/pdf/2409.02392), Sep. 4 2024.
-- [Can large language models act as symbolic reasoners?](https://arxiv.org/pdf/2410.21490), Oct. 30 2024.
-- [Mixture of parrots: Experts improve memorization more than reasoning](https://arxiv.org/pdf/2410.19034), Oct. 24 2024.
-- [The surprising effectiveness of test-time training for abstract reasoning](https://arxiv.org/pdf/2411.07279), Nov. 11 2024.
-- [Large Language Models Orchestrating Structured Reasoning Achieve Kaggle Grandmaster Level](https://arxiv.org/pdf/2411.03562), Nov. 5 2024.
-- [Procedural knowledge in pretraining drives reasoning in large language models](https://arxiv.org/pdf/2411.12580), Nov. 19 2024.
-- [Understanding chain-of-thought in LLMs through information theory](https://arxiv.org/pdf/2411.11984), Nov. 18 2024.
-- [Out-of-Distribution Generalization as Reasoning: Are LLMs Competitive?](https://www.youtube.com/watch?v=rvLUo0xiSxg), Simons Institute talk by Les Viliant.
-  - [Robust logics](https://dl.acm.org/doi/pdf/10.1145/301250.301425), STOC 1999.
-  - [Knowledge infusion](https://cdn.aaai.org/AAAI/2006/AAAI06-247.pdf), AAAI 2006.
-- [Embedding trajectory for out-of-distribution detection in mathematical reasoning](https://arxiv.org/pdf/2405.14039), Oct. 30 2024. [code](https://github.com/Alsace08/OOD-Math-Reasoning).
-- [LLMs Do Not Think Step-by-step In Implicit Reasoning](https://arxiv.org/pdf/2411.15862), Nov. 24 2024.
-  - _"We probe the info. of intermediate steps from the model's hidden states when it is performing implicit CoT. indicate that LLMs hardly think about intermediate steps, suggesting they may just rely on experience rather than strict step-by-step reasoning"_
-- [Let's think var-by-var: Large language models enable ad hoc probabilistic reasoning](https://arxiv.org/pdf/2412.02081), Dec. 3 2024.
-- [Artificial expert intelligence through pac-reasoning](https://arxiv.org/pdf/2412.02441), Dec. 3 2024.
-- [Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding](https://arxiv.org/abs/2411.04282), Nov. 6 2024.
-- [Formal Mathematical Reasoning: A New Frontier in AI](https://arxiv.org/pdf/2412.16075), Dec. 20 2024.
-- [Learning Beyond Pattern Matching? Assaying Mathematical Understanding in LLMs](https://arxiv.org/pdf/2405.15485), ICML 2024.
-- [Tree of Problems: Improving structured problem solving with compositionality](https://arxiv.org/pdf/2410.06634), Oct. 9 2024.
+- [LoRA Learns Less and Forgets Less](https://arxiv.org/pdf/2405.09673v1), May 15 2024.
+- [QLoRA: Efficient finetuning of quantized LLMs](https://arxiv.org/pdf/2305.14314), May 23 2023.
+- [The Impact of Initialization on LoRA Finetuning Dynamics](https://arxiv.org/pdf/2406.08447), Jun. 12 2024. `lora`.
+- [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](https://arxiv.org/abs/2312.09979), Dec. 15 2023. `knowledge forgetting`.
+- [LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning](https://arxiv.org/pdf/2403.17919), May 25 2024.
+- [LoRA-Pro: Are Low-Rank Adapters Properly Optimized?](https://arxiv.org/pdf/2407.18242), Jul. 25 2024.
+- [Conditional LoRA Parameter Generation](https://arxiv.org/pdf/2408.01415), Aug. 2024.
+- [Fast Forward Low-Rank Training](https://arxiv.org/pdf/2409.04206), Sep. 6  2024.
+  - _"In a Fast Forward stage, we **repeat** the most recent optimizer step until the loss stops improving on a tiny validation set."_
+  - _"By alternating between regular optimization steps and Fast Forward stages, Fast Forward provides up to an87% reduction in FLOPs and up to an 81% reduction in train time over standard SGD with Adam."_
+- [3-in-1: 2D Rotary Adaptation for Efficient Finetuning, Efficient Batching and Composability](https://arxiv.org/pdf/2409.00119), Aug. 28 2024.
+- [Orthogonal Finetuning for Direct Preference Optimization](https://arxiv.org/pdf/2409.14836), Sep. 23 2024.
+- [Fast Forwarding Low-Rank Training](https://arxiv.org/pdf/2409.04206), Sep. 6 2024.
+- [ReFT: Representation Finetuning for Language Models](https://arxiv.org/abs/2404.03592), Apr. 4 2024.
+- [ALLoRA: Adaptive learning rate mitigates LoRA fatal flaws](https://arxiv.org/pdf/2410.09692), Oct. 13 2024.
 
-#### RAG and knowledge graph
-
-- [Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation](https://arxiv.org/pdf/2402.18150v1), Feb. 28 2024. `post-training` `unsupervised` `rag`.
-- [LLMs Know What They Need: Leveraging a Missing Information Guided Framework to Empower Retrieval-Augmented Generation](https://arxiv.org/pdf/2404.14043v1), Apr. 22 2024.
-- [Evaluation of RAG Metrics for Question Answering in the Telecom Domain](https://arxiv.org/pdf/2407.12873), Jul. 15 2024.
-  - application in vertical-domain
-- [Great Memory, Shallow Reasoning: Limits of kNN-LMs](https://arxiv.org/pdf/2408.11815), Aug. 21 2024. [code](https://arxiv.org/pdf/2408.11815). [code](https://github.com/GSYfate/knnlm-limits).
-- [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/pdf/2408.08921), Aug. 15 2024.
-- [Grounding by trying: LLMs with reinforcement learning-enhanced retrieval](https://arxiv.org/pdf/2410.23214), Oct. 31 2024. [code](https://github.com/sher222/LeReT).
-- [BRIGHT: A realistic and challenging benchmark for reasoning-intensitve retrieval](https://arxiv.org/pdf/2407.12883), Oct. 24 2024.
-- [Likelihood as a Performance Gauge for Retrieval-Augmented Generation](https://arxiv.org/pdf/2411.07773), Nov. 12 2024. [code](https://github.com/lyutyuh/poptimizer).
-- [Drowning in Documents: Consequences of Scaling Reranker Inference](https://arxiv.org/pdf/2411.11767), Nov. 18 2024.
-- [OpenScholar: Synthesizing scientific literature with retrieval-augmented LMs](https://arxiv.org/pdf/2411.14199), Nov. 21 2024. [code](https://github.com/AkariAsai/OpenScholar).
-- [Retrieval-Augmented Generation for Domain-Specific Question Answering: A Case Study on Pittsburgh and CMU](https://arxiv.org/pdf/2411.13691), Nov. 20 2024.
-- [Filter-then-generate: Large language models with structure-text adapter for knowledge graph completion](https://arxiv.org/pdf/2412.09094), Dec. 12 2024.
-
-#### Continual learning (cpt, cft), knowledge updating, model editing, model merging
+### Continual learning (cpt, cft), knowledge updating, model editing, model merging
 
 - [Intrinsic Dimensionality Explains The Effectiveness of Language Model Fine-Tuning](https://arxiv.org/pdf/2012.13255), Dec. 22 2020.
 - [Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation](https://arxiv.org/pdf/2406.20053), Jun. 28 2024. `post-training`.
@@ -708,25 +734,23 @@ Continual Pre-training](https://arxiv.org/pdf/2411.14318), Nov. 21 2024.
 - [Extractive Structures Learned in Pretraining Enable Generalization on
 Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 
-#### Peft techniques
+#### RAG and knowledge graph
 
-- [LoRA Learns Less and Forgets Less](https://arxiv.org/pdf/2405.09673v1), May 15 2024.
-- [QLoRA: Efficient finetuning of quantized LLMs](https://arxiv.org/pdf/2305.14314), May 23 2023.
-- [The Impact of Initialization on LoRA Finetuning Dynamics](https://arxiv.org/pdf/2406.08447), Jun. 12 2024. `lora`.
-- [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](https://arxiv.org/abs/2312.09979), Dec. 15 2023. `knowledge forgetting`.
-- [LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning](https://arxiv.org/pdf/2403.17919), May 25 2024.
-- [LoRA-Pro: Are Low-Rank Adapters Properly Optimized?](https://arxiv.org/pdf/2407.18242), Jul. 25 2024.
-- [Conditional LoRA Parameter Generation](https://arxiv.org/pdf/2408.01415), Aug. 2024.
-- [Fast Forward Low-Rank Training](https://arxiv.org/pdf/2409.04206), Sep. 6  2024.
-  - _"In a Fast Forward stage, we **repeat** the most recent optimizer step until the loss stops improving on a tiny validation set."_
-  - _"By alternating between regular optimization steps and Fast Forward stages, Fast Forward provides up to an87% reduction in FLOPs and up to an 81% reduction in train time over standard SGD with Adam."_
-- [3-in-1: 2D Rotary Adaptation for Efficient Finetuning, Efficient Batching and Composability](https://arxiv.org/pdf/2409.00119), Aug. 28 2024.
-- [Orthogonal Finetuning for Direct Preference Optimization](https://arxiv.org/pdf/2409.14836), Sep. 23 2024.
-- [Fast Forwarding Low-Rank Training](https://arxiv.org/pdf/2409.04206), Sep. 6 2024.
-- [ReFT: Representation Finetuning for Language Models](https://arxiv.org/abs/2404.03592), Apr. 4 2024.
-- [ALLoRA: Adaptive learning rate mitigates LoRA fatal flaws](https://arxiv.org/pdf/2410.09692), Oct. 13 2024.
+- [Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation](https://arxiv.org/pdf/2402.18150v1), Feb. 28 2024. `post-training` `unsupervised` `rag`.
+- [LLMs Know What They Need: Leveraging a Missing Information Guided Framework to Empower Retrieval-Augmented Generation](https://arxiv.org/pdf/2404.14043v1), Apr. 22 2024.
+- [Evaluation of RAG Metrics for Question Answering in the Telecom Domain](https://arxiv.org/pdf/2407.12873), Jul. 15 2024.
+  - application in vertical-domain
+- [Great Memory, Shallow Reasoning: Limits of kNN-LMs](https://arxiv.org/pdf/2408.11815), Aug. 21 2024. [code](https://arxiv.org/pdf/2408.11815). [code](https://github.com/GSYfate/knnlm-limits).
+- [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/pdf/2408.08921), Aug. 15 2024.
+- [Grounding by trying: LLMs with reinforcement learning-enhanced retrieval](https://arxiv.org/pdf/2410.23214), Oct. 31 2024. [code](https://github.com/sher222/LeReT).
+- [BRIGHT: A realistic and challenging benchmark for reasoning-intensitve retrieval](https://arxiv.org/pdf/2407.12883), Oct. 24 2024.
+- [Likelihood as a Performance Gauge for Retrieval-Augmented Generation](https://arxiv.org/pdf/2411.07773), Nov. 12 2024. [code](https://github.com/lyutyuh/poptimizer).
+- [Drowning in Documents: Consequences of Scaling Reranker Inference](https://arxiv.org/pdf/2411.11767), Nov. 18 2024.
+- [OpenScholar: Synthesizing scientific literature with retrieval-augmented LMs](https://arxiv.org/pdf/2411.14199), Nov. 21 2024. [code](https://github.com/AkariAsai/OpenScholar).
+- [Retrieval-Augmented Generation for Domain-Specific Question Answering: A Case Study on Pittsburgh and CMU](https://arxiv.org/pdf/2411.13691), Nov. 20 2024.
+- [Filter-then-generate: Large language models with structure-text adapter for knowledge graph completion](https://arxiv.org/pdf/2412.09094), Dec. 12 2024.
 
-#### Alignment, preference alignment, reward models
+### Alignment, preference alignment, reward models
 
 - [Dissecting Human and LLM Preferences](https://arxiv.org/pdf/2402.11296), Feb. 17 2024.
 - [The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions](https://arxiv.org/pdf/2404.13208), Apr. 19 2024. `system prompt`.
@@ -771,66 +795,44 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [Fundamental limitations of alignment in large language models](https://arxiv.org/pdf/2304.11082), Jun. 3 2024.
 - [Process Reinforcement through Implicit Rewards](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f), [code](https://github.com/PRIME-RL/PRIME).
 
-### Scaling laws
+### Reasoning
 
-- [Predicting emergent abilities with infinite resolution evaluation](https://arxiv.org/pdf/2310.03262), Apr. 17 2024.
-- [Why Has Predicting Downstream Capabilities of Frontier AI Models with Scale Remained Elusive?](https://arxiv.org/pdf/2406.04391), Jun. 6 2024. `scaling law`.
-- [Will we run out of data? Limits of LLM scaling based on human-generated data](https://arxiv.org/pdf/2211.04325), Jun. 4 2024. `data scaling`.
-- [Position: Will we run out of data? Limits of LLM scaling based on human-generated data](https://openreview.net/pdf?id=ViZcgDQjyG), ICML 2024. `scaling law`.
-- [Scaling laws with vocabulary: Larger models deserve larger vocabularies](https://arxiv.org/pdf/2407.13623), Jul. 18 2024.
-  - _"we predict that th optimal vocabulary size of Llama2-70B should have been at least 216K, 7 times larger than its vocabulary size 32K."_
-- [Scaling retrieval-based language models with a trillion-token datastore](https://arxiv.org/pdf/2407.12854), Jul. 9 2024.
-- [Scaling Training Data with Lossy Image Compression](https://arxiv.org/pdf/2407.17954), Jul. 25 2024
-- [AutoScale - Automatic prediction of compute-optimal data composition for training LLMs](https://arxiv.org/pdf/2407.20177), Jul. 29 2024.
-- [Scaling law with learning rate annealing](https://arxiv.org/pdf/2408.11029), Aug. 20 2024.
-- [Performance Law of Large Language Models](https://arxiv.org/pdf/2408.09895), Aug. 23 2024.
-- [Exploring Scaling Laws for Local SGD in Large Language Model Training](https://arxiv.org/pdf/2409.13198), Sep. 20 2024.
-- [Small-scale proxies for large-scale Transformer training instabilities](https://arxiv.org/pdf/2309.14322), Oct. 16 2023.
-- [Rethinking conventional wisdom in machine learning: From generalization to scaling](https://arxiv.org/abs/2409.15156), Sep. 23 2024.
-- [Scaling FP8 training to trillion-token llms](https://arxiv.org/pdf/2409.12517), Sep. 19 2024.
-- [How feature learning can improve neural scaling laws](https://arxiv.org/pdf/2409.17858), Sep. 26 2024.
-- [Scaling laws for multilingual language models](https://arxiv.org/pdf/2410.12883), Oct. 15 2024.
-- [Adaptive data optimization: Dynamic sample selection with scaling laws](https://arxiv.org/pdf/2410.11820), Oct. 15 2024. [code](https://github.com/yidingjiang/ado).
-- [A hitchhiker's guide to scaling law estimation](https://arxiv.org/pdf/2410.11840), Oct. 15 2024.
-- [Towards neural scaling laws for time series foundation models](https://arxiv.org/pdf/2410.12360), Oct. 16 2024.
-- [Scaling Laws for Precision](https://arxiv.org/pdf/2411.04330), Nov. 7 2024.
-- [Warmstarting for Scaling Language Models](https://arxiv.org/pdf/2411.07340), Nov. 11 2024.
-- [Scaling laws in jet classification](https://arxiv.org/pdf/2312.02264), Dec. 4 2023.
-
-#### FLOPS
-
-- [First-principles on AI scaling](https://dynomight.net/scaling/), Jul. 2023.
-- [Transformer Inference Arithmetic](https://kipp.ly/transformer-inference-arithmetic/), Mar. 30 2022.
-- [The FLOPs Calculus of Language Model Training](https://medium.com/@dzmitrybahdanau/the-flops-calculus-of-language-model-training-3b19c1f025e4), Jan. 10 2022.
-- [Transformer FLOPs](https://www.adamcasson.com/posts/transformer-flops), May 16 2023.
-
-### Data curation and mixing
-
-- [DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining](https://arxiv.org/pdf/2305.10429), Nov. 21 2023.
-- [TinyGSM: achieving > 80% on GSM8k with small language models](https://arxiv.org/pdf/2312.09241), Dec. 14 2023.
-- [What makes good data for alignment? A comphrehensive study of automatic data selection in instruction tuning](https://arxiv.org/pdf/2312.15685), Apr. 16 2024.
-- [MetaMath: Bootstrap your own methematical questions for large language models](https://arxiv.org/pdf/2309.12284), May 3 2024.
-- [Instruction Mining: When Data Mining Meets Large Language Model Finetuning](https://arxiv.org/abs/2307.06290), COLM 2024.
-- [Data, Data Everywhere: A Guide for Pretraining Dataset Construction](https://www.arxiv.org/pdf/2407.06380), Jul. 8 2024. `data curation`.
-  - _"we categorize the most widely used data source, web crawl snapshots, across the attributes of toxicity, quality, type of speech, and domain [...] we show how such attribute information can be used to further refine and improve the quality of a pretraining set"_
-- [On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey](https://arxiv.org/pdf/2406.15126), Jun. 14 2024. `data synthesis`.
-- [Evaluating n-Gram Novelty of Language Models Using Rusty-DAWG](https://arxiv.org/abs/2406.13069), Jun. 24 2024.
-- [The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale](https://arxiv.org/pdf/2406.17557v1), Jun. 25 2024.
-- [Entropy Law: The Story Behind Data Compression and LLM Performance](https://arxiv.org/pdf/2407.06645), Jul. 11 2024. `data selection` `learning dynamics`.
-- [AgentInstruct: Toward Generative Teaching with Agentic Flows](https://arxiv.org/pdf/2407.03502), Jul. 3 2024.
-- [How NuminaMath Won the 1st AIMO Progress Prize](https://huggingface.co/blog/winning-aimo-progress-prize), Jul. 11 2024. `blogpost`.
-- [TAGCOS: Task-agnostic gradient clustered coreset selection for instruction tuning data](https://arxiv.org/pdf/2407.15235), Jul. 21 2024. [code](https://github.com/2003pro/TAGCOS).
-- [Consent in Crisis: The Rapid Decline of the AI Data Commons](https://arxiv.org/pdf/2407.14933), Jul. 20 2024.
-- [Open Artificial Knowledge](https://oakdataset.org/), Jul. 19 2024
-- [Programming every example: Lifting pretraining data quality like experts at scale](https://arxiv.org/pdf/2409.17115), Sep. 25 2024.
-- [CRAFT Your Dataset: Task-Specific Synthetic Dataset Generation Through Corpus Retrieval and Augmentation](https://arxiv.org/pdf/2409.02098), Sep. 3 2024.
-- [Data-Prep-Kit: getting your data ready for LLM application development](https://arxiv.org/pdf/2409.18164), 2024.
-- [A Little Human Data Goes A Long Way](https://arxiv.org/pdf/2410.13098), Oct. 17 2024.
-- [DEM: Distribution Edited Model for Training with Mixed Data Distributions](https://arxiv.org/pdf/2406.15570), Nov. 5 2024.
-- [AgentInstruct: Toward Generative Teaching with Agentic Flows](https://www.microsoft.com/en-us/research/uploads/prod/2024/07/AgentInstruct.pdf), [blogpost](https://www.microsoft.com/en-us/research/blog/orca-agentinstruct-agentic-flows-can-be-effective-synthetic-data-generators/), Jul. 2024.
-- [Not all tokens are what you need for pretraining](https://openreview.net/pdf?id=0NMzBwqaAJ), NeurIPS 2024 best paper runner up. [code](https://github.com/microsoft/rho).
-- [GREATS: Online selection of high-quality data for llm training in every iteration](https://openreview.net/pdf/ac1fcb465f6684c753ea5fbbef2742c636cf326a.pdf), NeurIPS 2024.
-- [RedStone: Curating general, code, math, and QA data for large language models](https://arxiv.org/pdf/2412.03398), Dec. 4 2024. [code](https://github.com/microsoft/redstone).
+- [Program of thoughts prompting: Disentangling computation from reasoning for numerical reasoning tasks](https://arxiv.org/pdf/2211.12588), Oct. 23 2023. [code](https://github.com/TIGER-AI-Lab/Program-of-Thoughts).
+- [System-1.x: Learning to Balance Fast and Slow Planning with Language Models](https://arxiv.org/pdf/2407.14414), Jul. 19 2024.
+- [Does reasoning emerge? Examing the probabilities of causation in large language models](https://arxiv.org/pdf/2408.08210), Aug. 15 2024.
+  - _"to what extent do LLMs perform actual reasoning"_
+  - two key probabilistic concepts that are essential for connecting causes to their effects: the probability of necessity (PN) and the probability of sufficiency (PS)
+  - Use PN and PS to assess LLMs.
+- [Can Large Language Models Understand Symbolic Graphics Programs?](https://arxiv.org/pdf/2408.08313), Aug. 15 2024.
+- [To cot or not to cot? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/pdf/2409.12183), Sep. 18 2024.
+- [Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling](https://arxiv.org/pdf/2408.16737), Aug. 29 2024.
+- [How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs](https://arxiv.org/pdf/2410.13857), Oct. 17 2024.
+- [MathGAP: Out-of-distribution evaluation on problems with arbitrarily complex proofs](https://arxiv.org/pdf/2410.13502), Oct. 17 2024.
+- [awesome-o1](https://github.com/srush/awesome-o1/).
+- [LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench](https://arxiv.org/abs/2409.13373), Sep 20 2024.
+- [Sampling Language from Latent System 2 Reasoning](https://openreview.net/pdf?id=OdUqJwu0Gr), NeurIPS 2024.
+- [Thinking LLMs: General instruction following with thought generation](https://arxiv.org/pdf/2410.10630), Oct. 14 2024.
+- [Building math agents with multi-turn iterative preference learning](https://arxiv.org/pdf/2409.02392), Sep. 4 2024.
+- [Can large language models act as symbolic reasoners?](https://arxiv.org/pdf/2410.21490), Oct. 30 2024.
+- [Mixture of parrots: Experts improve memorization more than reasoning](https://arxiv.org/pdf/2410.19034), Oct. 24 2024.
+- [The surprising effectiveness of test-time training for abstract reasoning](https://arxiv.org/pdf/2411.07279), Nov. 11 2024.
+- [Large Language Models Orchestrating Structured Reasoning Achieve Kaggle Grandmaster Level](https://arxiv.org/pdf/2411.03562), Nov. 5 2024.
+- [Procedural knowledge in pretraining drives reasoning in large language models](https://arxiv.org/pdf/2411.12580), Nov. 19 2024.
+- [Understanding chain-of-thought in LLMs through information theory](https://arxiv.org/pdf/2411.11984), Nov. 18 2024.
+- [Out-of-Distribution Generalization as Reasoning: Are LLMs Competitive?](https://www.youtube.com/watch?v=rvLUo0xiSxg), Simons Institute talk by Les Viliant.
+  - [Robust logics](https://dl.acm.org/doi/pdf/10.1145/301250.301425), STOC 1999.
+  - [Knowledge infusion](https://cdn.aaai.org/AAAI/2006/AAAI06-247.pdf), AAAI 2006.
+- [Embedding trajectory for out-of-distribution detection in mathematical reasoning](https://arxiv.org/pdf/2405.14039), Oct. 30 2024. [code](https://github.com/Alsace08/OOD-Math-Reasoning).
+- [LLMs Do Not Think Step-by-step In Implicit Reasoning](https://arxiv.org/pdf/2411.15862), Nov. 24 2024.
+  - _"We probe the info. of intermediate steps from the model's hidden states when it is performing implicit CoT. indicate that LLMs hardly think about intermediate steps, suggesting they may just rely on experience rather than strict step-by-step reasoning"_
+- [Let's think var-by-var: Large language models enable ad hoc probabilistic reasoning](https://arxiv.org/pdf/2412.02081), Dec. 3 2024.
+- [Artificial expert intelligence through pac-reasoning](https://arxiv.org/pdf/2412.02441), Dec. 3 2024.
+- [Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding](https://arxiv.org/abs/2411.04282), Nov. 6 2024.
+- [Formal Mathematical Reasoning: A New Frontier in AI](https://arxiv.org/pdf/2412.16075), Dec. 20 2024.
+- [Learning Beyond Pattern Matching? Assaying Mathematical Understanding in LLMs](https://arxiv.org/pdf/2405.15485), ICML 2024.
+- [Tree of Problems: Improving structured problem solving with compositionality](https://arxiv.org/pdf/2410.06634), Oct. 9 2024.
+- [CoT-based Synthesizer: Enhancing LLM Performance through Answer Synthesis](https://arxiv.org/pdf/2501.01668), Jan. 3 2025. [code](https://github.com/RUCKBReasoning/CoT-based-Synthesizer).
+  - _"leverages CoT reasoning to synthesize superior answers by analyzing complementary info from multi candidate responses"_
 
 ### Evaluation
 
@@ -863,7 +865,7 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [MLE-Bench: Evaluating machine learning agents on machine learning engineering](https://arxiv.org/pdf/2410.07095), Oct. 9 2024. `openai`.
 - [HARDMath: A benchmark dataset for challenging problems in applied mathematics](https://arxiv.org/pdf/2410.09988), Oct. 13 2024.
 
-#### Toolkit
+#### Eval toolkit
 
 - [Foundation Model Evaluations Library](https://github.com/aws/fmeval), [paper](https://arxiv.org/pdf/2407.12872), Jul. 15 2024.
 - [UltraEval](https://github.com/OpenBMB/UltraEval).
@@ -902,4 +904,5 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [Visual agents as fast and slow thinker](https://arxiv.org/pdf/2408.08862), Aug. 16 2024.
 - [NVLM: Open Frontier-Class Multimodal LLMs](https://nvlm-project.github.io/), Sep. 17 2024.
 - [From generalist to specialist: Adapting vision language models via task-specific visual instruction tuning](https://arxiv.org/pdf/2410.06456), Oct. 9 2024.
+
 
