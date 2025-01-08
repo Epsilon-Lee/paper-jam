@@ -31,7 +31,7 @@
     - adds minimal memory and computational overhead.
 
 
-
+---
 
 
 # Post-training in llms era
@@ -52,24 +52,5 @@
 - [Bitune: Bidirectional Instruction-Tuning](https://arxiv.org/pdf/2405.14862), May 23 2024.
 - [RE-Adapt: Reverse Engineered Adaptationof Large Language Models](https://arxiv.org/pdf/2405.15007), May 23 2024.
 - [Mixture-of-Subspaces in Low-Rank Adaptation](https://arxiv.org/pdf/2406.11909), Jun. 16 2024. `alignment`.
-- [BPO: Supercharging Online Preference Learning by Adhering to the Proximity of Behavior LLM](https://arxiv.org/pdf/2406.12168), Jun. 18 2024. `alignment`.
-
-## Peft
-
-- [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/pdf/2205.05638), Aug. 26 2022.
-- [Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need](https://arxiv.org/pdf/2406.03216), Jun. 5 2024.
-
-## Preference learning/alignment
-
-- [Scheming AIs Will AIs fake alignment during training in order to get power?](https://arxiv.org/pdf/2311.08379), Nov. 27 2023.
-- [Preference Ranking Optimization for Human Alignment](https://arxiv.org/pdf/2306.17492), Feb. 27 2024.
-- [Quantifying the Gain in Weak-to-Strong Generalization](https://arxiv.org/pdf/2405.15116), May 24 2024.
-- [Value Augmented Sampling for Language Model Alignment and Personalization](https://arxiv.org/pdf/2405.14578v1), May 23 2024.
-- [Self-Exploring Language Models: Active Preference Elicitation for Online Alignment](https://arxiv.org/pdf/2405.19332), May 29 2024.
-- [Steering without side effects: Improving post-deployment control of language models](https://arxiv.org/pdf/2406.15518), Jun. 21 2024.
-- [Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback](https://arxiv.org/pdf/2406.09279), Jun. 13 2024.
-- [Model Alignment as Prospect Theoretic Optimization](https://openreview.net/pdf?id=iUwHnoENnl), ICML 2024.
-- [It Takes Two: On the Seamlessness between Reward and Policy Model in RLHF](https://arxiv.org/abs/2406.07971), Jul. 24 2024.
-
 
 
