@@ -83,3 +83,66 @@
 - [The buffer mechanism for multi-step information reasoning in language models](https://arxiv.org/pdf/2405.15302), 2024.
 - [Gradient routing: Masking gradients to localize computation in neural networks](https://arxiv.org/pdf/2410.04332), Nov. 29 2024. [blogpost](https://turntrout.com/gradient-routing).
 - [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/pdf/2407.15017), Dec. 24 2024.
+
+#### Auto-intepretation
+
+- [Can Large Language Models Explain Themselves? A Study of LLM-Generated Self-Explanations](https://arxiv.org/pdf/2310.11207), Oct. 17 2023.
+- [SelfIE: Self-Interpretation of Large Language Model Embeddings](https://arxiv.org/pdf/2403.10949), Mar. 26 2024.
+- [Are self-explanations from Large Language Models faithful?](https://arxiv.org/pdf/2401.07927), May 16 2024.
+- [FaithLM: Towards Faithful Explanations for Large Language Models](https://arxiv.org/pdf/2402.04678), Jun. 26 2024.
+
+#### Complexity theory of transformers and beyond
+
+- [LSTM recurrent networks learn simple context free and context sensitive languages](https://sferics.idsia.ch/pub/juergen/L-IEEE.pdf), 2001.
+- [On the Practical Computational Power of Finite Precision RNNs for Language Recognition(https://arxiv.org/pdf/1805.04908), May 13 2018.
+- [On the Turing completeness of mordern neural network architecture](https://arxiv.org/abs/1901.03429), Jan. 10 2019.
+- [A Formal Hierarchy of RNN Architectures](https://arxiv.org/pdf/2004.08500), Sep. 19 2020.
+- [Theoretical Limitations of Self-Attention in Neural Sequence Models](https://arxiv.org/abs/1906.06755), Feb. 12 2020.
+- [Attention is Turing Complete](https://jmlr.org/papers/volume22/20-302/20-302.pdf), JMLR 2021.
+- [What Formal Languages Can Transformers Express? A Survey](https://arxiv.org/pdf/2311.00208), Sep. 4 2024.
+- [Transformers in DLOGTIME-Uniform TC0](https://arxiv.org/pdf/2409.13629), Sep. 2024.
+- [On the practical computational power of finite precision rnns for language recognition](https://aclanthology.org/P18-2117.pdf), ACL 2018.
+- [On Efficiently Representing Regular Languages as RNNs](https://aclanthology.org/2024.findings-acl.244.pdf), ACL 2024. [code](https://github.com/rycolab/bpdas).
+- [InversionView: A general-purpose method for reading information from neural activations](https://arxiv.org/pdf/2405.17653), Nov. 2 2024. [code](https://github.com/huangxt39/InversionView).
+
+#### Theory of Transformers
+
+- [Representational Strengths and Limitations of Transformers](https://arxiv.org/pdf/2306.02896), Nov. 16 2023.
+- [A mathematical perspective on Transformers](https://arxiv.org/pdf/2312.10794), Aug. 12 2024.
+- [How Transformers learn structured data: Insights from hierarchical filtering](https://arxiv.org/pdf/2408.15138), Aug. 27 2024.
+- [Out-of-distribution generalization via composition: a lens through induction heads in Transformers](https://arxiv.org/pdf/2408.09503), Aug. 18 2024.
+- [Transformers in DLOGTIME-Uniform TC0](https://arxiv.org/pdf/2409.13629), Sep. 20 2024.
+- [Optimal Memorization Capacity of Transformers](https://arxiv.org/pdf/2409.17677), Sep. 26 2024.
+- [Neural Networks Generalize on Low Complexity Data](https://arxiv.org/pdf/2409.17357), Sep. 25 2024.
+- [Learning linear attention in polynomial time](https://arxiv.org/pdf/2410.10101), Oct. 18 2024.
+- [Bilinear sequence regression: A model for learning from long sequences of high-dimensional tokens](https://arxiv.org/pdf/2410.18858), Oct. 24 2024. [code](https://github.com/SPOC-group/bilinear-sequence-regression).
+- [Circuit Complexity Bounds for RoPE-based Transformer Architecture](https://arxiv.org/pdf/2411.07602), Nov. 12 2024.
+- [Unraveling the Gradient Descent Dynamics of Transformers](https://arxiv.org/pdf/2411.07538), Nov. 12 2024.
+- [One-Layer Transformer Provably Learns One-Nearest Neighbor In Context](https://arxiv.org/pdf/2411.10830), Nov. 16 2024.
+- [When can transformers ground and compose: Insights from compositional generalization benchmarks](https://arxiv.org/pdf/2210.12786), Oct. 31 2022. [code](https://github.com/ankursikarwar/Grounded-Compositional-Generalization).
+
+#### Theory of pre-training
+
+- [A Law of Next-Token Prediction in Large Language Models](https://arxiv.org/pdf/2408.13442), Aug. 24 2024.
+- [Non-asymptotic Convergence of Training Transformers for Next-token Prediction](https://arxiv.org/pdf/2409.17335), Sep. 25 2024.
+- [Benign or Not-Benign Overfitting in Token Selection of Attention Mechanism](https://arxiv.org/pdf/2409.17625), Sep. 26 2024.
+- [Implicit Bias of Next-Token Prediction](https://arxiv.org/pdf/2402.18551), Feb. 28 2024.
+
+#### Theory of icl and prompting
+
+- [One-layer transformers fail to solve the induction heads task](https://arxiv.org/pdf/2408.14332), Aug. 26 2024.
+- [Unveiling the Statistical Foundations of Chain-of-Thought Prompting Methods](https://arxiv.org/pdf/2408.14511), Aug. 25 2024.
+- [In-Context Learning with Representations: Contextual Generalization of Trained Transformers](https://arxiv.org/pdf/2408.10147), Aug. 19 2024.
+- [A Mechanism for Sample-Efficient In-Context Learning for Sparse Retrieval Tasks](https://proceedings.mlr.press/v237/abernethy24a/abernethy24a.pdf), alt 2024.
+- [Unveiling Induction Heads: Provable Training Dynamics and Feature Learning in Transformers](https://arxiv.org/pdf/2409.17357), Sep. 25 2024.
+- [Transformers as Algorithms: Generalization and Stability in In-context Learning](https://proceedings.mlr.press/v202/li23l/li23l.pdf), ICML 2023.
+- [ALPINE: Unveiling the Planning Capability of Autoregressive Learning in Language Models](https://arxiv.org/pdf/2405.09220). May 27 2024.
+- [Can in-context learning really generalize to out-of-distribution tasks?](https://arxiv.org/pdf/2410.09695), Oct. 13 2024.
+- [Towards the effect of examples on in-context learning: A theoretical case study](https://arxiv.org/pdf/2410.09411), Oct. 12 2024.
+- [Inference and Verbalization Functions During In-Context Learning](https://arxiv.org/pdf/2410.09349), Oct. 12 2024. [code](https://github.com/JunyiTao/infer-then-verbalize-during-icl).
+- [How Transformers Implement Induction Heads: Approximation and Optimization Analysis](https://arxiv.org/pdf/2410.11474), Oct. 16 2024.
+- [Context-scaling versus task-scaling in in-context learning](https://arxiv.org/pdf/2410.12783), Oct. 16 2024.
+- [A theory of emergent in-context learning as implicit structure induction](https://arxiv.org/pdf/2303.07971), Mar. 14 2024.
+- [Can generative ai solve your in-context learning problem? A martingale perspective](https://arxiv.org/pdf/2412.06033), Dec. 8 2024.
+
+
