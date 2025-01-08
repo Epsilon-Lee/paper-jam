@@ -39,5 +39,8 @@
 - [Tree of Problems: Improving structured problem solving with compositionality](https://arxiv.org/pdf/2410.06634), Oct. 9 2024.
 - [CoT-based Synthesizer: Enhancing LLM Performance through Answer Synthesis](https://arxiv.org/pdf/2501.01668), Jan. 3 2025. [code](https://github.com/RUCKBReasoning/CoT-based-Synthesizer).
   - _"leverages CoT reasoning to synthesize superior answers by analyzing complementary info from multi candidate responses"_
+- [Free process rewards without process labels](https://arxiv.org/pdf/2412.01981), Dec. 2 2024. [code](https://github.com/PRIME-RL/ImplicitPRM).
+- [PRIME](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f), [code](https://github.com/PRIME-RL/PRIME).
+- [Reinforcing Thinking through Reasoning-Enhanced Reward Models](https://arxiv.org/pdf/2501.01457), Dec. 31 2024. `self-critique`. [code](https://github.com/dyang39/DRR).
 
 
