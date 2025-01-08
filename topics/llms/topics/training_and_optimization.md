@@ -47,6 +47,8 @@
 
 ### Alignment, preference alignment, reward models
 
+- [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290), Jul. 29 2024.
+- [UltraFeedback: Boosting language models with scaled AI feedback](https://arxiv.org/pdf/2310.01377), Jul. 16 2024.
 - [Dissecting Human and LLM Preferences](https://arxiv.org/pdf/2402.11296), Feb. 17 2024.
 - [The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions](https://arxiv.org/pdf/2404.13208), Apr. 19 2024. `system prompt`.
 - [RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold](https://arxiv.org/pdf/2406.14532), Jun. 20 2024. `post-training`.
@@ -89,5 +91,6 @@
 - [A theory of appropriateness with applications to generative artificial intelligence](https://arxiv.org/pdf/2412.19010), Dec. 26 2024.
 - [Fundamental limitations of alignment in large language models](https://arxiv.org/pdf/2304.11082), Jun. 3 2024.
 - [Process Reinforcement through Implicit Rewards](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f), [code](https://github.com/PRIME-RL/PRIME).
+- [HybridFlow: A Flexible and Efficient RLHF Framework](https://arxiv.org/pdf/2409.19256v2), Oct. 2 2024. [verl](https://github.com/volcengine/verl).
 
 
