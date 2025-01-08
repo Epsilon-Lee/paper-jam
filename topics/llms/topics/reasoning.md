@@ -1,0 +1,43 @@
+
+> How to enhance the reasoning ability so as to largely improve intelligence of LLMs.
+
+### Reasoning
+
+- [Program of thoughts prompting: Disentangling computation from reasoning for numerical reasoning tasks](https://arxiv.org/pdf/2211.12588), Oct. 23 2023. [code](https://github.com/TIGER-AI-Lab/Program-of-Thoughts).
+- [System-1.x: Learning to Balance Fast and Slow Planning with Language Models](https://arxiv.org/pdf/2407.14414), Jul. 19 2024.
+- [Does reasoning emerge? Examing the probabilities of causation in large language models](https://arxiv.org/pdf/2408.08210), Aug. 15 2024.
+  - _"to what extent do LLMs perform actual reasoning"_
+  - two key probabilistic concepts that are essential for connecting causes to their effects: the probability of necessity (PN) and the probability of sufficiency (PS)
+  - Use PN and PS to assess LLMs.
+- [Can Large Language Models Understand Symbolic Graphics Programs?](https://arxiv.org/pdf/2408.08313), Aug. 15 2024.
+- [To cot or not to cot? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/pdf/2409.12183), Sep. 18 2024.
+- [Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling](https://arxiv.org/pdf/2408.16737), Aug. 29 2024.
+- [How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs](https://arxiv.org/pdf/2410.13857), Oct. 17 2024.
+- [MathGAP: Out-of-distribution evaluation on problems with arbitrarily complex proofs](https://arxiv.org/pdf/2410.13502), Oct. 17 2024.
+- [awesome-o1](https://github.com/srush/awesome-o1/).
+- [LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench](https://arxiv.org/abs/2409.13373), Sep 20 2024.
+- [Sampling Language from Latent System 2 Reasoning](https://openreview.net/pdf?id=OdUqJwu0Gr), NeurIPS 2024.
+- [Thinking LLMs: General instruction following with thought generation](https://arxiv.org/pdf/2410.10630), Oct. 14 2024.
+- [Building math agents with multi-turn iterative preference learning](https://arxiv.org/pdf/2409.02392), Sep. 4 2024.
+- [Can large language models act as symbolic reasoners?](https://arxiv.org/pdf/2410.21490), Oct. 30 2024.
+- [Mixture of parrots: Experts improve memorization more than reasoning](https://arxiv.org/pdf/2410.19034), Oct. 24 2024.
+- [The surprising effectiveness of test-time training for abstract reasoning](https://arxiv.org/pdf/2411.07279), Nov. 11 2024.
+- [Large Language Models Orchestrating Structured Reasoning Achieve Kaggle Grandmaster Level](https://arxiv.org/pdf/2411.03562), Nov. 5 2024.
+- [Procedural knowledge in pretraining drives reasoning in large language models](https://arxiv.org/pdf/2411.12580), Nov. 19 2024.
+- [Understanding chain-of-thought in LLMs through information theory](https://arxiv.org/pdf/2411.11984), Nov. 18 2024.
+- [Out-of-Distribution Generalization as Reasoning: Are LLMs Competitive?](https://www.youtube.com/watch?v=rvLUo0xiSxg), Simons Institute talk by Les Viliant.
+  - [Robust logics](https://dl.acm.org/doi/pdf/10.1145/301250.301425), STOC 1999.
+  - [Knowledge infusion](https://cdn.aaai.org/AAAI/2006/AAAI06-247.pdf), AAAI 2006.
+- [Embedding trajectory for out-of-distribution detection in mathematical reasoning](https://arxiv.org/pdf/2405.14039), Oct. 30 2024. [code](https://github.com/Alsace08/OOD-Math-Reasoning).
+- [LLMs Do Not Think Step-by-step In Implicit Reasoning](https://arxiv.org/pdf/2411.15862), Nov. 24 2024.
+  - _"We probe the info. of intermediate steps from the model's hidden states when it is performing implicit CoT. indicate that LLMs hardly think about intermediate steps, suggesting they may just rely on experience rather than strict step-by-step reasoning"_
+- [Let's think var-by-var: Large language models enable ad hoc probabilistic reasoning](https://arxiv.org/pdf/2412.02081), Dec. 3 2024.
+- [Artificial expert intelligence through pac-reasoning](https://arxiv.org/pdf/2412.02441), Dec. 3 2024.
+- [Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding](https://arxiv.org/abs/2411.04282), Nov. 6 2024.
+- [Formal Mathematical Reasoning: A New Frontier in AI](https://arxiv.org/pdf/2412.16075), Dec. 20 2024.
+- [Learning Beyond Pattern Matching? Assaying Mathematical Understanding in LLMs](https://arxiv.org/pdf/2405.15485), ICML 2024.
+- [Tree of Problems: Improving structured problem solving with compositionality](https://arxiv.org/pdf/2410.06634), Oct. 9 2024.
+- [CoT-based Synthesizer: Enhancing LLM Performance through Answer Synthesis](https://arxiv.org/pdf/2501.01668), Jan. 3 2025. [code](https://github.com/RUCKBReasoning/CoT-based-Synthesizer).
+  - _"leverages CoT reasoning to synthesize superior answers by analyzing complementary info from multi candidate responses"_
+
+
