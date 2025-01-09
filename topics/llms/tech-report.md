@@ -56,13 +56,13 @@
 - [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838), Feb. 1 2024.
 - [OLMo 2: The best fully open language model to date](https://allenai.org/blog/olmo2), Nov. 26 2024.
 - [TÜLU 3: Pushing Frontiers in Open Language Model Post-Training](https://arxiv.org/pdf/2411.15124), Dec. 6 2024.
+- [2 OLMo 2 Furious](https://arxiv.org/pdf/2501.00656), Dec. 31 2024.
 
 **Qwen series**
 
 - [Qwen Technincal Report](https://arxiv.org/pdf/2309.16609), Sep. 28 2023.
 - [Qwen2 technical report](https://arxiv.org/pdf/2407.10671), Jul. 15 2024.
 - [Qwen2.5 Technical Report](https://arxiv.org/pdf/2412.15115), Dec. 19 2024.
-
 
 ### Domain LLMs
 
@@ -74,3 +74,5 @@
 - [SeaLLMs - Large Language Models for Southeast Asia](https://arxiv.org/pdf/2312.00738), Jul. 1 2024. `multilinguality`.
 - [SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models for Southeast Asian Languages](https://arxiv.org/pdf/2407.19672), Jul. 29 2024. `multilinguality`.
 - [Med42-v2: A suite of clinical LLMs](https://arxiv.org/pdf/2408.06142), Aug. 12 2024.
+
+
