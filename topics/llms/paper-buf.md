@@ -142,6 +142,10 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [CLIPLoss and Norm-Based Data Selection Methods for Multimodal Contrastive Learning](https://arxiv.org/pdf/2405.19547), May 29 2024.
 - [Learning smooth distance functions via queries](https://arxiv.org/pdf/2412.01290), Dec. 2 2024.
 - [On erroneous agreements of CLIP image embeddings](https://arxiv.org/pdf/2411.05195), Nov. 7 2024.
+- [A statistical theory of contrastive pre-training and multimodal generative AI](https://arxiv.org/pdf/2501.04641), Jan. 8 2025.
+  - _"develops a theoretical framework to explain the success of contrastive pre-training in downstream tasks, such as zero-shot classification, conditional diffusion models, and vision-language models."_
+  - approximate sufficient statistics, joint generative hierarchical model, _"showing that transformers can efficiently approximate relevant functions within this model via belief propagation"_
+  - CLIP: contrastive language-image pretraining
 
 ---
 
