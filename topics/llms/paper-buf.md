@@ -140,12 +140,14 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 
 - [CLIPScore: A Reference-free Evaluation Metric for Image Captioning](https://arxiv.org/abs/2104.08718), Mar. 23 2022.
 - [CLIPLoss and Norm-Based Data Selection Methods for Multimodal Contrastive Learning](https://arxiv.org/pdf/2405.19547), May 29 2024.
+- [X-Sample Contrastive Loss: Improving Contrastive Learning with Sample Similarity Graphs](https://arxiv.org/pdf/2407.18134), Jul. 25 2024.
 - [Learning smooth distance functions via queries](https://arxiv.org/pdf/2412.01290), Dec. 2 2024.
 - [On erroneous agreements of CLIP image embeddings](https://arxiv.org/pdf/2411.05195), Nov. 7 2024.
 - [A statistical theory of contrastive pre-training and multimodal generative AI](https://arxiv.org/pdf/2501.04641), Jan. 8 2025.
   - _"develops a theoretical framework to explain the success of contrastive pre-training in downstream tasks, such as zero-shot classification, conditional diffusion models, and vision-language models."_
   - approximate sufficient statistics, joint generative hierarchical model, _"showing that transformers can efficiently approximate relevant functions within this model via belief propagation"_
   - CLIP: contrastive language-image pretraining
+- [Understanding difficult-to-learn examples in contrastive learning: A theoretical framework for spectral contrastive learning](https://arxiv.org/pdf/2501.01317), Jan. 2 2025.
 
 ---
 
@@ -177,6 +179,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Training and optimization](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/training_and_optimization.md).
 - [Knowledge updating](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/knowledge_updating.md).
 - [Reasoning](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/reasoning.md).
+- [Tech. reports](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/tech_reports.md).
 
 ### Buffered papers
 
@@ -247,7 +250,6 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Perceptions of linguistic uncertainty by language models and humans](https://arxiv.org/pdf/2407.15814), Jul. 22 2024.
 - [Internal Consistency and Self-Feedback in Large Language Models](https://arxiv.org/pdf/2407.14507), Jul. 19 2024.
 - [u-µP: The Unit-Scaled Maximal Update Parametrization](https://arxiv.org/pdf/2407.17465), Jul. 24 2024.
-- [X-Sample Contrastive Loss: Improving Contrastive Learning with Sample Similarity Graphs](https://arxiv.org/pdf/2407.18134), Jul. 25 2024.
 - [Understanding Memorisation in LLMs: Dynamics, Influencing Factors, and Implications](https://arxiv.org/pdf/2407.19262), Jul. 27 2024. `learning dynamics`.
 - [Do Language Models Have a Critical Period for Language Acquisition?](https://arxiv.org/pdf/2407.19325), Jul. 27 2024. `learning dynamics`.
 - [From Pre-training Corpora to Large Language Models: What Factors Influence LLM Performance in Causal Discovery Tasks?](https://arxiv.org/pdf/2407.19638), Jul. 29 2024. `knowledge extraction`, `causal knowledge`.
@@ -288,7 +290,6 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models](https://arxiv.org/pdf/2408.00724), Aug. 1 2024.
   - _"We found that a smaller language model with a novel tree search algorithm typically achieves a Pareto-optimal trade-off. These results highlight the potential benefits of deploying smaller models equipped wiht more sophisticated decoding algorithms in budget-constrained scenarios, e.g. on-devices, to enhance problem-solving accuracy."_
   - [From Decoding to Meta-Generation: Inference-time Algorithms for Large Language Models](https://arxiv.org/pdf/2406.16838), Jun. 24 2024.
-- [Olmoe: Open mixture-of-experts language models](https://arxiv.org/pdf/2409.02060), Sep. 3 2024. [data](https://huggingface.co/datasets/allenai/OLMoE-mix-0924).
 - [Reframing Data Value for Large Language Models Through the Lens of Plausability](https://arxiv.org/pdf/2409.00284), Aug. 30 2024.
 - [Extracting Paragraphs from LLM Token Activations](https://arxiv.org/pdf/2409.06328), Sep. 10 2024.
 - [Metacognitive Capabilities of LLMs: An Exploration in Mathematical Problem Solving](https://arxiv.org/pdf/2405.12205), May 20 2024.
