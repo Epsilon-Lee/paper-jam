@@ -53,6 +53,7 @@
 
 **AI2**
 
+- [Olmoe: Open mixture-of-experts language models](https://arxiv.org/pdf/2409.02060), Sep. 3 2024. [data](https://huggingface.co/datasets/allenai/OLMoE-mix-0924).
 - [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838), Feb. 1 2024.
 - [OLMo 2: The best fully open language model to date](https://allenai.org/blog/olmo2), Nov. 26 2024.
 - [TÜLU 3: Pushing Frontiers in Open Language Model Post-Training](https://arxiv.org/pdf/2411.15124), Dec. 6 2024.
