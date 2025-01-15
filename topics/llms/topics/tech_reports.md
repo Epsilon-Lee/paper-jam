@@ -10,6 +10,7 @@
 - [H2O-Danube3 Technical Report](https://arxiv.org/pdf/2407.09276), Jul. 12 2024. `made for smartphone`.
 - [Falcon2-11b technical report](https://arxiv.org/pdf/2407.14885), Jul. 20 2024.
 - [Aquila2 Technical Report](https://arxiv.org/pdf/2408.07410), Aug. 14 2024.
+- [MiniMax-01: Scaling foundation models with lightning attention](https://arxiv.org/pdf/2501.08313), Jan. 14 2025. [code](https://github.com/MiniMax-AI/MiniMax-01).
 
 **Llama series**
 
