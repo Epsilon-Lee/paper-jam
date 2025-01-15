@@ -24,5 +24,6 @@
 - [Not all tokens are what you need for pretraining](https://openreview.net/pdf?id=0NMzBwqaAJ), NeurIPS 2024 best paper runner up. [code](https://github.com/microsoft/rho).
 - [GREATS: Online selection of high-quality data for llm training in every iteration](https://openreview.net/pdf/ac1fcb465f6684c753ea5fbbef2742c636cf326a.pdf), NeurIPS 2024.
 - [RedStone: Curating general, code, math, and QA data for large language models](https://arxiv.org/pdf/2412.03398), Dec. 4 2024. [code](https://github.com/microsoft/redstone).
+- [OpenCSG Chinese corpus: A series of high-quality Chinese datasets for llm training](https://arxiv.org/pdf/2501.08197), Jan. 14 2025.
 
 
