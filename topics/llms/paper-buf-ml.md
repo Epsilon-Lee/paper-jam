@@ -141,6 +141,8 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Universality of representation in biological and artificial neural networks](https://www.biorxiv.org/content/10.1101/2024.12.26.629294v1.full), Dec. 26 2024.
 - [A Linear Network Theory of Iterated Learning](https://openreview.net/pdf?id=xudmoaroxQ), NeurIPS 2024 workshop.
   - _"Here we theoretically study the emergence of compositional language, and the ability of simple neural networks to leverage this compositionality to systematically generalize"_
+- [Towards understanding extrapolation: A causal lens](https://arxiv.org/pdf/2501.09163), Jan. 15 2025.
+- [Merging models on the fly without retraining: A sequential approach to scalable continual model merging](https://arxiv.org/pdf/2501.09522), Jan. 16 2025.
 
 ### Contrastive learning
 
@@ -155,7 +157,6 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
   - CLIP: contrastive language-image pretraining
 - [Understanding difficult-to-learn examples in contrastive learning: A theoretical framework for spectral contrastive learning](https://arxiv.org/pdf/2501.01317), Jan. 2 2025.
 
-
 ## Codebases
 
 - [thefuzz](https://github.com/seatgeek/thefuzz).
@@ -166,7 +167,6 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [alphafold3](https://github.com/google-deepmind/alphafold3), [paper](https://www.nature.com/articles/s41586-024-07487-w), May 8 2024.
 - [Mooncake](https://github.com/kvcache-ai/Mooncake), [paper](https://arxiv.org/abs/2407.00079), Jun. 2024.
 - [inseq](https://github.com/inseq-team/inseq). Interpretability for sequence generation models 🐛 🔍.
-
 
 ## Cognitive science
 
