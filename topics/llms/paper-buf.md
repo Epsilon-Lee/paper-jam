@@ -196,6 +196,9 @@
 - [LearnLM: Improving Gemini for Learning](https://arxiv.org/pdf/2412.16429), Dec. 25 2024.
 - [The Responsible Foundation Model Development Cheatsheet: A Review of Tools & Resources](https://openreview.net/pdf?id=tH1dQH20eZ), TMLR 2024.
 - [Rule Extrapolation in Language Models: A Study of Compositional Generalization on OOD Prompts](https://arxiv.org/pdf/2409.13728), Oct. 24 2024. [code](https://github.com/meszarosanna/rule_extrapolation).
+- [Complexity control facilitates reasoning-based compositional generalization in transformers](https://arxiv.org/pdf/2501.08537), Jan. 15 2025.
+- [Foundations of Large Language Models](https://arxiv.org/pdf/2501.09223), Jan. 16 2025.
+- [Enhancing Lexicon-Based Text Embeddings with Large Language Models](https://arxiv.org/pdf/2501.09749), Jan. 16 2025.
 
 ### Length generalization
 
@@ -222,6 +225,8 @@
 - [Re-examing learning linear functions in context](https://arxiv.org/pdf/2411.11465), Nov. 18 2024.
 - [Many-Shot In-Context Learning](https://arxiv.org/pdf/2404.11018), Oct. 17 2024.
 - [Multi-Attribute Constraint Satisfaction via Language Model Rewriting](https://arxiv.org/abs/2412.19198), Dec. 26 2024.
+- [Task vectors in in-context learning: Emergence, formation, and benefits](https://arxiv.org/pdf/2501.09240), Jan. 16 2025.
+- [The Inherent Limits of Pretrained LLMs: The Unexpected Convergence of Instruction Tuning and In-Context Learning Capabilities](https://arxiv.org/pdf/2501.08716), Jan. 15 2025.
 
 ### Prompting techniques
 
