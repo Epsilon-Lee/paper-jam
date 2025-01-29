@@ -4,6 +4,9 @@
 
 ### Interpretability
 
+- [Transformer feed-forward layers are key-value memories](https://arxiv.org/pdf/2012.14913), Sep. 5 2021.
+- [Transformer feed-forward layers build predictions by prompting concepts in the vocabulary space](https://arxiv.org/pdf/2203.14680), Oct. 2022.
+- [Do large language models latently perform multi-hop reasoning?](https://arxiv.org/pdf/2402.16837), Feb. 26 2024.
 - [A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning](https://arxiv.org/pdf/2406.12255), Jun. 18 2024. `interpretability`.
 - [Exploring the Impact of a Transformer’s Latent Space Geometry on Downstream Task Performance](https://arxiv.org/pdf/2406.12159), Jun. 18 2024.
 - [Pre-trained Large Language Models Use Fourier Features to Compute Addition](https://arxiv.org/pdf/2406.03445), Jun. 5 2024. `mechanistic interpretability`.
