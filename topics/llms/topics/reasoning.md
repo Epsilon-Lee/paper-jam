@@ -3,6 +3,8 @@
 
 ### Reasoning
 
+- [STaR- Self-Taught Reasoner: Boostrapping reasoning with reasoning](https://arxiv.org/pdf/2203.14465), May 20 2022.
+- [Reflexion: Language agents with verbal reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/1b44b878bb782e6954cd888628510e90-Paper-Conference.pdf), NeurIPS 20224.
 - [Program of thoughts prompting: Disentangling computation from reasoning for numerical reasoning tasks](https://arxiv.org/pdf/2211.12588), Oct. 23 2023. [code](https://github.com/TIGER-AI-Lab/Program-of-Thoughts).
 - [System-1.x: Learning to Balance Fast and Slow Planning with Language Models](https://arxiv.org/pdf/2407.14414), Jul. 19 2024.
 - [Does reasoning emerge? Examing the probabilities of causation in large language models](https://arxiv.org/pdf/2408.08210), Aug. 15 2024.
@@ -43,5 +45,6 @@
 - [PRIME](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f), [code](https://github.com/PRIME-RL/PRIME).
 - [Reinforcing Thinking through Reasoning-Enhanced Reward Models](https://arxiv.org/pdf/2501.01457), Dec. 31 2024. `self-critique`. [code](https://github.com/dyang39/DRR).
 - [GPT as Monte Carlo language tree: A probabilistic perspective](https://arxiv.org/pdf/2501.07641), Jan. 13 2025.
+
 
 
