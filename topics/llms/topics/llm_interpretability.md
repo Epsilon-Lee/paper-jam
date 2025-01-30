@@ -86,6 +86,7 @@
 - [The buffer mechanism for multi-step information reasoning in language models](https://arxiv.org/pdf/2405.15302), 2024.
 - [Gradient routing: Masking gradients to localize computation in neural networks](https://arxiv.org/pdf/2410.04332), Nov. 29 2024. [blogpost](https://turntrout.com/gradient-routing).
 - [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/pdf/2407.15017), Dec. 24 2024.
+- [Open problems in mechanistic interpretability](https://arxiv.org/pdf/2501.16496), Jan. 27 2024.
 
 #### Auto-intepretation
 
