@@ -143,6 +143,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
   - _"Here we theoretically study the emergence of compositional language, and the ability of simple neural networks to leverage this compositionality to systematically generalize"_
 - [Towards understanding extrapolation: A causal lens](https://arxiv.org/pdf/2501.09163), Jan. 15 2025.
 - [Merging models on the fly without retraining: A sequential approach to scalable continual model merging](https://arxiv.org/pdf/2501.09522), Jan. 16 2025.
+- [A survey of zero-shot generalization in deep reinforcement learning](https://arxiv.org/pdf/2111.09794), Jan. 19 2023.
 
 ### Contrastive learning
 
