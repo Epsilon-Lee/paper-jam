@@ -4,6 +4,8 @@
 ### Continual learning (cpt, cft), knowledge updating, model editing, model merging
 
 - [Intrinsic Dimensionality Explains The Effectiveness of Language Model Fine-Tuning](https://arxiv.org/pdf/2012.13255), Dec. 22 2020.
+- [Fast model editing at scale](https://arxiv.org/pdf/2110.11309), Jun. 13 2022. [code](https://github.com/eric-mitchell/mend).
+- [Memory-based model editing at scale](https://proceedings.mlr.press/v162/mitchell22a/mitchell22a.pdf), ICML 2022. [code](https://github.com/eric-mitchell/serac).
 - [Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation](https://arxiv.org/pdf/2406.20053), Jun. 28 2024. `post-training`.
 - [Connecting the Dots: LLMs can Infer and VerbalizeLatent Structure from Disparate Training Data](https://arxiv.org/pdf/2406.14546), Jun. 20 2024. `post-training`.
 - [Exploring Design Choices for Building Language-Specific LLMs](https://arxiv.org/pdf/2406.14670), Jun. 20 2024. `post-training for multilinguality`.
