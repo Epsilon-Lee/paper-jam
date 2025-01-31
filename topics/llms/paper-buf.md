@@ -199,6 +199,11 @@
 - [Complexity control facilitates reasoning-based compositional generalization in transformers](https://arxiv.org/pdf/2501.08537), Jan. 15 2025.
 - [Foundations of Large Language Models](https://arxiv.org/pdf/2501.09223), Jan. 16 2025.
 - [Enhancing Lexicon-Based Text Embeddings with Large Language Models](https://arxiv.org/pdf/2501.09749), Jan. 16 2025.
+- [Critique fine-tuning: Learning to critique is more effective than learning to imitate](https://arxiv.org/pdf/2501.17703), Jan. 29 2025.
+- [Hard prompts made easy: Gradient-based discrete optimization for prompt tuning and discovery](https://proceedings.neurips.cc/paper_files/paper/2023/file/a00548031e4647b13042c97c922fadf1-Paper-Conference.pdf), NeurIPS 2023.
+- [Automatic prompt optimization with "gradient descent" and beam search](https://arxiv.org/pdf/2305.03495), Oct. 19 2023.
+- [Large language models as optimizers](https://arxiv.org/pdf/2309.03409), Apr. 15 2024.
+- [Connecting large language models with evolutionary algorithms yields powerful prompt optimizers](https://arxiv.org/pdf/2309.08532), Feb. 27 2024.
 
 ### Length generalization
 
