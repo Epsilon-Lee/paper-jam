@@ -87,6 +87,7 @@
 - [Gradient routing: Masking gradients to localize computation in neural networks](https://arxiv.org/pdf/2410.04332), Nov. 29 2024. [blogpost](https://turntrout.com/gradient-routing).
 - [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/pdf/2407.15017), Dec. 24 2024.
 - [Open problems in mechanistic interpretability](https://arxiv.org/pdf/2501.16496), Jan. 27 2024.
+- [AxBench: Steering LLMs? Even simple baselines outperforms sparse autoencoders](https://arxiv.org/pdf/2501.17148), Jan. 29 2025. [code](https://github.com/stanfordnlp/axbench).
 
 #### Auto-intepretation
 
