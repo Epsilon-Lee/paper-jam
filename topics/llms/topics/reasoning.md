@@ -50,5 +50,6 @@
 - [LLMs can plan only if we tell them](https://arxiv.org/pdf/2501.13545), Jan. 23 2025.
 - [RAG-Reward: Optimizing RAG with reward modeling and RLHF](https://arxiv.org/pdf/2501.13264), Jan. 22 2025.
 - [LLM Reasoning: Key ideas and limitations](https://dennyzhou.github.io/LLM-Reasoning-Berkeley.pdf), talk by Denny Zhou from Google DeepMind.
+- [s1: Simple test-time scaling](https://arxiv.org/pdf/2501.19393), Jan. 31 2025. [code](https://github.com/simplescaling/s1).
 
 
