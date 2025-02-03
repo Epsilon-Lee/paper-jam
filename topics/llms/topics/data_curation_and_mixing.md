@@ -25,5 +25,6 @@
 - [GREATS: Online selection of high-quality data for llm training in every iteration](https://openreview.net/pdf/ac1fcb465f6684c753ea5fbbef2742c636cf326a.pdf), NeurIPS 2024.
 - [RedStone: Curating general, code, math, and QA data for large language models](https://arxiv.org/pdf/2412.03398), Dec. 4 2024. [code](https://github.com/microsoft/redstone).
 - [OpenCSG Chinese corpus: A series of high-quality Chinese datasets for llm training](https://arxiv.org/pdf/2501.08197), Jan. 14 2025.
+- [Towards best practices for open datasets for LLM training](https://arxiv.org/pdf/2501.08365), Jan. 2025.
 
 
