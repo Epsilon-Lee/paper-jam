@@ -204,6 +204,8 @@
 - [Automatic prompt optimization with "gradient descent" and beam search](https://arxiv.org/pdf/2305.03495), Oct. 19 2023.
 - [Large language models as optimizers](https://arxiv.org/pdf/2309.03409), Apr. 15 2024.
 - [Connecting large language models with evolutionary algorithms yields powerful prompt optimizers](https://arxiv.org/pdf/2309.08532), Feb. 27 2024.
+- [Tuning LLM judges hyperparameters](https://arxiv.org/pdf/2501.17178), Jan. 24 2025.
+- [LLM-Rubric: A multidimensional, calibrated approach to automated evaluation of natural language texts](https://arxiv.org/pdf/2501.00274), Dec. 31 2025. [code](https://github.com/microsoft/llm-rubric).
 
 ### Length generalization
 
@@ -315,6 +317,9 @@
  [code](https://github.com/commit-0/commit0).
 [Magentic-One: A generalist multi-agent system for solving complex tasks](https://arxiv.org/pdf/2411.04468), Nov. 7 2024. [blogpost](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/).
 - [Trace is the Next AutoDiff: Generative Optimization with Rich Feedback, Execution Traces, and LLMs](https://arxiv.org/pdf/2406.16218), Nov. 1 2024. [code](https://microsoft.github.io/Trace/).
+- [Towards human-guided, data-centric LLM co-pilots](https://arxiv.org/pdf/2501.10321), Jan. 17 2025. `data science`.
+- [UI-TARS: Pioneering automated GUI interaction with native agents](https://arxiv.org/abs/2501.12326), Jan. 21 2025. [code](https://github.com/bytedance/UI-TARS?tab=readme-ov-file).
+- [browser-use](https://github.com/browser-use/browser-use), Make websites accessible for AI agents.
 
 ### Multi-modality
 
