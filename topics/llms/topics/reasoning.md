@@ -49,5 +49,6 @@
 - [Step-KTO: Optimizing mathematical reasoning through stepwise binary feedback](https://arxiv.org/pdf/2501.10799), Jan. 18 2025.
 - [LLMs can plan only if we tell them](https://arxiv.org/pdf/2501.13545), Jan. 23 2025.
 - [RAG-Reward: Optimizing RAG with reward modeling and RLHF](https://arxiv.org/pdf/2501.13264), Jan. 22 2025.
+- [LLM Reasoning: Key ideas and limitations](https://dennyzhou.github.io/LLM-Reasoning-Berkeley.pdf), talk by Denny Zhou from Google DeepMind.
 
 
