@@ -88,13 +88,15 @@
 - [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/pdf/2407.15017), Dec. 24 2024.
 - [Open problems in mechanistic interpretability](https://arxiv.org/pdf/2501.16496), Jan. 27 2024.
 - [AxBench: Steering LLMs? Even simple baselines outperforms sparse autoencoders](https://arxiv.org/pdf/2501.17148), Jan. 29 2025. [code](https://github.com/stanfordnlp/axbench).
+- [Physics of skill learning](https://arxiv.org/pdf/2501.12391), Jan. 21 2025.
+- [Interpretability in parameter space: Minimizing mechanistic description length with attribution-based parameter decomposition](https://arxiv.org/pdf/2501.14926), Jan. 29 2025. [code](https://github.com/ApolloResearch/apd).
 
 #### Auto-intepretation
 
 - [Can Large Language Models Explain Themselves? A Study of LLM-Generated Self-Explanations](https://arxiv.org/pdf/2310.11207), Oct. 17 2023.
 - [SelfIE: Self-Interpretation of Large Language Model Embeddings](https://arxiv.org/pdf/2403.10949), Mar. 26 2024.
 - [Are self-explanations from Large Language Models faithful?](https://arxiv.org/pdf/2401.07927), May 16 2024.
-- [FaithLM: Towards Faithful Explanations for Large Language Models](https://arxiv.org/pdf/2402.04678), Jun. 26 2024.
+- [FaithLM: Towards Faithful Explanations for Large Language Models](https://arxiv.org/pdf/2402.04678), Jun. 26 2024. [code](https://github.com/KindXiaoming/physics_of_skill_learning).
 
 #### Complexity theory of transformers and beyond
 
