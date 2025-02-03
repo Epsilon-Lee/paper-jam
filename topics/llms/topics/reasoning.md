@@ -45,6 +45,9 @@
 - [PRIME](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f), [code](https://github.com/PRIME-RL/PRIME).
 - [Reinforcing Thinking through Reasoning-Enhanced Reward Models](https://arxiv.org/pdf/2501.01457), Dec. 31 2024. `self-critique`. [code](https://github.com/dyang39/DRR).
 - [GPT as Monte Carlo language tree: A probabilistic perspective](https://arxiv.org/pdf/2501.07641), Jan. 13 2025.
-
+- [DeepSeek-R1: Incentivizing reasoning capability in LLMs via reinforcement learning](https://arxiv.org/pdf/2501.12948), Jan. 22 2025.
+- [Step-KTO: Optimizing mathematical reasoning through stepwise binary feedback](https://arxiv.org/pdf/2501.10799), Jan. 18 2025.
+- [LLMs can plan only if we tell them](https://arxiv.org/pdf/2501.13545), Jan. 23 2025.
+- [RAG-Reward: Optimizing RAG with reward modeling and RLHF](https://arxiv.org/pdf/2501.13264), Jan. 22 2025.
 
 
