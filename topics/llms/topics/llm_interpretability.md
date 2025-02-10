@@ -91,6 +91,7 @@
 - [Physics of skill learning](https://arxiv.org/pdf/2501.12391), Jan. 21 2025.
 - [Interpretability in parameter space: Minimizing mechanistic description length with attribution-based parameter decomposition](https://arxiv.org/pdf/2501.14926), Jan. 29 2025. [code](https://github.com/ApolloResearch/apd).
 - [Propositional interpretability in artificial intelligence](https://arxiv.org/pdf/2501.15740), Jan. 27 2025.
+- [Aggregate and conquer: detecting and steering LLM concepts by combining nonlinear predictors over multiple layers](https://arxiv.org/pdf/2502.03708), Feb. 6 2025. [code](https://github.com/dmbeaglehole/neural_controllers).
 
 #### Auto-intepretation
 
