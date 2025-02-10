@@ -51,5 +51,7 @@
 - [RAG-Reward: Optimizing RAG with reward modeling and RLHF](https://arxiv.org/pdf/2501.13264), Jan. 22 2025.
 - [LLM Reasoning: Key ideas and limitations](https://dennyzhou.github.io/LLM-Reasoning-Berkeley.pdf), talk by Denny Zhou from Google DeepMind.
 - [s1: Simple test-time scaling](https://arxiv.org/pdf/2501.19393), Jan. 31 2025. [code](https://github.com/simplescaling/s1).
+- [Demystifying long chain-of-thought reasoning in LLMs](https://arxiv.org/pdf/2502.03373), Feb. 5 2025. [code](https://github.com/eddycmu/demystify-long-cot).
+- [Gold-medalist Performance in Solving Olympiad Geometry with AlphaGeometry2](https://arxiv.org/pdf/2502.03544), Feb. 5 2025.
 
 
