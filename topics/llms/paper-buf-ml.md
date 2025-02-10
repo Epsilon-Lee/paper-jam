@@ -144,6 +144,8 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Towards understanding extrapolation: A causal lens](https://arxiv.org/pdf/2501.09163), Jan. 15 2025.
 - [Merging models on the fly without retraining: A sequential approach to scalable continual model merging](https://arxiv.org/pdf/2501.09522), Jan. 16 2025.
 - [A survey of zero-shot generalization in deep reinforcement learning](https://arxiv.org/pdf/2111.09794), Jan. 19 2023.
+- [Rethinking early stopping: Refine, then calibrate](https://arxiv.org/pdf/2501.19195), Jan. 31 2025.
+- [Decoding Generalization from Memorization in Deep Neural Networks](https://arxiv.org/pdf/2501.14687), Jan. 24 2025.
 
 ### Contrastive learning
 
