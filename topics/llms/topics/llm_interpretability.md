@@ -131,6 +131,7 @@
 - [One-Layer Transformer Provably Learns One-Nearest Neighbor In Context](https://arxiv.org/pdf/2411.10830), Nov. 16 2024.
 - [When can transformers ground and compose: Insights from compositional generalization benchmarks](https://arxiv.org/pdf/2210.12786), Oct. 31 2022. [code](https://github.com/ankursikarwar/Grounded-Compositional-Generalization).
 - [Theoretical limitations of multi-layer Transformer](https://arxiv.org/pdf/2412.02975), Dec. 4 2024.
+- [Fundamental limits of learning in sequence multi-index models and deep attention networks: High-dimensional asymptotics and sharp thresholds](https://arxiv.org/pdf/2502.00901), Feb. 2 2025.
 
 #### Theory of pre-training
 
