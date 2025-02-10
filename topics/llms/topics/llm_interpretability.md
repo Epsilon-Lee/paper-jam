@@ -92,6 +92,7 @@
 - [Interpretability in parameter space: Minimizing mechanistic description length with attribution-based parameter decomposition](https://arxiv.org/pdf/2501.14926), Jan. 29 2025. [code](https://github.com/ApolloResearch/apd).
 - [Propositional interpretability in artificial intelligence](https://arxiv.org/pdf/2501.15740), Jan. 27 2025.
 - [Aggregate and conquer: detecting and steering LLM concepts by combining nonlinear predictors over multiple layers](https://arxiv.org/pdf/2502.03708), Feb. 6 2025. [code](https://github.com/dmbeaglehole/neural_controllers).
+- [Layer by layer: Uncovering hidden representations in language models](https://arxiv.org/pdf/2502.02013), Feb. 4 2025.
 
 #### Auto-intepretation
 
