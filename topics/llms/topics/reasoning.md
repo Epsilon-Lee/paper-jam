@@ -54,5 +54,7 @@
 - [Demystifying long chain-of-thought reasoning in LLMs](https://arxiv.org/pdf/2502.03373), Feb. 5 2025. [code](https://github.com/eddycmu/demystify-long-cot).
 - [Gold-medalist Performance in Solving Olympiad Geometry with AlphaGeometry2](https://arxiv.org/pdf/2502.03544), Feb. 5 2025.
 - [ZebraLogic: On the scaling limits of LLMs for logic reasoning](https://arxiv.org/pdf/2502.01100), Feb. 3 2025.
+- [Domaino1s: Guiding LLM reasoning for explainable answers in high-stakes domains](https://arxiv.org/pdf/2501.14431), Jan. 24 2025.
+- [UGMathBench: A diverse and dynamic benchmark for undergraduate-level mathematical reasoning with large language models](https://arxiv.org/pdf/2501.13766), Jan. 23 2025.
 
 
