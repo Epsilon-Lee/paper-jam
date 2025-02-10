@@ -13,6 +13,7 @@
 - [MARS: Unleashing the Power of Variance Reduction for Training Large Models](https://arxiv.org/pdf/2411.10438), Nov. 15 2024.
 - [Methods of improving LLM training stability](https://arxiv.org/pdf/2410.16682v1), Oct. 22 2024.
 - [Optimizing large language model training using fp4 quanitzation](https://arxiv.org/abs/2501.17116), Jan. 28 2025.
+- [The surprising agreement between convex optimization theory and learning-rate scheduling for large model training](https://arxiv.org/abs/2501.18965), Jan. 31 2025.
 
 ### Pre-training
 
