@@ -206,11 +206,18 @@
 - [Connecting large language models with evolutionary algorithms yields powerful prompt optimizers](https://arxiv.org/pdf/2309.08532), Feb. 27 2024.
 - [Tuning LLM judges hyperparameters](https://arxiv.org/pdf/2501.17178), Jan. 24 2025.
 - [LLM-Rubric: A multidimensional, calibrated approach to automated evaluation of natural language texts](https://arxiv.org/pdf/2501.00274), Dec. 31 2025. [code](https://github.com/microsoft/llm-rubric).
+- [Great models think alike and this undermines AI oversight](https://arxiv.org/pdf/2502.04313), Feb. 6 2025. [code](https://github.com/model-similarity/lm-similarity).
+- [Algorithmic causal structure emerging through compression](https://arxiv.org/pdf/2502.04210), Feb. 6 2025.
+- [Reflection-window decoding: Text generation with selective refinement](https://arxiv.org/pdf/2502.03678), Feb. 5 2025.
+- [Verify with caution: The pitfalls of relying on imperfect factuality metrics](https://arxiv.org/pdf/2501.14883), Jan. 30 2025.
+- [SmolLM2: When smol goes big - Data-centric training of small language model](https://arxiv.org/pdf/2502.02737), Feb. 4 2025.
+  - _"we release both SmolLM2 as well as all of the datasets we prepared in the course of this project"_
 
 ### Length generalization
 
 - [Your Context Is Not an Array: Unveiling Random Access Limitations in Transformers](https://arxiv.org/pdf/2408.05506), Aug. 10 2024.
 - [A formal framework for understanding length generalization in transformers](https://arxiv.org/pdf/2410.02140), Oct. 3 2024.
+- [Self-improving transformers overcome easy-to-hard and length generalization challengs](https://arxiv.org/pdf/2502.01612), Feb. 3 2025.
 
 ### In-context learning
 
