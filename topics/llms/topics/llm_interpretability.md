@@ -39,7 +39,6 @@
 - [Physics of Language Models: Part 2.2, How to Learn From Mistakes on Grade-School Math Problems](https://arxiv.org/pdf/2408.16293), Aug. 29 2024.
 - [Memory-efficient Training of LLMs with Larger Mini-batches](https://arxiv.org/pdf/2407.19580), Jul. 28 2024.
 - [The Quest for the Right Mediator: A History, Survey, and Theoretical Grounding of Causal Interpretability](https://arxiv.org/pdf/2408.01416), Aug. 2 2024.
-- [Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2](https://arxiv.org/pdf/2408.05147), Aug. 9 2024.
 - [Mathematical Models of Computation in Superposition](https://arxiv.org/pdf/2408.05451), Aug. 10 2024.
 - [Causal Abstraction: A Theoretical Foundation for Mechanistic Interpretability](https://arxiv.org/pdf/2301.04709), Aug. 7 2024.
   - [Causal Abstractions of Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2021/file/4f5c422f4d49a5a807eda27434231040-Paper.pdf), NeurIPS 2021.
@@ -93,6 +92,12 @@
 - [Propositional interpretability in artificial intelligence](https://arxiv.org/pdf/2501.15740), Jan. 27 2025.
 - [Aggregate and conquer: detecting and steering LLM concepts by combining nonlinear predictors over multiple layers](https://arxiv.org/pdf/2502.03708), Feb. 6 2025. [code](https://github.com/dmbeaglehole/neural_controllers).
 - [Layer by layer: Uncovering hidden representations in language models](https://arxiv.org/pdf/2502.02013), Feb. 4 2025.
+- [Position-aware automatic circuit discovery](https://arxiv.org/pdf/2502.04577), Feb. 7 2025.
+
+#### Sparse autoencoders and beyond
+
+- [Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2](https://arxiv.org/pdf/2408.05147), Aug. 9 2024.
+- [Sparse autoencoders do not find canonical units of analysis](https://arxiv.org/pdf/2502.04878), Feb. 7 2025. [code](https://metasaes.streamlit.app/).
 
 #### Auto-intepretation
 
