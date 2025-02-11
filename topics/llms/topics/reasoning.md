@@ -56,5 +56,9 @@
 - [ZebraLogic: On the scaling limits of LLMs for logic reasoning](https://arxiv.org/pdf/2502.01100), Feb. 3 2025.
 - [Domaino1s: Guiding LLM reasoning for explainable answers in high-stakes domains](https://arxiv.org/pdf/2501.14431), Jan. 24 2025.
 - [UGMathBench: A diverse and dynamic benchmark for undergraduate-level mathematical reasoning with large language models](https://arxiv.org/pdf/2501.13766), Jan. 23 2025.
+- [STP: Self-play LLM theorem provers with iterative conjecturing and proving](https://arxiv.org/pdf/2502.00212), Feb. 4 2025.
+- [MATH-Perturb: Benchmarking LLM's math reasoning abilities against hard perturbations](https://arxiv.org/abs/2502.06453), Feb. 10 2025.
+- [Scaling up test-time compute with latent reasoning: A recurrent depth approach](https://www.arxiv.org/pdf/2502.05171), Feb. 7 2025. [code](https://github.com/seal-rg/recurrent-pretraining).
+- [An analysis for reasoning bias of language models with small initialization](https://arxiv.org/pdf/2502.04375), Feb 5 2025.
 
 
