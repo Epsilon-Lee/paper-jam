@@ -5,6 +5,7 @@
 
 > Some big topics I really care about.
 
+- [LLM safety](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/llm_safety.md).
 - [LLM interpretability](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/llm_interpretability.md).
 - [Knowledge updating](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/knowledge_updating.md).
 - [Training and optimization](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/training_and_optimization.md).
