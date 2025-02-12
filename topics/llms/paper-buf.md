@@ -212,6 +212,7 @@
 - [Verify with caution: The pitfalls of relying on imperfect factuality metrics](https://arxiv.org/pdf/2501.14883), Jan. 30 2025.
 - [SmolLM2: When smol goes big - Data-centric training of small language model](https://arxiv.org/pdf/2502.02737), Feb. 4 2025.
   - _"we release both SmolLM2 as well as all of the datasets we prepared in the course of this project"_
+- [ExLM: Rethinking the impact of [MASK] tokens in masked language models](https://arxiv.org/pdf/2501.13397), Jan. 23 2025.
 
 ### Length generalization
 
