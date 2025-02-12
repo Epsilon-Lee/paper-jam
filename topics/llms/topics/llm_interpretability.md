@@ -76,9 +76,13 @@
 - [Arithmic without algorithms: Language models solve math with a bag of heuristics](https://arxiv.org/pdf/2410.21272), Oct. 28 2024.
 - [Building bridges, not walls - Advancing interpretability by unifying feature, data, and model component attribution](https://arxiv.org/pdf/2501.18887), Jan. 31 2025.
 - [Partially rewriting a transformer in natural language](https://arxiv.org/pdf/2501.18838), Jan. 31 2025.
+- [Linearity of relation decoding in transformer language models](https://arxiv.org/pdf/2308.09124), Feb. 15 2024.
+- [Linear representations of sentiment in large language models](https://arxiv.org/abs/2310.15154), Oct. 23 2023.
+- [Eliciting language model behaviors with investigator agents](https://arxiv.org/pdf/2502.01236), Feb. 3 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
+- [Sparse Autoencoders find highly interpretable features in language models](https://arxiv.org/pdf/2309.08600), Sep. 2023. [code](https://github.com/ai-safety-foundation/sparse_autoencoder).
 - [Transcoders Find Interpretable LLM Feature Circuits](https://arxiv.org/pdf/2406.11944), Jun. 17 2024. `mechanistic interpretability`.
 - [Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2](https://arxiv.org/pdf/2408.05147), Aug. 9 2024.
 - [Evaluating Synthetic Activations composed of SAE Latents in GPT-2](https://arxiv.org/pdf/2409.15019), Sep. 23 2024.
