@@ -4,25 +4,18 @@
 
 ### Interpretability
 
-- [Transformer feed-forward layers are key-value memories](https://arxiv.org/pdf/2012.14913), Sep. 5 2021.
-- [Transformer feed-forward layers build predictions by prompting concepts in the vocabulary space](https://arxiv.org/pdf/2203.14680), Oct. 2022.
 - [Do large language models latently perform multi-hop reasoning?](https://arxiv.org/pdf/2402.16837), Feb. 26 2024.
 - [A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning](https://arxiv.org/pdf/2406.12255), Jun. 18 2024. `interpretability`.
 - [Exploring the Impact of a Transformer’s Latent Space Geometry on Downstream Task Performance](https://arxiv.org/pdf/2406.12159), Jun. 18 2024.
 - [Pre-trained Large Language Models Use Fourier Features to Compute Addition](https://arxiv.org/pdf/2406.03445), Jun. 5 2024. `mechanistic interpretability`.
 - [Compact Proofs of Model Performance via Mechanistic Interpretability](https://arxiv.org/pdf/2406.11779), Jun. 17 2024. `mechanistic interpretability`. [code](https://github.com/JasonGross/guarantees-based-mechanistic-interpretability/). [slides](https://docs.google.com/presentation/d/15Ws0UwuIjS-rEEziKTAr5rTfvaMN9M1sFFkBV3MHp94/edit#slide=id.g2eeb89ec19f_0_32).
-- [Probing the Decision Boundaries of In-context Learning in Large Language Models](https://arxiv.org/pdf/2406.11233), Jun. 17 2024. [tweet](https://x.com/siyan_zhao/status/1805277462890492321). `interpretability`.
 - [Token Erasure as a Footprint of Implicit Vocabulary Items in LLMs](https://arxiv.org/pdf/2406.20086), Jun. 28 2024. [code](https://footprints.baulab.info/). `mechanistic interpretability`.
-- [Transcoders Find Interpretable LLM Feature Circuits](https://arxiv.org/pdf/2406.11944), Jun. 17 2024. `mechanistic interpretability`.
 - [Estimating Knowledge in Large Language Models Without Generating a Single Token](https://arxiv.org/pdf/2406.12673), Jun. 18 2024.
 - [Transformer Layers as Painters](https://arxiv.org/pdf/2407.09298), Jul. 12 2024. `representation similarity`.
-- [LLM Circuit Analyses Are Consistent Across Training and Scale](https://arxiv.org/pdf/2407.10827), Jul. 15 2024.
-  - _"we track how model mechanisms, operationalized as circuits, emerge and evolve across 300 billion tokens of training in decoder-only LLMs, in models ranging from 70b to 2.8b parameters."_
 - [Understanding Counting in Small Transformers: The Interplay between Attention and Feed-Forward Layers](https://arxiv.org/pdf/2407.11542), Jul. 16 2024.
 - [Mechanistically Interpreting a Transformer-based 2-SAT Solver: An Axiomatic Approach](https://arxiv.org/pdf/2407.13594), Jul. 18 2024. [code](https://github.com/nilspalumbo/sat-mi).
 - [Adversarial Circuit Evaluation](https://arxiv.org/pdf/2407.15166), Jul. 21 2024. `circuits stability`.
   - _" indicating that more robust circuits are needed for safety-critical applications."_
-- [NNsight and NDIF: Democratizing access to foundational model internals](https://arxiv.org/pdf/2407.14561), Jul. 18 2024.
 - [Generalization v.s. memorization: Tracing language models' capability back to pretraining data](https://arxiv.org/pdf/2407.14985), Jul. 20 2024.
 - [When Can Transformers Count to n?](https://arxiv.org/pdf/2407.15160), Jul. 21 2024.
 - [Dissecting Multiplication in Transformers: Insights into LLMs](https://arxiv.org/pdf/2407.15360), Jul. 22 2024.
@@ -39,6 +32,7 @@
 - [Physics of Language Models: Part 2.2, How to Learn From Mistakes on Grade-School Math Problems](https://arxiv.org/pdf/2408.16293), Aug. 29 2024.
 - [Memory-efficient Training of LLMs with Larger Mini-batches](https://arxiv.org/pdf/2407.19580), Jul. 28 2024.
 - [The Quest for the Right Mediator: A History, Survey, and Theoretical Grounding of Causal Interpretability](https://arxiv.org/pdf/2408.01416), Aug. 2 2024.
+- [Does representation matter? Exploring intermediate layers in large language models](https://arxiv.org/abs/2412.09563), Dec. 12 2024.
 - [Mathematical Models of Computation in Superposition](https://arxiv.org/pdf/2408.05451), Aug. 10 2024.
 - [Causal Abstraction: A Theoretical Foundation for Mechanistic Interpretability](https://arxiv.org/pdf/2301.04709), Aug. 7 2024.
   - [Causal Abstractions of Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2021/file/4f5c422f4d49a5a807eda27434231040-Paper.pdf), NeurIPS 2021.
@@ -46,15 +40,11 @@
 - [Where is the signal in tokenization space?](https://arxiv.org/pdf/2408.08541), Aug. 16 2024.
 - [Reframing Human-AI Collaboration for Generating Free-Text Explanations](https://arxiv.org/abs/2112.08674), Dec. 16 2021.
   - _"Our approach is able to consistently filter GPT-3-generated explanations deemed acceptable by humans"_
-- [Modularity in Transformers: Investigating Neuron Separability & Specialization](https://arxiv.org/pdf/2408.17324), Aug. 30 2024.
 - [Emergence of Hidden Capabilities: Exploring Learning Dynamics in Concept Space](https://arxiv.org/pdf/2406.19370), Jun. 27 2024.
-- [CONTEXTCITE: Attributing Model Generation to Context](https://openreview.net/pdf?id=PbIe0MNDQx),  ICML 2024 workshop.
 - [A percolation model of emergence: Analyzing Transformers trained on a formal language](https://arxiv.org/pdf/2408.12578), Aug. 22 2024. [code](https://github.com/EkdeepSLubana/ConceptPercolation).
 - [CONTEXTCITE: Attributing Model Generation to Context](https://arxiv.org/pdf/2409.00729), Sep. 1 2024.
-- [Evaluating Synthetic Activations composed of SAE Latents in GPT-2](https://arxiv.org/pdf/2409.15019), Sep. 23 2024.
 - [Investigating Layer Importance in Large Language Model](https://arxiv.org/pdf/2409.14381), Sep. 22 2024.
 - [Transformer-Based Models Are Not Yet Perfect At Learning to Emulate Structural Recursion](https://arxiv.org/pdf/2401.12947), Jan. 2024.
-- [Residual Stream Analysis with Multi-Layer SAEs](https://arxiv.org/pdf/2409.04185), Sep. 6 2024. [code](https://github.com/tim-lawson/mlsae).
 - [Characterizing stable regions in the residual stream of LLM](https://proceedings.mlr.press/v202/li23l/li23l.pdf), Sep. 26 2024.
 - [Understanding Transformers via N-gram Statistics](https://www.arxiv.org/pdf/2407.12034), Jun. 30 2024.
 - [Understanding Linear Probing then Fine-tuning Language Models from NTK Perspective](https://arxiv.org/pdf/2405.16747), May 27 2024.
@@ -69,35 +59,54 @@
 - [Recurrent Neural Networks Learn to Store and Generate Sequences using Non-Linear Representations](https://arxiv.org/pdf/2408.10920), Aug. 29 2024. [github](https://github.com/robertcsordas/onion_representations).
 - [Recite, Reconstruct, Recollect: Memorization in LMs as a Multifaceted Phenomenon](https://arxiv.org/pdf/2406.17746), Jun. 25 2024. `memorization`.
 - [Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs](https://arxiv.org/pdf/2410.13835), Oct. 17 2024.
-- [Hypothesis Testing the Circuit Hypothesis in LLMs](https://arxiv.org/pdf/2410.13032), Oct. 16 2024. `circuits`.
-- [Mechanistic?](https://arxiv.org/pdf/2410.09087), Oct. 7 2024.
 - [When attention sink emerges in language models: An empirical view](https://arxiv.org/pdf/2410.10781), Oct. 14 2024.
 - [Investigating sensitive directions in GPT-2: An improved baseline and comparative analysis of SAEs](https://arxiv.org/pdf/2410.12555), Oct. 16 2024.
-- [Analyzing (In)Abilities of SAEs via Formal Languages](https://arxiv.org/pdf/2410.11767), Oct. 15 2024.
 - [VibeCheck: Discover & quantify qualitative differences in large language models](https://arxiv.org/pdf/2410.12851), Oct. 28 2024. [code](https://github.com/lisadunlap/VibeCheck).
 - [Distinguishing ignorance from error in LLM hallucinations](https://arxiv.org/pdf/2410.22071), Oct. 29 2024. [code](https://github.com/technion-cs-nlp/hallucination-mitigation).
-- [Features that Make a Difference: Leveraging Gradients for Improved Dictionary Learning](https://arxiv.org/pdf/2411.10397), Nov. 15 2024.
 - [Mechanism and emergence of stacked attention heads in multi-layer transformers](https://arxiv.org/pdf/2411.12118), Nov. 18 2024.
 - [AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution](https://arxiv.org/pdf/2411.15102), Nov. 22 2024. [code](https://github.com/r-three/AttriBoT).
-- [Does representation matter? Exploring intermediate layers in large language models](https://arxiv.org/abs/2412.09563), Dec. 12 2024.
 - [Capturing the temporal dependence of training data influence](https://arxiv.org/pdf/2412.09538), Dec. 12 2024.
-- [LatentQA: Teaching llms to decode activations into natural language](https://arxiv.org/pdf/2412.08686), Dec. 11 2024. [code](https://github.com/aypan17/latentqa), [blogpost](https://latentqa.github.io/).
 - [The buffer mechanism for multi-step information reasoning in language models](https://arxiv.org/pdf/2405.15302), 2024.
 - [Gradient routing: Masking gradients to localize computation in neural networks](https://arxiv.org/pdf/2410.04332), Nov. 29 2024. [blogpost](https://turntrout.com/gradient-routing).
-- [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/pdf/2407.15017), Dec. 24 2024.
 - [Open problems in mechanistic interpretability](https://arxiv.org/pdf/2501.16496), Jan. 27 2024.
-- [AxBench: Steering LLMs? Even simple baselines outperforms sparse autoencoders](https://arxiv.org/pdf/2501.17148), Jan. 29 2025. [code](https://github.com/stanfordnlp/axbench).
 - [Physics of skill learning](https://arxiv.org/pdf/2501.12391), Jan. 21 2025.
-- [Interpretability in parameter space: Minimizing mechanistic description length with attribution-based parameter decomposition](https://arxiv.org/pdf/2501.14926), Jan. 29 2025. [code](https://github.com/ApolloResearch/apd).
 - [Propositional interpretability in artificial intelligence](https://arxiv.org/pdf/2501.15740), Jan. 27 2025.
 - [Aggregate and conquer: detecting and steering LLM concepts by combining nonlinear predictors over multiple layers](https://arxiv.org/pdf/2502.03708), Feb. 6 2025. [code](https://github.com/dmbeaglehole/neural_controllers).
 - [Layer by layer: Uncovering hidden representations in language models](https://arxiv.org/pdf/2502.02013), Feb. 4 2025.
-- [Position-aware automatic circuit discovery](https://arxiv.org/pdf/2502.04577), Feb. 7 2025.
+- [Arithmic without algorithms: Language models solve math with a bag of heuristics](https://arxiv.org/pdf/2410.21272), Oct. 28 2024.
 
-#### Sparse autoencoders and beyond
+#### Sparse autoencoders, dictionary learning and beyond
 
+- [Transcoders Find Interpretable LLM Feature Circuits](https://arxiv.org/pdf/2406.11944), Jun. 17 2024. `mechanistic interpretability`.
 - [Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2](https://arxiv.org/pdf/2408.05147), Aug. 9 2024.
+- [Evaluating Synthetic Activations composed of SAE Latents in GPT-2](https://arxiv.org/pdf/2409.15019), Sep. 23 2024.
+- [Residual Stream Analysis with Multi-Layer SAEs](https://arxiv.org/pdf/2409.04185), Sep. 6 2024. [code](https://github.com/tim-lawson/mlsae).
+- [Analyzing (In)Abilities of SAEs via Formal Languages](https://arxiv.org/pdf/2410.11767), Oct. 15 2024.
 - [Sparse autoencoders do not find canonical units of analysis](https://arxiv.org/pdf/2502.04878), Feb. 7 2025. [code](https://metasaes.streamlit.app/).
+- [AxBench: Steering LLMs? Even simple baselines outperforms sparse autoencoders](https://arxiv.org/pdf/2501.17148), Jan. 29 2025. [code](https://github.com/stanfordnlp/axbench).
+- [Features that Make a Difference: Leveraging Gradients for Improved Dictionary Learning](https://arxiv.org/pdf/2411.10397), Nov. 15 2024.
+
+#### Probing
+
+- [InversionView: A general-purpose method for reading information from neural activations](https://arxiv.org/pdf/2405.17653), May 2024.
+- [Probing the Decision Boundaries of In-context Learning in Large Language Models](https://arxiv.org/pdf/2406.11233), Jun. 17 2024. [tweet](https://x.com/siyan_zhao/status/1805277462890492321). `interpretability`.
+- [LatentQA: Teaching llms to decode activations into natural language](https://arxiv.org/pdf/2412.08686), Dec. 11 2024. [code](https://github.com/aypan17/latentqa), [blogpost](https://latentqa.github.io/).
+
+#### Parameter attribution, circuits
+
+- [Transformer feed-forward layers are key-value memories](https://arxiv.org/pdf/2012.14913), Sep. 5 2021.
+- [Transformer feed-forward layers build predictions by prompting concepts in the vocabulary space](https://arxiv.org/pdf/2203.14680), Oct. 2022.
+- [Locating and editing factual associations in GPT](https://arxiv.org/abs/2202.05262), Feb. 10 2022.
+- [NNsight and NDIF: Democratizing access to foundational model internals](https://arxiv.org/pdf/2407.14561), Jul. 18 2024.
+- [Adversarial circuit evaluation](https://arxiv.org/pdf/2407.15166), Jul. 21 2024.
+- [LLM Circuit Analyses Are Consistent Across Training and Scale](https://arxiv.org/pdf/2407.10827), Jul. 15 2024.
+  - _"we track how model mechanisms, operationalized as circuits, emerge and evolve across 300 billion tokens of training in decoder-only LLMs, in models ranging from 70b to 2.8b parameters."_- [Modularity in Transformers: Investigating Neuron Separability & Specialization](https://arxiv.org/pdf/2408.17324), Aug. 30 2024.
+- [Mechanistic?](https://arxiv.org/pdf/2410.09087), Oct. 7 2024.
+- [Hypothesis testing the circuit hypothesis in llms](https://arxiv.org/pdf/2410.13032), Oct. 16 2024. [code](https://github.com/blei-lab/circuitry?tab=readme-ov-file).
+- [Understanding factual recall in Transformers via associative memories](https://arxiv.org/pdf/2412.06538v1), Dec. 9 2024.
+- [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/pdf/2407.15017), Dec. 24 2024.
+- [Interpretability in parameter space: Minimizing mechanistic description length with attribution-based parameter decomposition](https://arxiv.org/pdf/2501.14926), Jan. 29 2025. [code](https://github.com/ApolloResearch/apd).
+- [Position-aware automatic circuit discovery](https://arxiv.org/pdf/2502.04577), Feb. 7 2025.
 
 #### Auto-intepretation
 
