@@ -74,6 +74,8 @@
 - [Aggregate and conquer: detecting and steering LLM concepts by combining nonlinear predictors over multiple layers](https://arxiv.org/pdf/2502.03708), Feb. 6 2025. [code](https://github.com/dmbeaglehole/neural_controllers).
 - [Layer by layer: Uncovering hidden representations in language models](https://arxiv.org/pdf/2502.02013), Feb. 4 2025.
 - [Arithmic without algorithms: Language models solve math with a bag of heuristics](https://arxiv.org/pdf/2410.21272), Oct. 28 2024.
+- [Building bridges, not walls - Advancing interpretability by unifying feature, data, and model component attribution](https://arxiv.org/pdf/2501.18887), Jan. 31 2025.
+- [Partially rewriting a transformer in natural language](https://arxiv.org/pdf/2501.18838), Jan. 31 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
@@ -85,6 +87,7 @@
 - [Sparse autoencoders do not find canonical units of analysis](https://arxiv.org/pdf/2502.04878), Feb. 7 2025. [code](https://metasaes.streamlit.app/).
 - [AxBench: Steering LLMs? Even simple baselines outperforms sparse autoencoders](https://arxiv.org/pdf/2501.17148), Jan. 29 2025. [code](https://github.com/stanfordnlp/axbench).
 - [Features that Make a Difference: Leveraging Gradients for Improved Dictionary Learning](https://arxiv.org/pdf/2411.10397), Nov. 15 2024.
+- [Transcoders beat sparse autoencoders for interpretability](https://arxiv.org/pdf/2501.18823), Jan. 31 2025.
 
 #### Probing
 
@@ -146,6 +149,7 @@
 - [When can transformers ground and compose: Insights from compositional generalization benchmarks](https://arxiv.org/pdf/2210.12786), Oct. 31 2022. [code](https://github.com/ankursikarwar/Grounded-Compositional-Generalization).
 - [Theoretical limitations of multi-layer Transformer](https://arxiv.org/pdf/2412.02975), Dec. 4 2024.
 - [Fundamental limits of learning in sequence multi-index models and deep attention networks: High-dimensional asymptotics and sharp thresholds](https://arxiv.org/pdf/2502.00901), Feb. 2 2025.
+- [A unified perspective on the dynamics of deep transformers](https://arxiv.org/pdf/2501.18322), Jan. 30 2025.
 
 #### Theory of pre-training
 
