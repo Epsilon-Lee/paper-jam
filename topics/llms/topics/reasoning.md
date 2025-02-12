@@ -60,5 +60,7 @@
 - [MATH-Perturb: Benchmarking LLM's math reasoning abilities against hard perturbations](https://arxiv.org/abs/2502.06453), Feb. 10 2025.
 - [Scaling up test-time compute with latent reasoning: A recurrent depth approach](https://www.arxiv.org/pdf/2502.05171), Feb. 7 2025. [code](https://github.com/seal-rg/recurrent-pretraining).
 - [An analysis for reasoning bias of language models with small initialization](https://arxiv.org/pdf/2502.04375), Feb 5 2025.
+- [Towards large reasoning models: A survey on scaling LLM reasoning capabilities](https://arxiv.org/pdf/2501.09686), Jan. 17 2025.
+- [On the reasoning capacity of AI models and how to quantify it](https://arxiv.org/pdf/2501.13833), Jan. 23 2025.
 
 
