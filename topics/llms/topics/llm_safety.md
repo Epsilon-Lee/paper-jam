@@ -36,6 +36,7 @@
 - [Jailbreak and guard aligned language models with only few in-context demostrations](https://arxiv.org/pdf/2310.06387), Oct. 2024.
 - [Jailbreaking LLM's safeguard with universal magic words for text embedding models](https://arxiv.org/pdf/2501.18280), Jan. 30 2025.
 - [FlipAttack: Jailbreak llms via flipping](https://arxiv.org/pdf/2410.02832), Oct. 2 2024.
+- [Speak Easy: Eliciting harmful jailbreaks from LLMs with simple interactions](https://arxiv.org/pdf/2502.04322), Feb. 6 2025.
 
 #### Safety constitution (with reasoning)
 
