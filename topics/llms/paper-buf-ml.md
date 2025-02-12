@@ -4,7 +4,6 @@ Three topics:
 - [Codebases](#codebases)
 - [Cognitive science](#cognitive-science)
 
-
 ## Machine learning
 
 - [Binning as a Pretext Task: Improving Self-Supervised Learning in Tabular Domains](https://arxiv.org/pdf/2405.07414), May 13 2024.
@@ -146,6 +145,8 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [A survey of zero-shot generalization in deep reinforcement learning](https://arxiv.org/pdf/2111.09794), Jan. 19 2023.
 - [Rethinking early stopping: Refine, then calibrate](https://arxiv.org/pdf/2501.19195), Jan. 31 2025.
 - [Decoding Generalization from Memorization in Deep Neural Networks](https://arxiv.org/pdf/2501.14687), Jan. 24 2025.
+- [Evolution and the knightian blindspot of machine learning](https://arxiv.org/pdf/2501.13075), Jan. 22 2025.
+- [Not every AI problem is a data problem: We should be intentional about data scaling](https://arxiv.org/pdf/2501.13779), Jan. 23 2025.
 
 ### Contrastive learning
 
