@@ -81,6 +81,7 @@
 - [Eliciting language model behaviors with investigator agents](https://arxiv.org/pdf/2502.01236), Feb. 3 2025.
 - [Non-literal understanding of number words by language models](https://arxiv.org/pdf/2502.06204), Feb. 10 2025.
 - [Systematic outliers in large language models](https://arxiv.org/pdf/2502.06415), Feb. 10 2025.
+  - [Demystifying singular defects in large language models](https://arxiv.org/pdf/2502.07004), Feb. 10 2025.
 - [A distributional perspective on word learning in neural language models](https://arxiv.org/pdf/2502.05892), Feb. 9 2025.
 - [Emergent response planning in LLM](https://arxiv.org/pdf/2502.06258), Feb. 10 2025.
 - [Neurons speak in ranges: Breaking free from discrete neuronal attribution](https://arxiv.org/pdf/2502.06809), Feb. 4 2025.
