@@ -220,7 +220,9 @@
 - [Auditing prompt caching in language model APIs](https://arxiv.org/pdf/2502.07776), Feb. 11 2025.
 - [Turning up the heat: Min-p sampling for creative and coherent LLM outputs](https://arxiv.org/pdf/2407.01082), Oct. 13 2024.
 - [Preventing rogue agents improves multi-agent collaboration](https://arxiv.org/abs/2502.05986), Feb. 9 2025.
-- [Automated capability discovery via foundation model self-exploration](https://arxiv.org/pdf/2502.07577), Feb. 11 2025. [code](https://arxiv.org/pdf/2502.07577).
+- [Automated capability discovery via foundation model self-exploration](https://arxiv.org/pdf/2502.07577), Feb. 11 2025.
+  - [Quality-diversity through AI feedback](https://openreview.net/pdf?id=owokKCrGYr), ICLR 2024.
+- [The hyperfitting phenomenon: Sharpening and stabilizing LLMs for open-ended text generation](https://arxiv.org/pdf/2412.04318), Dec. 5 2024.
 
 ### Length generalization
 
