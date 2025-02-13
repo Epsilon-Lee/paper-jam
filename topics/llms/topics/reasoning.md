@@ -62,5 +62,16 @@
 - [An analysis for reasoning bias of language models with small initialization](https://arxiv.org/pdf/2502.04375), Feb 5 2025.
 - [Towards large reasoning models: A survey on scaling LLM reasoning capabilities](https://arxiv.org/pdf/2501.09686), Jan. 17 2025.
 - [On the reasoning capacity of AI models and how to quantify it](https://arxiv.org/pdf/2501.13833), Jan. 23 2025.
+- [Competitive programming with large reasoning models](https://arxiv.org/pdf/2502.06807), Feb. 3 2025.
+- [Goedel-Prover: A frontier model for open-source automated theorem proving](https://arxiv.org/pdf/2502.07640), Feb. 11 2025.
+- [When more is less: Understanding chain-of-thought length in LLMs](https://arxiv.org/pdf/2502.07266), Feb. 11 2025.
+- [Exploring the limit of outcome reward for learning mathematical reasoning](https://arxiv.org/pdf/2502.06781), Feb. 10 2025.
+- [ReasonFlux: Hierarchical LLM reasoning via scaling thought templates](https://arxiv.org/pdf/2502.06772), Feb. 10 2025.
+- [Can 1B LLM surpass 405B LLM? Rethinking compute-optimal test-time scaling](https://arxiv.org/pdf/2502.06703), Feb. 10 2025.
+- [Large language models meet symbolic provers for logical reasoning evaluation](https://arxiv.org/pdf/2502.06563), Feb. 10 2025. [code](https://github.com/opendatalab/ProverGen).
+- [Examining false positives under inference scaling for mathematical reasoning](https://arxiv.org/pdf/2502.06217), Feb. 10 2025.
+- [GSM-Infini: How do your LLMs behave over infinitely increasing context length and reasoning complexity](https://arxiv.org/pdf/2502.05252), Feb. 7 2025. [code](https://github.com/Infini-AI-Lab/gsm_infinite/).
+- [On the emergence of thinking in LLMs I: Searching for the right intuition](https://arxiv.org/pdf/2502.06773), Feb. 10 2025.
+- [Scalable oversight for superhuman AI via recursive self-critiquing](https://arxiv.org/pdf/2502.04675), Feb. 7 2025.
 
 
