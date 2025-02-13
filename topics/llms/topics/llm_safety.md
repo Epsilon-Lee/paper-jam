@@ -14,6 +14,7 @@
 - [A survey of safety and trustworthiness of large language models through the lens of verification and validation](https://arxiv.org/pdf/2305.11391), Aug. 27 2023.
 - [A survey on large language model security and privacy: The good, the bad and the ugly](https://arxiv.org/pdf/2312.02003), Mar. 20 2024.
 - [Trustworthy LLMs: A survey and guideline for evaluating large language models' alignment](https://openreview.net/pdf?id=oss9uaPFfB), ICLR 2024.
+- [Safety at scale: A comprehensive survey of large model safety](https://arxiv.org/pdf/2502.05206), Feb. 2 2025. 
 
 #### Science of llm safety
 
