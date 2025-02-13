@@ -8,6 +8,7 @@
 - [Provably safeguarding a classifier from ood and adversarial samples: An extreme value theory approach](https://arxiv.org/pdf/2501.10202), Jan. 17 2025.
 - [On evaluating the durability of safeguards for open-weight LLMs](https://arxiv.org/pdf/2412.07097), Dec. 10 2024.
 - [Stree-testing capability elicitation with password-locked models](https://arxiv.org/pdf/2405.19550), May 29 2024.
+- [Safety is essential for responsible open-ended systems](https://arxiv.org/pdf/2502.04512), Feb. 10 2025.
 
 #### Survey and definition
 
