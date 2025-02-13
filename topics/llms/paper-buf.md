@@ -213,7 +213,14 @@
 - [Verify with caution: The pitfalls of relying on imperfect factuality metrics](https://arxiv.org/pdf/2501.14883), Jan. 30 2025.
 - [SmolLM2: When smol goes big - Data-centric training of small language model](https://arxiv.org/pdf/2502.02737), Feb. 4 2025.
   - _"we release both SmolLM2 as well as all of the datasets we prepared in the course of this project"_
-- [ExLM: Rethinking the impact of [MASK] tokens in masked language models](https://arxiv.org/pdf/2501.13397), Jan. 23 2025.
+- [ExLM: Rethinking the impact of MASK tokens in masked language models](https://arxiv.org/pdf/2501.13397), Jan. 23 2025.
+- [Scaling Laws for Forgetting during Finetuning with Pretraining Data Injection](https://arxiv.org/pdf/2502.06042), Feb. 9 2025.
+- [LM2: Large Memory Models](https://arxiv.org/pdf/2502.06049), Feb. 9 2025.
+- [Economics of sourcing human data](https://arxiv.org/pdf/2502.07732), Feb. 11 2025.
+- [Auditing prompt caching in language model APIs](https://arxiv.org/pdf/2502.07776), Feb. 11 2025.
+- [Turning up the heat: Min-p sampling for creative and coherent LLM outputs](https://arxiv.org/pdf/2407.01082), Oct. 13 2024.
+- [Preventing rogue agents improves multi-agent collaboration](https://arxiv.org/abs/2502.05986), Feb. 9 2025.
+- [Automated capability discovery via foundation model self-exploration](https://arxiv.org/pdf/2502.07577), Feb. 11 2025. [code](https://arxiv.org/pdf/2502.07577).
 
 ### Length generalization
 
