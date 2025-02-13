@@ -79,6 +79,14 @@
 - [Linearity of relation decoding in transformer language models](https://arxiv.org/pdf/2308.09124), Feb. 15 2024.
 - [Linear representations of sentiment in large language models](https://arxiv.org/abs/2310.15154), Oct. 23 2023.
 - [Eliciting language model behaviors with investigator agents](https://arxiv.org/pdf/2502.01236), Feb. 3 2025.
+- [Non-literal understanding of number words by language models](https://arxiv.org/pdf/2502.06204), Feb. 10 2025.
+- [Systematic outliers in large language models](https://arxiv.org/pdf/2502.06415), Feb. 10 2025.
+- [A distributional perspective on word learning in neural language models](https://arxiv.org/pdf/2502.05892), Feb. 9 2025.
+- [Emergent response planning in LLM](https://arxiv.org/pdf/2502.06258), Feb. 10 2025.
+- [Neurons speak in ranges: Breaking free from discrete neuronal attribution](https://arxiv.org/pdf/2502.06809), Feb. 4 2025.
+- [Mechanistic interpretability of emotion inference in large language models](https://arxiv.org/pdf/2502.05489), Feb. 8 2025.
+- [Can large language models understand intermediate representations](https://arxiv.org/pdf/2502.06854), Feb. 7 2025.
+- [We can't understand AI using our existing vocabulary](https://arxiv.org/pdf/2502.07586), Feb. 11 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
