@@ -103,6 +103,7 @@
 - [AxBench: Steering LLMs? Even simple baselines outperforms sparse autoencoders](https://arxiv.org/pdf/2501.17148), Jan. 29 2025. [code](https://github.com/stanfordnlp/axbench).
 - [Features that Make a Difference: Leveraging Gradients for Improved Dictionary Learning](https://arxiv.org/pdf/2411.10397), Nov. 15 2024.
 - [Transcoders beat sparse autoencoders for interpretability](https://arxiv.org/pdf/2501.18823), Jan. 31 2025.
+- [Mathematical models of computation in superposition](https://arxiv.org/pdf/2408.05451), Aug. 10 2024.
 
 #### Probing
 
