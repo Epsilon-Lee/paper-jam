@@ -88,6 +88,8 @@
 - [Mechanistic interpretability of emotion inference in large language models](https://arxiv.org/pdf/2502.05489), Feb. 8 2025.
 - [Can large language models understand intermediate representations](https://arxiv.org/pdf/2502.06854), Feb. 7 2025.
 - [We can't understand AI using our existing vocabulary](https://arxiv.org/pdf/2502.07586), Feb. 11 2025.
+- [Language generation in the limit](https://arxiv.org/pdf/2404.06757), Apr. 10 2024.
+- [Characterizations of language generation with breadth](https://arxiv.org/pdf/2412.18530), Dec. 24 2024.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
