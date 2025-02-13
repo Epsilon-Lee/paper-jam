@@ -147,6 +147,9 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Decoding Generalization from Memorization in Deep Neural Networks](https://arxiv.org/pdf/2501.14687), Jan. 24 2025.
 - [Evolution and the knightian blindspot of machine learning](https://arxiv.org/pdf/2501.13075), Jan. 22 2025.
 - [Not every AI problem is a data problem: We should be intentional about data scaling](https://arxiv.org/pdf/2501.13779), Jan. 23 2025.
+- [What makes a good feedforward computational graph?](https://arxiv.org/pdf/2502.06751), Feb. 10 2025.
+- [Building bridges between regression, clustering and classification](https://arxiv.org/pdf/2502.02996), Feb. 5 2025.
+- [Deep multi-task learning has low amortized intrinsic dimensionality](https://arxiv.org/pdf/2501.19067), Jan. 31 2025.
 
 ### Contrastive learning
 
