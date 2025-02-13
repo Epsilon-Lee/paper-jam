@@ -229,6 +229,7 @@
 - [Your Context Is Not an Array: Unveiling Random Access Limitations in Transformers](https://arxiv.org/pdf/2408.05506), Aug. 10 2024.
 - [A formal framework for understanding length generalization in transformers](https://arxiv.org/pdf/2410.02140), Oct. 3 2024.
 - [Self-improving transformers overcome easy-to-hard and length generalization challengs](https://arxiv.org/pdf/2502.01612), Feb. 3 2025.
+- [NoLiMa: Long-context evaluation beyond literal matching](https://arxiv.org/pdf/2502.05167), Feb. 7 2025.
 
 ### In-context learning
 
