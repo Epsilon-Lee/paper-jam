@@ -229,6 +229,12 @@
 - [Rewind-to-Delete: Certified machine unlearning for nonconvex functions](https://arxiv.org/pdf/2409.09778), Jan. 31 2025.
   - Related theoretic works on machine unlearning
     - [Remember What You Want to Forget: Algorithms for Machine Unlearning](https://arxiv.org/abs/2103.03279), 2021.
+- [Discrepancies are virtue: Weak-to-strong generalization through lens of intrinsic dimensions](https://arxiv.org/pdf/2502.05075), Feb. 7 2025.
+  - [Scalable oversight and weak-to-strong generalization: Compatible approaches to the same problem](https://www.alignmentforum.org/posts/hw2tGSsvLLyjFoLFS/scalable-oversight-and-weak-to-strong-generalization), Dec. 2023.
+  - [A guide to iterated amplification & debate](https://www.alignmentforum.org/posts/vhfATmAoJcN8RqGg6/a-guide-to-iterated-amplification-and-debate), Nov. 16 2020.
+- [Self-regulation and requesting interventions](https://arxiv.org/pdf/2502.04576), Feb. 7 2025.
+- [Active task disambiguation with LLMs](https://arxiv.org/pdf/2502.04485), Feb. 6 2025.
+- [Aligning black-box language models with human judgements](https://arxiv.org/pdf/2502.04997), Feb. 7 2025.
 
 ### Length generalization
 
@@ -286,6 +292,7 @@
 - [Language model developers should report train-test overlap](https://arxiv.org/abs/2410.08385), Oct. 10 2024. [code](https://github.com/stanford-crfm/data-overlap).
 - [Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations](https://arxiv.org/pdf/2411.00640), Nov. 1 2024.
 - [Evaluating Generative AI Systems is a Social Science Measurement Challenge](https://arxiv.org/pdf/2411.10939), Nov. 7 2024.
+- [Causality can systematically address the monsters under the bench(marks)](https://arxiv.org/pdf/2502.05085), Feb. 7 2025.
 
 #### Data contamination
 
