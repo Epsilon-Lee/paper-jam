@@ -41,7 +41,12 @@
 - [FlipAttack: Jailbreak llms via flipping](https://arxiv.org/pdf/2410.02832), Oct. 2 2024.
 - [Speak Easy: Eliciting harmful jailbreaks from LLMs with simple interactions](https://arxiv.org/pdf/2502.04322), Feb. 6 2025.
 
-#### Safety constitution (with reasoning)
+#### How to defense
+
+- [Baseline defenses for adversarial attacks against aligned language models](https://arxiv.org/abs/2309.00614v2), Sep. 1 2023.
+- [StruQ: Defending against prompt injection with structured queries](https://arxiv.org/abs/2402.06363), Feb. 9 2024.
+
+##### Safety constitution (with reasoning)
 
 - [GuardReasoner: Towards reasoning-based LLM safeguards](https://arxiv.org/pdf/2501.18492), Jan. 30 2025.
 
