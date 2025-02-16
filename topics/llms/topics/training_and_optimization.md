@@ -29,6 +29,7 @@
 - [Simple and Scalable Strategies to Continually Pre-train Large Language Models](https://arxiv.org/pdf/2403.08763), Mar. 26 2024.
 - [Metadata conditioning accelerates language model pre-training](https://arxiv.org/pdf/2501.01956), Jan. 3 2025. [code](https://github.com/princeton-pli/MeCo).
   - _"MeCo first provides metadata (e.g. URLs like en.wikipedia.org alongside the text during training and later uses a cooldown phase with only the standard text, theirby enabling the model to function normally even without metadata.)"_
+- [LLM pretraining with continuous concepts](https://arxiv.org/pdf/2502.08524), Feb. 12 2025. [code](https://github.com/facebookresearch/RAM/tree/main/projects/cocomix).
 
 ### Peft and instruction tuning techniques
 
