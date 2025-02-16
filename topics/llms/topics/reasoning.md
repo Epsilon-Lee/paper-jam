@@ -74,5 +74,6 @@
 - [On the emergence of thinking in LLMs I: Searching for the right intuition](https://arxiv.org/pdf/2502.06773), Feb. 10 2025.
 - [Scalable oversight for superhuman AI via recursive self-critiquing](https://arxiv.org/pdf/2502.04675), Feb. 7 2025.
 - [LLMs can easily learn to reason from demonstrations structure, not content, is what matters](https://arxiv.org/pdf/2502.07374), Feb. 11 2025. [code](https://arxiv.org/pdf/2502.07374).
+- [CODEI/O: Condensing reasoning patterns via code input-output Prediction](https://arxiv.org/pdf/2502.07316), Feb. 12 2025. [code](https://github.com/hkust-nlp/CodeIO).
 
 
