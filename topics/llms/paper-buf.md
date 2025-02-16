@@ -223,6 +223,8 @@
 - [Automated capability discovery via foundation model self-exploration](https://arxiv.org/pdf/2502.07577), Feb. 11 2025.
   - [Quality-diversity through AI feedback](https://openreview.net/pdf?id=owokKCrGYr), ICLR 2024.
 - [The hyperfitting phenomenon: Sharpening and stabilizing LLMs for open-ended text generation](https://arxiv.org/pdf/2412.04318), Dec. 5 2024.
+- [SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models](https://arxiv.org/pdf/2502.09604), Feb. 13 2025.
+- [Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs](https://arxiv.org/pdf/2502.08640), Feb. 12 2025.
 
 ### Length generalization
 
@@ -339,6 +341,7 @@
 - [Towards human-guided, data-centric LLM co-pilots](https://arxiv.org/pdf/2501.10321), Jan. 17 2025. `data science`.
 - [UI-TARS: Pioneering automated GUI interaction with native agents](https://arxiv.org/abs/2501.12326), Jan. 21 2025. [code](https://github.com/bytedance/UI-TARS?tab=readme-ov-file).
 - [browser-use](https://github.com/browser-use/browser-use), Make websites accessible for AI agents.
+- [OmniParser for pure vision based GUI agent](https://arxiv.org/abs/2408.00203), Aug. 1 2024.
 
 ### Multi-modality
 
