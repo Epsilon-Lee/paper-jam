@@ -30,6 +30,7 @@
 - [Data Mixing Made Efficient: A Bivariate Scaling Law for Language Model Pretraining](https://arxiv.org/pdf/2405.14908), May 23 2024.
 - [Scaling Law for Time Series Forecasting](https://arxiv.org/pdf/2405.15124), May 24 2024.
 - [Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling](https://arxiv.org/pdf/2405.14578v1), May 23 2024.
+- [Gemstones: A model suite for multi-faceted scaling laws](https://arxiv.org/pdf/2502.06857), Feb. 7 2025. [code](https://github.com/mcleish7/gemstone-scaling-laws).
 
 #### FLOPS
 
