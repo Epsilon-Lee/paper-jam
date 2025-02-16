@@ -150,6 +150,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [What makes a good feedforward computational graph?](https://arxiv.org/pdf/2502.06751), Feb. 10 2025.
 - [Building bridges between regression, clustering and classification](https://arxiv.org/pdf/2502.02996), Feb. 5 2025.
 - [Deep multi-task learning has low amortized intrinsic dimensionality](https://arxiv.org/pdf/2501.19067), Jan. 31 2025.
+- [Diffusion without tears](https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c), Feb. 2025. `tutorial`.
 
 ### Contrastive learning
 
