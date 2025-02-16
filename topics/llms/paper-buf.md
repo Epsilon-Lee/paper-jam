@@ -225,6 +225,10 @@
 - [The hyperfitting phenomenon: Sharpening and stabilizing LLMs for open-ended text generation](https://arxiv.org/pdf/2412.04318), Dec. 5 2024.
 - [SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models](https://arxiv.org/pdf/2502.09604), Feb. 13 2025.
 - [Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs](https://arxiv.org/pdf/2502.08640), Feb. 12 2025.
+- [Rethinking mixture-of-agents: Is mixing different large language models beneficial](https://arxiv.org/pdf/2502.00674), Feb. 2 2025.
+- [Rewind-to-Delete: Certified machine unlearning for nonconvex functions](https://arxiv.org/pdf/2409.09778), Jan. 31 2025.
+  - Related theoretic works on machine unlearning
+    - [Remember What You Want to Forget: Algorithms for Machine Unlearning](https://arxiv.org/abs/2103.03279), 2021.
 
 ### Length generalization
 
