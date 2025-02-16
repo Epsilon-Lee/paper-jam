@@ -22,6 +22,7 @@
 ##### Mechanistic cause
 
 - [How alignment and jailbreak work: Explain llm safety through intermediate hidden states](https://arxiv.org/pdf/2406.05644), Jun. 13 2024.
+- [Obfuscated activations: Bypass LLM latent-space defense](https://arxiv.org/abs/2412.09565), [code](https://github.com/LukeBailey181/obfuscated-activations).
 
 #### How to break?
 
