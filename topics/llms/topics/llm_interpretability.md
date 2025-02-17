@@ -93,6 +93,7 @@
 - [Non-literal understanding of number words by language models](https://arxiv.org/pdf/2502.06204), Feb. 10 2025.
 - [On mechanistic circuits for extractive question-answering](https://arxiv.org/pdf/2502.08059), Feb. 12 2025.
 - [InnerThoughts: Disentangling representations and predictions in large language models](https://arxiv.org/pdf/2501.17994), Jan. 29 2025.
+- [Paying attention to facts: Quantifying the knowledge capacity of attention layers](https://arxiv.org/pdf/2502.05076), Feb. 7 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
