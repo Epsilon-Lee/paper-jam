@@ -153,6 +153,8 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Diffusion without tears](https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c), Feb. 2025. `tutorial`.
 - [From individual experience to collective evidence: A reporting-based framework for identifying systematic harms](), Feb. 12 2025.
 - [Estimating the probability of sampling a trained neural network at random](https://arxiv.org/pdf/2501.18812), Jan. 31 2025.
+- [How to explain grokking](https://arxiv.org/pdf/2412.18624), Jan. 1 2025.
+  - _"Explanation of grokking (delayed generalization) in learning is given by modeling grokking by the stochastic gradient Langevin dynamics (Brownian motion) and applying the ideas of thermodynamics."_
 
 ### Contrastive learning
 
