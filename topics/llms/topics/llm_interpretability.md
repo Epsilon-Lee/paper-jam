@@ -154,6 +154,7 @@
 
 #### Theory of Transformers
 
+- [Hardness of approximate nearest neighbor search](https://arxiv.org/pdf/1803.00904), Mar. 2 2018.
 - [Representational Strengths and Limitations of Transformers](https://arxiv.org/pdf/2306.02896), Nov. 16 2023.
 - [A mathematical perspective on Transformers](https://arxiv.org/pdf/2312.10794), Aug. 12 2024.
 - [How Transformers learn structured data: Insights from hierarchical filtering](https://arxiv.org/pdf/2408.15138), Aug. 27 2024.
