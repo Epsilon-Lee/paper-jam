@@ -235,6 +235,7 @@
 - [Self-regulation and requesting interventions](https://arxiv.org/pdf/2502.04576), Feb. 7 2025.
 - [Active task disambiguation with LLMs](https://arxiv.org/pdf/2502.04485), Feb. 6 2025.
 - [Aligning black-box language models with human judgements](https://arxiv.org/pdf/2502.04997), Feb. 7 2025.
+- [Large language diffusion models](https://arxiv.org/pdf/2502.09992), Feb. 14 2025. [code](https://github.com/ML-GSAI/LLaDA).
 
 ### Length generalization
 
