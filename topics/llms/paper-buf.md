@@ -293,6 +293,7 @@
 - [Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations](https://arxiv.org/pdf/2411.00640), Nov. 1 2024.
 - [Evaluating Generative AI Systems is a Social Science Measurement Challenge](https://arxiv.org/pdf/2411.10939), Nov. 7 2024.
 - [Causality can systematically address the monsters under the bench(marks)](https://arxiv.org/pdf/2502.05085), Feb. 7 2025.
+- [How contaminated is your benchmark? Quantifying dataset leakage in large language models with kernel divergence](https://arxiv.org/pdf/2502.00678), Feb. 2 2025.
 
 #### Data contamination
 
