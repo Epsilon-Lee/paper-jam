@@ -9,6 +9,9 @@
 - [On evaluating the durability of safeguards for open-weight LLMs](https://arxiv.org/pdf/2412.07097), Dec. 10 2024.
 - [Stree-testing capability elicitation with password-locked models](https://arxiv.org/pdf/2405.19550), May 29 2024.
 - [Safety is essential for responsible open-ended systems](https://arxiv.org/pdf/2502.04512), Feb. 10 2025.
+- [UniGuardian: A unified defense for detecting prompt injection, backdoor attacks and adversarial attacks in large language models](https://arxiv.org/pdf/2502.13141), Feb. 18 2025.
+  - The paper call prompt injection, backdoor attack and adversarial attacks as 'prompt trigger attacks'
+- [Safe at the Margins: A General Approach to Safety Alignment in Low-Resource English Languages – A Singlish Case Study](https://arxiv.org/pdf/2502.12485), Feb. 18 2025.
 
 #### Survey and definition
 
