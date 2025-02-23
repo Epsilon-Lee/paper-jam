@@ -26,5 +26,8 @@
 - [RedStone: Curating general, code, math, and QA data for large language models](https://arxiv.org/pdf/2412.03398), Dec. 4 2024. [code](https://github.com/microsoft/redstone).
 - [OpenCSG Chinese corpus: A series of high-quality Chinese datasets for llm training](https://arxiv.org/pdf/2501.08197), Jan. 14 2025.
 - [Towards best practices for open datasets for LLM training](https://arxiv.org/pdf/2501.08365), Jan. 2025.
+- [Diversity-driven data selection for language model tuning through sparse autoencoder](https://arxiv.org/pdf/2502.14050), Feb. 19 2025.
+  - [Position: Measure dataset diversity, don't just claim it](https://arxiv.org/pdf/2407.08188v1), Jul. 11 2024.
+- [Organize the web: Constructing domains enhances pre-training data curation](https://arxiv.org/pdf/2502.10341), Feb. 14 2025. [code](https://github.com/CodeCreator/WebOrganizer).
 
 
