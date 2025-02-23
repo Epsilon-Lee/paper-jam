@@ -236,6 +236,7 @@
 - [Active task disambiguation with LLMs](https://arxiv.org/pdf/2502.04485), Feb. 6 2025.
 - [Aligning black-box language models with human judgements](https://arxiv.org/pdf/2502.04997), Feb. 7 2025.
 - [Large language diffusion models](https://arxiv.org/pdf/2502.09992), Feb. 14 2025. [code](https://github.com/ML-GSAI/LLaDA).
+- [Independence tests for language models](https://arxiv.org/pdf/2502.12292), Feb. 17 2025.
 
 ### Length generalization
 
@@ -243,6 +244,7 @@
 - [A formal framework for understanding length generalization in transformers](https://arxiv.org/pdf/2410.02140), Oct. 3 2024.
 - [Self-improving transformers overcome easy-to-hard and length generalization challengs](https://arxiv.org/pdf/2502.01612), Feb. 3 2025.
 - [NoLiMa: Long-context evaluation beyond literal matching](https://arxiv.org/pdf/2502.05167), Feb. 7 2025.
+- [LongPO: Long context self-evolution of large language models through short-to-long preference optimization](https://www.arxiv.org/pdf/2502.13922), ICLR 2025. [tweet](https://x.com/gzchen3/status/1892870929966883236). [code](https://github.com/DAMO-NLP-SG/LongPO).
 
 ### In-context learning
 
