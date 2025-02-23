@@ -237,6 +237,11 @@
 - [Aligning black-box language models with human judgements](https://arxiv.org/pdf/2502.04997), Feb. 7 2025.
 - [Large language diffusion models](https://arxiv.org/pdf/2502.09992), Feb. 14 2025. [code](https://github.com/ML-GSAI/LLaDA).
 - [Independence tests for language models](https://arxiv.org/pdf/2502.12292), Feb. 17 2025.
+- [From RAG to memory: Non-parametric continual learning for large language models](https://arxiv.org/pdf/2502.14802), Feb. 20 2025. [code](https://github.com/OSU-NLP-Group/HippoRAG).
+
+### LLM as a judge
+
+- [Investigating non-transitivity in LLM-as-a-judge](https://arxiv.org/pdf/2502.14074), Feb. 19 2025.
 
 ### Length generalization
 
@@ -245,6 +250,8 @@
 - [Self-improving transformers overcome easy-to-hard and length generalization challengs](https://arxiv.org/pdf/2502.01612), Feb. 3 2025.
 - [NoLiMa: Long-context evaluation beyond literal matching](https://arxiv.org/pdf/2502.05167), Feb. 7 2025.
 - [LongPO: Long context self-evolution of large language models through short-to-long preference optimization](https://www.arxiv.org/pdf/2502.13922), ICLR 2025. [tweet](https://x.com/gzchen3/status/1892870929966883236). [code](https://github.com/DAMO-NLP-SG/LongPO).
+- [How to train long-context language models (effectively)](https://arxiv.org/pdf/2410.02660), Oct. 3 2024.
+- [LIFT: Improving long context understanding of large language models through long input fine-tuning](https://arxiv.org/pdf/2502.14644), Feb. 2025.
 
 ### In-context learning
 
@@ -268,6 +275,7 @@
 - [Multi-Attribute Constraint Satisfaction via Language Model Rewriting](https://arxiv.org/abs/2412.19198), Dec. 26 2024.
 - [Task vectors in in-context learning: Emergence, formation, and benefits](https://arxiv.org/pdf/2501.09240), Jan. 16 2025.
 - [The Inherent Limits of Pretrained LLMs: The Unexpected Convergence of Instruction Tuning and In-Context Learning Capabilities](https://arxiv.org/pdf/2501.08716), Jan. 15 2025.
+- [Rapid word learning through meta in-context learning](https://arxiv.org/pdf/2502.14791), Feb. 20 2024.
 
 ### Prompting techniques
 
@@ -320,6 +328,7 @@
 - [Easy2Hard-Bench: Standardized Difficulty Labels for Profiling LLM Performance and Generalization](https://arxiv.org/pdf/2409.18433), Sep. 27 2024.
 - [MLE-Bench: Evaluating machine learning agents on machine learning engineering](https://arxiv.org/pdf/2410.07095), Oct. 9 2024. `openai`.
 - [HARDMath: A benchmark dataset for challenging problems in applied mathematics](https://arxiv.org/pdf/2410.09988), Oct. 13 2024.
+- [SuperGPQA: Scaling LLM evaluation across 285 graduate disciplines](https://arxiv.org/pdf/2502.14739), Feb. 20 2025.
 
 #### Eval toolkit
 
