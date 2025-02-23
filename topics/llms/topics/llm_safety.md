@@ -12,6 +12,8 @@
 - [UniGuardian: A unified defense for detecting prompt injection, backdoor attacks and adversarial attacks in large language models](https://arxiv.org/pdf/2502.13141), Feb. 18 2025.
   - The paper call prompt injection, backdoor attack and adversarial attacks as 'prompt trigger attacks'
 - [Safe at the Margins: A General Approach to Safety Alignment in Low-Resource English Languages – A Singlish Case Study](https://arxiv.org/pdf/2502.12485), Feb. 18 2025.
+- [How jailbreak defenses work and ensemble? A mechanistic investigation](https://arxiv.org/pdf/2502.14486), Feb. 20 2025.
+- [A closer look at system prompt robustness](https://arxiv.org/pdf/2502.12197), Feb. 15 2025.
 
 #### Survey and definition
 
@@ -56,6 +58,7 @@
 #### Truthfulness, hallucination
 
 - [Fine-tuning language models for factuality](https://arxiv.org/abs/2311.08401), Nov. 14 2023.
+- [Does fine-tuning LLMs on new knowledge encourage hallucinations?](https://arxiv.org/pdf/2405.05904), May 2024.
 - [Language models hallucinate, but may excel at fact verification](https://arxiv.org/abs/2310.14564), Oct. 23 2024.
 - [To believe or not to believe your llm](https://arxiv.org/abs/2406.02543), Jun. 4 2024.
 - [The beginner's guide to hallucinations in large language models](https://www.lakera.ai/blog/guide-to-hallucinations-in-large-language-models), Oct. 20 2023.
@@ -63,5 +66,6 @@
 - [INSIDE: LLM's interval states retain the power of hallucination detection](https://arxiv.org/pdf/2402.03744), Oct. 21 2024.
 - [Don't hallucinate, abstain: Identifying llm knowledge gaps via multi-llm collaboration](https://arxiv.org/pdf/2402.00367), Feb. 2024.
 - [Generalizing trust: Weak-to-strong trustworthiness in language models](https://arxiv.org/pdf/2501.00418), Dec. 31 2024.
+- [Hallucination, monofacts, and miscalibration: An empirical investigation](https://arxiv.org/pdf/2502.08666), Feb. 11 2025.
 
 
