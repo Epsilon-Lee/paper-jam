@@ -4,6 +4,7 @@
 
 ### Interpretability
 
+- [Task-specific skill localization in fine-tuned language models](https://proceedings.mlr.press/v202/panigrahi23a/panigrahi23a.pdf), ICML 2023. [code](https://github.com/abhishekpanigrahi1996/Skill-Localization-by-grafting).
 - [Do large language models latently perform multi-hop reasoning?](https://arxiv.org/pdf/2402.16837), Feb. 26 2024.
 - [A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning](https://arxiv.org/pdf/2406.12255), Jun. 18 2024. `interpretability`.
 - [Exploring the Impact of a Transformer’s Latent Space Geometry on Downstream Task Performance](https://arxiv.org/pdf/2406.12159), Jun. 18 2024.
@@ -94,6 +95,7 @@
 - [On mechanistic circuits for extractive question-answering](https://arxiv.org/pdf/2502.08059), Feb. 12 2025.
 - [InnerThoughts: Disentangling representations and predictions in large language models](https://arxiv.org/pdf/2501.17994), Jan. 29 2025.
 - [Paying attention to facts: Quantifying the knowledge capacity of attention layers](https://arxiv.org/pdf/2502.05076), Feb. 7 2025.
+- [What attention heads matter for in-context learning](https://arxiv.org/pdf/2502.14010), Feb. 19 2025. [code](https://github.com/kayoyin/icl-heads).
 
 #### Sparse autoencoders, dictionary learning and beyond
 
