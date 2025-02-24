@@ -241,7 +241,13 @@
 
 ### LLM as a judge
 
+- [Judging llm-as-a-judge with mt-bench and chatbot](https://arxiv.org/abs/2306.05685), Jun. 9 2023.
+- [From generation to judgement: Opportunities and challenges of LLM-as-a-judge](https://arxiv.org/pdf/2411.16594), Nov. 2024.
+- [A survey on LLM-as-a-judge](https://arxiv.org/pdf/2411.15594), Nov. 2024.
+- [LLMs-as-judges: A comprehensive survey on llm-based evaluation methods](https://arxiv.org/pdf/2412.05579), Dec. 10 2024.
+- [Preference leakage: A contamination problem in LLM-as-a-judge](https://arxiv.org/pdf/2502.01534), Feb. 3 2025.
 - [Investigating non-transitivity in LLM-as-a-judge](https://arxiv.org/pdf/2502.14074), Feb. 19 2025.
+- [Crowd comparative reasoning: Unlocking comprehensive evaluation for LLM-as-a-judge](https://arxiv.org/pdf/2502.12501), Feb. 18 2025.
 
 ### Length generalization
 
