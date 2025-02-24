@@ -96,6 +96,9 @@
 - [InnerThoughts: Disentangling representations and predictions in large language models](https://arxiv.org/pdf/2501.17994), Jan. 29 2025.
 - [Paying attention to facts: Quantifying the knowledge capacity of attention layers](https://arxiv.org/pdf/2502.05076), Feb. 7 2025.
 - [What attention heads matter for in-context learning](https://arxiv.org/pdf/2502.14010), Feb. 19 2025. [code](https://github.com/kayoyin/icl-heads).
+- [How do LLMs perform two-hop reasoning in contest?](https://arxiv.org/pdf/2502.13913), Feb. 19 2025.
+  - _"while transformer-based large language models can make two-hop reasoning, they tend to collapse to random guessing when faced with distracting premises"_
+  - _"the training dynamics show two stages: a slow learning phase, where 3-layer transformer performs random guessing liek LLMs, followed by an abrupt phase transition, where the 3-layer transformer suddenly reaches 100% accuracy"_
 
 #### Sparse autoencoders, dictionary learning and beyond
 
