@@ -29,5 +29,8 @@
 - [Diversity-driven data selection for language model tuning through sparse autoencoder](https://arxiv.org/pdf/2502.14050), Feb. 19 2025.
   - [Position: Measure dataset diversity, don't just claim it](https://arxiv.org/pdf/2407.08188v1), Jul. 11 2024.
 - [Organize the web: Constructing domains enhances pre-training data curation](https://arxiv.org/pdf/2502.10341), Feb. 14 2025. [code](https://github.com/CodeCreator/WebOrganizer).
+- [Craw4LLM: Efficient web crawling for LLM pretraining](https://arxiv.org/pdf/2502.13347), Feb. 19 2025. [code](https://github.com/cxcscmu/Crawl4LLM).
+- [Shall your data strategy work? Perform a swift study](https://arxiv.org/pdf/2502.13514), Feb. 19 2025.
+- [Data-efficient pretraining with group-level data influence modeling](https://arxiv.org/pdf/2502.14709), Feb. 20 2025.
 
 
