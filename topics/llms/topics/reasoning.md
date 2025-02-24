@@ -76,5 +76,10 @@
 - [LLMs can easily learn to reason from demonstrations structure, not content, is what matters](https://arxiv.org/pdf/2502.07374), Feb. 11 2025. [code](https://arxiv.org/pdf/2502.07374).
 - [CODEI/O: Condensing reasoning patterns via code input-output Prediction](https://arxiv.org/pdf/2502.07316), Feb. 12 2025. [code](https://github.com/hkust-nlp/CodeIO).
 - [Diverse inference and verification for advanced reasoning](https://arxiv.org/pdf/2502.09955), Feb. 14 2025.
+- [Direct value optimization: Improving chain-of-thought reasoning in LLMs with refined values](https://arxiv.org/pdf/2502.13723), Feb. 19 2025.
+  - _"DVO utilizes value signals at individual reasoning steps, optimizing models via a mean square error loss"_
+  - _"target values within the DVO are estimated using either MCTS or an outcome value model"_
+- [Logic-RL: Unleashing LLM reasoning with rule-based reinforcement learning](https://arxiv.org/pdf/2502.14768), Feb. 20 2025.
+- [Measuring faithfulness of chains of thought by unlearning reasoning steps](https://arxiv.org/pdf/2502.14829), Feb. 20 2025. [code](https://github.com/technion-cs-nlp/parametric-faithfulness).
 
 
