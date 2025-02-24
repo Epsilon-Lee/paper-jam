@@ -81,5 +81,6 @@
   - _"target values within the DVO are estimated using either MCTS or an outcome value model"_
 - [Logic-RL: Unleashing LLM reasoning with rule-based reinforcement learning](https://arxiv.org/pdf/2502.14768), Feb. 20 2025.
 - [Measuring faithfulness of chains of thought by unlearning reasoning steps](https://arxiv.org/pdf/2502.14829), Feb. 20 2025. [code](https://github.com/technion-cs-nlp/parametric-faithfulness).
+- [Open-Reasoner-Zero](https://yasminezhang.notion.site/Open-Reasoner-Zero-19e12cf72d418007b9cdebf44b0e7903), Feb. 10 2025. [code](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero).
 
 
