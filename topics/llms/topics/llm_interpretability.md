@@ -101,6 +101,7 @@
   - _"the training dynamics show two stages: a slow learning phase, where 3-layer transformer performs random guessing liek LLMs, followed by an abrupt phase transition, where the 3-layer transformer suddenly reaches 100% accuracy"_
 - [SPEX: Scaling feature interaction explanations for LLMs](https://arxiv.org/pdf/2502.13870), Feb. 19 2025.
 - [Elucidating mechanisms of demographic bias in LLMs for healthcare](https://arxiv.org/pdf/2502.13319), Feb. 18 2025.
+- [Faithfulness measurable masked language models](https://arxiv.org/pdf/2310.07819), Aug. 27 2024. `ICML 2024`.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
