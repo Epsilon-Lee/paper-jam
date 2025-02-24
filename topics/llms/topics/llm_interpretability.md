@@ -99,6 +99,8 @@
 - [How do LLMs perform two-hop reasoning in contest?](https://arxiv.org/pdf/2502.13913), Feb. 19 2025.
   - _"while transformer-based large language models can make two-hop reasoning, they tend to collapse to random guessing when faced with distracting premises"_
   - _"the training dynamics show two stages: a slow learning phase, where 3-layer transformer performs random guessing liek LLMs, followed by an abrupt phase transition, where the 3-layer transformer suddenly reaches 100% accuracy"_
+- [SPEX: Scaling feature interaction explanations for LLMs](https://arxiv.org/pdf/2502.13870), Feb. 19 2025.
+- [Elucidating mechanisms of demographic bias in LLMs for healthcare](https://arxiv.org/pdf/2502.13319), Feb. 18 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
@@ -142,6 +144,7 @@
 - [SelfIE: Self-Interpretation of Large Language Model Embeddings](https://arxiv.org/pdf/2403.10949), Mar. 26 2024.
 - [Are self-explanations from Large Language Models faithful?](https://arxiv.org/pdf/2401.07927), May 16 2024.
 - [FaithLM: Towards Faithful Explanations for Large Language Models](https://arxiv.org/pdf/2402.04678), Jun. 26 2024. [code](https://github.com/KindXiaoming/physics_of_skill_learning).
+- [Language models can predict their own behavior](https://arxiv.org/pdf/2502.13329), Feb. 19 2025.
 
 #### Complexity theory of transformers and beyond
 
