@@ -238,6 +238,8 @@
 - [Large language diffusion models](https://arxiv.org/pdf/2502.09992), Feb. 14 2025. [code](https://github.com/ML-GSAI/LLaDA).
 - [Independence tests for language models](https://arxiv.org/pdf/2502.12292), Feb. 17 2025.
 - [From RAG to memory: Non-parametric continual learning for large language models](https://arxiv.org/pdf/2502.14802), Feb. 20 2025. [code](https://github.com/OSU-NLP-Group/HippoRAG).
+- [Towards an ai co-scientist](https://arxiv.org/pdf/2502.18864), Feb. 26 2025.
+- [An overview of large language models for statisticians](https://arxiv.org/pdf/2502.17814), Feb. 25 2025.
 
 ### LLM as a judge
 
