@@ -102,6 +102,8 @@
 - [SPEX: Scaling feature interaction explanations for LLMs](https://arxiv.org/pdf/2502.13870), Feb. 19 2025.
 - [Elucidating mechanisms of demographic bias in LLMs for healthcare](https://arxiv.org/pdf/2502.13319), Feb. 18 2025.
 - [Faithfulness measurable masked language models](https://arxiv.org/pdf/2310.07819), Aug. 27 2024. `ICML 2024`.
+- [A survey on mechanistic interpretability for multi-modal foundation models](https://arxiv.org/pdf/2502.17516), Feb. 22 2025.
+- [Taxonomy, opportunities, and challenges of representation engineering for large language models](https://arxiv.org/abs/2502.19649), Feb. 27 2025. [tweet](https://x.com/JanWehner436164/status/1895527239007268958).
 
 #### Sparse autoencoders, dictionary learning and beyond
 
