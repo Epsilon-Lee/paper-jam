@@ -155,6 +155,9 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Estimating the probability of sampling a trained neural network at random](https://arxiv.org/pdf/2501.18812), Jan. 31 2025.
 - [How to explain grokking](https://arxiv.org/pdf/2412.18624), Jan. 1 2025.
   - _"Explanation of grokking (delayed generalization) in learning is given by modeling grokking by the stochastic gradient Langevin dynamics (Brownian motion) and applying the ideas of thermodynamics."_
+- [The computational advantage of depth: Learning high-dimensional hierarchical functions with gradient descent](https://arxiv.org/pdf/2502.13961), Feb. 19 2025.
+- [Implicit bias of gradient descent for non-homogeneous deep networks](https://arxiv.org/pdf/2502.16075), Feb. 22 2025.
+- [Hi Robot: Open-ended instruction following with hierarchical vision-language-action models](https://arxiv.org/pdf/2502.19417), Feb. 26 2025.
 
 ### Contrastive learning
 
