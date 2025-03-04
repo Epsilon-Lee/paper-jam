@@ -4,6 +4,7 @@
 
 ### Interpretability
 
+- [Neuron to graph: Interpreting language model neurons at scale](https://arxiv.org/pdf/2305.19911), May 31 2023.
 - [Task-specific skill localization in fine-tuned language models](https://proceedings.mlr.press/v202/panigrahi23a/panigrahi23a.pdf), ICML 2023. [code](https://github.com/abhishekpanigrahi1996/Skill-Localization-by-grafting).
 - [Do large language models latently perform multi-hop reasoning?](https://arxiv.org/pdf/2402.16837), Feb. 26 2024.
 - [A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning](https://arxiv.org/pdf/2406.12255), Jun. 18 2024. `interpretability`.
@@ -95,7 +96,7 @@
 - [On mechanistic circuits for extractive question-answering](https://arxiv.org/pdf/2502.08059), Feb. 12 2025.
 - [InnerThoughts: Disentangling representations and predictions in large language models](https://arxiv.org/pdf/2501.17994), Jan. 29 2025.
 - [Paying attention to facts: Quantifying the knowledge capacity of attention layers](https://arxiv.org/pdf/2502.05076), Feb. 7 2025.
-- [What attention heads matter for in-context learning](https://arxiv.org/pdf/2502.14010), Feb. 19 2025. [code](https://github.com/kayoyin/icl-heads).
+- [Which attention heads matter for in-context learning](https://arxiv.org/pdf/2502.14010), Feb. 19 2025. [code](https://github.com/kayoyin/icl-heads).
 - [How do LLMs perform two-hop reasoning in contest?](https://arxiv.org/pdf/2502.13913), Feb. 19 2025.
   - _"while transformer-based large language models can make two-hop reasoning, they tend to collapse to random guessing when faced with distracting premises"_
   - _"the training dynamics show two stages: a slow learning phase, where 3-layer transformer performs random guessing liek LLMs, followed by an abrupt phase transition, where the 3-layer transformer suddenly reaches 100% accuracy"_
@@ -104,6 +105,7 @@
 - [Faithfulness measurable masked language models](https://arxiv.org/pdf/2310.07819), Aug. 27 2024. `ICML 2024`.
 - [A survey on mechanistic interpretability for multi-modal foundation models](https://arxiv.org/pdf/2502.17516), Feb. 22 2025.
 - [Taxonomy, opportunities, and challenges of representation engineering for large language models](https://arxiv.org/abs/2502.19649), Feb. 27 2025. [tweet](https://x.com/JanWehner436164/status/1895527239007268958).
+- [Improving neuron-level interpretability with white-box language models](https://arxiv.org/pdf/2410.16443), Feb. 27 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
