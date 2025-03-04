@@ -59,6 +59,7 @@
 
 #### Truthfulness, hallucination
 
+- [Belief in the machine: Investigating epistemological blind spots of language models](https://arxiv.org/pdf/2410.21195), Oct. 28 2024.
 - [Fine-tuning language models for factuality](https://arxiv.org/abs/2311.08401), Nov. 14 2023.
 - [Does fine-tuning LLMs on new knowledge encourage hallucinations?](https://arxiv.org/pdf/2405.05904), May 2024.
 - [Language models hallucinate, but may excel at fact verification](https://arxiv.org/abs/2310.14564), Oct. 23 2024.
