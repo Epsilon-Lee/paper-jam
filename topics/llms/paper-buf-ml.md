@@ -158,6 +158,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [The computational advantage of depth: Learning high-dimensional hierarchical functions with gradient descent](https://arxiv.org/pdf/2502.13961), Feb. 19 2025.
 - [Implicit bias of gradient descent for non-homogeneous deep networks](https://arxiv.org/pdf/2502.16075), Feb. 22 2025.
 - [Hi Robot: Open-ended instruction following with hierarchical vision-language-action models](https://arxiv.org/pdf/2502.19417), Feb. 26 2025.
+- [HOW DNNS BREAK THE CURSE OF DIMENSIONALITY: COMPOSITIONALITY AND SYMMETRY LEARNING](https://arxiv.org/pdf/2407.05664), Mar. 6 2025.
 
 ### Contrastive learning
 
