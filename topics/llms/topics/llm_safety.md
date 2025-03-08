@@ -16,6 +16,7 @@
 - [A closer look at system prompt robustness](https://arxiv.org/pdf/2502.12197), Feb. 15 2025. [code](https://github.com/normster/RealGuardrails).
 - [Monitoring computer use via hierarchical summarization](https://alignment.anthropic.com/2025/summarization-for-monitoring/), Feb. 27 2025.
 - [Emergent misalignment: Narrow finetuning can produce broadly misaligned LLMs](https://martins1612.github.io/emergent_misalignment_betley.pdf), Feb. 2025.
+- [Unnatural languages are not bugs but features for LLMs](https://arxiv.org/pdf/2503.01926), Mar. 2 2025. [code](https://github.com/John-AI-Lab/Unnatural_Language).
 
 #### Survey and definition
 
