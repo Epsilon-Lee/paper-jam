@@ -159,6 +159,8 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Implicit bias of gradient descent for non-homogeneous deep networks](https://arxiv.org/pdf/2502.16075), Feb. 22 2025.
 - [Hi Robot: Open-ended instruction following with hierarchical vision-language-action models](https://arxiv.org/pdf/2502.19417), Feb. 26 2025.
 - [HOW DNNS BREAK THE CURSE OF DIMENSIONALITY: COMPOSITIONALITY AND SYMMETRY LEARNING](https://arxiv.org/pdf/2407.05664), Mar. 6 2025.
+- [Deep Learning is Not So Mysterious or Different](https://arxiv.org/pdf/2503.02113), Mar. 3 2025.
+- [A Minimalist Example of Edge-of-Stability and Progressive Sharpening](https://arxiv.org/pdf/2503.02809), Mar. 4 2025.
 
 ### Contrastive learning
 
