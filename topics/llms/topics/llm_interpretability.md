@@ -106,6 +106,7 @@
 - [A survey on mechanistic interpretability for multi-modal foundation models](https://arxiv.org/pdf/2502.17516), Feb. 22 2025.
 - [Taxonomy, opportunities, and challenges of representation engineering for large language models](https://arxiv.org/abs/2502.19649), Feb. 27 2025. [tweet](https://x.com/JanWehner436164/status/1895527239007268958).
 - [Improving neuron-level interpretability with white-box language models](https://arxiv.org/pdf/2410.16443), Feb. 27 2025.
+- [(How) do language models track state?](https://arxiv.org/pdf/2503.02854), Mar. 4 2025. [code](https://github.com/belindal/state-tracking).
 
 #### Sparse autoencoders, dictionary learning and beyond
 
@@ -120,6 +121,7 @@
 - [Features that Make a Difference: Leveraging Gradients for Improved Dictionary Learning](https://arxiv.org/pdf/2411.10397), Nov. 15 2024.
 - [Transcoders beat sparse autoencoders for interpretability](https://arxiv.org/pdf/2501.18823), Jan. 31 2025.
 - [Mathematical models of computation in superposition](https://arxiv.org/pdf/2408.05451), Aug. 10 2024.
+- [Steering large language model activations in sparse spaces](https://arxiv.org/pdf/2503.00177), Feb. 28 2025.
 
 #### Probing
 
