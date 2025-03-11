@@ -241,6 +241,7 @@
 - [Towards an ai co-scientist](https://arxiv.org/pdf/2502.18864), Feb. 26 2025.
 - [An overview of large language models for statisticians](https://arxiv.org/pdf/2502.17814), Feb. 25 2025.
 - [Dataset Featurization: Uncovering Natural Language Features through Unsupervised Data Reconstruction](https://arxiv.org/pdf/2502.17541), Feb. 24 2025. [code](https://github.com/MichalBravansky/dataset-featurization).
+- [Build a Minimal Transformer from Scratch](https://www.k-a.in/llm3.html), `blogpost`.
 
 ### LLM as a judge
 
