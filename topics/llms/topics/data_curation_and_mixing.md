@@ -33,5 +33,6 @@
 - [Shall your data strategy work? Perform a swift study](https://arxiv.org/pdf/2502.13514), Feb. 19 2025.
 - [Data-efficient pretraining with group-level data influence modeling](https://arxiv.org/pdf/2502.14709), Feb. 20 2025.
 - [Large-scale data selection for instruction tuning](https://arxiv.org/pdf/2503.01807), Mar. 3 2025.
+- [Optimizing Pre-Training Data Mixtures with Mixtures of Data Expert Models](https://arxiv.org/pdf/2502.15950), Feb. 21 2025.
 
 
