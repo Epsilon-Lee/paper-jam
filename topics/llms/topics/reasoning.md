@@ -85,5 +85,8 @@
 - [Cognitive Behaviors that Enable Self-Improving Reasoners](https://arxiv.org/pdf/2503.01307), Mar. 3 2025. [code](https://github.com/kanishkg/cognitive-behaviors).
 - [Compositional Reasoning with Transformers, RNNs, and Chain of Thought](https://arxiv.org/pdf/2503.01544), Mar. 3 2025.
 - [The language of thought is not languages: Evidence from formal logical reasoning](https://alexanderdfung.github.io/assets/pdf/kean2024lotlang_extendedabstract.pdf), Mar. 2025.
+- [All Roads Lead to Likelihood: The Value of Reinforcement Learning in Fine-Tuning](https://arxiv.org/abs/2503.01067), Mar. 3 2025. [youtube](https://www.youtube.com/watch?v=E4b3cSirpsg).
+- [MALT: Improving Reasoning with Multi-Agent LLM Training](https://arxiv.org/pdf/2412.01928), Feb. 27 2025.
+- [The Interface Between Reinforcement Learning Theory and Language Model Post-Training](https://www.let-all.com/blog/2025/03/05/the-interface-between-reinforcement-learning-theory-and-language-model-post-training/), Mar. 5 2025.
 
 
