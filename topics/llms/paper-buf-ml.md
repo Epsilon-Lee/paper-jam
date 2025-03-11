@@ -161,6 +161,8 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [HOW DNNS BREAK THE CURSE OF DIMENSIONALITY: COMPOSITIONALITY AND SYMMETRY LEARNING](https://arxiv.org/pdf/2407.05664), Mar. 6 2025.
 - [Deep Learning is Not So Mysterious or Different](https://arxiv.org/pdf/2503.02113), Mar. 3 2025.
 - [A Minimalist Example of Edge-of-Stability and Progressive Sharpening](https://arxiv.org/pdf/2503.02809), Mar. 4 2025.
+- [Probabilistic Artificial Intelligence](https://arxiv.org/pdf/2502.05244), Feb. 2025. `book`.
+- [The Bayesian Learning Rule](https://jmlr.org/papers/volume24/22-0291/22-0291.pdf), `JMLR 2023`.
 
 ### Contrastive learning
 
