@@ -251,6 +251,7 @@
 - [Preference leakage: A contamination problem in LLM-as-a-judge](https://arxiv.org/pdf/2502.01534), Feb. 3 2025.
 - [Investigating non-transitivity in LLM-as-a-judge](https://arxiv.org/pdf/2502.14074), Feb. 19 2025.
 - [Crowd comparative reasoning: Unlocking comprehensive evaluation for LLM-as-a-judge](https://arxiv.org/pdf/2502.12501), Feb. 18 2025.
+- [LLM Juries for Evaluation](https://www.comet.com/site/blog/llm-juries-for-evaluation/), `blogpost`.
 
 ### Length generalization
 
@@ -261,6 +262,7 @@
 - [LongPO: Long context self-evolution of large language models through short-to-long preference optimization](https://www.arxiv.org/pdf/2502.13922), ICLR 2025. [tweet](https://x.com/gzchen3/status/1892870929966883236). [code](https://github.com/DAMO-NLP-SG/LongPO).
 - [How to train long-context language models (effectively)](https://arxiv.org/pdf/2410.02660), Oct. 3 2024.
 - [LIFT: Improving long context understanding of large language models through long input fine-tuning](https://arxiv.org/pdf/2502.14644), Feb. 2025.
+- [The Role of Sparsity for Length Generalization in Transformers](https://arxiv.org/pdf/2502.16792), Feb. 24 2025.
 
 ### In-context learning
 
@@ -285,6 +287,7 @@
 - [Task vectors in in-context learning: Emergence, formation, and benefits](https://arxiv.org/pdf/2501.09240), Jan. 16 2025.
 - [The Inherent Limits of Pretrained LLMs: The Unexpected Convergence of Instruction Tuning and In-Context Learning Capabilities](https://arxiv.org/pdf/2501.08716), Jan. 15 2025.
 - [Rapid word learning through meta in-context learning](https://arxiv.org/pdf/2502.14791), Feb. 20 2024.
+- [In-Context Learning with Long-Context Models: An In-Depth Exploration](https://arxiv.org/abs/2405.00200), Apr. 30 2024.
 
 ### Prompting techniques
 
