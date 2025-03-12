@@ -82,7 +82,8 @@
 - [Logic-RL: Unleashing LLM reasoning with rule-based reinforcement learning](https://arxiv.org/pdf/2502.14768), Feb. 20 2025.
 - [Measuring faithfulness of chains of thought by unlearning reasoning steps](https://arxiv.org/pdf/2502.14829), Feb. 20 2025. [code](https://github.com/technion-cs-nlp/parametric-faithfulness).
 - [Open-Reasoner-Zero](https://yasminezhang.notion.site/Open-Reasoner-Zero-19e12cf72d418007b9cdebf44b0e7903), Feb. 10 2025. [code](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero).
-- [Cognitive Behaviors that Enable Self-Improving Reasoners](https://arxiv.org/pdf/2503.01307), Mar. 3 2025. [code](https://github.com/kanishkg/cognitive-behaviors).
+- [Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs](https://arxiv.org/pdf/2503.01307), Mar. 3 2025. [code](https://github.com/kanishkg/cognitive-behaviors).
+  - [Do reasoning models use their scratchpad like we do? Evidence from distilling paraphrases](https://alignment.anthropic.com/2025/distill-paraphrases/), blogpost by Anthropic.
 - [Compositional Reasoning with Transformers, RNNs, and Chain of Thought](https://arxiv.org/pdf/2503.01544), Mar. 3 2025.
 - [The language of thought is not languages: Evidence from formal logical reasoning](https://alexanderdfung.github.io/assets/pdf/kean2024lotlang_extendedabstract.pdf), Mar. 2025.
 - [All Roads Lead to Likelihood: The Value of Reinforcement Learning in Fine-Tuning](https://arxiv.org/abs/2503.01067), Mar. 3 2025. [youtube](https://www.youtube.com/watch?v=E4b3cSirpsg).
