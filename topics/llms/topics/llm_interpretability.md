@@ -122,6 +122,7 @@
 - [Transcoders beat sparse autoencoders for interpretability](https://arxiv.org/pdf/2501.18823), Jan. 31 2025.
 - [Mathematical models of computation in superposition](https://arxiv.org/pdf/2408.05451), Aug. 10 2024.
 - [Steering large language model activations in sparse spaces](https://arxiv.org/pdf/2503.00177), Feb. 28 2025.
+- [A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models](https://arxiv.org/pdf/2503.05613), Mar. 7 2025.
 
 #### Probing
 
