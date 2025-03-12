@@ -17,6 +17,10 @@
 - [Monitoring computer use via hierarchical summarization](https://alignment.anthropic.com/2025/summarization-for-monitoring/), Feb. 27 2025.
 - [Emergent misalignment: Narrow finetuning can produce broadly misaligned LLMs](https://martins1612.github.io/emergent_misalignment_betley.pdf), Feb. 2025.
 - [Unnatural languages are not bugs but features for LLMs](https://arxiv.org/pdf/2503.01926), Mar. 2 2025. [code](https://github.com/John-AI-Lab/Unnatural_Language).
+- [Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation](https://cdn.openai.com/pdf/34f2ada6-870f-4c26-9790-fd8def56387f/CoT_Monitoring.pdf), Mar. 10 2025. `openai`. [blogpost](https://openai.com/index/chain-of-thought-monitoring/).
+- [How we think about safety and alignment](https://openai.com/safety/how-we-think-about-safety-alignment/), Mar. 2025. `openai`.
+- [AGI Ruin: A List of Lethalities](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities), Mar. 2025. `lesswrong`.
+- [Improving LLM Safety Alignment with Dual-Objective Optimization](https://arxiv.org/pdf/2503.03710), Mar. 5 2025. [code](https://github.com/wicai24/DOOR-Alignment).
 
 #### Survey and definition
 
@@ -31,6 +35,7 @@
 
 - [How alignment and jailbreak work: Explain llm safety through intermediate hidden states](https://arxiv.org/pdf/2406.05644), Jun. 13 2024.
 - [Obfuscated activations: Bypass LLM latent-space defense](https://arxiv.org/abs/2412.09565), [code](https://github.com/LukeBailey181/obfuscated-activations).
+- [Obfuscated Activations Bypass LLM Latent-Space Defenses](https://arxiv.org/pdf/2412.09565), Dec. 2024. [code](https://github.com/LukeBailey181/obfuscated-activations).
 
 #### How to break?
 
