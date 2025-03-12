@@ -37,6 +37,10 @@
 - [Obfuscated activations: Bypass LLM latent-space defense](https://arxiv.org/abs/2412.09565), [code](https://github.com/LukeBailey181/obfuscated-activations).
 - [Obfuscated Activations Bypass LLM Latent-Space Defenses](https://arxiv.org/pdf/2412.09565), Dec. 2024. [code](https://github.com/LukeBailey181/obfuscated-activations).
 
+##### Data-centric view
+
+- [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs](https://arxiv.org/abs/2502.17424v4), Feb. 24 2025.
+
 #### How to break?
 
 - [Ignore previous prompt: Attach techniques for language models](https://arxiv.org/abs/2211.09527), Nov. 17 2022.
