@@ -89,5 +89,6 @@
 - [All Roads Lead to Likelihood: The Value of Reinforcement Learning in Fine-Tuning](https://arxiv.org/abs/2503.01067), Mar. 3 2025. [youtube](https://www.youtube.com/watch?v=E4b3cSirpsg).
 - [MALT: Improving Reasoning with Multi-Agent LLM Training](https://arxiv.org/pdf/2412.01928), Feb. 27 2025.
 - [The Interface Between Reinforcement Learning Theory and Language Model Post-Training](https://www.let-all.com/blog/2025/03/05/the-interface-between-reinforcement-learning-theory-and-language-model-post-training/), Mar. 5 2025.
+- [What do learning dynamics reveal about generalization in LLM reasoning?](https://arxiv.org/pdf/2411.07681), Nov. 18 2024. [code](https://github.com/katiekang1998/reasoning_generalization).
 
 
