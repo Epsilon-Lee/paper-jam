@@ -289,6 +289,7 @@
 - [The Inherent Limits of Pretrained LLMs: The Unexpected Convergence of Instruction Tuning and In-Context Learning Capabilities](https://arxiv.org/pdf/2501.08716), Jan. 15 2025.
 - [Rapid word learning through meta in-context learning](https://arxiv.org/pdf/2502.14791), Feb. 20 2024.
 - [In-Context Learning with Long-Context Models: An In-Depth Exploration](https://arxiv.org/abs/2405.00200), Apr. 30 2024.
+- [Strategy coopetition explains the emergence and transience of in-context learning](https://arxiv.org/pdf/2503.05631), Mar. 7 2025. [code](https://github.com/aadityasingh/icl-dynamics).
 
 ### Prompting techniques
 
