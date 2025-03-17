@@ -164,6 +164,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Probabilistic Artificial Intelligence](https://arxiv.org/pdf/2502.05244), Feb. 2025. `book`.
 - [The Bayesian Learning Rule](https://jmlr.org/papers/volume24/22-0291/22-0291.pdf), `JMLR 2023`.
 - [An analytical model for overparameterized learning under class imbalance](https://arxiv.org/pdf/2503.05289), Mar. 7 2025.
+- [Dynamical decoupling of generalization and overfitting in large two-layer networks](https://arxiv.org/pdf/2502.21269), Feb. 28 2025.
 
 ### Contrastive learning
 
