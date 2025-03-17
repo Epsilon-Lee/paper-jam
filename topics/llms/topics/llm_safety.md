@@ -21,6 +21,9 @@
 - [How we think about safety and alignment](https://openai.com/safety/how-we-think-about-safety-alignment/), Mar. 2025. `openai`.
 - [AGI Ruin: A List of Lethalities](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities), Mar. 2025. `lesswrong`.
 - [Improving LLM Safety Alignment with Dual-Objective Optimization](https://arxiv.org/pdf/2503.03710), Mar. 5 2025. [code](https://github.com/wicai24/DOOR-Alignment).
+- [DarkBench: Benchmarking dark patterns in large language models](https://arxiv.org/pdf/2503.10728), Mar. 13 2025.
+- [The case for ensuring that powerful AIs are controlled](https://redwoodresearch.substack.com/p/the-case-for-ensuring-that-powerful), May 2024.
+- [AI control: Improving safety despite intentional subversion](https://arxiv.org/abs/2312.06942), Dev. 12 2023.
 
 #### Survey and definition
 
