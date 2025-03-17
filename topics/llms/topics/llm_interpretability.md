@@ -107,6 +107,8 @@
 - [Taxonomy, opportunities, and challenges of representation engineering for large language models](https://arxiv.org/abs/2502.19649), Feb. 27 2025. [tweet](https://x.com/JanWehner436164/status/1895527239007268958).
 - [Improving neuron-level interpretability with white-box language models](https://arxiv.org/pdf/2410.16443), Feb. 27 2025.
 - [(How) do language models track state?](https://arxiv.org/pdf/2503.02854), Mar. 4 2025. [code](https://github.com/belindal/state-tracking).
+- [Are formal and functional linguistic mechanisims dissociated in language models?](https://arxiv.org/pdf/2503.11302), Mar. 14 2025.
+- [High-dimensional interlingual representations of large language models](https://arxiv.org/pdf/2503.11280), Mar. 14 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
@@ -153,6 +155,7 @@
 - [Are self-explanations from Large Language Models faithful?](https://arxiv.org/pdf/2401.07927), May 16 2024.
 - [FaithLM: Towards Faithful Explanations for Large Language Models](https://arxiv.org/pdf/2402.04678), Jun. 26 2024. [code](https://github.com/KindXiaoming/physics_of_skill_learning).
 - [Language models can predict their own behavior](https://arxiv.org/pdf/2502.13329), Feb. 19 2025.
+- [HyperDAS: Towards automatic mechanistic interpretability with hypernetworks](https://arxiv.org/pdf/2503.10894), Mar. 13 2025.
 
 #### Complexity theory of transformers and beyond
 
