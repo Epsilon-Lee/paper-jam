@@ -28,6 +28,7 @@
 - [Auditing language models for hidden objectives](https://arxiv.org/pdf/2503.10965), Mar. 14 2025.
 - [Commitments by providers of general-purpose AI models with systemic risk: Safety and security section](https://code-of-practice.ai/?section=summary), Mar. 11 2025.
 - [AGI Ruin: A List of Lethalities](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities), Jun. 6 2022.
+- [ASIDE: Architectural seperation of instructions and data in language models](https://arxiv.org/pdf/2503.10566), Mar. 13 2025.
 
 #### Survey and definition
 
