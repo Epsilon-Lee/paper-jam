@@ -191,6 +191,7 @@
 - [Fundamental limits of learning in sequence multi-index models and deep attention networks: High-dimensional asymptotics and sharp thresholds](https://arxiv.org/pdf/2502.00901), Feb. 2 2025.
 - [A unified perspective on the dynamics of deep transformers](https://arxiv.org/pdf/2501.18322), Jan. 30 2025.
 - [Fundamental limits of learning in sequence multi-index models and deep attention neteworks: High-dimensional asymptotics and sharp thresholds](https://arxiv.org/pdf/2502.00901), Feb. 2 2025.
+- [When do transformers outperform feedforward and recurrent networks? A statistical perspective](https://arxiv.org/pdf/2503.11272), Mar. 14 2025.
 
 #### Theory of pre-training
 
