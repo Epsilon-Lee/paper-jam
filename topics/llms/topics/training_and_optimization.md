@@ -14,6 +14,7 @@
 - [Methods of improving LLM training stability](https://arxiv.org/pdf/2410.16682v1), Oct. 22 2024.
 - [Optimizing large language model training using fp4 quanitzation](https://arxiv.org/abs/2501.17116), Jan. 28 2025.
 - [The surprising agreement between convex optimization theory and learning-rate scheduling for large model training](https://arxiv.org/abs/2501.18965), Jan. 31 2025.
+- [A review of deepseek models' key innovative techniques](https://arxiv.org/pdf/2503.11486), Mar. 14 2025.
 
 ### Pre-training
 
@@ -129,6 +130,9 @@
 - [Model Alignment as Prospect Theoretic Optimization](https://openreview.net/pdf?id=iUwHnoENnl), ICML 2024.
 - [It Takes Two: On the Seamlessness between Reward and Policy Model in RLHF](https://arxiv.org/abs/2406.07971), Jul. 24 2024.
 - [The energy loss phenomenon in rlhf: A new perspective on mitigating reward hacking](https://arxiv.org/pdf/2501.19358), Jan. 31 2025.
+- [Statistical impossibility and possibility of alignment LLMs with human preferences: From Condorcet paradomx to Nash equilibrium](https://arxiv.org/pdf/2503.10990), Mar. 14 2025.
+  - _"with a focus on the probabilistic representation of human preferences and the preservation of diverse preferences in aligned LLMs"_
+  - _"prove that this condition holds with high probability under the probabilistic preference model, thereby highlighting the statistical possibiity of preserving minority preferences without explicit regularization in aligning LLMs"_
 
 ### Post-training for bert
 
