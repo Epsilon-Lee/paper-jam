@@ -26,6 +26,8 @@
 - [AI control: Improving safety despite intentional subversion](https://arxiv.org/abs/2312.06942), Dev. 12 2023.
 - [Attacking multimodal OS agents with malicious image patches](https://arxiv.org/pdf/2503.10809), Mar. 13 2025.
 - [Auditing language models for hidden objectives](https://arxiv.org/pdf/2503.10965), Mar. 14 2025.
+- [Commitments by providers of general-purpose AI models with systemic risk: Safety and security section](https://code-of-practice.ai/?section=summary), Mar. 11 2025.
+- [AGI Ruin: A List of Lethalities](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities), Jun. 6 2022.
 
 #### Survey and definition
 
