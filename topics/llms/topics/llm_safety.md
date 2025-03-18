@@ -24,6 +24,8 @@
 - [DarkBench: Benchmarking dark patterns in large language models](https://arxiv.org/pdf/2503.10728), Mar. 13 2025.
 - [The case for ensuring that powerful AIs are controlled](https://redwoodresearch.substack.com/p/the-case-for-ensuring-that-powerful), May 2024.
 - [AI control: Improving safety despite intentional subversion](https://arxiv.org/abs/2312.06942), Dev. 12 2023.
+- [Attacking multimodal OS agents with malicious image patches](https://arxiv.org/pdf/2503.10809), Mar. 13 2025.
+- [Auditing language models for hidden objectives](https://arxiv.org/pdf/2503.10965), Mar. 14 2025.
 
 #### Survey and definition
 
