@@ -133,6 +133,7 @@
 - [Statistical impossibility and possibility of alignment LLMs with human preferences: From Condorcet paradomx to Nash equilibrium](https://arxiv.org/pdf/2503.10990), Mar. 14 2025.
   - _"with a focus on the probabilistic representation of human preferences and the preservation of diverse preferences in aligned LLMs"_
   - _"prove that this condition holds with high probability under the probabilistic preference model, thereby highlighting the statistical possibiity of preserving minority preferences without explicit regularization in aligning LLMs"_
+- [A survey of direct preference optimization](https://arxiv.org/pdf/2503.11701), Mar. 12 2025.
 
 ### Post-training for bert
 
