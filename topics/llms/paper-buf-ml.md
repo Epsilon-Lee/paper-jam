@@ -168,6 +168,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Model lakes](https://lakes.baulab.info/), 2025.
 - [Counterfactual realizability](https://arxiv.org/pdf/2503.11870), Mar. 14 2025.
 - [E-values expand the scope of conformal prediction](https://arxiv.org/pdf/2503.13050), Mar. 18 2025.
+- [Sparse autoencoder as a zero-shot classifier for concept erasing in text-to-image diffusion models](https://arxiv.org/pdf/2503.09446), Mar. 18 2025.
 
 ### Contrastive learning
 
