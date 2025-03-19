@@ -242,6 +242,7 @@
 - [An overview of large language models for statisticians](https://arxiv.org/pdf/2502.17814), Feb. 25 2025.
 - [Dataset Featurization: Uncovering Natural Language Features through Unsupervised Data Reconstruction](https://arxiv.org/pdf/2502.17541), Feb. 24 2025. [code](https://github.com/MichalBravansky/dataset-featurization).
 - [Build a Minimal Transformer from Scratch](https://www.k-a.in/llm3.html), `blogpost`.
+- [SuperBPE: Space travel for language models](https://arxiv.org/pdf/2503.13423), Mar. 17 2025. [code](https://superbpe.github.io/).
 
 ### LLM as a judge
 
@@ -290,6 +291,8 @@
 - [Rapid word learning through meta in-context learning](https://arxiv.org/pdf/2502.14791), Feb. 20 2024.
 - [In-Context Learning with Long-Context Models: An In-Depth Exploration](https://arxiv.org/abs/2405.00200), Apr. 30 2024.
 - [Strategy coopetition explains the emergence and transience of in-context learning](https://arxiv.org/pdf/2503.05631), Mar. 7 2025. [code](https://github.com/aadityasingh/icl-dynamics).
+- [In-context linear regression demystified: Training dynamics and mechanistic interpretability of multi-head softmax attention](https://arxiv.org/pdf/2503.12734), Mar. 17 2025.
+- [Test-time training provably improves transformers as in-context learners](https://arxiv.org/pdf/2503.11842), Mar. 14 2025.
 
 ### Prompting techniques
 
