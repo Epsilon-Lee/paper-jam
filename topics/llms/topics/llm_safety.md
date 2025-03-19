@@ -66,6 +66,7 @@
 - [Jailbreaking LLM's safeguard with universal magic words for text embedding models](https://arxiv.org/pdf/2501.18280), Jan. 30 2025.
 - [FlipAttack: Jailbreak llms via flipping](https://arxiv.org/pdf/2410.02832), Oct. 2 2024.
 - [Speak Easy: Eliciting harmful jailbreaks from LLMs with simple interactions](https://arxiv.org/pdf/2502.04322), Feb. 6 2025.
+- [Stronger universal and transferable attacks by suppressing refusals](https://people.eecs.berkeley.edu/~daw/papers/iris-naacl25.pdf), `naacl2025`.
 
 #### How to defense
 
