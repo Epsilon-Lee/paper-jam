@@ -265,6 +265,7 @@
 - [How to train long-context language models (effectively)](https://arxiv.org/pdf/2410.02660), Oct. 3 2024.
 - [LIFT: Improving long context understanding of large language models through long input fine-tuning](https://arxiv.org/pdf/2502.14644), Feb. 2025.
 - [The Role of Sparsity for Length Generalization in Transformers](https://arxiv.org/pdf/2502.16792), Feb. 24 2025.
+- [A survey on transformer context extension: Approaches and evaluation](https://arxiv.org/pdf/2503.13299), Mar. 17 2025.
 
 ### In-context learning
 
