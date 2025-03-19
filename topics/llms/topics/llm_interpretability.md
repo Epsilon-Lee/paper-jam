@@ -126,6 +126,7 @@
 - [Mathematical models of computation in superposition](https://arxiv.org/pdf/2408.05451), Aug. 10 2024.
 - [Steering large language model activations in sparse spaces](https://arxiv.org/pdf/2503.00177), Feb. 28 2025.
 - [A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models](https://arxiv.org/pdf/2503.05613), Mar. 7 2025.
+- [Sparse autoencoder as a zero-shot classifier for concept erasing in text-to-image diffusion models](https://arxiv.org/pdf/2503.09446), Mar. 18 2025.
 
 #### Probing
 
