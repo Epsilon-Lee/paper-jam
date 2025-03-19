@@ -109,6 +109,7 @@
 - [(How) do language models track state?](https://arxiv.org/pdf/2503.02854), Mar. 4 2025. [code](https://github.com/belindal/state-tracking).
 - [Are formal and functional linguistic mechanisims dissociated in language models?](https://arxiv.org/pdf/2503.11302), Mar. 14 2025.
 - [High-dimensional interlingual representations of large language models](https://arxiv.org/pdf/2503.11280), Mar. 14 2025.
+- [TinySQL: A progressive text-to-sql dataset for mechanistic interpretability research](https://arxiv.org/pdf/2503.12730), Mar. 17 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
