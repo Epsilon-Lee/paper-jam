@@ -29,6 +29,7 @@
 - [Commitments by providers of general-purpose AI models with systemic risk: Safety and security section](https://code-of-practice.ai/?section=summary), Mar. 11 2025.
 - [AGI Ruin: A List of Lethalities](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities), Jun. 6 2022.
 - [ASIDE: Architectural seperation of instructions and data in language models](https://arxiv.org/pdf/2503.10566), Mar. 13 2025.
+- [Aligned probing: Relating toxic behavior and model internals](https://arxiv.org/pdf/2503.13390), Mar. 17 2025. [code](https://github.com/alignedprobing/aligned-probing).
 
 #### Survey and definition
 
