@@ -167,6 +167,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Dynamical decoupling of generalization and overfitting in large two-layer networks](https://arxiv.org/pdf/2502.21269), Feb. 28 2025.
 - [Model lakes](https://lakes.baulab.info/), 2025.
 - [Counterfactual realizability](https://arxiv.org/pdf/2503.11870), Mar. 14 2025.
+- [E-values expand the scope of conformal prediction](https://arxiv.org/pdf/2503.13050), Mar. 18 2025.
 
 ### Contrastive learning
 
