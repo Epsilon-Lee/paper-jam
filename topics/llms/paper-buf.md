@@ -323,6 +323,7 @@
 - [Evaluating Generative AI Systems is a Social Science Measurement Challenge](https://arxiv.org/pdf/2411.10939), Nov. 7 2024.
 - [Causality can systematically address the monsters under the bench(marks)](https://arxiv.org/pdf/2502.05085), Feb. 7 2025.
 - [How contaminated is your benchmark? Quantifying dataset leakage in large language models with kernel divergence](https://arxiv.org/pdf/2502.00678), Feb. 2 2025.
+- [EvalTree: Profiling language model weakness via hierarchical capability trees](https://arxiv.org/pdf/2503.08893), Mar. 11 2025. [code](https://github.com/Zhiyuan-Zeng/EvalTree).
 
 #### Data contamination
 
