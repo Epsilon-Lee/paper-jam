@@ -68,6 +68,10 @@
 - [Bitune: Bidirectional Instruction-Tuning](https://arxiv.org/pdf/2405.14862), May 23 2024.
 - [RE-Adapt: Reverse Engineered Adaptationof Large Language Models](https://arxiv.org/pdf/2405.15007), May 23 2024.
 - [Mixture-of-Subspaces in Low-Rank Adaptation](https://arxiv.org/pdf/2406.11909), Jun. 16 2024. `alignment`.
+- [Does instruction tuning reduce diversity? A case study using code generation](https://openreview.net/pdf?id=40uDwtrbd3), submitted to ICLR 2025.
+- [Demystifying Instruction Mixing for Fine-tuning Large Language Models](https://aclanthology.org/2024.acl-srw.15.pdf), ACL 2024. [code](https://github.com/Reason-Wang/InstructLLM).
+- [Instruction pretraining: Language models are supervised multitask learners](https://arxiv.org/pdf/2406.14491), Nov. 28 2024.
+- [Predicting emergent capabilitiew by finetuning](https://arxiv.org/pdf/2411.16035), Nov. 25 2024.
 
 ### Alignment, preference alignment, reward models
 
