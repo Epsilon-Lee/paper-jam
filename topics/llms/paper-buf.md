@@ -243,6 +243,7 @@
 - [Dataset Featurization: Uncovering Natural Language Features through Unsupervised Data Reconstruction](https://arxiv.org/pdf/2502.17541), Feb. 24 2025. [code](https://github.com/MichalBravansky/dataset-featurization).
 - [Build a Minimal Transformer from Scratch](https://www.k-a.in/llm3.html), `blogpost`.
 - [SuperBPE: Space travel for language models](https://arxiv.org/pdf/2503.13423), Mar. 17 2025. [code](https://superbpe.github.io/).
+- [LLMs can generate a better answer by aggregating their own responses](https://arxiv.org/pdf/2503.04104), Mar. 6 2025.
 
 ### LLM as a judge
 
