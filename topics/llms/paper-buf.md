@@ -13,6 +13,7 @@
 - [Reasoning](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/reasoning.md).
 - [Data curation and mixing](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/data_curation_and_mixing.md).
 - [Tech. reports](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/tech_reports.md).
+- [Agent](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/agent.md).
 
 ### Buffered papers
 
