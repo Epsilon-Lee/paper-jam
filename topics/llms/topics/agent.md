@@ -28,6 +28,11 @@
 [Magentic-One: A generalist multi-agent system for solving complex tasks](https://arxiv.org/pdf/2411.04468), Nov. 7 2024. [blogpost](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/).
 - [Trace is the Next AutoDiff: Generative Optimization with Rich Feedback, Execution Traces, and LLMs](https://arxiv.org/pdf/2406.16218), Nov. 1 2024. [code](https://microsoft.github.io/Trace/).
 - [Towards human-guided, data-centric LLM co-pilots](https://arxiv.org/pdf/2501.10321), Jan. 17 2025. `data science`.
+- [When should we orchestrate multiple agents?](https://arxiv.org/pdf/2503.13577), Mar. 17 2025.
+  - _"We show theoretically that orchestration is only effective if there are performance or cost differentials between agents"_
+- [Don't lie to your friends: Learning what you know from collaborative self-play](https://arxiv.org/abs/2503.14481), Mar. 18 2025.
+- [Why do multi-agent llm systems fail?](https://arxiv.org/abs/2503.13657), Mar. 17 2025. [code](https://github.com/multi-agent-systems-failure-taxonomy/MASFT).
+  - The paper proposes three main failure modes of LLM-based MASs, namely, Poor Specification, Inter-Agent Misalignment and Task Verification, aka MASFT (Multi Agent System Failure Taxonomy).
 
 #### Open-endedness
 
