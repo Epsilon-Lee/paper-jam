@@ -28,8 +28,6 @@
 - [Learning Beyond Pattern Matching? Assaying Mathematical Understanding in LLMs](https://arxiv.org/pdf/2405.15485), May 24 2024. `reasoning`.
 - [Towards Understanding How Transformer Perform Multi-step Reasoning with Matching Operation](https://arxiv.org/pdf/2405.15302), May 24 2024. `reasoning`.
 - [From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step](https://arxiv.org/pdf/2405.14838), May 23 2024. `reasoning`.
-- [Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models](https://arxiv.org/pdf/2405.15143), May 24 2024. `reasoning` `agent`.
-- [From Words to Actions: Unveiling the Theoretical Underpinnings of LLM-Driven Autonomous Systems](https://arxiv.org/pdf/2405.19883), May 30 2024. `agent`.
 - [Kernel Language Entropy: Fine-grained Uncertainty Quantification for LLMs from Semantic Similarities](https://arxiv.org/pdf/2405.20003), May 30 2024. `uncertainty`.
 - [A Language Model's Guide Through Latent Space](https://arxiv.org/pdf/2402.14433), Feb. 22 2024.
 - [Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models](https://proceedings.mlr.press/v202/liu23ao/liu23ao.pdf), ICML 2023.
@@ -45,7 +43,6 @@
 - [miniCodeProps: a Minimal Benchmark for Proving Code Properties](https://arxiv.org/pdf/2406.11915), Jun. 16 2024. `coding` `benchmark`.
 - [What Did I Do Wrong? Quantifying LLMs’ Sensitivity and Consistency to Prompt Engineering](https://arxiv.org/pdf/2406.12334), Jun. 18 2024. `prompt engineering`.
 - [QOG:Question and Options Generation based on Language Model](https://arxiv.org/pdf/2406.12381), Jun. 18 2024. `data synthesis`.
-- [CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society](https://arxiv.org/pdf/2303.17760), Nov. 2 2023. `multi-agent`.
 - [Dataverse: Open-Source ETL (Extract, Transform, Load) Pipeline for Large Language Models](https://arxiv.org/pdf/2403.19340), Mar. 28 2024. `data pipeline`.
 - [Can language model explain their own classification behavior?](https://arxiv.org/pdf/2405.07436), May 13 2024.
 - [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221), Jul. 11 2022.
@@ -180,7 +177,6 @@
 - [Language Models as Causal Effect Generators](https://arxiv.org/pdf/2411.08019), Nov. 12 2024. [code](https://github.com/lbynum/sequence-driven-scms).
 - [On the limits of language generation: Trade-offs between hallucination and mode collapse](https://arxiv.org/pdf/2411.09642), Nov. 14 2024.
 - [SEQ-VCR: Preventing collapse in intermediate transformer representations for enhanced reasoning](https://arxiv.org/pdf/2411.02344), Nov. 4 2024. [code](https://github.com/rarefin/seq_vcr).
-- [Generative Agent Simulations of 1,000 People](https://arxiv.org/pdf/2411.10109), Nov. 2024.
 - [Does Prompt Formatting Have Any Impact on LLM Performance?](https://arxiv.org/pdf/2411.10541), Nov. 15 2024.
 - [Efficient Alignment of Large Language Models via Data Sampling](https://arxiv.org/pdf/2411.10545), Nov. 15 2024.
 - [Language-to-Code Translation with a Single Labeled Example](https://aclanthology.org/2024.emnlp-main.462.pdf), 2024.
@@ -219,13 +215,11 @@
 - [Economics of sourcing human data](https://arxiv.org/pdf/2502.07732), Feb. 11 2025.
 - [Auditing prompt caching in language model APIs](https://arxiv.org/pdf/2502.07776), Feb. 11 2025.
 - [Turning up the heat: Min-p sampling for creative and coherent LLM outputs](https://arxiv.org/pdf/2407.01082), Oct. 13 2024.
-- [Preventing rogue agents improves multi-agent collaboration](https://arxiv.org/abs/2502.05986), Feb. 9 2025.
 - [Automated capability discovery via foundation model self-exploration](https://arxiv.org/pdf/2502.07577), Feb. 11 2025.
   - [Quality-diversity through AI feedback](https://openreview.net/pdf?id=owokKCrGYr), ICLR 2024.
 - [The hyperfitting phenomenon: Sharpening and stabilizing LLMs for open-ended text generation](https://arxiv.org/pdf/2412.04318), Dec. 5 2024.
 - [SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models](https://arxiv.org/pdf/2502.09604), Feb. 13 2025.
 - [Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs](https://arxiv.org/pdf/2502.08640), Feb. 12 2025.
-- [Rethinking mixture-of-agents: Is mixing different large language models beneficial](https://arxiv.org/pdf/2502.00674), Feb. 2 2025.
 - [Rewind-to-Delete: Certified machine unlearning for nonconvex functions](https://arxiv.org/pdf/2409.09778), Jan. 31 2025.
   - Related theoretic works on machine unlearning
     - [Remember What You Want to Forget: Algorithms for Machine Unlearning](https://arxiv.org/abs/2103.03279), 2021.
@@ -346,7 +340,6 @@
 - [Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risk of Language Models](https://arxiv.org/pdf/2408.08926), Aug. 15 2024.
 - [Benchmarking Large Language Models for Math Reasoning Tasks](https://arxiv.org/pdf/2408.10839), Aug. 20 2024.
 - [Easy2Hard-Bench: Standardized Difficulty Labels for Profiling LLM Performance and Generalization](https://arxiv.org/pdf/2409.18433), Sep. 27 2024.
-- [MLE-Bench: Evaluating machine learning agents on machine learning engineering](https://arxiv.org/pdf/2410.07095), Oct. 9 2024. `openai`.
 - [HARDMath: A benchmark dataset for challenging problems in applied mathematics](https://arxiv.org/pdf/2410.09988), Oct. 13 2024.
 - [SuperGPQA: Scaling LLM evaluation across 285 graduate disciplines](https://arxiv.org/pdf/2502.14739), Feb. 20 2025.
 
@@ -355,37 +348,6 @@
 - [Foundation Model Evaluations Library](https://github.com/aws/fmeval), [paper](https://arxiv.org/pdf/2407.12872), Jul. 15 2024.
 - [UltraEval](https://github.com/OpenBMB/UltraEval).
 - [simple-evals](https://github.com/openai/simple-evals), OpenAI simple-evals.
-
-### Agent
-
-- [Agentic Workflow新范式，基于大语言模型的工作流、业务流程、智能体大融合【附十篇相关论文】](https://mp.weixin.qq.com/s/i9QB_OtUboHnoZOKn-oKmA), Aug. 5 2024.
-- [Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/pdf/2406.04692), Jun. 7 2024. `agent`.
-- [TextGrad: Automatic "Differentiation" via Text](https://arxiv.org/abs/2406.07496), Jun. 11 2024. `agent`.
-- [Internet of agents: Weaving a web of heterogeneous agents for collaborative intelligence](https://arxiv.org/pdf/2407.07061), Jul. 10 2024.
-- [On the Design and Analysis of LLM-Based Algorithms](https://arxiv.org/pdf/2407.14788), Jul. 20 2024.
-- [Recursive Introspection: Teaching Language Model Agents How to Self-Improve](https://arxiv.org/pdf/2407.18219), Jul. 25 2024.
-- [ReDel: A Toolkit for LLM-Powered Recursive Multi-Agent Systems](https://arxiv.org/pdf/2408.02248), Aug. 5 2024.
-- [ChatDev: Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924), Jun. 5 2024.
-- [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/pdf/2407.16741), Jul. 23 2024.
-- [RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation](https://arxiv.org/pdf/2408.02545), Aug. 5 2024. [code](https://github.com/IntelLabs/RAGFoundry).
-- [Automated Design of Agentic Systems](https://arxiv.org/pdf/2408.08435), Aug. 15 2024. [code](https://github.com/ShengranHu/ADAS).
-- [Agent Workflow Memory](https://arxiv.org/pdf/2409.07429), Sep. 11 2024.
-- [xLAM: A Family of Large Action Models to Empower AI Agent Systems](https://arxiv.org/pdf/2409.03215), Sep. 5 2024.
-- [The Impact of Element Ordering on LM Agent Performance](https://arxiv.org/pdf/2409.12089), Sep. 19 2024.
-- [MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation](https://arxiv.org/pdf/2310.03302), Apr. 14 2024.
-- [AgentScope: A Flexible yet Robust Multi-Agent Platform](https://arxiv.org/pdf/2402.14034), May 20 2024. [github](https://github.com/modelscope/agentscope).
-- [TextGrad: Automatic “Differentiation” via Text](https://arxiv.org/pdf/2406.07496), Jun. 11 2024. [github](https://github.com/zou-group/textgrad).
-- [AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762), Oct. 14 2024.
-- [AFlow: Automatic agentic workflow generation](https://arxiv.org/pdf/2410.10762), Oct. 14 2024. [code](https://github.com/geekan/MetaGPT).
-- [Agent skill acquisition for large language models via CycleQD](https://arxiv.org/pdf/2410.14735), Nov. 27 2024. [code](https://github.com/SakanaAI/CycleQD).
-- [Commit0: Library generation from scratch](https://arxiv.org/pdf/2412.01769), Dec. 2 2024.
- [code](https://github.com/commit-0/commit0).
-[Magentic-One: A generalist multi-agent system for solving complex tasks](https://arxiv.org/pdf/2411.04468), Nov. 7 2024. [blogpost](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/).
-- [Trace is the Next AutoDiff: Generative Optimization with Rich Feedback, Execution Traces, and LLMs](https://arxiv.org/pdf/2406.16218), Nov. 1 2024. [code](https://microsoft.github.io/Trace/).
-- [Towards human-guided, data-centric LLM co-pilots](https://arxiv.org/pdf/2501.10321), Jan. 17 2025. `data science`.
-- [UI-TARS: Pioneering automated GUI interaction with native agents](https://arxiv.org/abs/2501.12326), Jan. 21 2025. [code](https://github.com/bytedance/UI-TARS?tab=readme-ov-file).
-- [browser-use](https://github.com/browser-use/browser-use), Make websites accessible for AI agents.
-- [OmniParser for pure vision based GUI agent](https://arxiv.org/abs/2408.00203), Aug. 1 2024.
 
 ### Multi-modality
 
