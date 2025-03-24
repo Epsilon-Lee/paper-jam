@@ -33,6 +33,7 @@
 - [Don't lie to your friends: Learning what you know from collaborative self-play](https://arxiv.org/abs/2503.14481), Mar. 18 2025.
 - [Why do multi-agent llm systems fail?](https://arxiv.org/abs/2503.13657), Mar. 17 2025. [code](https://github.com/multi-agent-systems-failure-taxonomy/MASFT).
   - The paper proposes three main failure modes of LLM-based MASs, namely, Poor Specification, Inter-Agent Misalignment and Task Verification, aka MASFT (Multi Agent System Failure Taxonomy).
+- [Survey on evaluation of LLM-based agents](https://arxiv.org/pdf/2503.16416), Mar. 20 2025.
 
 #### Open-endedness
 
