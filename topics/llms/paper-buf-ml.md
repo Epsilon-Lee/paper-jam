@@ -169,6 +169,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Counterfactual realizability](https://arxiv.org/pdf/2503.11870), Mar. 14 2025.
 - [E-values expand the scope of conformal prediction](https://arxiv.org/pdf/2503.13050), Mar. 18 2025.
 - [Transformers without normalization](https://arxiv.org/pdf/2503.10622), Mar. 13 2025. [code](https://github.com/jiachenzhu/DyT).
+- [Survey on generalization theory for graph neural networks](https://arxiv.org/pdf/2503.15650), Mar. 19 2025.
 
 ### Contrastive learning
 
