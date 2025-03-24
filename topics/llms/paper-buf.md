@@ -239,6 +239,7 @@
 - [Build a Minimal Transformer from Scratch](https://www.k-a.in/llm3.html), `blogpost`.
 - [SuperBPE: Space travel for language models](https://arxiv.org/pdf/2503.13423), Mar. 17 2025. [code](https://superbpe.github.io/).
 - [LLMs can generate a better answer by aggregating their own responses](https://arxiv.org/pdf/2503.04104), Mar. 6 2025.
+- [Empirical privacy variance](https://arxiv.org/pdf/2503.12314), Mar. 26 2025.
 
 ### LLM as a judge
 
@@ -250,6 +251,7 @@
 - [Investigating non-transitivity in LLM-as-a-judge](https://arxiv.org/pdf/2502.14074), Feb. 19 2025.
 - [Crowd comparative reasoning: Unlocking comprehensive evaluation for LLM-as-a-judge](https://arxiv.org/pdf/2502.12501), Feb. 18 2025.
 - [LLM Juries for Evaluation](https://www.comet.com/site/blog/llm-juries-for-evaluation/), `blogpost`.
+- [Does context matter? ContextJudgeBench for evaluating LLM-based judges in contextual settings](), Mar. 19 2025. [code](https://github.com/SalesforceAIResearch/ContextualJudgeBench).
 
 ### Length generalization
 
@@ -290,6 +292,7 @@
 - [Strategy coopetition explains the emergence and transience of in-context learning](https://arxiv.org/pdf/2503.05631), Mar. 7 2025. [code](https://github.com/aadityasingh/icl-dynamics).
 - [In-context linear regression demystified: Training dynamics and mechanistic interpretability of multi-head softmax attention](https://arxiv.org/pdf/2503.12734), Mar. 17 2025.
 - [Test-time training provably improves transformers as in-context learners](https://arxiv.org/pdf/2503.11842), Mar. 14 2025.
+- [Understanding the generalization of in-context learning in transformers: An empirical study](https://arxiv.org/pdf/2503.15579), Mar. 19 2025.
 
 ### Prompting techniques
 
@@ -320,12 +323,14 @@
 - [Causality can systematically address the monsters under the bench(marks)](https://arxiv.org/pdf/2502.05085), Feb. 7 2025.
 - [How contaminated is your benchmark? Quantifying dataset leakage in large language models with kernel divergence](https://arxiv.org/pdf/2502.00678), Feb. 2 2025.
 - [EvalTree: Profiling language model weakness via hierarchical capability trees](https://arxiv.org/pdf/2503.08893), Mar. 11 2025. [code](https://github.com/Zhiyuan-Zeng/EvalTree).
+- [Reliable and efficient amortized model-based evaluation](https://arxiv.org/pdf/2503.13335), Mar. 17 2025.
 
 #### Data contamination
 
 - [Unveiling the Spectrum of Data Contamination in Language Models: A Survey from Detection to Remediation](https://arxiv.org/pdf/2406.14644), Jun. 20 2024.
 - [Accuracy is not all you need](https://arxiv.org/pdf/2407.09141), Jul. 12 2024.
   - The paper dubs synthetic data from LLMs as generative teaching.
+- [The emperor's new clothes in benchmarking? A rigorous examination of mitigation strategies for LLM benchmark data contamination](https://arxiv.org/pdf/2503.16402), Mar. 20 2025. [code](https://github.com/ASTRAL-Group/BDC_mitigation_assessment).
 
 #### Benchmark
 
