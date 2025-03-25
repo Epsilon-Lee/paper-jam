@@ -240,6 +240,7 @@
 - [SuperBPE: Space travel for language models](https://arxiv.org/pdf/2503.13423), Mar. 17 2025. [code](https://superbpe.github.io/).
 - [LLMs can generate a better answer by aggregating their own responses](https://arxiv.org/pdf/2503.04104), Mar. 6 2025.
 - [Empirical privacy variance](https://arxiv.org/pdf/2503.12314), Mar. 26 2025.
+- [Decision tree induction through LLMs via semantically-aware evolution](https://arxiv.org/pdf/2503.14217), Mar. 18 2025.
 
 ### LLM as a judge
 
@@ -252,6 +253,7 @@
 - [Crowd comparative reasoning: Unlocking comprehensive evaluation for LLM-as-a-judge](https://arxiv.org/pdf/2502.12501), Feb. 18 2025.
 - [LLM Juries for Evaluation](https://www.comet.com/site/blog/llm-juries-for-evaluation/), `blogpost`.
 - [Does context matter? ContextJudgeBench for evaluating LLM-based judges in contextual settings](), Mar. 19 2025. [code](https://github.com/SalesforceAIResearch/ContextualJudgeBench).
+- [Fantastic LLMs for preference data annotation and how to (not) find them](https://arxiv.org/pdf/2411.02481v1), Nov. 4 2024.
 
 ### Length generalization
 
