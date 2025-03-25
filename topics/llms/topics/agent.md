@@ -35,6 +35,7 @@
   - The paper proposes three main failure modes of LLM-based MASs, namely, Poor Specification, Inter-Agent Misalignment and Task Verification, aka MASFT (Multi Agent System Failure Taxonomy).
 - [Survey on evaluation of LLM-based agents](https://arxiv.org/pdf/2503.16416), Mar. 20 2025.
 - [SWEET-RL: Training multi=turn LLM agents on collaborative reasoning tasks](https://arxiv.org/pdf/2503.15478), Mar. 19 2025. [code](https://github.com/facebookresearch/sweet_rl).
+- [Predicting multi-agent specialization via task parallelizability](https://arxiv.org/pdf/2503.15703), Mar. 19 2025.
 
 #### Open-endedness
 
