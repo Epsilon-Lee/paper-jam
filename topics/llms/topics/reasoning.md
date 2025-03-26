@@ -44,6 +44,7 @@
 - [Free process rewards without process labels](https://arxiv.org/pdf/2412.01981), Dec. 2 2024. [code](https://github.com/PRIME-RL/ImplicitPRM).
 - [PRIME](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f), [code](https://github.com/PRIME-RL/PRIME).
 - [Reinforcing Thinking through Reasoning-Enhanced Reward Models](https://arxiv.org/pdf/2501.01457), Dec. 31 2024. `self-critique`. [code](https://github.com/dyang39/DRR).
+- [Improve mathematical reasoning in language models by automated process supervision](https://arxiv.org/pdf/2406.06592), Dec. 11 2024.
 - [GPT as Monte Carlo language tree: A probabilistic perspective](https://arxiv.org/pdf/2501.07641), Jan. 13 2025.
 - [DeepSeek-R1: Incentivizing reasoning capability in LLMs via reinforcement learning](https://arxiv.org/pdf/2501.12948), Jan. 22 2025.
 - [Step-KTO: Optimizing mathematical reasoning through stepwise binary feedback](https://arxiv.org/pdf/2501.10799), Jan. 18 2025.
@@ -92,5 +93,6 @@
 - [What do learning dynamics reveal about generalization in LLM reasoning?](https://arxiv.org/pdf/2411.07681), Nov. 18 2024. [code](https://github.com/katiekang1998/reasoning_generalization).
 - [A theory of learning with autoregressive chain-of-thought](https://arxiv.org/pdf/2503.07932), Mar. 11 2025.
 - [MetaScale: Test-time scaling with evolving meta-thoughts](https://arxiv.org/pdf/2503.13447), Mar. 17 2025.
+- [TAO: Using test-time compute to train efficient LLMs without labeled data](https://www.databricks.com/blog/tao-using-test-time-compute-train-efficient-llms-without-labeled-data), Mar. 25 2025.
 
 
