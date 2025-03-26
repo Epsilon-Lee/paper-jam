@@ -32,6 +32,7 @@
 - [Aligned probing: Relating toxic behavior and model internals](https://arxiv.org/pdf/2503.13390), Mar. 17 2025. [code](https://github.com/alignedprobing/aligned-probing).
 - [H4RM3L: A language for composable jailbreak attack systems](https://arxiv.org/pdf/2408.04811), Mar. 16 2025. [code](https://github.com/mdoumbouya/h4rm3l/).
 - [Learning on LLM output signatures for gray-box LLM behavior analysis](https://arxiv.org/pdf/2503.14043), Mar. 18 2025. [code](https://github.com/BarSGuy/LLM-Output-Signatures-Network).
+- [Defeating prompt injections by design](https://arxiv.org/pdf/2503.18813), Mar. 24 2025.
 
 #### Survey and definition
 
