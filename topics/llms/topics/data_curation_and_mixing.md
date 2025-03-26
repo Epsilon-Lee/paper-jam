@@ -36,5 +36,7 @@
 - [Optimizing Pre-Training Data Mixtures with Mixtures of Data Expert Models](https://arxiv.org/pdf/2502.15950), Feb. 21 2025.
 - [Data caricatures: On the representation of African American language in pretraining corpora](https://arxiv.org/pdf/2503.10789), Mar. 13 2025.
 - [Navigating rifts in human-LLM grounding: Study and benchmark](https://arxiv.org/pdf/2503.13975), Mar. 18 2025. `dataset analysis`.
+- [Optimizing ml training with metagradient descent](https://arxiv.org/pdf/2503.13751), Mar. 17 2025. `data selection`.
+  - compared with LESS by Mengzhou. 
 
 
