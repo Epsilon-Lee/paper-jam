@@ -138,6 +138,7 @@
   - _"with a focus on the probabilistic representation of human preferences and the preservation of diverse preferences in aligned LLMs"_
   - _"prove that this condition holds with high probability under the probabilistic preference model, thereby highlighting the statistical possibiity of preserving minority preferences without explicit regularization in aligning LLMs"_
 - [A survey of direct preference optimization](https://arxiv.org/pdf/2503.11701), Mar. 12 2025.
+- [Spread preference annotation: Direct preference judgement for efficient LLM alignment](https://arxiv.org/pdf/2406.04412), Mar. 4 2025.
 
 ### Post-training for bert
 
