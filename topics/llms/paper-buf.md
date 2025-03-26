@@ -245,6 +245,7 @@
   - _"Modelling human variation in rating tasks is crucial for enabling AI systems for personalization, pluralistic model alignment, and computational social science."_
   - _"We propose representing individuals using value profiles - natural language descriptions of underlying values compressed from in-context demonstrations - alogn with a steerable decoder model to estiamte ratings conditioned on a value profile or other rater information."_
   - This value profiles remind me of constitutions, though constitutions mean common principles that guides majority of people and value profile are principles guiding individual behavior.
+- [Cost-efficient collaboration between on-device and cloud language models](https://openreview.net/pdf?id=uRPdQAaWBG), ICLR 2025 workshop.
 
 ### LLM as a judge
 
@@ -258,6 +259,7 @@
 - [LLM Juries for Evaluation](https://www.comet.com/site/blog/llm-juries-for-evaluation/), `blogpost`.
 - [Does context matter? ContextJudgeBench for evaluating LLM-based judges in contextual settings](), Mar. 19 2025. [code](https://github.com/SalesforceAIResearch/ContextualJudgeBench).
 - [Fantastic LLMs for preference data annotation and how to (not) find them](https://arxiv.org/pdf/2411.02481v1), Nov. 4 2024.
+- [Replacing judges with juries: Evaluting LLM generations with a penel of diverse models](https://arxiv.org/abs/2404.18796), Apr. 29 2024.
 
 ### Length generalization
 
