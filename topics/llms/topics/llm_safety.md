@@ -33,13 +33,14 @@
 - [H4RM3L: A language for composable jailbreak attack systems](https://arxiv.org/pdf/2408.04811), Mar. 16 2025. [code](https://github.com/mdoumbouya/h4rm3l/).
 - [Learning on LLM output signatures for gray-box LLM behavior analysis](https://arxiv.org/pdf/2503.14043), Mar. 18 2025. [code](https://github.com/BarSGuy/LLM-Output-Signatures-Network).
 - [Defeating prompt injections by design](https://arxiv.org/pdf/2503.18813), Mar. 24 2025.
+- [Automated researchers can subtly sandbag](https://alignment.anthropic.com/2025/automated-researchers-sandbag/), Mar. 24 2025.
 
 #### Survey and definition
 
 - [A survey of safety and trustworthiness of large language models through the lens of verification and validation](https://arxiv.org/pdf/2305.11391), Aug. 27 2023.
 - [A survey on large language model security and privacy: The good, the bad and the ugly](https://arxiv.org/pdf/2312.02003), Mar. 20 2024.
 - [Trustworthy LLMs: A survey and guideline for evaluating large language models' alignment](https://openreview.net/pdf?id=oss9uaPFfB), ICLR 2024.
-- [Safety at scale: A comprehensive survey of large model safety](https://arxiv.org/pdf/2502.05206), Feb. 2 2025. 
+- [Safety at scale: A comprehensive survey of large model safety](https://arxiv.org/pdf/2502.05206), Feb. 2 2025.
 
 #### Science of llm safety
 
