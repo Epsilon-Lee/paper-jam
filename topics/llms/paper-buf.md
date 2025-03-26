@@ -241,6 +241,10 @@
 - [LLMs can generate a better answer by aggregating their own responses](https://arxiv.org/pdf/2503.04104), Mar. 6 2025.
 - [Empirical privacy variance](https://arxiv.org/pdf/2503.12314), Mar. 26 2025.
 - [Decision tree induction through LLMs via semantically-aware evolution](https://arxiv.org/pdf/2503.14217), Mar. 18 2025.
+- [Value profiles for encoding human variation](https://arxiv.org/pdf/2503.15484), Mar. 19 2025.
+  - _"Modelling human variation in rating tasks is crucial for enabling AI systems for personalization, pluralistic model alignment, and computational social science."_
+  - _"We propose representing individuals using value profiles - natural language descriptions of underlying values compressed from in-context demonstrations - alogn with a steerable decoder model to estiamte ratings conditioned on a value profile or other rater information."_
+  - This value profiles remind me of constitutions, though constitutions mean common principles that guides majority of people and value profile are principles guiding individual behavior.
 
 ### LLM as a judge
 
