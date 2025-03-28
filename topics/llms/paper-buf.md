@@ -246,6 +246,7 @@
   - _"We propose representing individuals using value profiles - natural language descriptions of underlying values compressed from in-context demonstrations - alogn with a steerable decoder model to estiamte ratings conditioned on a value profile or other rater information."_
   - This value profiles remind me of constitutions, though constitutions mean common principles that guides majority of people and value profile are principles guiding individual behavior.
 - [Cost-efficient collaboration between on-device and cloud language models](https://openreview.net/pdf?id=uRPdQAaWBG), ICLR 2025 workshop.
+- [A theoretical framework for prompt engineering: Approximating smooth functions with transformer prompts](https://arxiv.org/pdf/2503.20561), Mar. 26 2025.
 
 ### LLM as a judge
 
