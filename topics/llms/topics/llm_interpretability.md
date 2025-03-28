@@ -129,6 +129,7 @@
 - [Steering large language model activations in sparse spaces](https://arxiv.org/pdf/2503.00177), Feb. 28 2025.
 - [A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models](https://arxiv.org/pdf/2503.05613), Mar. 7 2025.
 - [Sparse autoencoder as a zero-shot classifier for concept erasing in text-to-image diffusion models](https://arxiv.org/pdf/2503.09446), Mar. 18 2025.
+- [Negative results for SAEs on downstream tasks and deprioritising SAE research](https://www.alignmentforum.org/posts/4uXCAJNuPKtKBsi28/negative-results-for-saes-on-downstream-tasks), Mar. 27 2025. [Revolutionary paradigms](https://plato.stanford.edu/entries/incommensurability/#RevoParaThomKuhnInco).
 
 #### Probing
 
