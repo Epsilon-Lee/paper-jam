@@ -110,6 +110,8 @@
 - [Are formal and functional linguistic mechanisims dissociated in language models?](https://arxiv.org/pdf/2503.11302), Mar. 14 2025.
 - [High-dimensional interlingual representations of large language models](https://arxiv.org/pdf/2503.11280), Mar. 14 2025.
 - [TinySQL: A progressive text-to-sql dataset for mechanistic interpretability research](https://arxiv.org/pdf/2503.12730), Mar. 17 2025.
+- [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model), Mar. 27 2025.
+- [Bridging the human-ai knowledge gap: Concept discovery and transfer in AlphaZero](https://arxiv.org/pdf/2310.16410), Oct. 25 2023.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
