@@ -34,6 +34,7 @@
 - [Learning on LLM output signatures for gray-box LLM behavior analysis](https://arxiv.org/pdf/2503.14043), Mar. 18 2025. [code](https://github.com/BarSGuy/LLM-Output-Signatures-Network).
 - [Defeating prompt injections by design](https://arxiv.org/pdf/2503.18813), Mar. 24 2025.
 - [Automated researchers can subtly sandbag](https://alignment.anthropic.com/2025/automated-researchers-sandbag/), Mar. 24 2025.
+- [Language models may verbatim complete text they were not explicitly trained on](https://arxiv.org/pdf/2503.17514), Mar. 25 2025.
 
 #### Survey and definition
 
