@@ -97,6 +97,7 @@ Continual Pre-training](https://arxiv.org/pdf/2411.14318), Nov. 21 2024.
 Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [Understanding the limits of lifelong knowledge editing in LLMs](https://arxiv.org/pdf/2503.05683), Mar. 7 2025. [code](https://anonymous.4open.science/r/WikiBigEdit-70F1/README.md).
 - [Taming knowledge conflicts in language models](https://arxiv.org/pdf/2503.10996), Mar. 14 2025. [code](https://github.com/GaotangLi/JUICE).
+- [How do language models learn facts? Dynamics, curricula and hallucinations](https://arxiv.org/pdf/2503.21676), Mar. 27 2025.
 
 #### RAG and knowledge graph
 
