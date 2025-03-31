@@ -39,7 +39,12 @@
 
 #### Open-endedness
 
+- [Hypothesis generation with large language models](https://arxiv.org/pdf/2404.04326v1), Apr. 5 2024.
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/pdf/2408.06292?), Sep. 1 2024.
+- [AutoKaggle: A multi-agent framework for autonomous data science competitions](https://arxiv.org/pdf/2410.20424v1), Oct. 27 2024.
+- [Large language models orchestrating structured reasoning achieve kaggle grandmaster level](https://arxiv.org/pdf/2411.03562), Nov. 5 2024.
+- [Towards an AI co-scientist](https://arxiv.org/abs/2502.18864), Feb. 26 2025.
+- [Re-evaluating open-ended evaluation of large language models](https://arxiv.org/pdf/2502.20170), Feb. 27 2025.
 
 #### Code agent
 
