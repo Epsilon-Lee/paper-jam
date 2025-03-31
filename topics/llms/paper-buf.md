@@ -333,6 +333,7 @@
 - [How contaminated is your benchmark? Quantifying dataset leakage in large language models with kernel divergence](https://arxiv.org/pdf/2502.00678), Feb. 2 2025.
 - [EvalTree: Profiling language model weakness via hierarchical capability trees](https://arxiv.org/pdf/2503.08893), Mar. 11 2025. [code](https://github.com/Zhiyuan-Zeng/EvalTree).
 - [Reliable and efficient amortized model-based evaluation](https://arxiv.org/pdf/2503.13335), Mar. 17 2025.
+- [In-house evaluation is not enough: Towards robust third-party flaw disclosure for general-purpose AI](https://arxiv.org/pdf/2503.16861), Mar. 25 2025.
 
 #### Data contamination
 
