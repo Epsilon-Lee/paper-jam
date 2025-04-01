@@ -36,6 +36,7 @@
 - [Automated researchers can subtly sandbag](https://alignment.anthropic.com/2025/automated-researchers-sandbag/), Mar. 24 2025.
 - [Language models may verbatim complete text they were not explicitly trained on](https://arxiv.org/pdf/2503.17514), Mar. 25 2025.
 - [The backfiring effect of weak AI safety regulation](https://arxiv.org/pdf/2503.20848), Mar. 26 2025.
+- [What are they filtering out? A survey of filtering strategies for harm reduction in pretraining datasets](https://arxiv.org/pdf/2503.05721), Feb. 17 2025.
 
 #### Survey and definition
 
@@ -73,6 +74,7 @@
 - [FlipAttack: Jailbreak llms via flipping](https://arxiv.org/pdf/2410.02832), Oct. 2 2024.
 - [Speak Easy: Eliciting harmful jailbreaks from LLMs with simple interactions](https://arxiv.org/pdf/2502.04322), Feb. 6 2025.
 - [Stronger universal and transferable attacks by suppressing refusals](https://people.eecs.berkeley.edu/~daw/papers/iris-naacl25.pdf), `naacl2025`.
+- [Using mechanistic interpretability to craft adversarial attacks against large language models](https://arxiv.org/pdf/2503.06269), Mar. 2025.
 
 #### How to defense
 
