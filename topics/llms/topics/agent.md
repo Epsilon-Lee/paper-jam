@@ -36,6 +36,7 @@
 - [Survey on evaluation of LLM-based agents](https://arxiv.org/pdf/2503.16416), Mar. 20 2025.
 - [SWEET-RL: Training multi=turn LLM agents on collaborative reasoning tasks](https://arxiv.org/pdf/2503.15478), Mar. 19 2025. [code](https://github.com/facebookresearch/sweet_rl).
 - [Predicting multi-agent specialization via task parallelizability](https://arxiv.org/pdf/2503.15703), Mar. 19 2025.
+- [MALT: Improving reasoning with multi-agent LLM training](https://arxiv.org/pdf/2412.01928), Feb. 27 2025.
 
 #### Open-endedness
 
