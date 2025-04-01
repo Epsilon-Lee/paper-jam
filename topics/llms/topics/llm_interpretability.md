@@ -112,6 +112,7 @@
 - [TinySQL: A progressive text-to-sql dataset for mechanistic interpretability research](https://arxiv.org/pdf/2503.12730), Mar. 17 2025.
 - [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model), Mar. 27 2025.
 - [Bridging the human-ai knowledge gap: Concept discovery and transfer in AlphaZero](https://arxiv.org/pdf/2310.16410), Oct. 25 2023.
+- [Sensing and steering stereotypes: Extracting and applying gender representation vectors in LLMs](https://arxiv.org/pdf/2502.19721), Feb. 27 2925. [code](https://github.com/hannahxchen/gender-bias-steering).
 
 #### Sparse autoencoders, dictionary learning and beyond
 
@@ -130,6 +131,10 @@
 - [A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models](https://arxiv.org/pdf/2503.05613), Mar. 7 2025.
 - [Sparse autoencoder as a zero-shot classifier for concept erasing in text-to-image diffusion models](https://arxiv.org/pdf/2503.09446), Mar. 18 2025.
 - [Negative results for SAEs on downstream tasks and deprioritising SAE research](https://www.alignmentforum.org/posts/4uXCAJNuPKtKBsi28/negative-results-for-saes-on-downstream-tasks), Mar. 27 2025. [Revolutionary paradigms](https://plato.stanford.edu/entries/incommensurability/#RevoParaThomKuhnInco).
+- [Implicit geometry of next-token prediction: From language sparsity patterns to model representations](https://arxiv.org/pdf/2408.15417), Feb. 19 2025. [code](https://github.com/YizeZhao/Implicit_Geometry_of_NTP).
+- [Jacobian sparse autoencoders: Sparsify computations, not just activations](https://arxiv.org/pdf/2502.18147), Feb. 25 2025. [code](https://github.com/lucyfarnik/jacobian-saes).
+- [Between circuits and Chomsky: Pre-training on formal languages imparts linguistic biases](https://arxiv.org/abs/2502.19249), Feb. 26 2025.
+- [Injecting structural hints: Using language models to study inductive biases in language learning](https://aclanthology.org/2023.findings-emnlp.563.pdf), EMNLP 2023.
 
 #### Probing
 
@@ -151,7 +156,7 @@
 - [Understanding factual recall in Transformers via associative memories](https://arxiv.org/pdf/2412.06538v1), Dec. 9 2024.
 - [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/pdf/2407.15017), Dec. 24 2024.
 - [Interpretability in parameter space: Minimizing mechanistic description length with attribution-based parameter decomposition](https://arxiv.org/pdf/2501.14926), Jan. 29 2025. [code](https://github.com/ApolloResearch/apd).
-- [Position-aware automatic circuit discovery](https://arxiv.org/pdf/2502.04577), Feb. 7 2025.
+- [Position-aware automatic circuit discovery](https://arxiv.org/pdf/2502.04577), Feb. 7 2025. [code](https://github.com/technion-cs-nlp/PEAP).
 
 #### Auto-intepretation
 
