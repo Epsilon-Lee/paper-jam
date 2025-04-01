@@ -303,6 +303,8 @@
 - [In-context linear regression demystified: Training dynamics and mechanistic interpretability of multi-head softmax attention](https://arxiv.org/pdf/2503.12734), Mar. 17 2025.
 - [Test-time training provably improves transformers as in-context learners](https://arxiv.org/pdf/2503.11842), Mar. 14 2025.
 - [Understanding the generalization of in-context learning in transformers: An empirical study](https://arxiv.org/pdf/2503.15579), Mar. 19 2025.
+- [Distinct computations emerge from compositional curricula in in-context learning](https://openreview.net/pdf?id=oo5TNikeJl), ICLR 2025.
+  - [Curriculum effects and compositionality emerge with in-context learning in neural networks](https://arxiv.org/abs/2402.08674), Feb. 13 2024.
 
 ### Prompting techniques
 
