@@ -94,5 +94,6 @@
 - [A theory of learning with autoregressive chain-of-thought](https://arxiv.org/pdf/2503.07932), Mar. 11 2025.
 - [MetaScale: Test-time scaling with evolving meta-thoughts](https://arxiv.org/pdf/2503.13447), Mar. 17 2025.
 - [TAO: Using test-time compute to train efficient LLMs without labeled data](https://www.databricks.com/blog/tao-using-test-time-compute-train-efficient-llms-without-labeled-data), Mar. 25 2025.
+- [PENCIL: Long thoughts with short memory](https://openreview.net/pdf?id=KRI2Fmffqr), ICLR 2025.
 
 
