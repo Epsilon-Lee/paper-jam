@@ -172,6 +172,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Survey on generalization theory for graph neural networks](https://arxiv.org/pdf/2503.15650), Mar. 19 2025.
 - [Learning decision trees as amortized structured inference](https://arxiv.org/pdf/2503.06985), Mar. 10 2025. [code](https://arxiv.org/pdf/2503.06985).
 - [Generalizing to any diverse distribution: Uniformity & rebalancing](https://openreview.net/pdf?id=R83LOnUmbg), ICLR 2025.
+- [Graph neural networks extrapolate out-of-distribution for shortest paaths](https://arxiv.org/abs/2503.19173), Mar. 24 2025.
 
 ### Contrastive learning
 
