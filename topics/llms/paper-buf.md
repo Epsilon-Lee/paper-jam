@@ -262,6 +262,7 @@
 - [Does context matter? ContextJudgeBench for evaluating LLM-based judges in contextual settings](), Mar. 19 2025. [code](https://github.com/SalesforceAIResearch/ContextualJudgeBench).
 - [Fantastic LLMs for preference data annotation and how to (not) find them](https://arxiv.org/pdf/2411.02481v1), Nov. 4 2024.
 - [Replacing judges with juries: Evaluting LLM generations with a penel of diverse models](https://arxiv.org/abs/2404.18796), Apr. 29 2024.
+- [Training language models to win debates with self-play improves judge accuracy](https://arxiv.org/pdf/2409.16636v1), Sep. 25 2024. [code](https://github.com/samuelarnesen/nyu-debate-modeling).
 
 ### Length generalization
 
