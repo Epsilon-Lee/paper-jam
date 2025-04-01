@@ -145,6 +145,7 @@
   - _"prove that this condition holds with high probability under the probabilistic preference model, thereby highlighting the statistical possibiity of preserving minority preferences without explicit regularization in aligning LLMs"_
 - [A survey of direct preference optimization](https://arxiv.org/pdf/2503.11701), Mar. 12 2025.
 - [Spread preference annotation: Direct preference judgement for efficient LLM alignment](https://arxiv.org/pdf/2406.04412), Mar. 4 2025.
+- [On a connection between imitation learning and rlhf](https://arxiv.org/pdf/2503.05079), Mar. 7 2025. [code](https://github.com/tengxiao1/DIL).
 
 ### Post-training for bert
 
