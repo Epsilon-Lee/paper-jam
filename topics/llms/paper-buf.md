@@ -251,6 +251,17 @@
 
 ### LLM as a judge
 
+- [Fine-tuning language models to find agreement among humans with diverse preferences](https://openreview.net/pdf?id=G5ADoRKiTyJ), NeurIPS 2022.
+- [The goldilocks of pragmatic understanding: Fine-tuning strategy matters for implicature resolution by LLMs](https://proceedings.neurips.cc/paper_files/paper/2023/file/4241fec6e94221526b0a9b24828bb774-Paper-Conference.pdf), NeurIPS 2023.
+- [Training language models to win debates with self-play improves judge accuracy](https://arxiv.org/pdf/2409.16636), Sep. 2024.
+- [Melting Pot Context: Charting the future of generalized cooperative intelligence](https://proceedings.neurips.cc/paper_files/paper/2024/file/1d3ea22480873b389a3365d711eb1e91-Paper-Datasets_and_Benchmarks_Track.pdf), NeurIPS 2024.
+- [Improving factuality and reasoning in language models through multiagent debate](https://openreview.net/pdf?id=zj7YuTE4t8), ICML 2024. [code](https://composable-models.github.io/llm_debate/).
+- [Cooperation, competition, and maliciousness: LLM-stakeholders interactive negotiation](https://proceedings.neurips.cc/paper_files/paper/2024/file/984dd3db213db2d1454a163b65b84d08-Paper-Datasets_and_Benchmarks_Track.pdf), NeurIPS 2024.
+- [How well can LLMs negotiate? NegotiationAreana platform and analysis](https://arxiv.org/abs/2402.05863), Feb. 8 2024.
+- [LLM-deliberation: Evaluating LLMs with interactive multi-agent negotiation game](https://openreview.net/forum?id=cfL8zApofK), ICLR 2024.
+- [Large language model agents can coordinate beyond human scale](https://arxiv.org/pdf/2409.02822), Dec. 22 2024.
+- [How susceptible are LLMs to influence in prompts](https://arxiv.org/pdf/2408.11865), Aug. 17 2024.
+- [Multi-agent consensus seeking via large language models](https://arxiv.org/pdf/2310.20151), Jan. 21 2025.
 - [Judging llm-as-a-judge with mt-bench and chatbot](https://arxiv.org/abs/2306.05685), Jun. 9 2023.
 - [From generation to judgement: Opportunities and challenges of LLM-as-a-judge](https://arxiv.org/pdf/2411.16594), Nov. 2024.
 - [A survey on LLM-as-a-judge](https://arxiv.org/pdf/2411.15594), Nov. 2024.
@@ -265,6 +276,8 @@
 - [Training language models to win debates with self-play improves judge accuracy](https://arxiv.org/pdf/2409.16636v1), Sep. 25 2024. [code](https://github.com/samuelarnesen/nyu-debate-modeling).
 - [Limits to scalable evaluation at the frontier: LLM as Judge won't beat twice the data](https://arxiv.org/pdf/2410.13341), Feb. 11 2025.
   - _"Our main results shows that when the judge is no more accurate than the evaluated model, no debiasing method can decrease the required amount of ground truth labels by more than half."_
+- [Automatically correcting large language models: Surveying the landscape of diverse automated correction strategies](https://arxiv.org/abs/2308.03188), TACL 2024.
+- [On scalable oversight with weak LLMs judging strong LLMs](https://proceedings.neurips.cc/paper_files/paper/2024/file/899511e37a8e01e1bd6f6f1d377cc250-Paper-Conference.pdf), NeurIPS 2024.
 
 ### Length generalization
 
