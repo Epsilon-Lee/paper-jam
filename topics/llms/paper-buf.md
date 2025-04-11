@@ -278,6 +278,7 @@
   - _"Our main results shows that when the judge is no more accurate than the evaluated model, no debiasing method can decrease the required amount of ground truth labels by more than half."_
 - [Automatically correcting large language models: Surveying the landscape of diverse automated correction strategies](https://arxiv.org/abs/2308.03188), TACL 2024.
 - [On scalable oversight with weak LLMs judging strong LLMs](https://proceedings.neurips.cc/paper_files/paper/2024/file/899511e37a8e01e1bd6f6f1d377cc250-Paper-Conference.pdf), NeurIPS 2024.
+- [Debating with more persuasive LLMs leads to more truthful answers](https://arxiv.org/pdf/2402.06782), Jun. 25 2024.
 
 ### Length generalization
 
