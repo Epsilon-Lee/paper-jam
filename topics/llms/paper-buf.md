@@ -263,6 +263,8 @@
 - [Fantastic LLMs for preference data annotation and how to (not) find them](https://arxiv.org/pdf/2411.02481v1), Nov. 4 2024.
 - [Replacing judges with juries: Evaluting LLM generations with a penel of diverse models](https://arxiv.org/abs/2404.18796), Apr. 29 2024.
 - [Training language models to win debates with self-play improves judge accuracy](https://arxiv.org/pdf/2409.16636v1), Sep. 25 2024. [code](https://github.com/samuelarnesen/nyu-debate-modeling).
+- [Limits to scalable evaluation at the frontier: LLM as Judge won't beat twice the data](https://arxiv.org/pdf/2410.13341), Feb. 11 2025.
+  - _"Our main results shows that when the judge is no more accurate than the evaluated model, no debiasing method can decrease the required amount of ground truth labels by more than half."_
 
 ### Length generalization
 
