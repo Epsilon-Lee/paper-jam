@@ -99,5 +99,6 @@
 - [Critical Thinking: Which Kinds of Complexity Govern Optimal Reasoning Length?](https://arxiv.org/pdf/2504.01935), Apr. 2 2025. [code](https://github.com/celine-lee/critical_thinking).
 - [THINKPRUNE: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning](), Apr. 2 2025. [code](https://github.com/UCSB-NLP-Chang/ThinkPrune).
 - [Reasoning Models Don’t Always Say What They Think](https://assets.anthropic.com/m/71876fabef0f0ed4/original/reasoning_models_paper.pdf), Apr. 2025. `Anthropic`.
+- [Generative evaluation of complex reasoning in large language models](https://arxiv.org/pdf/2504.02810), Apr. 3 2025.
 
 
