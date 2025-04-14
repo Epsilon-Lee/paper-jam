@@ -226,5 +226,6 @@
 - [Context-scaling versus task-scaling in in-context learning](https://arxiv.org/pdf/2410.12783), Oct. 16 2024.
 - [A theory of emergent in-context learning as implicit structure induction](https://arxiv.org/pdf/2303.07971), Mar. 14 2024.
 - [Can generative ai solve your in-context learning problem? A martingale perspective](https://arxiv.org/pdf/2412.06033), Dec. 8 2024.
+- [The dual-route model of induction](https://arxiv.org/pdf/2504.03022), Apr. 3 2025. [code](https://dualroute.baulab.info/).
 
 
