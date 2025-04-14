@@ -135,6 +135,7 @@
 - [Jacobian sparse autoencoders: Sparsify computations, not just activations](https://arxiv.org/pdf/2502.18147), Feb. 25 2025. [code](https://github.com/lucyfarnik/jacobian-saes).
 - [Between circuits and Chomsky: Pre-training on formal languages imparts linguistic biases](https://arxiv.org/abs/2502.19249), Feb. 26 2025.
 - [Injecting structural hints: Using language models to study inductive biases in language learning](https://aclanthology.org/2023.findings-emnlp.563.pdf), EMNLP 2023.
+- [Identifying Sparsely Active Circuits Through Local Loss Landscape Decomposition](https://arxiv.org/pdf/2504.00194), Mar. 31 2025. [code](https://github.com/briannachrisman/eigenestimation).
 
 #### Probing
 
