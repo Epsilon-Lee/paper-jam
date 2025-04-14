@@ -96,5 +96,8 @@
 - [TAO: Using test-time compute to train efficient LLMs without labeled data](https://www.databricks.com/blog/tao-using-test-time-compute-train-efficient-llms-without-labeled-data), Mar. 25 2025.
 - [PENCIL: Long thoughts with short memory](https://openreview.net/pdf?id=KRI2Fmffqr), ICLR 2025.
 - [MegaMath: Pushing the limits of open math corpora](https://arxiv.org/pdf/2504.02807), Apr. 3 2025. [dataset](https://hf.co/datasets/LLM360/MegaMath).
+- [Critical Thinking: Which Kinds of Complexity Govern Optimal Reasoning Length?](https://arxiv.org/pdf/2504.01935), Apr. 2 2025. [code](https://github.com/celine-lee/critical_thinking).
+- [THINKPRUNE: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning](), Apr. 2 2025. [code](https://github.com/UCSB-NLP-Chang/ThinkPrune).
+- [Reasoning Models Don’t Always Say What They Think](https://assets.anthropic.com/m/71876fabef0f0ed4/original/reasoning_models_paper.pdf), Apr. 2025. `Anthropic`.
 
 
