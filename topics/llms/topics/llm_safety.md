@@ -37,7 +37,7 @@
 - [Language models may verbatim complete text they were not explicitly trained on](https://arxiv.org/pdf/2503.17514), Mar. 25 2025.
 - [The backfiring effect of weak AI safety regulation](https://arxiv.org/pdf/2503.20848), Mar. 26 2025.
 - [What are they filtering out? A survey of filtering strategies for harm reduction in pretraining datasets](https://arxiv.org/pdf/2503.05721), Feb. 17 2025.
-- [An approach to technical AGI safety and security](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/evaluating-potential-cybersecurity-threats-of-advanced-ai/An_Approach_to_Technical_AGI_Safety_Apr_2025.pdf), Apr. 2025. Google DeepMind.
+- [An approach to technical AGI safety and security](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/evaluating-potential-cybersecurity-threats-of-advanced-ai/An_Approach_to_Technical_AGI_Safety_Apr_2025.pdf), Apr. 2025. Google DeepMind. [blogpost](https://deepmind.google/discover/blog/taking-a-responsible-path-to-agi/).
 
 #### Survey and definition
 
