@@ -33,6 +33,7 @@
 - [Gemstones: A model suite for multi-faceted scaling laws](https://arxiv.org/pdf/2502.06857), Feb. 7 2025. [code](https://github.com/mcleish7/gemstone-scaling-laws).
 - [Joint MoE Scaling Laws: Mixture of Experts Can Be Memory Efficient](https://arxiv.org/pdf/2502.05172), Feb. 7 2025.
 - [A multi-power law for loss curve prediction across learning rate schedules](https://arxiv.org/pdf/2503.12811), Mar. 17 2025. [code](https://github.com/thu-yao-01-luo/MultiPowerLaw).
+- [Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for Mixture-of-Experts Language Models](https://arxiv.org/pdf/2501.12370), Jan. 25 2025.
 
 #### FLOPS
 
