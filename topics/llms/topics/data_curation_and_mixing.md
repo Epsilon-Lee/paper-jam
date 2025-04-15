@@ -38,5 +38,6 @@
 - [Navigating rifts in human-LLM grounding: Study and benchmark](https://arxiv.org/pdf/2503.13975), Mar. 18 2025. `dataset analysis`.
 - [Optimizing ml training with metagradient descent](https://arxiv.org/pdf/2503.13751), Mar. 17 2025. `data selection`.
   - compared with LESS by Mengzhou. 
+- [Predictive dadta selection: The data that predicts is the data that teaches](https://arxiv.org/pdf/2503.00808), Apr. 4 2025. [code](https://github.com/hkust-nlp/preselect).
 
 
