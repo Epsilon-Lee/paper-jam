@@ -38,13 +38,14 @@
 - [The backfiring effect of weak AI safety regulation](https://arxiv.org/pdf/2503.20848), Mar. 26 2025.
 - [What are they filtering out? A survey of filtering strategies for harm reduction in pretraining datasets](https://arxiv.org/pdf/2503.05721), Feb. 17 2025.
 - [An approach to technical AGI safety and security](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/evaluating-potential-cybersecurity-threats-of-advanced-ai/An_Approach_to_Technical_AGI_Safety_Apr_2025.pdf), Apr. 2025. Google DeepMind. [blogpost](https://deepmind.google/discover/blog/taking-a-responsible-path-to-agi/).
+- [Sorry-Bench: Systematically evaluating large language model safety refusal](https://arxiv.org/pdf/2406.14598), Mar. 1 2025.
 
 #### Survey and definition
 
 - [A survey of safety and trustworthiness of large language models through the lens of verification and validation](https://arxiv.org/pdf/2305.11391), Aug. 27 2023.
 - [A survey on large language model security and privacy: The good, the bad and the ugly](https://arxiv.org/pdf/2312.02003), Mar. 20 2024.
 - [Trustworthy LLMs: A survey and guideline for evaluating large language models' alignment](https://openreview.net/pdf?id=oss9uaPFfB), ICLR 2024.
-- [Safety at scale: A comprehensive survey of large model safety](https://arxiv.org/pdf/2502.05206), Feb. 2 2025.
+- [Safety at scale: A comprehensive survey of large model safety](https://arxiv.org/pdf/2502.05206), Feb. 2 2025. [code](https://sorry-bench.github.io/).
 
 #### Science of llm safety
 
