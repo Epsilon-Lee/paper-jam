@@ -261,6 +261,7 @@
 - [How well can LLMs negotiate? NegotiationAreana platform and analysis](https://arxiv.org/abs/2402.05863), Feb. 8 2024.
 - [LLM-deliberation: Evaluating LLMs with interactive multi-agent negotiation game](https://openreview.net/forum?id=cfL8zApofK), ICLR 2024.
 - [Large language model agents can coordinate beyond human scale](https://arxiv.org/pdf/2409.02822), Dec. 22 2024.
+- [Evaluating language model agency through negotiations](https://arxiv.org/abs/2401.04536), Jan. 9 2024.
 - [How susceptible are LLMs to influence in prompts](https://arxiv.org/pdf/2408.11865), Aug. 17 2024.
 - [Multi-agent consensus seeking via large language models](https://arxiv.org/pdf/2310.20151), Jan. 21 2025.
 - [Judging llm-as-a-judge with mt-bench and chatbot](https://arxiv.org/abs/2306.05685), Jun. 9 2023.
