@@ -97,8 +97,13 @@
 - [PENCIL: Long thoughts with short memory](https://openreview.net/pdf?id=KRI2Fmffqr), ICLR 2025.
 - [MegaMath: Pushing the limits of open math corpora](https://arxiv.org/pdf/2504.02807), Apr. 3 2025. [dataset](https://hf.co/datasets/LLM360/MegaMath).
 - [Critical Thinking: Which Kinds of Complexity Govern Optimal Reasoning Length?](https://arxiv.org/pdf/2504.01935), Apr. 2 2025. [code](https://github.com/celine-lee/critical_thinking).
-- [THINKPRUNE: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning](), Apr. 2 2025. [code](https://github.com/UCSB-NLP-Chang/ThinkPrune).
+- [THINKPRUNE: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning](https://arxiv.org/abs/2504.01296), Apr. 2 2025. [code](https://github.com/UCSB-NLP-Chang/ThinkPrune).
 - [Reasoning Models Don’t Always Say What They Think](https://assets.anthropic.com/m/71876fabef0f0ed4/original/reasoning_models_paper.pdf), Apr. 2025. `Anthropic`.
 - [Generative evaluation of complex reasoning in large language models](https://arxiv.org/pdf/2504.02810), Apr. 3 2025.
+- [Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning](https://arxiv.org/abs/2504.03635), Apr. 4 2025.
+- [Inference-time scaling for generalist reward modeling](https://arxiv.org/pdf/2504.02495), Apr. 5 2025.
+- [Adversarial training of reward models](https://arxiv.org/pdf/2504.06141), Apr. 11 2025.
+- [On the Markov property of neural algorithmic reasoning: Analyses and methods](https://arxiv.org/abs/2403.04929), Mar. 7 2024.
+- [Inference-time scaling for complex tasks: Where we stand and what lies ahead](https://arxiv.org/pdf/2504.00294), Mar. 31 2025.
 
 
