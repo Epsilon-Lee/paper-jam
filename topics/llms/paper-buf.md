@@ -252,6 +252,7 @@
 - [Anthropic Education Report: How University Students Use Claude](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude), Apr. 8 2025.
 - [Weak-to-strong generalization even in random feature networks, provably](https://arxiv.org/pdf/2503.02877), Mar. 4 2025.
 - [(How) do language models track state?](https://arxiv.org/pdf/2503.02854), Mar. 11 2025. [code](https://github.com/belindal/state-tracking).
+- [A survey of uncertainty estimation methods on large language models](https://arxiv.org/pdf/2503.00172), Feb. 28 2025.
 
 ### LLM as a judge
 
