@@ -250,6 +250,8 @@
 - [Emergent abilities in large language models: A survey](https://arxiv.org/pdf/2503.05788), Feb. 28 2025.
 - [UNDO: UNderstanding Distillation as Optimization](https://arxiv.org/pdf/2504.02521), Arp. 3 2025.
 - [Anthropic Education Report: How University Students Use Claude](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude), Apr. 8 2025.
+- [Weak-to-strong generalization even in random feature networks, provably](https://arxiv.org/pdf/2503.02877), Mar. 4 2025.
+- [(How) do language models track state?](https://arxiv.org/pdf/2503.02854), Mar. 11 2025. [code](https://github.com/belindal/state-tracking).
 
 ### LLM as a judge
 
@@ -328,6 +330,7 @@
 - [Understanding the generalization of in-context learning in transformers: An empirical study](https://arxiv.org/pdf/2503.15579), Mar. 19 2025.
 - [Distinct computations emerge from compositional curricula in in-context learning](https://openreview.net/pdf?id=oo5TNikeJl), ICLR 2025.
   - [Curriculum effects and compositionality emerge with in-context learning in neural networks](https://arxiv.org/abs/2402.08674), Feb. 13 2024.
+- [RNNs are not Transformers (Yet): The key bottleneck on in-context retrieval](https://arxiv.org/pdf/2402.18510), Dec. 6 2024. [code](https://arxiv.org/pdf/2402.18510).
 
 ### Prompting techniques
 
