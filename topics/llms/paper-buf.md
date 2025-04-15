@@ -249,6 +249,7 @@
 - [A theoretical framework for prompt engineering: Approximating smooth functions with transformer prompts](https://arxiv.org/pdf/2503.20561), Mar. 26 2025.
 - [Emergent abilities in large language models: A survey](https://arxiv.org/pdf/2503.05788), Feb. 28 2025.
 - [UNDO: UNderstanding Distillation as Optimization](https://arxiv.org/pdf/2504.02521), Arp. 3 2025.
+- [Anthropic Education Report: How University Students Use Claude](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude), Apr. 8 2025.
 
 ### LLM as a judge
 
