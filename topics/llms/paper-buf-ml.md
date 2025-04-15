@@ -173,6 +173,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Learning decision trees as amortized structured inference](https://arxiv.org/pdf/2503.06985), Mar. 10 2025. [code](https://arxiv.org/pdf/2503.06985).
 - [Generalizing to any diverse distribution: Uniformity & rebalancing](https://openreview.net/pdf?id=R83LOnUmbg), ICLR 2025.
 - [Graph neural networks extrapolate out-of-distribution for shortest paaths](https://arxiv.org/abs/2503.19173), Mar. 24 2025.
+- [A minimalist example of edge-of-stability and progressive sharpening](https://arxiv.org/pdf/2503.02809), Mar. 4 2025.
 
 ### Contrastive learning
 
