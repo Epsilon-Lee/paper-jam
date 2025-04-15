@@ -337,6 +337,7 @@
 
 - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608), Jun. 6 2024. `prompting`.
 - [A survey of prompt engineering methods in large language models for different nlp tasks](https://arxiv.org/pdf/2407.12994), Jul. 17 2024.
+- [On the power of context-enhanced learning in LLMs](https://arxiv.org/pdf/2503.01821), Mar. 3 2025.
 
 ### LLMs for traditional nlp tasks
 
