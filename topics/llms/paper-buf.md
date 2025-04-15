@@ -248,6 +248,7 @@
 - [Cost-efficient collaboration between on-device and cloud language models](https://openreview.net/pdf?id=uRPdQAaWBG), ICLR 2025 workshop.
 - [A theoretical framework for prompt engineering: Approximating smooth functions with transformer prompts](https://arxiv.org/pdf/2503.20561), Mar. 26 2025.
 - [Emergent abilities in large language models: A survey](https://arxiv.org/pdf/2503.05788), Feb. 28 2025.
+- [UNDO: UNderstanding Distillation as Optimization](https://arxiv.org/pdf/2504.02521), Arp. 3 2025.
 
 ### LLM as a judge
 
@@ -280,6 +281,8 @@
 - [On scalable oversight with weak LLMs judging strong LLMs](https://proceedings.neurips.cc/paper_files/paper/2024/file/899511e37a8e01e1bd6f6f1d377cc250-Paper-Conference.pdf), NeurIPS 2024.
 - [Debating with more persuasive LLMs leads to more truthful answers](https://arxiv.org/pdf/2402.06782), Jun. 25 2024.
 - [Evaluating language model agency through negotiations](https://arxiv.org/abs/2401.04536), Jan. 9 2024.
+- [Replacing judges with juries: Evaluating LLM generations with a panel of diverse models](), May 1 2024.
+- [Great models think alike and this undermines AI oversight](https://arxiv.org/pdf/2502.04313), Feb. 6 2025. [code](https://github.com/model-similarity/lm-similarity).
 
 ### Length generalization
 
