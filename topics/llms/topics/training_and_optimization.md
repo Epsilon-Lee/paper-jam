@@ -35,8 +35,6 @@
 - [LLM pretraining with continuous concepts](https://arxiv.org/pdf/2502.08524), Feb. 12 2025. [code](https://github.com/facebookresearch/RAM/tree/main/projects/cocomix).
 - [Reasoning to learn from latent thoughts](https://arxiv.org/pdf/2503.18866), Mar. 24 2025. [code](https://arxiv.org/pdf/2503.18866).
 
-
-
 ### Peft techniques & Instruction-tuning
 
 - [Parameter-efficient fine-tuning of large-scale pre-trained language models](https://www.nature.com/articles/s42256-023-00626-4.pdf), Nature Machine Intelligence 2023.
@@ -146,6 +144,7 @@
 - [A survey of direct preference optimization](https://arxiv.org/pdf/2503.11701), Mar. 12 2025.
 - [Spread preference annotation: Direct preference judgement for efficient LLM alignment](https://arxiv.org/pdf/2406.04412), Mar. 4 2025.
 - [On a connection between imitation learning and rlhf](https://arxiv.org/pdf/2503.05079), Mar. 7 2025. [code](https://github.com/tengxiao1/DIL).
+- [Societal alignment frameworks can improve LLM alignment](https://arxiv.org/pdf/2503.00069), Feb. 27 2025.
 
 ### Post-training for bert
 
@@ -162,5 +161,6 @@
 - [Surgical Fine-Tuning Improves Adaptation to Distribution Shifts](https://arxiv.org/pdf/2210.11466.pdf), Oct. 20 2022.
 - [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://proceedings.mlr.press/v162/wortsman22a/wortsman22a.pdf), `icml2022`.
 - [Finetune like you pretrain: Improved finetuning of zero-shot vision models](https://arxiv.org/pdf/2212.00638.pdf), Dec. 1 2022. `vision`
+- [All roads lead to likelihood: The value of reinforcement learning in fine-tuning](https://arxiv.org/pdf/2503.01067), Mar. 3 2025.
 
 
