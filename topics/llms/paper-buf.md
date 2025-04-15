@@ -42,7 +42,6 @@
 - [Scaling and evaluating sparse autoencoders](https://arxiv.org/pdf/2406.04093), Jun. 6 2024.
 - [Repurposing Language Models into Embedding Models: Finding the Compute-Optimal Recipe](https://arxiv.org/pdf/2406.04165), Jun. 6 2024. `llm for embedding`.
 - [miniCodeProps: a Minimal Benchmark for Proving Code Properties](https://arxiv.org/pdf/2406.11915), Jun. 16 2024. `coding` `benchmark`.
-- [What Did I Do Wrong? Quantifying LLMs’ Sensitivity and Consistency to Prompt Engineering](https://arxiv.org/pdf/2406.12334), Jun. 18 2024. `prompt engineering`.
 - [QOG:Question and Options Generation based on Language Model](https://arxiv.org/pdf/2406.12381), Jun. 18 2024. `data synthesis`.
 - [Dataverse: Open-Source ETL (Extract, Transform, Load) Pipeline for Large Language Models](https://arxiv.org/pdf/2403.19340), Mar. 28 2024. `data pipeline`.
 - [Can language model explain their own classification behavior?](https://arxiv.org/pdf/2405.07436), May 13 2024.
@@ -85,7 +84,6 @@
 - [Do Language Models Have a Critical Period for Language Acquisition?](https://arxiv.org/pdf/2407.19325), Jul. 27 2024. `learning dynamics`.
 - [From Pre-training Corpora to Large Language Models: What Factors Influence LLM Performance in Causal Discovery Tasks?](https://arxiv.org/pdf/2407.19638), Jul. 29 2024. `knowledge extraction`, `causal knowledge`.
 - [Polynomial Regression as a Task for Understanding In-context Learning Through Finetuning and Alignment](https://arxiv.org/pdf/2407.19346), Jul. 27 2024.
-- [Understanding the Relationship between Prompts and Response Uncertainty in Large Language Models](https://arxiv.org/pdf/2407.14845), Jul. 20 2024. related to `knowledge extraction`.
   - _"We show that the uncertainty decreases as the prompt's informativeness increases, similar to epistemic uncertainty"_
 - [Self-Consuming Generative Models with Curated Data Provably Optimize Human Preferences](https://arxiv.org/pdf/2407.09499), Jun. 12 2024. `synthetic data` `theory`.
 - [Can LLMs predict the convergence of Stochastic Gradient Descent?](https://arxiv.org/pdf/2408.01736), Aug. 3 2024.
@@ -96,7 +94,6 @@
 - [A Survey on Model MoErging: Recycling and Routing Among Specialized Experts for Collaborative Learning](https://arxiv.org/pdf/2408.07057), Aug. 13 2024.
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/pdf/2408.06292), Aug. 12 2024.
 - [Tree Attention: Topology-Aware Decoding for Long-Context Attention on GPU Clusters](https://arxiv.org/pdf/2408.04093), Aug. 9 2024.
-- [FUSE-ing Language Models: Zero-Shot Adapter Discovery for Prompt Optimization Across Tokenizers](https://arxiv.org/pdf/2408.04816), Aug. 9 2024.
 - [Natural Language Outlines for Code: Literate Programming in the LLM Era](https://arxiv.org/pdf/2408.04820), Aug. 9 2024.
 - [Can a Bayesian Oracle Prevent Harm from an Agent?](https://arxiv.org/pdf/2408.05284), Aug. 9 2024.
 - [Low-Rank Approximation, Adaptation, and Other Tales](https://arxiv.org/pdf/2408.05883), Aug. 12 2024.
@@ -113,7 +110,6 @@
   - [OptiGuide](https://github.com/microsoft/OptiGuide).
   - [Generative AI In Supply Chain](https://www.alvarezandmarsal.com/sites/default/files/article/pdf/Generative%20AI%20in%20Supply%20Chain%20Report%20-%20Compressed%20version.pdf).
 - [Performative Prediction on Games and Mechanism Design](https://arxiv.org/pdf/2408.05146), Aug. 9 2024.
-- [FUSE-ing Language Models: Zero-Shot Adapter Discovery for Prompt Optimization Across Tokenizers](https://arxiv.org/pdf/2408.04816), Aug. 9 2024. `COLM2024`. [code](https://github.com/jnwilliams/FUSE_prompt_inversion).
   - _"we propose FUSE (Flexible Unification of Semantic Embeddings), an inexpensive approach to approximating an adapter layer that maps from one model's textual embedding space to another, even across different tokenizers."_
 - [COGEN: Learning from Feedback with Coupled Comprehension and Generation](https://arxiv.org/pdf/2408.15992), Aug. 28 2024.
 - [SWIFT:A Scalable lightWeight Infrastructure for Fine-Tuning](https://arxiv.org/pdf/2408.05517), Aug. 19 2024.
@@ -153,7 +149,6 @@
 - [Navigating the Shortcut Maze: A Comprehensive Analysis of Shortcut Learning in Text Classification by Language Models](https://arxiv.org/pdf/2409.17455), Sep. 26 2024.
 - [Order of Magnitude Speedups for LLM Membership Inference](https://arxiv.org/pdf/2409.14513), Sep. 24 2024.
 - [Estimating Wage Disparities Using Foundation Models](https://www.arxiv.org/pdf/2409.09894), Sep. 15 2024.
-- [Keeping LLMs Aligned After Fine-tuning: The Crucial Role of Prompt Templates](https://arxiv.org/pdf/2402.18540), Feb. 28 2024.
 - [Safety Alignment Should Be Made More Than Just a Few Tokens Deep](https://arxiv.org/pdf/2406.05946), Jun. 10 2024.
 - [Can Models Learn Skill Composition from Examples?](https://openreview.net/pdf?id=YEEsRgkvnU), NeurIPS 2024.
 - [See What LLMs Cannot Answer: A Self-Challenge Framework for Uncovering LLM Weaknesses](https://arxiv.org/abs/2408.08978#), Aug. 16 2024.
@@ -178,7 +173,6 @@
 - [Language Models as Causal Effect Generators](https://arxiv.org/pdf/2411.08019), Nov. 12 2024. [code](https://github.com/lbynum/sequence-driven-scms).
 - [On the limits of language generation: Trade-offs between hallucination and mode collapse](https://arxiv.org/pdf/2411.09642), Nov. 14 2024.
 - [SEQ-VCR: Preventing collapse in intermediate transformer representations for enhanced reasoning](https://arxiv.org/pdf/2411.02344), Nov. 4 2024. [code](https://github.com/rarefin/seq_vcr).
-- [Does Prompt Formatting Have Any Impact on LLM Performance?](https://arxiv.org/pdf/2411.10541), Nov. 15 2024.
 - [Efficient Alignment of Large Language Models via Data Sampling](https://arxiv.org/pdf/2411.10545), Nov. 15 2024.
 - [Language-to-Code Translation with a Single Labeled Example](https://aclanthology.org/2024.emnlp-main.462.pdf), 2024.
 - [Do LLMs Think Fast and Slow? A Causal Study on Sentiment Analysis](https://aclanthology.org/2024.findings-emnlp.547.pdf), EMNLP 2024. [code](https://github.com/cogito233/causal-sa).
@@ -193,13 +187,10 @@
   - [A Universal Law of Robustness via Isoperimetry](https://arxiv.org/pdf/2105.12806), Dec. 23 2024.
 - [LearnLM: Improving Gemini for Learning](https://arxiv.org/pdf/2412.16429), Dec. 25 2024.
 - [The Responsible Foundation Model Development Cheatsheet: A Review of Tools & Resources](https://openreview.net/pdf?id=tH1dQH20eZ), TMLR 2024.
-- [Rule Extrapolation in Language Models: A Study of Compositional Generalization on OOD Prompts](https://arxiv.org/pdf/2409.13728), Oct. 24 2024. [code](https://github.com/meszarosanna/rule_extrapolation).
 - [Complexity control facilitates reasoning-based compositional generalization in transformers](https://arxiv.org/pdf/2501.08537), Jan. 15 2025.
 - [Foundations of Large Language Models](https://arxiv.org/pdf/2501.09223), Jan. 16 2025.
 - [Enhancing Lexicon-Based Text Embeddings with Large Language Models](https://arxiv.org/pdf/2501.09749), Jan. 16 2025.
 - [Critique fine-tuning: Learning to critique is more effective than learning to imitate](https://arxiv.org/pdf/2501.17703), Jan. 29 2025.
-- [Hard prompts made easy: Gradient-based discrete optimization for prompt tuning and discovery](https://proceedings.neurips.cc/paper_files/paper/2023/file/a00548031e4647b13042c97c922fadf1-Paper-Conference.pdf), NeurIPS 2023.
-- [Automatic prompt optimization with "gradient descent" and beam search](https://arxiv.org/pdf/2305.03495), Oct. 19 2023.
 - [Large language models as optimizers](https://arxiv.org/pdf/2309.03409), Apr. 15 2024.
 - [Connecting large language models with evolutionary algorithms yields powerful prompt optimizers](https://arxiv.org/pdf/2309.08532), Feb. 27 2024.
 - [Tuning LLM judges hyperparameters](https://arxiv.org/pdf/2501.17178), Jan. 24 2025.
@@ -246,7 +237,6 @@
   - _"We propose representing individuals using value profiles - natural language descriptions of underlying values compressed from in-context demonstrations - alogn with a steerable decoder model to estiamte ratings conditioned on a value profile or other rater information."_
   - This value profiles remind me of constitutions, though constitutions mean common principles that guides majority of people and value profile are principles guiding individual behavior.
 - [Cost-efficient collaboration between on-device and cloud language models](https://openreview.net/pdf?id=uRPdQAaWBG), ICLR 2025 workshop.
-- [A theoretical framework for prompt engineering: Approximating smooth functions with transformer prompts](https://arxiv.org/pdf/2503.20561), Mar. 26 2025.
 - [Emergent abilities in large language models: A survey](https://arxiv.org/pdf/2503.05788), Feb. 28 2025.
 - [UNDO: UNderstanding Distillation as Optimization](https://arxiv.org/pdf/2504.02521), Arp. 3 2025.
 - [Anthropic Education Report: How University Students Use Claude](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude), Apr. 8 2025.
@@ -266,7 +256,6 @@
 - [LLM-deliberation: Evaluating LLMs with interactive multi-agent negotiation game](https://openreview.net/forum?id=cfL8zApofK), ICLR 2024.
 - [Large language model agents can coordinate beyond human scale](https://arxiv.org/pdf/2409.02822), Dec. 22 2024.
 - [Evaluating language model agency through negotiations](https://arxiv.org/abs/2401.04536), Jan. 9 2024.
-- [How susceptible are LLMs to influence in prompts](https://arxiv.org/pdf/2408.11865), Aug. 17 2024.
 - [Multi-agent consensus seeking via large language models](https://arxiv.org/pdf/2310.20151), Jan. 21 2025.
 - [Judging llm-as-a-judge with mt-bench and chatbot](https://arxiv.org/abs/2306.05685), Jun. 9 2023.
 - [From generation to judgement: Opportunities and challenges of LLM-as-a-judge](https://arxiv.org/pdf/2411.16594), Nov. 2024.
@@ -338,6 +327,16 @@
 - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608), Jun. 6 2024. `prompting`.
 - [A survey of prompt engineering methods in large language models for different nlp tasks](https://arxiv.org/pdf/2407.12994), Jul. 17 2024.
 - [On the power of context-enhanced learning in LLMs](https://arxiv.org/pdf/2503.01821), Mar. 3 2025.
+- [A theoretical framework for prompt engineering: Approximating smooth functions with transformer prompts](https://arxiv.org/pdf/2503.20561), Mar. 26 2025.
+- [How susceptible are LLMs to influence in prompts](https://arxiv.org/pdf/2408.11865), Aug. 17 2024.
+- [What Did I Do Wrong? Quantifying LLMs’ Sensitivity and Consistency to Prompt Engineering](https://arxiv.org/pdf/2406.12334), Jun. 18 2024. `prompt engineering`.
+- [Understanding the Relationship between Prompts and Response Uncertainty in Large Language Models](https://arxiv.org/pdf/2407.14845), Jul. 20 2024. related to `knowledge extraction`.
+- [FUSE-ing Language Models: Zero-Shot Adapter Discovery for Prompt Optimization Across Tokenizers](https://arxiv.org/pdf/2408.04816), Aug. 9 2024. `COLM2024`. [code](https://github.com/jnwilliams/FUSE_prompt_inversion).
+- [Keeping LLMs Aligned After Fine-tuning: The Crucial Role of Prompt Templates](https://arxiv.org/pdf/2402.18540), Feb. 28 2024.
+- [Does Prompt Formatting Have Any Impact on LLM Performance?](https://arxiv.org/pdf/2411.10541), Nov. 15 2024.
+- [Rule Extrapolation in Language Models: A Study of Compositional Generalization on OOD Prompts](https://arxiv.org/pdf/2409.13728), Oct. 24 2024. [code](https://github.com/meszarosanna/rule_extrapolation).
+- [Hard prompts made easy: Gradient-based discrete optimization for prompt tuning and discovery](https://proceedings.neurips.cc/paper_files/paper/2023/file/a00548031e4647b13042c97c922fadf1-Paper-Conference.pdf), NeurIPS 2023.
+- [Automatic prompt optimization with "gradient descent" and beam search](https://arxiv.org/pdf/2305.03495), Oct. 19 2023.
 
 ### LLMs for traditional nlp tasks
 
