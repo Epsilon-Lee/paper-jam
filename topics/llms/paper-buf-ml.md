@@ -174,6 +174,9 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Generalizing to any diverse distribution: Uniformity & rebalancing](https://openreview.net/pdf?id=R83LOnUmbg), ICLR 2025.
 - [Graph neural networks extrapolate out-of-distribution for shortest paaths](https://arxiv.org/abs/2503.19173), Mar. 24 2025.
 - [A minimalist example of edge-of-stability and progressive sharpening](https://arxiv.org/pdf/2503.02809), Mar. 4 2025.
+- [Fyenman-Kac corrections in diffusion: Annealing, guidance, and product of experts](https://arxiv.org/pdf/2503.02819), Mar. 4 2025. [code](https://github.com/martaskrt/fkc-diffusion).
+- [A theory of initialization's impact on specialization](https://arxiv.org/pdf/2503.02526), Mar. 4 2025.
+- [From data to uncertainty sets: A machine learning approach](https://arxiv.org/pdf/2503.02173), Mar. 4 2025.
 
 ### Contrastive learning
 
