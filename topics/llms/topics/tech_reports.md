@@ -36,6 +36,7 @@
 - [Textbooks Are All You Need II: phi-1.5 technical report](https://arxiv.org/abs/2309.05463), Sep. 11 2023.
 - [Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone](https://arxiv.org/abs/2404.14219), Apr. 22 2024.
 - [Phi-4 technical report](https://arxiv.org/pdf/2412.08905), Dec. 12 2024.
+- [Phi-4-Mini technical report: Compact yet powerful multimodal language models via mixture-of-loras](https://arxiv.org/pdf/2503.01743), Mar. 7 2025.
 
 **Gemini and Gemma**
 
