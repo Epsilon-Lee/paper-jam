@@ -105,5 +105,6 @@
 - [Adversarial training of reward models](https://arxiv.org/pdf/2504.06141), Apr. 11 2025.
 - [On the Markov property of neural algorithmic reasoning: Analyses and methods](https://arxiv.org/abs/2403.04929), Mar. 7 2024.
 - [Inference-time scaling for complex tasks: Where we stand and what lies ahead](https://arxiv.org/pdf/2504.00294), Mar. 31 2025.
+- [The "think" tool: Enabling Claude to stop and think in complex tool use situations](https://www.anthropic.com/engineering/claude-think-tool), Mar. 20 2925.
 
 
