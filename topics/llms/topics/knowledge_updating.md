@@ -99,6 +99,8 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [Taming knowledge conflicts in language models](https://arxiv.org/pdf/2503.10996), Mar. 14 2025. [code](https://github.com/GaotangLi/JUICE).
 - [How do language models learn facts? Dynamics, curricula and hallucinations](https://arxiv.org/pdf/2503.21676), Mar. 27 2025.
 - [Inside-out: Hidden factual knowledge in LLMs](https://arxiv.org/abs/2503.15299), Mar. 19 2025.
+- [Learning and Unlearning of Fabricated Knowledge in Language Models](https://arxiv.org/pdf/2410.21750), ICML 2024. 
+- [How new data permeates LLM knowledge and how to dilute it](https://arxiv.org/pdf/2504.09522), Apr. 13 2025.
 
 #### RAG and knowledge graph
 
