@@ -177,6 +177,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Fyenman-Kac corrections in diffusion: Annealing, guidance, and product of experts](https://arxiv.org/pdf/2503.02819), Mar. 4 2025. [code](https://github.com/martaskrt/fkc-diffusion).
 - [A theory of initialization's impact on specialization](https://arxiv.org/pdf/2503.02526), Mar. 4 2025.
 - [From data to uncertainty sets: A machine learning approach](https://arxiv.org/pdf/2503.02173), Mar. 4 2025.
+- [Credal two-sample tests of epistemic uncertainty](https://arxiv.org/abs/2410.12921), Mar. 13 2025.
 
 ### Contrastive learning
 
