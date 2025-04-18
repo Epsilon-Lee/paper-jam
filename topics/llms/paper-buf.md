@@ -277,6 +277,7 @@
 - [Evaluating language model agency through negotiations](https://arxiv.org/abs/2401.04536), Jan. 9 2024.
 - [Replacing judges with juries: Evaluating LLM generations with a panel of diverse models](), May 1 2024.
 - [Great models think alike and this undermines AI oversight](https://arxiv.org/pdf/2502.04313), Feb. 6 2025. [code](https://github.com/model-similarity/lm-similarity).
+- [TRACT: Regression-aware fine-tuning meets chain-of-thought reasoning for LLM-as-a-judge](https://arxiv.org/pdf/2503.04381), Mar. 6 2025. [code](https://github.com/d223302/TRACT).
 
 ### Length generalization
 
@@ -326,6 +327,7 @@
 
 - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608), Jun. 6 2024. `prompting`.
 - [A survey of prompt engineering methods in large language models for different nlp tasks](https://arxiv.org/pdf/2407.12994), Jul. 17 2024.
+- [Rational metareasoning for large language models](), Dec. 21 2024.
 - [On the power of context-enhanced learning in LLMs](https://arxiv.org/pdf/2503.01821), Mar. 3 2025.
 - [A theoretical framework for prompt engineering: Approximating smooth functions with transformer prompts](https://arxiv.org/pdf/2503.20561), Mar. 26 2025.
 - [How susceptible are LLMs to influence in prompts](https://arxiv.org/pdf/2408.11865), Aug. 17 2024.
@@ -337,6 +339,7 @@
 - [Rule Extrapolation in Language Models: A Study of Compositional Generalization on OOD Prompts](https://arxiv.org/pdf/2409.13728), Oct. 24 2024. [code](https://github.com/meszarosanna/rule_extrapolation).
 - [Hard prompts made easy: Gradient-based discrete optimization for prompt tuning and discovery](https://proceedings.neurips.cc/paper_files/paper/2023/file/a00548031e4647b13042c97c922fadf1-Paper-Conference.pdf), NeurIPS 2023.
 - [Automatic prompt optimization with "gradient descent" and beam search](https://arxiv.org/pdf/2305.03495), Oct. 19 2023.
+- [Prompt optimization with logged bandit data](https://arxiv.org/pdf/2504.02646), Apr. 3 2025.
 
 ### LLMs for traditional nlp tasks
 
