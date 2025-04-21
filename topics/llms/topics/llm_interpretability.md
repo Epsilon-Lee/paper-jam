@@ -114,6 +114,7 @@
 - [Bridging the human-ai knowledge gap: Concept discovery and transfer in AlphaZero](https://arxiv.org/pdf/2310.16410), Oct. 25 2023.
 - [Sensing and steering stereotypes: Extracting and applying gender representation vectors in LLMs](https://arxiv.org/pdf/2502.19721), Feb. 27 2925. [code](https://github.com/hannahxchen/gender-bias-steering).
 - [Extracting Paragraphs from LLM Token Activations](https://arxiv.org/pdf/2409.06328), Sep. 10 2024.
+- [MIB: A mechanistic interpretability benchmark](https://arxiv.org/pdf/2504.13151), Apr. 17 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
