@@ -39,5 +39,6 @@
 - [Optimizing ml training with metagradient descent](https://arxiv.org/pdf/2503.13751), Mar. 17 2025. `data selection`.
   - compared with LESS by Mengzhou. 
 - [Predictive dadta selection: The data that predicts is the data that teaches](https://arxiv.org/pdf/2503.00808), Apr. 4 2025. [code](https://github.com/hkust-nlp/preselect).
+- [DataDecide: How to predict best pretraining data with small experiments](https://arxiv.org/pdf/2504.11393), Apr. 15 2025. [hf](https://huggingface.co/collections/allenai/datadecide-67edb1d2bacba40b5d3ed633).
 
 
