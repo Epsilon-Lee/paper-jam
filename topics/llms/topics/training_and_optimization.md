@@ -146,6 +146,7 @@
 - [On a connection between imitation learning and rlhf](https://arxiv.org/pdf/2503.05079), Mar. 7 2025. [code](https://github.com/tengxiao1/DIL).
 - [Societal alignment frameworks can improve LLM alignment](https://arxiv.org/pdf/2503.00069), Feb. 27 2025.
 - [Learning a canonical basis of human preferences from binary settings](https://arxiv.org/pdf/2503.24150), Mar. 31 2025. [code](https://github.com/kailas-v/HumanPreferencesBasis).
+- [Better estimation of the KL divergence between language models](https://arxiv.org/pdf/2504.10637), Apr. 14 2025. [code](https://github.com/rycolab/kl-rb).
 
 ### Post-training for bert
 
