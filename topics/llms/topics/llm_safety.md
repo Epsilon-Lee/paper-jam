@@ -39,6 +39,7 @@
 - [What are they filtering out? A survey of filtering strategies for harm reduction in pretraining datasets](https://arxiv.org/pdf/2503.05721), Feb. 17 2025.
 - [An approach to technical AGI safety and security](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/evaluating-potential-cybersecurity-threats-of-advanced-ai/An_Approach_to_Technical_AGI_Safety_Apr_2025.pdf), Apr. 2025. Google DeepMind. [blogpost](https://deepmind.google/discover/blog/taking-a-responsible-path-to-agi/).
 - [Sorry-Bench: Systematically evaluating large language model safety refusal](https://arxiv.org/pdf/2406.14598), Mar. 1 2025.
+- [In which areas of technical AI safety could geopolitical rivals cooperate?](https://arxiv.org/pdf/2504.12914), Apr. 17 2025.
 
 #### Survey and definition
 
