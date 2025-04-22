@@ -179,6 +179,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [From data to uncertainty sets: A machine learning approach](https://arxiv.org/pdf/2503.02173), Mar. 4 2025.
 - [Credal two-sample tests of epistemic uncertainty](https://arxiv.org/abs/2410.12921), Mar. 13 2025.
 - [Weak-to-strong generalization even in random feature networks, provably](https://arxiv.org/pdf/2503.02877), Mar. 4 2025.
+- [Survey on algorithms for multi-index models](https://arxiv.org/pdf/2504.05426), Apr. 7 2025.
 
 ### Contrastive learning
 
