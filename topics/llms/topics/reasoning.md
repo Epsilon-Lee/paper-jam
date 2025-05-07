@@ -107,5 +107,9 @@
 - [Inference-time scaling for complex tasks: Where we stand and what lies ahead](https://arxiv.org/pdf/2504.00294), Mar. 31 2025.
 - [The "think" tool: Enabling Claude to stop and think in complex tool use situations](https://www.anthropic.com/engineering/claude-think-tool), Mar. 20 2925.
 - [The first few tokens are all you need: An efficient and effective unsupervised prefix fine-tuning method for reasoning models](https://arxiv.org/pdf/2503.02875), Mar. 4 2025.
+- [Cognitive Behaviors that Enable Self-Improving Reasoners](https://arxiv.org/pdf/2503.01307), May 3 2025. [code](https://github.com/kanishkg/cognitive-behaviors).
+- [SPaR: Self-play with tree-search refinement to improve instruction-following in large language models](https://arxiv.org/pdf/2412.11605), Mar. 16 2025.
+- [Process reward models that think](https://arxiv.org/pdf/2504.16828), Apr. 23 2025. [code](https://github.com/mukhal/thinkprm).
+- [PipelineRL](https://huggingface.co/blog/ServiceNow/pipelinerl), Apr. 25 2025. [code](https://github.com/ServiceNow/PipelineRL).
 
 
