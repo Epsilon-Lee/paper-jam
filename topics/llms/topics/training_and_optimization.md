@@ -34,6 +34,7 @@
   - _"MeCo first provides metadata (e.g. URLs like en.wikipedia.org alongside the text during training and later uses a cooldown phase with only the standard text, theirby enabling the model to function normally even without metadata.)"_
 - [LLM pretraining with continuous concepts](https://arxiv.org/pdf/2502.08524), Feb. 12 2025. [code](https://github.com/facebookresearch/RAM/tree/main/projects/cocomix).
 - [Reasoning to learn from latent thoughts](https://arxiv.org/pdf/2503.18866), Mar. 24 2025. [code](https://arxiv.org/pdf/2503.18866).
+- [Gemini pretraining](https://vladfeinberg.com/assets/2025-04-24-princeton-talk.pdf), Apr. 24 2025. `slides`.
 
 ### Peft techniques
 
