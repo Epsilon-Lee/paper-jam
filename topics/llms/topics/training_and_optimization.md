@@ -35,14 +35,23 @@
 - [LLM pretraining with continuous concepts](https://arxiv.org/pdf/2502.08524), Feb. 12 2025. [code](https://github.com/facebookresearch/RAM/tree/main/projects/cocomix).
 - [Reasoning to learn from latent thoughts](https://arxiv.org/pdf/2503.18866), Mar. 24 2025. [code](https://arxiv.org/pdf/2503.18866).
 
-### Peft techniques & Instruction-tuning
+### Peft techniques
 
 - [Parameter-efficient fine-tuning of large-scale pre-trained language models](https://www.nature.com/articles/s42256-023-00626-4.pdf), Nature Machine Intelligence 2023.
 - [Towards a unified view of parameter-efficient transfer learning](https://arxiv.org/pdf/2405.14838), Feb. 2 2022.
 - [Fine-Tuning Language Models with Just Forward Passes](https://proceedings.neurips.cc/paper_files/paper/2023/file/a627810151be4d13f907ac898ff7e948-Paper-Conference.pdf), NeurIPS 2023.
-- [LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning](https://arxiv.org/pdf/2403.17919), May 25 2024.
 - [LoRA-Pro: Are Low-Rank Adapters Properly Optimized?](https://arxiv.org/pdf/2407.18242), Jul. 25 2024.
 - [QLoRA: Efficient finetuning of quantized LLMs](https://arxiv.org/pdf/2305.14314), May 23 2023.
+- [LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning](https://arxiv.org/pdf/2403.17919), May 25 2024.
+- [Conditional LoRA Parameter Generation](https://arxiv.org/pdf/2408.01415), Aug. 2024.
+- [Fast Forward Low-Rank Training](https://arxiv.org/pdf/2409.04206), Sep. 6  2024.
+  - _"In a Fast Forward stage, we **repeat** the most recent optimizer step until the loss stops improving on a tiny validation set."_
+  - _"By alternating between regular optimization steps and Fast Forward stages, Fast Forward provides up to an87% reduction in FLOPs and up to an 81% reduction in train time over standard SGD with Adam."_
+- [Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need](https://arxiv.org/pdf/2406.03216), Jun. 5 2024.
+
+### Supervised fine-tuning, instruction-tuning and following
+
+- [AI capabilities can be significantly improved without expensive retraining](https://arxiv.org/pdf/2312.07413), Dec. 12 2023. `icml2023`.
 - [3-in-1: 2D Rotary Adaptation for Efficient Finetuning, Efficient Batching and Composability](https://arxiv.org/pdf/2409.00119), Aug. 28 2024.
 - [Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data](https://arxiv.org/pdf/2302.00674.pdf), Feb. 1 2023. [tweet](https://github.com/alon-albalak/FLAD).
   - _"the use of a small training set makes it difficult to avoid overfitting"_
@@ -56,17 +65,12 @@
     - adds minimal memory and computational overhead.
 - [Instruction Tuning for Large Language Models: A Survey](https://arxiv.org/pdf/2308.10792), Mar. 14 2024.
 - [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/pdf/2205.05638), Aug. 26 2022.
-- [LoRA Learns Less and Forgets Less](https://arxiv.org/pdf/2405.09673v1), May 15 2024.
 - [The Impact of Initialization on LoRA Finetuning Dynamics](https://arxiv.org/pdf/2406.08447), Jun. 12 2024. `lora`.
 - [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](https://arxiv.org/abs/2312.09979), Dec. 15 2023. `knowledge forgetting`.
-- [Conditional LoRA Parameter Generation](https://arxiv.org/pdf/2408.01415), Aug. 2024.
-- [Fast Forward Low-Rank Training](https://arxiv.org/pdf/2409.04206), Sep. 6  2024.
-  - _"In a Fast Forward stage, we **repeat** the most recent optimizer step until the loss stops improving on a tiny validation set."_
-  - _"By alternating between regular optimization steps and Fast Forward stages, Fast Forward provides up to an87% reduction in FLOPs and up to an 81% reduction in train time over standard SGD with Adam."_
+- [LoRA Learns Less and Forgets Less](https://arxiv.org/pdf/2405.09673v1), May 15 2024.
 - [Orthogonal Finetuning for Direct Preference Optimization](https://arxiv.org/pdf/2409.14836), Sep. 23 2024.
 - [ReFT: Representation Finetuning for Language Models](https://arxiv.org/abs/2404.03592), Apr. 4 2024.
 - [ALLoRA: Adaptive learning rate mitigates LoRA fatal flaws](https://arxiv.org/pdf/2410.09692), Oct. 13 2024.
-- [Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need](https://arxiv.org/pdf/2406.03216), Jun. 5 2024.
 - [NefTune: Noisy Embeddings Improve Instruction Tuning](https://arxiv.org/pdf/2310.05914), Oct. 10 2023.  
 - [Bitune: Bidirectional Instruction-Tuning](https://arxiv.org/pdf/2405.14862), May 23 2024.
 - [RE-Adapt: Reverse Engineered Adaptationof Large Language Models](https://arxiv.org/pdf/2405.15007), May 23 2024.
@@ -77,6 +81,7 @@
 - [Predicting emergent capabilitiew by finetuning](https://arxiv.org/pdf/2411.16035), Nov. 25 2024.
 - [Overtrained language models are harder to fine-tune](https://openreview.net/pdf?id=H2SbfCYsgn), ICLR 2025.
 - [On the generalization of language models from in-context learning and finetuning: a controlled study](https://arxiv.org/pdf/2505.00661), May 1 2025.
+- [Meeseeks: An iterative benchmark evaluating LLMs multi-turn instruction-following ability](https://arxiv.org/pdf/2504.21625), Apr. 30 2025.
 
 ### Alignment, preference alignment, reward models
 
