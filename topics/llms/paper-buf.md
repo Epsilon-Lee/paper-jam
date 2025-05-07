@@ -278,6 +278,8 @@
 - [Replacing judges with juries: Evaluating LLM generations with a panel of diverse models](), May 1 2024.
 - [Great models think alike and this undermines AI oversight](https://arxiv.org/pdf/2502.04313), Feb. 6 2025. [code](https://github.com/model-similarity/lm-similarity).
 - [TRACT: Regression-aware fine-tuning meets chain-of-thought reasoning for LLM-as-a-judge](https://arxiv.org/pdf/2503.04381), Mar. 6 2025. [code](https://github.com/d223302/TRACT).
+- [Learning to plan & reason for evaluation with thinking-LLM-as-a-judge](https://arxiv.org/pdf/2501.18099), Jan. 30 2025.
+- [An LLM-as-judge won't save the product - fixing your process will](https://eugeneyan.com/writing/eval-process/), 2025.
 
 ### Length generalization
 
@@ -367,6 +369,11 @@
 - [EvalTree: Profiling language model weakness via hierarchical capability trees](https://arxiv.org/pdf/2503.08893), Mar. 11 2025. [code](https://github.com/Zhiyuan-Zeng/EvalTree).
 - [Reliable and efficient amortized model-based evaluation](https://arxiv.org/pdf/2503.13335), Mar. 17 2025.
 - [In-house evaluation is not enough: Towards robust third-party flaw disclosure for general-purpose AI](https://arxiv.org/pdf/2503.16861), Mar. 25 2025.
+- [Evaluation framework for AI systems in the wild](https://arxiv.org/pdf/2504.16778), Apr. 2025. `white paper`.
+- [The leaderboard illusion](https://arxiv.org/pdf/2504.20879), Apr. 29 2025.
+- [Repairing the cracked foundation: A survey of obstacles in evaluation practices for generated text](https://www.jair.org/index.php/jair/article/view/13715/26927), [arxiv version](https://arxiv.org/pdf/2202.06935), Feb. 14 2022.
+- [Training on the test task confounds evaluation and emergence](https://arxiv.org/pdf/2407.07890), Apr. 21 2025. [code](https://github.com/socialfoundations/training-on-the-test-task).
+- [Cost-of-pass: An economic framework for evaluating language models](https://arxiv.org/pdf/2504.13359), Apr. 17 2025. [code](https://github.com/mhamzaerol/Cost-of-Pass).
 
 #### Data contamination
 
