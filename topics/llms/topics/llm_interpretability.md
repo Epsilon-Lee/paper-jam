@@ -115,6 +115,8 @@
 - [Sensing and steering stereotypes: Extracting and applying gender representation vectors in LLMs](https://arxiv.org/pdf/2502.19721), Feb. 27 2925. [code](https://github.com/hannahxchen/gender-bias-steering).
 - [Extracting Paragraphs from LLM Token Activations](https://arxiv.org/pdf/2409.06328), Sep. 10 2024.
 - [MIB: A mechanistic interpretability benchmark](https://arxiv.org/pdf/2504.13151), Apr. 17 2025.
+- [Uncovering latent chain of thought vectors in large language models](https://arxiv.org/pdf/2409.14026), Mar. 20 2025.
+- [Investigating task-specific prompts and sparse autoencoders for activation monitoring](https://arxiv.org/pdf/2504.20271), Apr. 28 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
