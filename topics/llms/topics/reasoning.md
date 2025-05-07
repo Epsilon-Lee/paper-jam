@@ -112,5 +112,6 @@
 - [Process reward models that think](https://arxiv.org/pdf/2504.16828), Apr. 23 2025. [code](https://github.com/mukhal/thinkprm).
 - [PipelineRL](https://huggingface.co/blog/ServiceNow/pipelinerl), Apr. 25 2025. [code](https://github.com/ServiceNow/PipelineRL).
 - [Reinforcement learning for reasoning in large language models with one training example](https://arxiv.org/pdf/2504.20571), Apr. 29 2025. [code](https://github.com/ypwang61/One-Shot-RLVR).
+- [Self-improvement in language models: The sharpening mechanism](https://arxiv.org/pdf/2412.01951), Dec. 4 2024.
 
 
