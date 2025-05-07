@@ -76,6 +76,7 @@
 - [Instruction pretraining: Language models are supervised multitask learners](https://arxiv.org/pdf/2406.14491), Nov. 28 2024.
 - [Predicting emergent capabilitiew by finetuning](https://arxiv.org/pdf/2411.16035), Nov. 25 2024.
 - [Overtrained language models are harder to fine-tune](https://openreview.net/pdf?id=H2SbfCYsgn), ICLR 2025.
+- [On the generalization of language models from in-context learning and finetuning: a controlled study](https://arxiv.org/pdf/2505.00661), May 1 2025.
 
 ### Alignment, preference alignment, reward models
 
@@ -147,6 +148,8 @@
 - [Societal alignment frameworks can improve LLM alignment](https://arxiv.org/pdf/2503.00069), Feb. 27 2025.
 - [Learning a canonical basis of human preferences from binary settings](https://arxiv.org/pdf/2503.24150), Mar. 31 2025. [code](https://github.com/kailas-v/HumanPreferencesBasis).
 - [Better estimation of the KL divergence between language models](https://arxiv.org/pdf/2504.10637), Apr. 14 2025. [code](https://github.com/rycolab/kl-rb).
+- [Understanding the logic of direct preference alignment through logic](https://arxiv.org/pdf/2412.17696), Dec. 2024.
+- [Self-supervised alignment with mutual information learning to follow principles without preference labels](https://arxiv.org/pdf/2404.14313), May 21 2024. [code](https://github.com/janphilippfranken/sami).
 
 ### Post-training for bert
 
