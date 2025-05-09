@@ -374,6 +374,7 @@
 - [Repairing the cracked foundation: A survey of obstacles in evaluation practices for generated text](https://www.jair.org/index.php/jair/article/view/13715/26927), [arxiv version](https://arxiv.org/pdf/2202.06935), Feb. 14 2022.
 - [Training on the test task confounds evaluation and emergence](https://arxiv.org/pdf/2407.07890), Apr. 21 2025. [code](https://github.com/socialfoundations/training-on-the-test-task).
 - [Cost-of-pass: An economic framework for evaluating language models](https://arxiv.org/pdf/2504.13359), Apr. 17 2025. [code](https://github.com/mhamzaerol/Cost-of-Pass).
+- [Cer-Eval: Certifiable and Cost-Efficient Evaluation Framework for LLMs](https://arxiv.org/pdf/2505.03814), May 2 2025.
 
 #### Data contamination
 
