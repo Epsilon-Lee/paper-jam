@@ -3,9 +3,14 @@
 
 ### Reasoning
 
+- [How truncating weights improves reasoning in language models](https://arxiv.org/pdf/2406.03068), Jun. 5 2024. `reasoning`.
+- [From explicit cot to implicit cot: Learning to internalize cot step by step](https://arxiv.org/pdf/2405.14838), May 23 2024. `reasoning`.
+- [Towards understanding how transformer perform multi-step reasoning with matching operation](https://arxiv.org/pdf/2405.15302), May 24 2024. `reasoning`.
+- [Learning beyond pattern matching? Assaying mathematical understanding in LLMs](https://arxiv.org/pdf/2405.15485), May 24 2024. `reasoning`.
 - [STaR- Self-Taught Reasoner: Boostrapping reasoning with reasoning](https://arxiv.org/pdf/2203.14465), May 20 2022.
 - [Reflexion: Language agents with verbal reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/1b44b878bb782e6954cd888628510e90-Paper-Conference.pdf), NeurIPS 20224.
 - [Program of thoughts prompting: Disentangling computation from reasoning for numerical reasoning tasks](https://arxiv.org/pdf/2211.12588), Oct. 23 2023. [code](https://github.com/TIGER-AI-Lab/Program-of-Thoughts).
+- [How Far Can Transformers Reason? The Locality Barrier and Inductive Scratchpad](https://arxiv.org/pdf/2406.06467), Jun. 10 2024. `reasoning`.
 - [System-1.x: Learning to Balance Fast and Slow Planning with Language Models](https://arxiv.org/pdf/2407.14414), Jul. 19 2024.
 - [Does reasoning emerge? Examing the probabilities of causation in large language models](https://arxiv.org/pdf/2408.08210), Aug. 15 2024.
   - _"to what extent do LLMs perform actual reasoning"_
