@@ -14,25 +14,22 @@
 - [Data curation and mixing](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/data_curation_and_mixing.md).
 - [Tech. reports](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/tech_reports.md).
 - [Agent](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/agent.md).
+- [Long-context](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/long_context.md).
+- [LLMs-as-judge](https://github.com/Epsilon-Lee/paper-jam/tree/main/topics/llms/topics).
+- [Prompting techniques](https://github.com/Epsilon-Lee/paper-jam/tree/main/topics/llms/topics).
 
 ### Buffered papers
 
 - [Position: Levels of AGI for Operationalizing Progress on the Path to AGI](https://openreview.net/pdf?id=0ofzEysK2D), ICML 2024.
 - [WILDCHAT: 1M CHATGPT INTERACTION LOGS IN THE WILD](https://arxiv.org/pdf/2405.01470), May 2 2024.
   - It is interesting to know the data distribution of queries to ChatGPT.
-- [Lessons from the Trenches on Reproducible Evaluation of Language Models](https://arxiv.org/abs/2405.14782), May 23 2024. `evaluation`.
-- [How Far Can Transformers Reason? The Locality Barrier and Inductive Scratchpad](https://arxiv.org/pdf/2406.06467), Jun. 10 2024. `reasoning`.
 - [Large Scale Transfer Learning for Tabular Data via Language Modeling](https://arxiv.org/pdf/2406.12031), Jun. 2024. `tabular llm`.
 - [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/pdf/2406.11931), Jun. 17 2024. `tech report`.
 - [Infinite Limits of Multi-head Transformer Dynamics](https://arxiv.org/pdf/2405.15712), May 24 2024. `learning dynamics`.
-- [What Variables Affect Out-Of-Distribution Generalization in Pretrained Models?](https://arxiv.org/pdf/2405.15018), May 23 2024.
-- [Learning Beyond Pattern Matching? Assaying Mathematical Understanding in LLMs](https://arxiv.org/pdf/2405.15485), May 24 2024. `reasoning`.
-- [Towards Understanding How Transformer Perform Multi-step Reasoning with Matching Operation](https://arxiv.org/pdf/2405.15302), May 24 2024. `reasoning`.
-- [From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step](https://arxiv.org/pdf/2405.14838), May 23 2024. `reasoning`.
-- [Kernel Language Entropy: Fine-grained Uncertainty Quantification for LLMs from Semantic Similarities](https://arxiv.org/pdf/2405.20003), May 30 2024. `uncertainty`.
-- [A Language Model's Guide Through Latent Space](https://arxiv.org/pdf/2402.14433), Feb. 22 2024.
-- [Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models](https://proceedings.mlr.press/v202/liu23ao/liu23ao.pdf), ICML 2023.
-- [How Truncating Weights Improves Reasoning in Language Models](https://arxiv.org/pdf/2406.03068), Jun. 5 2024. `reasoning`.
+- [What variables affect out-of-distribution generalization in pretrained models?](https://arxiv.org/pdf/2405.15018), May 23 2024.
+- [Kernel language entropy: Fine-grained uncertainty quantification for LLMs from semantic similarities](https://arxiv.org/pdf/2405.20003), May 30 2024. `uncertainty`.
+- [A language model's guide through latent space](https://arxiv.org/pdf/2402.14433), Feb. 22 2024.
+- [Same pre-training loss, better downstream: Implicit bias matters for language models](https://proceedings.mlr.press/v202/liu23ao/liu23ao.pdf), ICML 2023.
 - [Does learning the right latent variables necessarily improve in-context learning?](https://arxiv.org/pdf/2405.19162), May 29 2024.
 - [Towards an empirical understanding of MoE design choices](https://arxiv.org/pdf/2402.13089), Feb. 20 2024. `moe`.
 - [StructLM: Towards Building Generalist Models for Structured Knowledge Grounding](https://arxiv.org/pdf/2402.16671), Apr. 24 2024. `structure knowledge`.
@@ -45,12 +42,11 @@
 - [QOG:Question and Options Generation based on Language Model](https://arxiv.org/pdf/2406.12381), Jun. 18 2024. `data synthesis`.
 - [Dataverse: Open-Source ETL (Extract, Transform, Load) Pipeline for Large Language Models](https://arxiv.org/pdf/2403.19340), Mar. 28 2024. `data pipeline`.
 - [Can language model explain their own classification behavior?](https://arxiv.org/pdf/2405.07436), May 13 2024.
-- [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221), Jul. 11 2022.
+- [Language models (mostly) know what they know](https://arxiv.org/abs/2207.05221), Jul. 11 2022.
 - [xVal: A Continuous Number Encoding for Large Language Models](https://arxiv.org/abs/2310.02989), Oct. 4 2023.
-- [Memory Mosaics](https://arxiv.org/pdf/2405.06394), May 10 2024.
-- [Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data](https://arxiv.org/pdf/2404.01413), Apr. 29 2024. `synthetic data`.
+- [Memory mosaics](https://arxiv.org/pdf/2405.06394), May 10 2024.
+- [Is model collapse inevitable? Breaking the curse of recursion by accumulating real and synthetic Data](https://arxiv.org/pdf/2404.01413), Apr. 29 2024. `synthetic data`.
   - _"accumulating the successive generations of synthetic data alongside the original data avoids model collapse"_
-- [An Introduction to Vision-Language Modeling](https://arxiv.org/pdf/2405.17247), May 27 2024. `tutorial`.
 - [Approaching Human-Level Forecasting with Language Models](https://arxiv.org/pdf/2402.18563), Feb. 28 2024.
 - [Can LLMs Separate Instructions From Data? And What Do We Even Mean By That?](https://arxiv.org/pdf/2403.06833), Jun. 3 2024.
 - [Data-Centric AI in the Age of Large Language Models](https://arxiv.org/pdf/2406.14473), Jun. 20 2024. `data-centric`.
@@ -244,63 +240,6 @@
 - [(How) do language models track state?](https://arxiv.org/pdf/2503.02854), Mar. 11 2025. [code](https://github.com/belindal/state-tracking).
 - [A survey of uncertainty estimation methods on large language models](https://arxiv.org/pdf/2503.00172), Feb. 28 2025.
 
-### LLM as a judge
-
-- [Judging llm-as-a-judge with mt-bench and chatbot](https://arxiv.org/abs/2306.05685), Jun. 9 2023.
-- [Preference leakage: A contamination problem in LLM-as-a-judge](https://arxiv.org/pdf/2502.01534), Feb. 3 2025.
-- [Investigating non-transitivity in LLM-as-a-judge](https://arxiv.org/pdf/2502.14074), Feb. 19 2025.
-- [Crowd comparative reasoning: Unlocking comprehensive evaluation for LLM-as-a-judge](https://arxiv.org/pdf/2502.12501), Feb. 18 2025.
-- [LLM Juries for Evaluation](https://www.comet.com/site/blog/llm-juries-for-evaluation/), `blogpost`.
-- [Does context matter? ContextJudgeBench for evaluating LLM-based judges in contextual settings](), Mar. 19 2025. [code](https://github.com/SalesforceAIResearch/ContextualJudgeBench).
-- [Fantastic LLMs for preference data annotation and how to (not) find them](https://arxiv.org/pdf/2411.02481v1), Nov. 4 2024.
-- [Replacing judges with juries: Evaluting LLM generations with a penel of diverse models](https://arxiv.org/abs/2404.18796), Apr. 29 2024.
-- [Limits to scalable evaluation at the frontier: LLM as Judge won't beat twice the data](https://arxiv.org/pdf/2410.13341), Feb. 11 2025.
-  - _"Our main results shows that when the judge is no more accurate than the evaluated model, no debiasing method can decrease the required amount of ground truth labels by more than half."_
-- [On scalable oversight with weak LLMs judging strong LLMs](https://proceedings.neurips.cc/paper_files/paper/2024/file/899511e37a8e01e1bd6f6f1d377cc250-Paper-Conference.pdf), NeurIPS 2024.
-- [Evaluating language model agency through negotiations](https://arxiv.org/abs/2401.04536), Jan. 9 2024.
-- [Replacing judges with juries: Evaluating LLM generations with a panel of diverse models](https://arxiv.org/pdf/2404.18796), May 1 2024.
-- [Trust or escalate: LLM judges with provable guarantees for human agreement](https://arxiv.org/pdf/2407.18370), Jul. 25 2024. [code](https://github.com/jaehunjung1/cascaded-selective-evaluation).
-- [TRACT: Regression-aware fine-tuning meets chain-of-thought reasoning for LLM-as-a-judge](https://arxiv.org/pdf/2503.04381), Mar. 6 2025. [code](https://github.com/d223302/TRACT).
-- [Learning to plan & reason for evaluation with thinking-LLM-as-a-judge](https://arxiv.org/pdf/2501.18099), Jan. 30 2025.
-- [An LLM-as-judge won't save the product - fixing your process will](https://eugeneyan.com/writing/eval-process/), 2025.
-
-#### Survey papers
-
-- [A survey on LLM-as-a-judge](https://arxiv.org/pdf/2411.15594), Nov. 2024.
-- [From generation to judgement: Opportunities and challenges of LLM-as-a-judge](https://arxiv.org/pdf/2411.16594), Nov. 2024.
-- [LLMs-as-judges: A comprehensive survey on llm-based evaluation methods](https://arxiv.org/pdf/2412.05579), Dec. 10 2024.
-- [Automatically correcting large language models: Surveying the landscape of diverse automated correction strategies](https://arxiv.org/abs/2308.03188), TACL 2024.
-- [Verdict: A library for scaling judge-time compute](https://arxiv.org/pdf/2502.18018), Feb. 25 2025.
-
-#### Fine-tuned judge, debate, collaborate
-
-- [Fine-tuning language models to find agreement among humans with diverse preferences](https://openreview.net/pdf?id=G5ADoRKiTyJ), NeurIPS 2022.
-- [The goldilocks of pragmatic understanding: Fine-tuning strategy matters for implicature resolution by LLMs](https://proceedings.neurips.cc/paper_files/paper/2023/file/4241fec6e94221526b0a9b24828bb774-Paper-Conference.pdf), NeurIPS 2023.
-- [Training language models to win debates with self-play improves judge accuracy](https://arxiv.org/pdf/2409.16636), Sep. 2024.
-- [Melting Pot Context: Charting the future of generalized cooperative intelligence](https://proceedings.neurips.cc/paper_files/paper/2024/file/1d3ea22480873b389a3365d711eb1e91-Paper-Datasets_and_Benchmarks_Track.pdf), NeurIPS 2024.
-- [Improving factuality and reasoning in language models through multiagent debate](https://openreview.net/pdf?id=zj7YuTE4t8), ICML 2024. [code](https://composable-models.github.io/llm_debate/).
-- [Cooperation, competition, and maliciousness: LLM-stakeholders interactive negotiation](https://proceedings.neurips.cc/paper_files/paper/2024/file/984dd3db213db2d1454a163b65b84d08-Paper-Datasets_and_Benchmarks_Track.pdf), NeurIPS 2024.
-- [How well can LLMs negotiate? NegotiationAreana platform and analysis](https://arxiv.org/abs/2402.05863), Feb. 8 2024.
-- [Debating with more persuasive LLMs leads to more truthful answers](https://arxiv.org/pdf/2402.06782), Jun. 25 2024.
-- [Training language models to win debates with self-play improves judge accuracy](https://arxiv.org/pdf/2409.16636v1), Sep. 25 2024. [code](https://github.com/samuelarnesen/nyu-debate-modeling).
-- [LLM-deliberation: Evaluating LLMs with interactive multi-agent negotiation game](https://openreview.net/forum?id=cfL8zApofK), ICLR 2024.
-- [Large language model agents can coordinate beyond human scale](https://arxiv.org/pdf/2409.02822), Dec. 22 2024.
-- [Evaluating language model agency through negotiations](https://arxiv.org/abs/2401.04536), Jan. 9 2024.
-- [Multi-agent consensus seeking via large language models](https://arxiv.org/pdf/2310.20151), Jan. 21 2025.
-- [Great models think alike and this undermines AI oversight](https://arxiv.org/pdf/2502.04313), Feb. 6 2025. [code](https://github.com/model-similarity/lm-similarity).
-
-### Length generalization
-
-- [Your Context Is Not an Array: Unveiling Random Access Limitations in Transformers](https://arxiv.org/pdf/2408.05506), Aug. 10 2024.
-- [A formal framework for understanding length generalization in transformers](https://arxiv.org/pdf/2410.02140), Oct. 3 2024.
-- [Self-improving transformers overcome easy-to-hard and length generalization challengs](https://arxiv.org/pdf/2502.01612), Feb. 3 2025.
-- [NoLiMa: Long-context evaluation beyond literal matching](https://arxiv.org/pdf/2502.05167), Feb. 7 2025.
-- [LongPO: Long context self-evolution of large language models through short-to-long preference optimization](https://www.arxiv.org/pdf/2502.13922), ICLR 2025. [tweet](https://x.com/gzchen3/status/1892870929966883236). [code](https://github.com/DAMO-NLP-SG/LongPO).
-- [How to train long-context language models (effectively)](https://arxiv.org/pdf/2410.02660), Oct. 3 2024.
-- [LIFT: Improving long context understanding of large language models through long input fine-tuning](https://arxiv.org/pdf/2502.14644), Feb. 2025.
-- [The Role of Sparsity for Length Generalization in Transformers](https://arxiv.org/pdf/2502.16792), Feb. 24 2025.
-- [A survey on transformer context extension: Approaches and evaluation](https://arxiv.org/pdf/2503.13299), Mar. 17 2025.
-
 ### In-context learning
 
 - [In-context Learning and Induction Heads](https://arxiv.org/pdf/2209.11895), Mar. 8 2022. `in-context-learning`.
@@ -314,7 +253,7 @@
 - [Unraveling the Mechanics of Learning-Based Demonstration Selection for In-Context Learning](https://arxiv.org/pdf/2406.11890), Jun. 14 2024. `icl`.
 - [Probing the Decision Boundaries of In-context Learning in Large Language Models](https://arxiv.org/pdf/2406.11233), Jun. 17 2024. `icl`.
 - [Investigating the Pre-Training Dynamics of In-Context Learning: Task Recognition vs. Task Learning](https://arxiv.org/pdf/2406.14022), Jun. 20 2024. `in-context learning`.
-- [Transformers are Universal In-context Learners](https://arxiv.org/pdf/2408.01367), Aug. 2 2024. `in-context learning`.
+- [Transformers are universal on-context learners](https://arxiv.org/pdf/2408.01367), Aug. 2 2024. `in-context learning`.
 - [Memorization in in-context learning](https://arxiv.org/pdf/2408.11546), Aug. 21 2024.
 - [Divide, reweight, and conquer: A logit arithmetic approach for in-context learning](https://arxiv.org/pdf/2410.10074), Oct. 14 2024. [code](https://github.com/Chengsong-Huang/LARA).
 - [Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models](https://arxiv.org/pdf/2410.09701), Oct. 13 2024.
@@ -332,24 +271,7 @@
 - [Distinct computations emerge from compositional curricula in in-context learning](https://openreview.net/pdf?id=oo5TNikeJl), ICLR 2025.
   - [Curriculum effects and compositionality emerge with in-context learning in neural networks](https://arxiv.org/abs/2402.08674), Feb. 13 2024.
 - [RNNs are not Transformers (Yet): The key bottleneck on in-context retrieval](https://arxiv.org/pdf/2402.18510), Dec. 6 2024. [code](https://arxiv.org/pdf/2402.18510).
-
-### Prompting techniques
-
-- [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608), Jun. 6 2024. `prompting`.
-- [A survey of prompt engineering methods in large language models for different nlp tasks](https://arxiv.org/pdf/2407.12994), Jul. 17 2024.
-- [Rational metareasoning for large language models](), Dec. 21 2024.
-- [On the power of context-enhanced learning in LLMs](https://arxiv.org/pdf/2503.01821), Mar. 3 2025.
-- [A theoretical framework for prompt engineering: Approximating smooth functions with transformer prompts](https://arxiv.org/pdf/2503.20561), Mar. 26 2025.
-- [How susceptible are LLMs to influence in prompts](https://arxiv.org/pdf/2408.11865), Aug. 17 2024.
-- [What Did I Do Wrong? Quantifying LLMs’ Sensitivity and Consistency to Prompt Engineering](https://arxiv.org/pdf/2406.12334), Jun. 18 2024. `prompt engineering`.
-- [Understanding the Relationship between Prompts and Response Uncertainty in Large Language Models](https://arxiv.org/pdf/2407.14845), Jul. 20 2024. related to `knowledge extraction`.
-- [FUSE-ing Language Models: Zero-Shot Adapter Discovery for Prompt Optimization Across Tokenizers](https://arxiv.org/pdf/2408.04816), Aug. 9 2024. `COLM2024`. [code](https://github.com/jnwilliams/FUSE_prompt_inversion).
-- [Keeping LLMs Aligned After Fine-tuning: The Crucial Role of Prompt Templates](https://arxiv.org/pdf/2402.18540), Feb. 28 2024.
-- [Does Prompt Formatting Have Any Impact on LLM Performance?](https://arxiv.org/pdf/2411.10541), Nov. 15 2024.
-- [Rule Extrapolation in Language Models: A Study of Compositional Generalization on OOD Prompts](https://arxiv.org/pdf/2409.13728), Oct. 24 2024. [code](https://github.com/meszarosanna/rule_extrapolation).
-- [Hard prompts made easy: Gradient-based discrete optimization for prompt tuning and discovery](https://proceedings.neurips.cc/paper_files/paper/2023/file/a00548031e4647b13042c97c922fadf1-Paper-Conference.pdf), NeurIPS 2023.
-- [Automatic prompt optimization with "gradient descent" and beam search](https://arxiv.org/pdf/2305.03495), Oct. 19 2023.
-- [Prompt optimization with logged bandit data](https://arxiv.org/pdf/2504.02646), Apr. 3 2025.
+- [Why in-context learning models are good few-shot learners?](https://openreview.net/forum?id=iLUcsecZJp), Jan. 23 2025. `ICLR 2025`.
 
 ### LLMs for traditional nlp tasks
 
@@ -367,6 +289,7 @@
 
 ### Evaluation
 
+- [Lessons from the Trenches on reproducible evaluation of language models](https://arxiv.org/abs/2405.14782), May 23 2024. `evaluation`.
 - [Evaluating language models as risk scores](https://arxiv.org/pdf/2407.14614), Jul. 19 2024.
 - [Training on the test task confounds evaluation and emergence](https://arxiv.org/pdf/2407.07890?), Jul. 10 2024. [code](https://github.com/socialfoundations/training-on-the-test-task).
 - [Language model developers should report train-test overlap](https://arxiv.org/abs/2410.08385), Oct. 10 2024. [code](https://github.com/stanford-crfm/data-overlap).
@@ -416,6 +339,7 @@
 
 ### Multi-modality
 
+- [An introduction to vision-language modeling](https://arxiv.org/pdf/2405.17247), May 27 2024. `tutorial`.
 - [A Practitioner’s Guide to Continual Multimodal Pretraining](https://arxiv.org/pdf/2408.14471), Aug. 26 2024.
 - [Visual agents as fast and slow thinker](https://arxiv.org/pdf/2408.08862), Aug. 16 2024.
 - [NVLM: Open Frontier-Class Multimodal LLMs](https://nvlm-project.github.io/), Sep. 17 2024.
