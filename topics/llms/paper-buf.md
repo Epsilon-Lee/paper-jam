@@ -15,8 +15,8 @@
 - [Tech. reports](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/tech_reports.md).
 - [Agent](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/agent.md).
 - [Long-context](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/long_context.md).
-- [LLMs-as-judge](https://github.com/Epsilon-Lee/paper-jam/tree/main/topics/llms/topics).
-- [Prompting techniques](https://github.com/Epsilon-Lee/paper-jam/tree/main/topics/llms/topics).
+- [LLMs-as-judge](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/llms_as_judge.md).
+- [Prompting techniques](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/prompting.md).
 
 ### Buffered papers
 
