@@ -36,6 +36,7 @@
 - [Reasoning to learn from latent thoughts](https://arxiv.org/pdf/2503.18866), Mar. 24 2025. [code](https://arxiv.org/pdf/2503.18866).
 - [Gemini pretraining](https://vladfeinberg.com/assets/2025-04-24-princeton-talk.pdf), Apr. 24 2025. `slides`.
 - [Model merging in pre-training of large language models](https://arxiv.org/pdf/2505.12082), May 17 2025.
+- [Language models scale reliably with over-training and on downstream tasks](https://openreview.net/forum?id=iZeQBqJamf), ICLR 2025.
 
 ### Peft techniques
 
