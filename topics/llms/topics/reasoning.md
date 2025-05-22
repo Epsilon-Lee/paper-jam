@@ -120,5 +120,7 @@
 - [Self-improvement in language models: The sharpening mechanism](https://arxiv.org/pdf/2412.01951), Dec. 4 2024.
 - [AdaptMI: Adaptive skill-based in-context math instructions for small language models](https://arxiv.org/pdf/2505.00147), Apr. 30 2025. [code](https://github.com/princeton-pli/AdaptMI).
 - 【Absolute zero: Reinforced self-play reasoning with zero data](https://arxiv.org/pdf/2505.03335), May 7 2025. [code]().
+- [Think when you need: Self-adaptive chain-of-thought learning](https://arxiv.org/pdf/2504.03234), Apr. 4 2025.
+- [Implicit chain of thought reasoning via knowledge distillation](https://arxiv.org/pdf/2311.01460), Nov. 2 2023. [code](https://github.com/da03/implicit_chain_of_thought/).
 
 
