@@ -122,5 +122,6 @@
 - 【Absolute zero: Reinforced self-play reasoning with zero data](https://arxiv.org/pdf/2505.03335), May 7 2025. [code]().
 - [Think when you need: Self-adaptive chain-of-thought learning](https://arxiv.org/pdf/2504.03234), Apr. 4 2025.
 - [Implicit chain of thought reasoning via knowledge distillation](https://arxiv.org/pdf/2311.01460), Nov. 2 2023. [code](https://github.com/da03/implicit_chain_of_thought/).
+- [A study on overfitting in deep reinforcement learning](https://arxiv.org/pdf/1804.06893), Apr. 20 2025.
 
 
