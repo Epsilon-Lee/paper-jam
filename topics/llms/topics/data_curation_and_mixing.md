@@ -1,4 +1,5 @@
 
+- [Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data?tab=readme-ov-file).
 - [DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining](https://arxiv.org/pdf/2305.10429), Nov. 21 2023.
 - [TinyGSM: achieving > 80% on GSM8k with small language models](https://arxiv.org/pdf/2312.09241), Dec. 14 2023.
 - [What makes good data for alignment? A comphrehensive study of automatic data selection in instruction tuning](https://arxiv.org/pdf/2312.15685), Apr. 16 2024.
@@ -41,5 +42,7 @@
 - [Predictive dadta selection: The data that predicts is the data that teaches](https://arxiv.org/pdf/2503.00808), Apr. 4 2025. [code](https://github.com/hkust-nlp/preselect).
 - [DataDecide: How to predict best pretraining data with small experiments](https://arxiv.org/pdf/2504.11393), Apr. 15 2025. [hf](https://huggingface.co/collections/allenai/datadecide-67edb1d2bacba40b5d3ed633).
 - [Position: The most expensive part of an LLM should be its training data](https://arxiv.org/pdf/2504.12427), Apr. 16 2025.
+- [On LLMs-driven synthetic data generation, curation and evaluation: A survey](https://arxiv.org/pdf/2406.15126), Jun. 14 2024.
+- [Best practices and lessons learned on synthetic data](https://arxiv.org/pdf/2404.07503), Aug. 10 2024.
 
 
