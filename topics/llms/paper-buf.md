@@ -239,6 +239,11 @@
 - [Weak-to-strong generalization even in random feature networks, provably](https://arxiv.org/pdf/2503.02877), Mar. 4 2025.
 - [(How) do language models track state?](https://arxiv.org/pdf/2503.02854), Mar. 11 2025. [code](https://github.com/belindal/state-tracking).
 - [A survey of uncertainty estimation methods on large language models](https://arxiv.org/pdf/2503.00172), Feb. 28 2025.
+- [WildVis: Open source visualizer for million-scale chat logs in the wild](https://arxiv.org/pdf/2409.03753), Sep. 9 2024.
+- [Attention mechanism, max-affine partition and universal approximation](https://arxiv.org/pdf/2504.19901), Apr. 28 2025.
+- [From retrieval to reasoning: Advancing ai agents for knowledge discovery and collaboration](http://i.stanford.edu/~jure/pub/talks2/leskovec-relational-www_keynote-apr25v2.pdf), 2025.
+- [AI supply chains: An emerging ecosystem of AI actors, products, and services](https://arxiv.org/pdf/2504.20185), Apr. 28 2025.
+- [Lawma: The power of specialization for legal annotation](https://arxiv.org/pdf/2407.16615), Apr. 23 2025.
 
 ### In-context learning
 
