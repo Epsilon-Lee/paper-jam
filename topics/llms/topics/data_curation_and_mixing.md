@@ -44,5 +44,6 @@
 - [Position: The most expensive part of an LLM should be its training data](https://arxiv.org/pdf/2504.12427), Apr. 16 2025.
 - [On LLMs-driven synthetic data generation, curation and evaluation: A survey](https://arxiv.org/pdf/2406.15126), Jun. 14 2024.
 - [Best practices and lessons learned on synthetic data](https://arxiv.org/pdf/2404.07503), Aug. 10 2024.
+- [DataRater: Meta-learned dataset curation](https://arxiv.org/abs/2505.17895), May 23 2025.
 
 
