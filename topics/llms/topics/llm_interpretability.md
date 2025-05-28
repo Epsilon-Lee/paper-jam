@@ -118,6 +118,7 @@
 - [Uncovering latent chain of thought vectors in large language models](https://arxiv.org/pdf/2409.14026), Mar. 20 2025.
 - [Investigating task-specific prompts and sparse autoencoders for activation monitoring](https://arxiv.org/pdf/2504.20271), Apr. 28 2025.
 - [Why do LLMs attend to the first token?](https://arxiv.org/pdf/2504.02732), May 13 2025.
+- [Loss landscape degeneracy drives stagewise development in transformers](), Feb. 13 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
