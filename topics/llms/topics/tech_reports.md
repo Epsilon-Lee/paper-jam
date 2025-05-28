@@ -24,6 +24,7 @@
 - [Introducing Claude](https://www.anthropic.com/news/introducing-claude), Mar. 14 2023.
 - [Model Card and Evaluations for Claude Models](https://www-cdn.anthropic.com/bd2a28d2535bfb0494cc8e2a3bf135d2e7523226/Model-Card-Claude-2.pdf), Jul. 8 2023.
 - [The Claude 3 Model Family: Opus, Sonnet, Haiku](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf), [blogpost](https://www.anthropic.com/news/claude-3-family), Mar. 4 2024.
+- [System Card: Claude Opus 4 & Claude Sonnet 4](https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf), May 2025.
 
 **GPT series**
 
