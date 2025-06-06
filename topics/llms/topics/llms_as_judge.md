@@ -18,6 +18,8 @@
 - [TRACT: Regression-aware fine-tuning meets chain-of-thought reasoning for LLM-as-a-judge](https://arxiv.org/pdf/2503.04381), Mar. 6 2025. [code](https://github.com/d223302/TRACT).
 - [Learning to plan & reason for evaluation with thinking-LLM-as-a-judge](https://arxiv.org/pdf/2501.18099), Jan. 30 2025.
 - [An LLM-as-judge won't save the product - fixing your process will](https://eugeneyan.com/writing/eval-process/), 2025.
+- [Judging LLMs on a simplex](https://arxiv.org/pdf/2505.21972), May 28 2025.
+  - _"These results underscore the importance of taking a more holistic approach to uncertainty quantification when using LLMs as judges."_
 
 #### Survey papers
 
