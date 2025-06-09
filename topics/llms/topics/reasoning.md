@@ -126,5 +126,10 @@
 - [General-Reasoner: Advancing llm reasoning across all domains](https://arxiv.org/pdf/2505.14652v1), May 20 2025. [code](https://github.com/TIGER-AI-Lab/General-Reasoner).
 - [Synthetic data rl: Task definition is all you need](https://arxiv.org/abs/2505.17063), May 18 2025. [code](https://github.com/gydpku/Data_Synthesis_RL/).
 - [Deep reinforcement learning](https://arxiv.org/pdf/2201.02135), Apr. 23 2023. `book`.
+- [Decomposing elements of problem solving: What math does RL teach?](https://arxiv.org/pdf/2505.22756), May 28 2025. [code](https://github.com/cfpark00/RL-Wall).
+- [Knowledge or reasoning? A close look at how LLMs think across domains](https://arxiv.org/pdf/2506.02126), Jun. 2 2025. [code](https://github.com/UCSC-VLAA/ReasoningEval).
+- [A taxonomy for next-generation reasoning models](https://www.interconnects.ai/p/next-gen-reasoners), Jun. 4 2025. `blogpost`.
+  - [Elicitation, the simplest way to understand post-training](https://www.interconnects.ai/p/elicitation-theory-of-post-training), Mar. 11 2025. `blogpost`.
+- [Unleashing the reasoning potential of pre-trained LLMs by critique fine-tuning on one problem](https://arxiv.org/pdf/2506.03295), Jun. 3 2025.
 
 
