@@ -133,5 +133,8 @@
 - [Unleashing the reasoning potential of pre-trained LLMs by critique fine-tuning on one problem](https://arxiv.org/pdf/2506.03295), Jun. 3 2025.
 - [On learning verifiers for chain-of-thought reasoning](https://arxiv.org/pdf/2505.22650), May 28 2025.
 - [Disentangling reasoning and knowledge in medical large language models](https://arxiv.org/pdf/2505.11462), May 16 2025. [code](https://github.com/togethercomputer/BioMed-R1).
+- [Don't overthink passage reranking: Is reasoning truly necessary](https://arxiv.org/abs/2505.16886), May 22 2025.
+- [TTRL: Test-time reinforcement learning](https://arxiv.org/pdf/2504.16084), Apr. 22 2025. [code](https://github.com/PRIME-RL/TTRL).
+- [Reinforcing compositional retrieval: Retrieving step-by-step for composing informative contexts](https://arxiv.org/pdf/2504.11420), Apr. 15 2025. [code](https://github.com/ruyue0001/Step-by-Step-Retrieval).
 
 
