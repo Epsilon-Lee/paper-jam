@@ -120,6 +120,7 @@
 - [Why do LLMs attend to the first token?](https://arxiv.org/pdf/2504.02732), May 13 2025.
 - [Loss landscape degeneracy drives stagewise development in transformers](https://arxiv.org/pdf/2402.02364), Feb. 13 2025.
 - [Exploring how LLMs capture and represent domain-specific knowledge](https://arxiv.org/pdf/2504.16871v1), Apr. 23 2025.
+- [Why and how LLMs hallucinate: Connecting the dots with subsequence associations](https://arxiv.org/pdf/2504.12691), Apr. 17 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
@@ -143,6 +144,7 @@
 - [Between circuits and Chomsky: Pre-training on formal languages imparts linguistic biases](https://arxiv.org/abs/2502.19249), Feb. 26 2025.
 - [Injecting structural hints: Using language models to study inductive biases in language learning](https://aclanthology.org/2023.findings-emnlp.563.pdf), EMNLP 2023.
 - [Identifying Sparsely Active Circuits Through Local Loss Landscape Decomposition](https://arxiv.org/pdf/2504.00194), Mar. 31 2025. [code](https://github.com/briannachrisman/eigenestimation).
+- [Towards principled evaluations of sparse autoencoders for interpretability and control](https://openreview.net/pdf?id=1Njl73JKjB), ICLR 2025.
 
 #### Probing
 
