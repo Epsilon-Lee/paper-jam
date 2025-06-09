@@ -246,6 +246,7 @@
 - [From retrieval to reasoning: Advancing ai agents for knowledge discovery and collaboration](http://i.stanford.edu/~jure/pub/talks2/leskovec-relational-www_keynote-apr25v2.pdf), 2025.
 - [AI supply chains: An emerging ecosystem of AI actors, products, and services](https://arxiv.org/pdf/2504.20185), Apr. 28 2025.
 - [Lawma: The power of specialization for legal annotation](https://arxiv.org/pdf/2407.16615), Apr. 23 2025.
+- [A statistical physics of language model reasoning](https://arxiv.org/pdf/2506.04374), Jun. 4 2025.
 
 ### LLMs for traditional nlp tasks
 
