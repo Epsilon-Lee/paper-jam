@@ -181,6 +181,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Weak-to-strong generalization even in random feature networks, provably](https://arxiv.org/pdf/2503.02877), Mar. 4 2025.
 - [Survey on algorithms for multi-index models](https://arxiv.org/pdf/2504.05426), Apr. 7 2025.
 - [What makes a good feedforward computational graph?](https://arxiv.org/pdf/2502.06751), Feb. 10 2025.
+- [Learning where to learn: Training distribution selection for provable ood performance](https://arxiv.org/pdf/2505.21626), May 27 2025.
 
 ### Contrastive learning
 
