@@ -131,5 +131,7 @@
 - [A taxonomy for next-generation reasoning models](https://www.interconnects.ai/p/next-gen-reasoners), Jun. 4 2025. `blogpost`.
   - [Elicitation, the simplest way to understand post-training](https://www.interconnects.ai/p/elicitation-theory-of-post-training), Mar. 11 2025. `blogpost`.
 - [Unleashing the reasoning potential of pre-trained LLMs by critique fine-tuning on one problem](https://arxiv.org/pdf/2506.03295), Jun. 3 2025.
+- [On learning verifiers for chain-of-thought reasoning](https://arxiv.org/pdf/2505.22650), May 28 2025.
+- [Disentangling reasoning and knowledge in medical large language models](https://arxiv.org/pdf/2505.11462), May 16 2025. [code](https://github.com/togethercomputer/BioMed-R1).
 
 
