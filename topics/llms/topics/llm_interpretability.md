@@ -119,6 +119,7 @@
 - [Investigating task-specific prompts and sparse autoencoders for activation monitoring](https://arxiv.org/pdf/2504.20271), Apr. 28 2025.
 - [Why do LLMs attend to the first token?](https://arxiv.org/pdf/2504.02732), May 13 2025.
 - [Loss landscape degeneracy drives stagewise development in transformers](https://arxiv.org/pdf/2402.02364), Feb. 13 2025.
+- [Exploring how LLMs capture and represent domain-specific knowledge](https://arxiv.org/pdf/2504.16871v1), Apr. 23 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
