@@ -18,6 +18,7 @@
 - [LLMs-as-judge](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/llms_as_judge.md).
 - [Prompting techniques](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/prompting.md).
 - [Evaluation](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/eval.md).
+- [In-context learning](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/icl.md).
 
 ### Buffered papers
 
