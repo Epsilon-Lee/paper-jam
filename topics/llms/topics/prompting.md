@@ -17,5 +17,6 @@
 - [Automatic prompt optimization with "gradient descent" and beam search](https://arxiv.org/pdf/2305.03495), Oct. 19 2023.
 - [Prompt optimization with logged bandit data](https://arxiv.org/pdf/2504.02646), Apr. 3 2025.
 - [PromptBreeder: Self-referential self-improvement via prompt evolution](https://arxiv.org/pdf/2309.16797), Sep. 28 2025.
+- [Accelerating language model workflows with prompt choreography](https://blog.tjbai.com/prompt_choreography.pdf), May 2025. by `Json Eisner`. [code](https://github.com/tjbai/choreo).
 
 
