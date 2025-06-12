@@ -182,6 +182,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Survey on algorithms for multi-index models](https://arxiv.org/pdf/2504.05426), Apr. 7 2025.
 - [What makes a good feedforward computational graph?](https://arxiv.org/pdf/2502.06751), Feb. 10 2025.
 - [Learning where to learn: Training distribution selection for provable ood performance](https://arxiv.org/pdf/2505.21626), May 27 2025.
+- [Provable weak-to-strong generalization via benign overfitting](https://arxiv.org/pdf/2410.04638), Jan. 31 2025.
 
 ### Contrastive learning
 
