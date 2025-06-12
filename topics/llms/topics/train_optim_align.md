@@ -158,6 +158,7 @@
 - [Better estimation of the KL divergence between language models](https://arxiv.org/pdf/2504.10637), Apr. 14 2025. [code](https://github.com/rycolab/kl-rb).
 - [Understanding the logic of direct preference alignment through logic](https://arxiv.org/pdf/2412.17696), Dec. 2024.
 - [Self-supervised alignment with mutual information learning to follow principles without preference labels](https://arxiv.org/pdf/2404.14313), May 21 2024. [code](https://github.com/janphilippfranken/sami).
+- [Do LLMs recognize your preferences? Evaluating personalized preference following in LLMs](https://arxiv.org/pdf/2502.09597), Feb. 13 2025. [code](https://github.com/amazon-science/PrefEval).
 
 ### Post-training for bert
 
