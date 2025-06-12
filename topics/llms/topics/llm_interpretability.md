@@ -121,6 +121,8 @@
 - [Loss landscape degeneracy drives stagewise development in transformers](https://arxiv.org/pdf/2402.02364), Feb. 13 2025.
 - [Exploring how LLMs capture and represent domain-specific knowledge](https://arxiv.org/pdf/2504.16871v1), Apr. 23 2025.
 - [Why and how LLMs hallucinate: Connecting the dots with subsequence associations](https://arxiv.org/pdf/2504.12691), Apr. 17 2025.
+- [Unveiling simplicities of attention: Adaptive long-context head identification](https://arxiv.org/pdf/2502.09647), Mar. 5 2025.
+  - _"can we identify which heads require long-context information to predict the next token accurately?"_
 
 #### Sparse autoencoders, dictionary learning and beyond
 
