@@ -37,6 +37,8 @@
 - [SWEET-RL: Training multi=turn LLM agents on collaborative reasoning tasks](https://arxiv.org/pdf/2503.15478), Mar. 19 2025. [code](https://github.com/facebookresearch/sweet_rl).
 - [Predicting multi-agent specialization via task parallelizability](https://arxiv.org/pdf/2503.15703), Mar. 19 2025.
 - [MALT: Improving reasoning with multi-agent LLM training](https://arxiv.org/pdf/2412.01928), Feb. 27 2025.
+- [Optimizing model selection for compound AI systems](https://arxiv.org/pdf/2502.14815), Feb. 20 2025. [code](https://github.com/LLMSELECTOR/LLMSELECTOR).
+- [Designing ecosystems of intelligence from first principles](https://arxiv.org/pdf/2212.01354), Jan. 11 2024.
 
 #### Open-endedness
 
@@ -47,6 +49,7 @@
 - [Towards an AI co-scientist](https://arxiv.org/abs/2502.18864), Feb. 26 2025.
 - [Re-evaluating open-ended evaluation of large language models](https://arxiv.org/pdf/2502.20170), Feb. 27 2025.
 - [The AI scientist-v2: Workshop-level automated scientific discovery via agentic tree search](https://pub.sakana.ai/ai-scientist-v2/paper/paper.pdf), Apr. 8 2025.
+- [Automated hypothesis validation with agentic sequential falsifications](https://arxiv.org/pdf/2502.09858), Feb. 14 2025. [code](https://github.com/snap-stanford/POPPER).
 
 #### Code agent
 
