@@ -123,6 +123,12 @@
 - [Why and how LLMs hallucinate: Connecting the dots with subsequence associations](https://arxiv.org/pdf/2504.12691), Apr. 17 2025.
 - [Unveiling simplicities of attention: Adaptive long-context head identification](https://arxiv.org/pdf/2502.09647), Mar. 5 2025.
   - _"can we identify which heads require long-context information to predict the next token accurately?"_
+- [Unstructured evidence attribution for long context query focused summarization](https://arxiv.org/pdf/2502.14409), Feb. 20 2025.
+  - What are the differences between query-focused summarization and docqa?
+- [A theoretical design of concept sets: Improving the predictability of concept bottleneck models](https://proceedings.neurips.cc/paper_files/paper/2024/file/b5a412531110b92961fa13c90938806a-Paper-Conference.pdf), NeurIPS 2024.
+- [Mechanisms of projective composition of diffusion models](https://arxiv.org/pdf/2502.04549), May 14 2025.
+  - A theory of compositionality.
+- [Can LLMs separate instructions fron data? And what do we even mean by that?](https://arxiv.org/pdf/2403.06833), Jan. 31 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
