@@ -136,5 +136,11 @@
 - [Don't overthink passage reranking: Is reasoning truly necessary](https://arxiv.org/abs/2505.16886), May 22 2025.
 - [TTRL: Test-time reinforcement learning](https://arxiv.org/pdf/2504.16084), Apr. 22 2025. [code](https://github.com/PRIME-RL/TTRL).
 - [Reinforcing compositional retrieval: Retrieving step-by-step for composing informative contexts](https://arxiv.org/pdf/2504.11420), Apr. 15 2025. [code](https://github.com/ruyue0001/Step-by-Step-Retrieval).
+- [Med-RLVR: Emerging medical reasoning from a 3b base model via reinforcement learning](https://arxiv.org/pdf/2502.19655), Feb. 27 2025.
+- [Distill not only data but also rewards: Can smaller language models surpass larger ones?](https://arxiv.org/pdf/2502.19557), Feb. 26 2025.
+- [What makes math problems hard for reinforcement learning: A case study](https://arxiv.org/pdf/2408.15332v2), Feb. 11 2025.
+- [Atom of thoughts for Markov LLM test-time scaling](https://arxiv.org/pdf/2502.12018), Mar. 23 2025. [code](https://github.com/qixucen/atom).
+- [LLM post-training: A deep dive into reasoning large language models](https://arxiv.org/pdf/2502.21321), Mar. 24 2025.
+- [Empowering LLMs with logical reasoning: A comprehensive survey](https://arxiv.org/pdf/2502.15652), Jun. 4 2025.
 
 
