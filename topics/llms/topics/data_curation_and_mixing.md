@@ -45,5 +45,6 @@
 - [On LLMs-driven synthetic data generation, curation and evaluation: A survey](https://arxiv.org/pdf/2406.15126), Jun. 14 2024.
 - [Best practices and lessons learned on synthetic data](https://arxiv.org/pdf/2404.07503), Aug. 10 2024.
 - [DataRater: Meta-learned dataset curation](https://arxiv.org/abs/2505.17895), May 23 2025.
+- [How to get your LLM to generate challenging problems for evaluation](https://arxiv.org/pdf/2502.14678), Feb. 20 2025. [code](https://github.com/McGill-NLP/CHASE).
 
 
