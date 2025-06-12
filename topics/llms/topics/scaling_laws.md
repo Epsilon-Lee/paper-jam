@@ -34,6 +34,7 @@
 - [Joint MoE Scaling Laws: Mixture of Experts Can Be Memory Efficient](https://arxiv.org/pdf/2502.05172), Feb. 7 2025.
 - [A multi-power law for loss curve prediction across learning rate schedules](https://arxiv.org/pdf/2503.12811), Mar. 17 2025. [code](https://github.com/thu-yao-01-luo/MultiPowerLaw).
 - [Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for Mixture-of-Experts Language Models](https://arxiv.org/pdf/2501.12370), Jan. 25 2025.
+- [(Mis)Fitting: A survey of scaling laws](https://arxiv.org/pdf/2502.18969), Feb. 26 2025.
 
 #### FLOPS
 
