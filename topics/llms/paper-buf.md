@@ -247,6 +247,11 @@
 - [AI supply chains: An emerging ecosystem of AI actors, products, and services](https://arxiv.org/pdf/2504.20185), Apr. 28 2025.
 - [Lawma: The power of specialization for legal annotation](https://arxiv.org/pdf/2407.16615), Apr. 23 2025.
 - [A statistical physics of language model reasoning](https://arxiv.org/pdf/2506.04374), Jun. 4 2025.
+- [ENTP: Encoder-only next token prediction](https://arxiv.org/pdf/2410.01600), Feb. 4 2025.
+- [Expertise is what we want](https://arxiv.org/pdf/2502.20335), Feb. 27 2025.
+  - _"We share an application architecture, the Large Language Expert (LLE), that combines the flexibility and power of LLMs with the interpretability, explainability, and reliability of Expert Systems."_
+- [Teasing apart architecture and initial weights as sources of inductive bias in neural networks](https://arxiv.org/pdf/2502.20237), Feb. 27 2025.
+- [NeoBERT: A next-generation BERT](https://arxiv.org/pdf/2502.19587), Jun. 6 2025.
 
 ### LLMs for traditional nlp tasks
 
