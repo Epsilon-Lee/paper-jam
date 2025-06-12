@@ -33,5 +33,6 @@
 - [RNNs are not Transformers (Yet): The key bottleneck on in-context retrieval](https://arxiv.org/pdf/2402.18510), Dec. 6 2024. [code](https://arxiv.org/pdf/2402.18510).
 - [Why in-context learning models are good few-shot learners?](https://openreview.net/forum?id=iLUcsecZJp), Jan. 23 2025. `ICLR 2025`.
 - [In-context parametric inference: Point or distribution estimators?](https://arxiv.org/pdf/2502.11617), Feb. 17 2025.
+- [Pearl: Towards permutation-resilient LLMs](https://arxiv.org/pdf/2502.14628), Feb. 20 2025.
 
 
