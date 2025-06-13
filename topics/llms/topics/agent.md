@@ -64,4 +64,8 @@
 - [OmniParser for pure vision based GUI agent](https://arxiv.org/abs/2408.00203), Aug. 1 2024.
 - [UI-TARS: Pioneering automated GUI interaction with native agents](https://arxiv.org/abs/2501.12326), Jan. 21 2025. [code](https://github.com/bytedance/UI-TARS?tab=readme-ov-file).
 
+#### Web agent
+
+- [WebUIBench: A comprehensive benchmark for evaluating multimodal large language models in WebUI-to-Code](https://arxiv.org/pdf/2506.07818), Jun. 9 2025.
+
 
