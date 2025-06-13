@@ -183,6 +183,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [What makes a good feedforward computational graph?](https://arxiv.org/pdf/2502.06751), Feb. 10 2025.
 - [Learning where to learn: Training distribution selection for provable ood performance](https://arxiv.org/pdf/2505.21626), May 27 2025.
 - [Provable weak-to-strong generalization via benign overfitting](https://arxiv.org/pdf/2410.04638), Jan. 31 2025.
+- [Why can accurate models are be learned from inaccurate annotations?](https://arxiv.org/abs/2505.16159), May 22 2025. [code](https://github.com/Chongjie-Si/LIP).
 
 ### Contrastive learning
 
