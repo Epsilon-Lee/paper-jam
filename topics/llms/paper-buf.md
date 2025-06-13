@@ -252,6 +252,7 @@
   - _"We share an application architecture, the Large Language Expert (LLE), that combines the flexibility and power of LLMs with the interpretability, explainability, and reliability of Expert Systems."_
 - [Teasing apart architecture and initial weights as sources of inductive bias in neural networks](https://arxiv.org/pdf/2502.20237), Feb. 27 2025.
 - [NeoBERT: A next-generation BERT](https://arxiv.org/pdf/2502.19587), Jun. 6 2025.
+- [Correlated errors in large language models](https://arxiv.org/pdf/2506.07962), Jun. 9 2025.
 
 ### LLMs for traditional nlp tasks
 
