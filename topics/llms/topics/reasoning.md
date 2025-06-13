@@ -147,5 +147,12 @@
 - [Reinforcement pre-training](https://arxiv.org/pdf/2506.08007), Jun. 9 2025.
 - [AbstRal: Augmenting LLMs' reasoning by reinforcing abstract thinking](https://arxiv.org/pdf/2506.07751), Jun. 11 2025.
 - [OctoThinker: Revisiting mid-training in the era of rl scaling](https://natural-rugby-f7c.notion.site/OctoThinker-Revisiting-Mid-Training-In-the-Era-of-RL-Scaling-1d20b810e2d680c494a9f9dad0a90d53), 2025. [code](https://github.com/GAIR-NLP/OctoThinker).
+- [Reasoning models don't always say what they think](https://arxiv.org/pdf/2505.05410), May 8 2025.
+- [Advancing conversational diagnostic AI with multimodal reasoning](https://arxiv.org/abs/2505.04653), May 6 2025.
+- [Perception, reason, think, and plan: A survey on large multimodal reasoning models](https://arxiv.org/pdf/2505.04921), May 8 2025.
+- [Scalable chain of thoughts via elastic reasoning](https://arxiv.org/pdf/2505.05315), May 21 2025.
+- [Beyond theorem proving: Formulation, framework and benchmark for formal problem-solving](https://arxiv.org/pdf/2505.04528), May 7 2025.
+- [When reasoning beats scale: A 1.5b reasoning model outranks 13b LLMs as discriminator](https://arxiv.org/pdf/2505.03786), Apr. 30 2025.
+- [Tina: Tiny reasoning models via LoRA](https://arxiv.org/pdf/2504.15777), Apr. 22 2025.
 
 
