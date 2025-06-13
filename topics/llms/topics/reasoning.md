@@ -143,5 +143,6 @@
 - [LLM post-training: A deep dive into reasoning large language models](https://arxiv.org/pdf/2502.21321), Mar. 24 2025.
 - [Empowering LLMs with logical reasoning: A comprehensive survey](https://arxiv.org/pdf/2502.15652), Jun. 4 2025.
 - [Computational-statistical tradeoffs at the next-token prediction barrier: Autoregressive and imitation learning under misspecification](https://arxiv.org/pdf/2502.12465), Feb. 18 2025.
+- [Self-steering language models](https://arxiv.org/pdf/2504.07081), Apr. 9 2025.
 
 
