@@ -144,5 +144,8 @@
 - [Empowering LLMs with logical reasoning: A comprehensive survey](https://arxiv.org/pdf/2502.15652), Jun. 4 2025.
 - [Computational-statistical tradeoffs at the next-token prediction barrier: Autoregressive and imitation learning under misspecification](https://arxiv.org/pdf/2502.12465), Feb. 18 2025.
 - [Self-steering language models](https://arxiv.org/pdf/2504.07081), Apr. 9 2025.
+- [Reinforcement pre-training](https://arxiv.org/pdf/2506.08007), Jun. 9 2025.
+- [AbstRal: Augmenting LLMs' reasoning by reinforcing abstract thinking](https://arxiv.org/pdf/2506.07751), Jun. 11 2025.
+- [OctoThinker: Revisiting mid-training in the era of rl scaling](https://natural-rugby-f7c.notion.site/OctoThinker-Revisiting-Mid-Training-In-the-Era-of-RL-Scaling-1d20b810e2d680c494a9f9dad0a90d53), 2025. [code](https://github.com/GAIR-NLP/OctoThinker).
 
 
