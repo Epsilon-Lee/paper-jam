@@ -14,25 +14,21 @@
 - [Command A: An enterprise-ready large language model](https://cohere.com/research/papers/command-a-technical-report.pdf), Mar. 27 2025.
 
 **Llama series**
-
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971), Feb. 27 2023.
 - [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288), Jul. 18 2023.
 - [The Llama 3 Herd of Models](https://arxiv.org/pdf/2407.21783), Jul. 2024.
 
 **Claude**
-
 - [Introducing Claude](https://www.anthropic.com/news/introducing-claude), Mar. 14 2023.
 - [Model Card and Evaluations for Claude Models](https://www-cdn.anthropic.com/bd2a28d2535bfb0494cc8e2a3bf135d2e7523226/Model-Card-Claude-2.pdf), Jul. 8 2023.
 - [The Claude 3 Model Family: Opus, Sonnet, Haiku](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf), [blogpost](https://www.anthropic.com/news/claude-3-family), Mar. 4 2024.
 - [System Card: Claude Opus 4 & Claude Sonnet 4](https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf), May 2025.
 
 **GPT series**
-
 - [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774), Mar. 15 2023.
 - [GPT-4o System Card](https://arxiv.org/pdf/2410.21276), Aug. 8 2024.
 
 **Phi series**
-
 - [Textbooks Are All You Need](https://arxiv.org/pdf/2306.11644), Oct. 2 2023.
 - [Textbooks Are All You Need II: phi-1.5 technical report](https://arxiv.org/abs/2309.05463), Sep. 11 2023.
 - [Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone](https://arxiv.org/abs/2404.14219), Apr. 22 2024.
@@ -40,7 +36,6 @@
 - [Phi-4-Mini technical report: Compact yet powerful multimodal language models via mixture-of-loras](https://arxiv.org/pdf/2503.01743), Mar. 7 2025.
 
 **Gemini and Gemma**
-
 - [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/pdf/2112.11446), Jan. 21 2022.
 - [Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/pdf/2312.11805), Jun. 17 2024.
 - [Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](https://arxiv.org/pdf/2403.05530), Jun. 14 2024.
@@ -48,7 +43,6 @@
 - [Introducing Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/#ceo-message).
 
 **Deepseek series**
-
 - [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://arxiv.org/abs/2401.02954), Jan. 2024.
 - [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/abs/2405.04434), May 7 2024.
 - [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/abs/2406.11931), Jun. 17 2024.
@@ -56,7 +50,6 @@
 - [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437), Dec. 26 2024.
 
 **AI2**
-
 - [Olmoe: Open mixture-of-experts language models](https://arxiv.org/pdf/2409.02060), Sep. 3 2024. [data](https://huggingface.co/datasets/allenai/OLMoE-mix-0924).
 - [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838), Feb. 1 2024.
 - [OLMo 2: The best fully open language model to date](https://allenai.org/blog/olmo2), Nov. 26 2024.
@@ -64,10 +57,12 @@
 - [2 OLMo 2 Furious](https://arxiv.org/pdf/2501.00656), Dec. 31 2024.
 
 **Qwen series**
-
 - [Qwen Technincal Report](https://arxiv.org/pdf/2309.16609), Sep. 28 2023.
 - [Qwen2 technical report](https://arxiv.org/pdf/2407.10671), Jul. 15 2024.
 - [Qwen2.5 Technical Report](https://arxiv.org/pdf/2412.15115), Dec. 19 2024.
+
+**MiniCPM**
+- [MiniCPM4: Ultra-efficient LLMs on end devices](https://arxiv.org/pdf/2506.07900), Jun. 9 2025.
 
 ### Domain LLMs
 
