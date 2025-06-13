@@ -29,7 +29,6 @@
 - [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/pdf/2406.11931), Jun. 17 2024. `tech report`.
 - [Infinite Limits of Multi-head Transformer Dynamics](https://arxiv.org/pdf/2405.15712), May 24 2024. `learning dynamics`.
 - [What variables affect out-of-distribution generalization in pretrained models?](https://arxiv.org/pdf/2405.15018), May 23 2024.
-- [Kernel language entropy: Fine-grained uncertainty quantification for LLMs from semantic similarities](https://arxiv.org/pdf/2405.20003), May 30 2024. `uncertainty`.
 - [A language model's guide through latent space](https://arxiv.org/pdf/2402.14433), Feb. 22 2024.
 - [Same pre-training loss, better downstream: Implicit bias matters for language models](https://proceedings.mlr.press/v202/liu23ao/liu23ao.pdf), ICML 2023.
 - [Does learning the right latent variables necessarily improve in-context learning?](https://arxiv.org/pdf/2405.19162), May 29 2024.
@@ -75,14 +74,11 @@
 - [On the Benefits of Rank in Attention Layers](https://arxiv.org/pdf/2407.16153), Jul. 24 2024.
   - The question to tackle: _"hyperparameters such as the rank of the attention matrices and the number of heads are scaled nearly the same way in all realizations of this architecture, without theoretical justification"_
 - [Data Mixture Inference: What do BPE Tokenizers Reveal about their Training Data?](https://arxiv.org/pdf/2407.16607), Jul. 23 2024.
-- [Perceptions of linguistic uncertainty by language models and humans](https://arxiv.org/pdf/2407.15814), Jul. 22 2024.
 - [Internal Consistency and Self-Feedback in Large Language Models](https://arxiv.org/pdf/2407.14507), Jul. 19 2024.
 - [u-µP: The Unit-Scaled Maximal Update Parametrization](https://arxiv.org/pdf/2407.17465), Jul. 24 2024.
 - [Understanding Memorisation in LLMs: Dynamics, Influencing Factors, and Implications](https://arxiv.org/pdf/2407.19262), Jul. 27 2024. `learning dynamics`.
 - [Do Language Models Have a Critical Period for Language Acquisition?](https://arxiv.org/pdf/2407.19325), Jul. 27 2024. `learning dynamics`.
 - [From Pre-training Corpora to Large Language Models: What Factors Influence LLM Performance in Causal Discovery Tasks?](https://arxiv.org/pdf/2407.19638), Jul. 29 2024. `knowledge extraction`, `causal knowledge`.
-- [Polynomial Regression as a Task for Understanding In-context Learning Through Finetuning and Alignment](https://arxiv.org/pdf/2407.19346), Jul. 27 2024.
-  - _"We show that the uncertainty decreases as the prompt's informativeness increases, similar to epistemic uncertainty"_
 - [Self-Consuming Generative Models with Curated Data Provably Optimize Human Preferences](https://arxiv.org/pdf/2407.09499), Jun. 12 2024. `synthetic data` `theory`.
 - [Can LLMs predict the convergence of Stochastic Gradient Descent?](https://arxiv.org/pdf/2408.01736), Aug. 3 2024.
 - [STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs](https://arxiv.org/pdf/2408.01803), Aug. 3 2024. `efficient llm`.
@@ -128,7 +124,6 @@
 - [A Controlled Study on Long Context Extension and Generalization in LLMs](https://arxiv.org/pdf/2409.12181), Sep. 23 2024. `long-context`.
 - [Apple Intelligence Foundation Language Models](https://arxiv.org/pdf/2407.21075), Jul. 29 2024.
 - [Can Large Language Models Unlock Novel Scientific Research Ideas?](https://arxiv.org/pdf/2409.06185), Sep. 10 2024.
-- [(Implicit) Ensembles of Ensembles: Epistemic Uncertainty Collapse in Large Models](https://arxiv.org/pdf/2409.02628), Sep. 4 2024.
 - [Quantifying Emergence in Neural Networks: Insights from Pruning and Training Dynamics](https://arxiv.org/pdf/2409.01568), Sep. 3 2024.
 - [Hypothesizing Missing Causal Variables with LLMs](https://arxiv.org/pdf/2409.02604), Sep. 4 2024.
 - [NUDGE: Lightweight non-parametric fine-tuning of embeddings for retrieval](https://arxiv.org/pdf/2409.02343), Sep. 4 2024.
@@ -174,7 +169,6 @@
 - [Efficient Alignment of Large Language Models via Data Sampling](https://arxiv.org/pdf/2411.10545), Nov. 15 2024.
 - [Language-to-Code Translation with a Single Labeled Example](https://aclanthology.org/2024.emnlp-main.462.pdf), 2024.
 - [Do LLMs Think Fast and Slow? A Causal Study on Sentiment Analysis](https://aclanthology.org/2024.findings-emnlp.547.pdf), EMNLP 2024. [code](https://github.com/cogito233/causal-sa).
-- [To Believe or Not to Believe Your LLM: Iterative Prompting for Estimating Epistemic Uncertainty](https://openreview.net/pdf?id=k6iyUfwdI9), NeurIPS 2024.
 - [Visual autoregressive modeling: Scalable image generation via next-scale prediction](https://arxiv.org/pdf/2404.02905), Jun. 10 2024.
 - [Machine unlearning doesn't do what you think: Lessons for generative AI policy, research and practice](https://arxiv.org/pdf/2412.06966), Dec. 9 2024. `machine unlearning`.
 - [Normalizing flows are capable generative models](https://arxiv.org/pdf/2412.06329), Dec. 10 2024. [code](https://github.com/apple/ml-tarflow).
@@ -240,7 +234,6 @@
 - [Anthropic Education Report: How University Students Use Claude](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude), Apr. 8 2025.
 - [Weak-to-strong generalization even in random feature networks, provably](https://arxiv.org/pdf/2503.02877), Mar. 4 2025.
 - [(How) do language models track state?](https://arxiv.org/pdf/2503.02854), Mar. 11 2025. [code](https://github.com/belindal/state-tracking).
-- [A survey of uncertainty estimation methods on large language models](https://arxiv.org/pdf/2503.00172), Feb. 28 2025.
 - [WildVis: Open source visualizer for million-scale chat logs in the wild](https://arxiv.org/pdf/2409.03753), Sep. 9 2024.
 - [Attention mechanism, max-affine partition and universal approximation](https://arxiv.org/pdf/2504.19901), Apr. 28 2025.
 - [From retrieval to reasoning: Advancing ai agents for knowledge discovery and collaboration](http://i.stanford.edu/~jure/pub/talks2/leskovec-relational-www_keynote-apr25v2.pdf), 2025.
