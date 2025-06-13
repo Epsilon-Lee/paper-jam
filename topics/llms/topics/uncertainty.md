@@ -6,5 +6,6 @@
 - [Perceptions of linguistic uncertainty by language models and humans](https://arxiv.org/pdf/2407.15814), Jul. 22 2024.
 - [(Implicit) Ensembles of Ensembles: Epistemic Uncertainty Collapse in Large Models](https://arxiv.org/pdf/2409.02628), Sep. 4 2024.
 - [To Believe or Not to Believe Your LLM: Iterative Prompting for Estimating Epistemic Uncertainty](https://openreview.net/pdf?id=k6iyUfwdI9), NeurIPS 2024.
+- [Language models prefer what they know: Relative confidence estimation via confidence preferences](https://arxiv.org/pdf/2502.01126), Feb. 3 2025.
 
 
