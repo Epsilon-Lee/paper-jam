@@ -129,6 +129,7 @@
 - [Mechanisms of projective composition of diffusion models](https://arxiv.org/pdf/2502.04549), May 14 2025.
   - A theory of compositionality.
 - [Can LLMs separate instructions fron data? And what do we even mean by that?](https://arxiv.org/pdf/2403.06833), Jan. 31 2025.
+- [Understanding in-context learning of addition via activation subspaces](https://arxiv.org/pdf/2505.05145), May 15 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
