@@ -34,5 +34,6 @@
 - [Why in-context learning models are good few-shot learners?](https://openreview.net/forum?id=iLUcsecZJp), Jan. 23 2025. `ICLR 2025`.
 - [In-context parametric inference: Point or distribution estimators?](https://arxiv.org/pdf/2502.11617), Feb. 17 2025.
 - [Pearl: Towards permutation-resilient LLMs](https://arxiv.org/pdf/2502.14628), Feb. 20 2025.
+- [A mechanism for sample-efficient in-context learning for sparse retrieval tasks](https://proceedings.mlr.press/v237/abernethy24a/abernethy24a.pdf), ALT 2024.
 
 
