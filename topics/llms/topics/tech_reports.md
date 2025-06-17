@@ -64,6 +64,12 @@
 **MiniCPM**
 - [MiniCPM4: Ultra-efficient LLMs on end devices](https://arxiv.org/pdf/2506.07900), Jun. 9 2025.
 
+**Mistral AI**
+- [Magistral](https://arxiv.org/pdf/2506.10910), Jun. 12 2025.
+
+**MiniMax**
+- [MiniMax-M1: Scaling test-time compute efficiently with lightning attention](https://github.com/MiniMax-AI/MiniMax-M1/blob/main/MiniMax_M1_tech_report.pdf), Jun. 16 2025.
+
 ### Domain LLMs
 
 - [Galactica: A Large Language Model for Science](https://arxiv.org/pdf/2211.09085), Nov. 16 2022. `science`.
