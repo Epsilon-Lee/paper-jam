@@ -156,6 +156,7 @@
 - [Tina: Tiny reasoning models via LoRA](https://arxiv.org/pdf/2504.15777), Apr. 22 2025.
 - [LiveCodeBench Pro: How do Olympiad medalists judge LLMs in competitive programming](https://arxiv.org/pdf/2506.11928), Jun. 13 2025.
 - [Evaluation is all you need: Strategic overclaiming of LLM reasoning capabilities through evaluation design](https://arxiv.org/pdf/2506.04734), Jun. 10 2025.
+- [Beyond gold standards: Epistemic ensemble of LLM judges for formal mathematical reasoning](https://arxiv.org/pdf/2506.10903), Jun. 12 2025.
 
 #### Understanding reasoning
 
