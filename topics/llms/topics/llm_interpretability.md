@@ -135,6 +135,7 @@
   - _"evidence that neurons often encode multiple concepts has motivated a shift toward analyzing directions in activation space. A key question is how to find directions that capture interpretable features in an unsupervised manner."_
   - Critics on SAEs: _"struggle in causal evaluations and lack intrinsic interpretability, as their learning is not explicitly tied to the computations of the model"_
   - Future direction: How to scale this method towards circuit graph across layers, like that of circuit tracing work from Anthropic.
+- [Discovering hierarchical latent capabilities of language models via causal representation learning](https://arxiv.org/pdf/2506.10378), Jun. 12 2025. [code](https://github.com/hlzhang109/causal-eval).
 
 #### Sparse autoencoders, dictionary learning and beyond
 
