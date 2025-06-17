@@ -154,5 +154,11 @@
 - [Beyond theorem proving: Formulation, framework and benchmark for formal problem-solving](https://arxiv.org/pdf/2505.04528), May 7 2025.
 - [When reasoning beats scale: A 1.5b reasoning model outranks 13b LLMs as discriminator](https://arxiv.org/pdf/2505.03786), Apr. 30 2025.
 - [Tina: Tiny reasoning models via LoRA](https://arxiv.org/pdf/2504.15777), Apr. 22 2025.
+- [LiveCodeBench Pro: How do Olympiad medalists judge LLMs in competitive programming](https://arxiv.org/pdf/2506.11928), Jun. 13 2025.
+- [Evaluation is all you need: Strategic overclaiming of LLM reasoning capabilities through evaluation design](https://arxiv.org/pdf/2506.04734), Jun. 10 2025.
+
+#### Understanding reasoning
+
+- [How well can reasoning models identify and recover from unhelpful thoughts](https://arxiv.org/pdf/2506.10979), Jun. 12 2025.
 
 
