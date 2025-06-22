@@ -27,9 +27,6 @@
   - [Adversarials and robustness](#adversarials-and-robustness)
 
 
-
-
-
 ## Definition of interpretability
 
 - [The Mythos of Model Interpretability](https://arxiv.org/pdf/1606.03490.pdf), 2016.
@@ -244,6 +241,7 @@
 - [Simfluence: Modeling the influence of individual training examples by simulating training runs](https://arxiv.org/pdf/2303.08114), Mar. 14 2023.
 - [Scalable influence and fact tracing for large language model pretraining](https://arxiv.org/pdf/2410.17413), Oct. 22 2024.
 - [A versatile influence function for data attribution with non-decomposible loss](https://arxiv.org/pdf/2412.01335), Dec. 2 2024.
+- [Distributional training data attribution](https://arxiv.org/pdf/2506.12965), Jun. 2025.
 
 #### Critics of influence function
 
