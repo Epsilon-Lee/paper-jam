@@ -43,6 +43,7 @@
 
 #### Open-endedness
 
+- [Voyager: An open-ended embodied agent with large language models](https://arxiv.org/abs/2305.16291), May 25 2023. [code](https://voyager.minedojo.org/).
 - [Hypothesis generation with large language models](https://arxiv.org/pdf/2404.04326v1), Apr. 5 2024.
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/pdf/2408.06292?), Sep. 1 2024.
 - [AutoKaggle: A multi-agent framework for autonomous data science competitions](https://arxiv.org/pdf/2410.20424v1), Oct. 27 2024.
