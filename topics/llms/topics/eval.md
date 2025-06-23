@@ -19,6 +19,7 @@
 - [Cost-of-pass: An economic framework for evaluating language models](https://arxiv.org/pdf/2504.13359), Apr. 17 2025. [code](https://github.com/mhamzaerol/Cost-of-Pass).
 - [Cer-Eval: Certifiable and Cost-Efficient Evaluation Framework for LLMs](https://arxiv.org/pdf/2505.03814), May 2 2025.
 - [From rankings to insights: Evaluation should shift focus from leaderboard to feedback](https://arxiv.org/pdf/2505.06698), May 16 2025. [code](https://github.com/liudan193/Feedbacker).
+- [Adaptively evaluating models with task elicitation](https://davisrbrown.com/assets/task_elicitation_initial.pdf), Mar. 3 2025.
 
 #### Data contamination
 
