@@ -41,6 +41,7 @@
 - [Sorry-Bench: Systematically evaluating large language model safety refusal](https://arxiv.org/pdf/2406.14598), Mar. 1 2025.
 - [In which areas of technical AI safety could geopolitical rivals cooperate?](https://arxiv.org/pdf/2504.12914), Apr. 17 2025.
 - [Model organisms for emergent misalignment](https://arxiv.org/pdf/2506.11613), Jun. 13 2025. [code](https://github.com/clarifying-EM/model-organisms-for-EM).
+- [Exploring the secondary risks of large language models](https://arxiv.org/pdf/2506.12382), Jun. 14 2025.
 
 #### Survey and definition
 
