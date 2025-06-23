@@ -1,4 +1,5 @@
 
+- [Generating with confidence: Uncertainty quantification for black-box large language models](https://arxiv.org/pdf/2305.19187), May 20 2024. [code](https://github.com/zlin7/UQ-NLG).
 - [Kernel language entropy: Fine-grained uncertainty quantification for LLMs from semantic similarities](https://arxiv.org/pdf/2405.20003), May 30 2024. `uncertainty`.
 - [A survey of uncertainty estimation methods on large language models](https://arxiv.org/pdf/2503.00172), Feb. 28 2025.
   - [Polynomial Regression as a Task for Understanding In-context Learning Through Finetuning and Alignment](https://arxiv.org/pdf/2407.19346), Jul. 27 2024.
