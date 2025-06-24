@@ -15,3 +15,6 @@
 - [How to train long-context language models effectively](https://arxiv.org/pdf/2410.02660), Apr. 3 2025. [code](https://github.com/princeton-nlp/ProLong).
 - [LongProc: Benchmarking long-context language models on long procedural generation](https://arxiv.org/pdf/2501.05414), Apr. 21 2025. [code](https://princeton-pli.github.io/LongProc/).
 - [HELMET: How to evaluate long-context language models effectively and thoroughly](https://arxiv.org/pdf/2410.02694?), Mar. 6 2025.
+- [Extrapolation by association: Length generalization transfer in transformers](https://arxiv.org/pdf/2506.09251), Jun. 10 2025.
+
+
