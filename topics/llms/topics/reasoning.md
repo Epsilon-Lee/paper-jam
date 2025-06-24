@@ -158,6 +158,7 @@
 - [Evaluation is all you need: Strategic overclaiming of LLM reasoning capabilities through evaluation design](https://arxiv.org/pdf/2506.04734), Jun. 10 2025.
 - [Beyond gold standards: Epistemic ensemble of LLM judges for formal mathematical reasoning](https://arxiv.org/pdf/2506.10903), Jun. 12 2025.
 - [Direct reasoning optimization: LLMs can reward and refine their own reasoning for open-ended tasks](https://arxiv.org/pdf/2506.13351), Jun. 16 2025.
+- [Training large language models to reason in a continuous latent space](https://arxiv.org/pdf/2412.06769), Dec. 11 2024.
 
 #### Understanding reasoning
 
