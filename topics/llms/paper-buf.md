@@ -248,6 +248,7 @@
 - [Correlated errors in large language models](https://arxiv.org/pdf/2506.07962), Jun. 9 2025.
 - [Future of work with AI Agents: Auditing automation and augmentation potential across the U.S. workforce](https://arxiv.org/pdf/2506.06576), Jun. 11 2025.
 - [Naturalistic computational cognitive science: Towards generalizable models and theories that capture the full range of natural behavior](https://arxiv.org/pdf/2502.20349), Jun. 12 2025.
+- [From bytes to ideas: Language modeling with autoregressive U-Nets](https://arxiv.org/pdf/2506.14761), Jun. 17 2025.
 
 ### LLMs for traditional nlp tasks
 
