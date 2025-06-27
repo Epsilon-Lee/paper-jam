@@ -70,5 +70,6 @@
 
 - [BrowseComp: A simple yet challenging benchmark for browsing agents](https://arxiv.org/pdf/2504.12516), Apr. 16 2025. [code](https://arxiv.org/pdf/2504.12516).
 - [WebUIBench: A comprehensive benchmark for evaluating multimodal large language models in WebUI-to-Code](https://arxiv.org/pdf/2506.07818), Jun. 9 2025.
+- [EMBODIED WEB AGENTS: Bridging Physical-Digital Realms for Integrated Agent Intelligence](https://arxiv.org/pdf/2506.15677), Jun. 20 2025. [project](https://embodied-web-agent.github.io/).
 
 
