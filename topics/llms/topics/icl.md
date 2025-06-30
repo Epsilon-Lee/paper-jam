@@ -1,6 +1,7 @@
 
 ### In-context learning
 
+- [A survey on in-context learning](https://arxiv.org/pdf/2301.00234), Oct. 5 2024.
 - [In-context Learning and Induction Heads](https://arxiv.org/pdf/2209.11895), Mar. 8 2022. `in-context-learning`.
 - [Few-shot fine-tuning vs. in-context learning: A fair comparison and evaluation](https://arxiv.org/pdf/2305.16938), May 30 2023. [code](https://github.com/uds-lsv/llmft).
 - [Inductive Biases and Variable Creation in Self-Attention Mechanisms](https://arxiv.org/pdf/2110.10090), Jun. 24 2024. `variable mechanism`.
@@ -37,5 +38,7 @@
 - [A mechanism for sample-efficient in-context learning for sparse retrieval tasks](https://proceedings.mlr.press/v237/abernethy24a/abernethy24a.pdf), ALT 2024.
 - [Brewing knowledge in context: Distillation perspectives on in-context learning](https://arxiv.org/pdf/2506.11516), Jun. 13 2025.
 - [In-context learning strategies emerge rationally](https://arxiv.org/abs/2506.17859), Jun. 21 2025. [tweet](https://x.com/EkdeepL/status/1938777753064776060).
+- [A theory of emergent in-context learning as implicit structure induction](https://arxiv.org/pdf/2303.07971), Mar. 14 2023.
+- [Are emergent abilities in large language models just in-context learning](https://arxiv.org/pdf/2309.01809), Jul. 15 2024.
 
 
