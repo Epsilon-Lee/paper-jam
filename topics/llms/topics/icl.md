@@ -40,5 +40,6 @@
 - [In-context learning strategies emerge rationally](https://arxiv.org/abs/2506.17859), Jun. 21 2025. [tweet](https://x.com/EkdeepL/status/1938777753064776060).
 - [A theory of emergent in-context learning as implicit structure induction](https://arxiv.org/pdf/2303.07971), Mar. 14 2023.
 - [Are emergent abilities in large language models just in-context learning](https://arxiv.org/pdf/2309.01809), Jul. 15 2024.
+- [When does divide and conquer work for long context LLM? A noise decomposition framework](https://arxiv.org/pdf/2506.16411), Jun. 19 2025. [code](https://github.com/NehzUx/DivideConquerAgents).
 
 
