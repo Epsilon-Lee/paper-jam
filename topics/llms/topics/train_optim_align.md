@@ -51,6 +51,7 @@
   - _"In a Fast Forward stage, we **repeat** the most recent optimizer step until the loss stops improving on a tiny validation set."_
   - _"By alternating between regular optimization steps and Fast Forward stages, Fast Forward provides up to an87% reduction in FLOPs and up to an 81% reduction in train time over standard SGD with Adam."_
 - [Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need](https://arxiv.org/pdf/2406.03216), Jun. 5 2024.
+- [Pay attention to small weights](https://arxiv.org/pdf/2506.21374), Jun. 26 2025.
 
 ### Supervised fine-tuning, instruction-tuning and following
 
