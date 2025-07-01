@@ -16,5 +16,6 @@
 - [LongProc: Benchmarking long-context language models on long procedural generation](https://arxiv.org/pdf/2501.05414), Apr. 21 2025. [code](https://princeton-pli.github.io/LongProc/).
 - [HELMET: How to evaluate long-context language models effectively and thoroughly](https://arxiv.org/pdf/2410.02694?), Mar. 6 2025.
 - [Extrapolation by association: Length generalization transfer in transformers](https://arxiv.org/pdf/2506.09251), Jun. 10 2025.
+- [Michelangelo: Long context evaluations beyond haystacks via latent structure queries](https://arxiv.org/pdf/2409.12640), Sep. 20 2024.
 
 
