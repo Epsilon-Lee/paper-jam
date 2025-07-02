@@ -185,6 +185,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Provable weak-to-strong generalization via benign overfitting](https://arxiv.org/pdf/2410.04638), Jan. 31 2025.
 - [Why can accurate models are be learned from inaccurate annotations?](https://arxiv.org/abs/2505.16159), May 22 2025. [code](https://github.com/Chongjie-Si/LIP).
 - [Collaborative prediction: To join or to disjoin datasets](https://arxiv.org/pdf/2506.11271), Jun. 12 2025. [code](https://github.com/kkrokii/collaborative_prediction).
+- [Random pruning over-parameterized neural networks can improve generalization: A training dynamics analysis](https://www.jmlr.org/papers/volume26/23-0832/23-0832.pdf), JMLR 2025.
 
 ### Contrastive learning
 
