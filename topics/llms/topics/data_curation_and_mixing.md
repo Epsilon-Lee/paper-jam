@@ -49,5 +49,6 @@
 - [UltraIF: Advancing instruction following from the wild](https://arxiv.org/pdf/2502.04153), Feb. 6 2025. [code](https://github.com/kkk-an/UltraIF).
 - [Ultra-FineWeb: Efficient data filtering and verification for high-quality LLM training data](https://arxiv.org/pdf/2505.05427), May 8 2025.
 - [Domain2Vec: Vectorizing datasets to find the optimal data mixture without training](https://arxiv.org/pdf/2506.10952), Jun. 12 2025.
+- [NICE Data selection for instruction tuning in LLMs with non-differentiable evaluation metric](https://openreview.net/pdf?id=2wt8m5HUBs), ICML 2025.
 
 
