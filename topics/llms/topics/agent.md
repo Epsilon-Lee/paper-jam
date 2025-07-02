@@ -52,6 +52,9 @@
 - [Re-evaluating open-ended evaluation of large language models](https://arxiv.org/pdf/2502.20170), Feb. 27 2025.
 - [The AI scientist-v2: Workshop-level automated scientific discovery via agentic tree search](https://pub.sakana.ai/ai-scientist-v2/paper/paper.pdf), Apr. 8 2025.
 - [Automated hypothesis validation with agentic sequential falsifications](https://arxiv.org/pdf/2502.09858), Feb. 14 2025. [code](https://github.com/snap-stanford/POPPER).
+- [From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery](https://arxiv.org/pdf/2505.13259), May 19 2025.
+- [LLM Agents as AI Scientists: A Survey](https://openreview.net/pdf?id=bfdUWy6rUA), 2025.
+- [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://aclanthology.org/2024.emnlp-main.498.pdf), EMNLP 2024.
 
 #### Code agent
 
