@@ -159,6 +159,7 @@
 - [Beyond gold standards: Epistemic ensemble of LLM judges for formal mathematical reasoning](https://arxiv.org/pdf/2506.10903), Jun. 12 2025.
 - [Direct reasoning optimization: LLMs can reward and refine their own reasoning for open-ended tasks](https://arxiv.org/pdf/2506.13351), Jun. 16 2025.
 - [Training large language models to reason in a continuous latent space](https://arxiv.org/pdf/2412.06769), Dec. 11 2024.
+- [What do learning dynamics reveal about generalization in LLM mathematical reasoning](https://openreview.net/pdf?id=bivU8fTTDo), ICML 2025.
 
 #### Understanding reasoning
 
