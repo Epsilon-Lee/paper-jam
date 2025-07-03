@@ -55,6 +55,7 @@
 - [From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery](https://arxiv.org/pdf/2505.13259), May 19 2025.
 - [LLM Agents as AI Scientists: A Survey](https://openreview.net/pdf?id=bfdUWy6rUA), 2025.
 - [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://aclanthology.org/2024.emnlp-main.498.pdf), EMNLP 2024.
+- [Open-ended scientific discovery via Bayesian surprise](https://arxiv.org/pdf/2507.00310), Jun. 30 2025.
 
 #### Code agent
 
