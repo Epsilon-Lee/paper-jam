@@ -50,5 +50,6 @@
 - [Ultra-FineWeb: Efficient data filtering and verification for high-quality LLM training data](https://arxiv.org/pdf/2505.05427), May 8 2025.
 - [Domain2Vec: Vectorizing datasets to find the optimal data mixture without training](https://arxiv.org/pdf/2506.10952), Jun. 12 2025.
 - [NICE Data selection for instruction tuning in LLMs with non-differentiable evaluation metric](https://openreview.net/pdf?id=2wt8m5HUBs), ICML 2025.
+- [FineWeb2: One pipeline to scale them all - Adapting pre-training data processing to every language](https://arxiv.org/pdf/2506.20920), Jun. 26 2025.
 
 
