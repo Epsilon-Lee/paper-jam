@@ -166,5 +166,7 @@
 - [How well can reasoning models identify and recover from unhelpful thoughts](https://arxiv.org/pdf/2506.10979), Jun. 12 2025.
 - [Reasoning by superposition: A theoretical perspective on chain of continuous thought](https://arxiv.org/pdf/2505.12514), May 18 2025.
 - [Demystifing long chain-of-thought reasnoning](https://openreview.net/pdf?id=OLodUbcWjB), ICML 2025. [code](https://github.com/eddycmu/demystify-long-cot).
+- [Theoretical modeling of LLM self-improvement training dynaics through solver-verifier gap](https://arxiv.org/pdf/2507.00075), Jun. 29 2025.
+- [A theory of inference compute scaling: Reasoning through directed stochastic skill search](https://arxiv.org/pdf/2507.00004), Jun. 10 2025.
 
 
