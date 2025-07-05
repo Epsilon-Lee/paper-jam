@@ -188,6 +188,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Random pruning over-parameterized neural networks can improve generalization: A training dynamics analysis](https://www.jmlr.org/papers/volume26/23-0832/23-0832.pdf), JMLR 2025.
 - [Scalable feature learning on huge knowledge graphs for downstream machine learning](https://arxiv.org/pdf/2507.00965), Jul. 1 2025.
 - [Out-of-distribution detection methods answer the wrong questions](https://arxiv.org/pdf/2507.01831), Jul. 2 2025.
+- [Relational composition in neural networks: A survey and call to action](https://arxiv.org/pdf/2407.14662?), Jul. 19 2024.
 
 ### Contrastive learning
 
