@@ -1,17 +1,18 @@
 
-- [Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model](https://arxiv.org/pdf/2201.11990), Feb. 4 2022.
 - [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/pdf/2304.01373), May 31 2023.
 - [InternLM2 Technical Report](https://arxiv.org/pdf/2403.17297), Mar. 26 2024.
 - [Sailor: Open Language Models for South-East Asia](https://arxiv.org/pdf/2404.03608), Apr. 4 2024.
-- [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/pdf/2406.11931), Jun. 17 2024.
-- [Nemotron-4 340B Technical Report](https://d1qx31qr3h6wln.cloudfront.net/publications/Nemotron_4_340B_8T_0.pdf), Jun. 2024.
-- [ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools](https://arxiv.org/pdf/2406.12793), Jun. 18 2024.
 - [LokiLM: Technical Report](https://arxiv.org/abs/2407.07370), Jul. 10 2024.
 - [H2O-Danube3 Technical Report](https://arxiv.org/pdf/2407.09276), Jul. 12 2024. `made for smartphone`.
 - [Falcon2-11b technical report](https://arxiv.org/pdf/2407.14885), Jul. 20 2024.
 - [Aquila2 Technical Report](https://arxiv.org/pdf/2408.07410), Aug. 14 2024.
-- [MiniMax-01: Scaling foundation models with lightning attention](https://arxiv.org/pdf/2501.08313), Jan. 14 2025. [code](https://github.com/MiniMax-AI/MiniMax-01).
+
+**Cohere**
 - [Command A: An enterprise-ready large language model](https://cohere.com/research/papers/command-a-technical-report.pdf), Mar. 27 2025.
+
+**Nemotron**
+- [Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model](https://arxiv.org/pdf/2201.11990), Feb. 4 2022.
+- [Nemotron-4 340B Technical Report](https://d1qx31qr3h6wln.cloudfront.net/publications/Nemotron_4_340B_8T_0.pdf), Jun. 2024.
 
 **Llama series**
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971), Feb. 27 2023.
@@ -68,7 +69,12 @@
 - [Magistral](https://arxiv.org/pdf/2506.10910), Jun. 12 2025.
 
 **MiniMax**
+- [MiniMax-01: Scaling foundation models with lightning attention](https://arxiv.org/pdf/2501.08313), Jan. 14 2025. [code](https://github.com/MiniMax-AI/MiniMax-01).
 - [MiniMax-M1: Scaling test-time compute efficiently with lightning attention](https://github.com/MiniMax-AI/MiniMax-M1/blob/main/MiniMax_M1_tech_report.pdf), Jun. 16 2025.
+
+**GLM**
+- [ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools](https://arxiv.org/pdf/2406.12793), Jun. 18 2024.
+- [GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/pdf/2507.01006), Jul. 2 2025.
 
 ### Domain LLMs
 
