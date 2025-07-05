@@ -1,6 +1,9 @@
 
 ### In-context learning
 
+- [Out-of-distribution generalization via composition: A lens through induction heads in Transformers](https://arxiv.org/abs/2408.09503), Dec. 28 2024.
+- [ICLR: In-context learning of representations](https://arxiv.org/pdf/2501.00070), May 2 2025.
+
 #### Empirical observation of icl
 
 - [Deeper Insights Without Updates: The Power of In-Context Learning Over Fine-Tuning](https://aclanthology.org/2024.findings-emnlp.239.pdf), EMNLP 2024. [code](https://github.com/MikaStars39/ICLvsFinetune).
