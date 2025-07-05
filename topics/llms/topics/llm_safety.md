@@ -80,6 +80,7 @@
 - [Speak Easy: Eliciting harmful jailbreaks from LLMs with simple interactions](https://arxiv.org/pdf/2502.04322), Feb. 6 2025.
 - [Stronger universal and transferable attacks by suppressing refusals](https://people.eecs.berkeley.edu/~daw/papers/iris-naacl25.pdf), `naacl2025`.
 - [Using mechanistic interpretability to craft adversarial attacks against large language models](https://arxiv.org/pdf/2503.06269), Mar. 2025.
+- [Monitoring decomposition attacks in LLMs with lightweight sequential monitors](https://arxiv.org/pdf/2506.10949), Jun. 14 2025. [code](https://github.com/YuehHanChen/Monitoring-Decomposition-Attack).
 
 #### How to defense
 
