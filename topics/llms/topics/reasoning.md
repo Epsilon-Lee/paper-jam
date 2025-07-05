@@ -160,6 +160,9 @@
 - [Direct reasoning optimization: LLMs can reward and refine their own reasoning for open-ended tasks](https://arxiv.org/pdf/2506.13351), Jun. 16 2025.
 - [Training large language models to reason in a continuous latent space](https://arxiv.org/pdf/2412.06769), Dec. 11 2024.
 - [What do learning dynamics reveal about generalization in LLM mathematical reasoning](https://openreview.net/pdf?id=bivU8fTTDo), ICML 2025.
+- [Implicit reward as bridge: A unified view of SFT and DPO algorithm](https://arxiv.org/pdf/2507.00018), Jun. 15 2025.
+- [Thought anchors: Which LLM reasoning steps matter?](https://arxiv.org/pdf/2506.19143), Jun. 23 2025.
+- [AdaCoT: Pareto-optimal adaptive chain-of-thought triggering via reinforcement learning](https://arxiv.org/pdf/2505.11896), May 25 2025.
 
 #### Understanding reasoning
 
