@@ -163,6 +163,7 @@
 - [Implicit reward as bridge: A unified view of SFT and DPO algorithm](https://arxiv.org/pdf/2507.00018), Jun. 15 2025.
 - [Thought anchors: Which LLM reasoning steps matter?](https://arxiv.org/pdf/2506.19143), Jun. 23 2025.
 - [AdaCoT: Pareto-optimal adaptive chain-of-thought triggering via reinforcement learning](https://arxiv.org/pdf/2505.11896), May 25 2025.
+- [Generalizing verifiable instruction following](https://arxiv.org/pdf/2507.02833), Jul. 3 2025. [code](https://github.com/allenai/IFBench).
 
 #### Understanding reasoning
 
