@@ -42,6 +42,7 @@
 - [In which areas of technical AI safety could geopolitical rivals cooperate?](https://arxiv.org/pdf/2504.12914), Apr. 17 2025.
 - [Model organisms for emergent misalignment](https://arxiv.org/pdf/2506.11613), Jun. 13 2025. [code](https://github.com/clarifying-EM/model-organisms-for-EM).
 - [Exploring the secondary risks of large language models](https://arxiv.org/pdf/2506.12382), Jun. 14 2025.
+- [SHADE-Arena: Evaluating sabotage and monitoring in LLM agents](https://assets.anthropic.com/m/4fb35becb0cd87e1/original/SHADE-Arena-Paper.pdf), 2025. `Anthropic`.
 
 #### Survey and definition
 
