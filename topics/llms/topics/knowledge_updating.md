@@ -101,6 +101,7 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [Inside-out: Hidden factual knowledge in LLMs](https://arxiv.org/abs/2503.15299), Mar. 19 2025.
 - [Learning and Unlearning of Fabricated Knowledge in Language Models](https://arxiv.org/pdf/2410.21750), ICML 2024. 
 - [How new data permeates LLM knowledge and how to dilute it](https://arxiv.org/pdf/2504.09522), Apr. 13 2025.
+- [PropMEND: Hypernetworks for knowledge propagation in LLMs](https://arxiv.org/pdf/2506.08920), Jun. 10 2025. [code](https://github.com/leo-liuzy/propmend).
 
 #### RAG and knowledge graph
 
