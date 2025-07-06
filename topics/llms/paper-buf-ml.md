@@ -190,6 +190,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Out-of-distribution detection methods answer the wrong questions](https://arxiv.org/pdf/2507.01831), Jul. 2 2025.
 - [Relational composition in neural networks: A survey and call to action](https://arxiv.org/pdf/2407.14662?), Jul. 19 2024.
 - [The butterfly effect: Neural network training trajectories are highly sensitive to initial conditions](https://arxiv.org/pdf/2506.13234), Jun. 16 2025. [code](https://github.com/gsaltintas/lmc).
+- [Position: A Theory of Deep Learning Must Include Compositional Sparsity](https://arxiv.org/pdf/2507.02550), Jul. 3 2025.
 
 ### Contrastive learning
 
