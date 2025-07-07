@@ -138,6 +138,7 @@
 - [Discovering hierarchical latent capabilities of language models via causal representation learning](https://arxiv.org/pdf/2506.10378), Jun. 12 2025. [code](https://github.com/hlzhang109/causal-eval).
 - [From emergence to control: Probing and modulating self-reflection in language models](https://arxiv.org/pdf/2506.12217), Jun. 13 2025.
 - [Approximating language model training data from weights](https://arxiv.org/pdf/2506.15553), Jun. 18 2025. [code](https://github.com/jxmorris12/reverse-training).
+- [Superposition yields robust neural scaling](https://arxiv.org/pdf/2505.10465?), May 18 2025. [code](https://github.com/liuyz0/SuperpositionScaling).
 
 #### Sparse autoencoders, dictionary learning and beyond
 
