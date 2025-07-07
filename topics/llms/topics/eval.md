@@ -45,6 +45,7 @@
 - [HARDMath: A benchmark dataset for challenging problems in applied mathematics](https://arxiv.org/pdf/2410.09988), Oct. 13 2024.
 - [SuperGPQA: Scaling LLM evaluation across 285 graduate disciplines](https://arxiv.org/pdf/2502.14739), Feb. 20 2025.
 - [xBench: Tracking agents productivity scaling with profession-aligned real-world evaluations](https://xbench.org/files/xbench_profession_v2.4.pdf), May 2025.
+- [AutoBencher: Towards declarative benchmark construction](https://openreview.net/pdf?id=ymt4crbbXh), ICLR 2025. [code](https://github.com/XiangLi1999/AutoBencher).
 
 #### Eval toolkit
 
