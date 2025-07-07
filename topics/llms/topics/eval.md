@@ -20,6 +20,7 @@
 - [Cer-Eval: Certifiable and Cost-Efficient Evaluation Framework for LLMs](https://arxiv.org/pdf/2505.03814), May 2 2025.
 - [From rankings to insights: Evaluation should shift focus from leaderboard to feedback](https://arxiv.org/pdf/2505.06698), May 16 2025. [code](https://github.com/liudan193/Feedbacker).
 - [Adaptively evaluating models with task elicitation](https://davisrbrown.com/assets/task_elicitation_initial.pdf), Mar. 3 2025.
+- [Answer matching outperforms multiple choice for language model evaluation](https://arxiv.org/pdf/2507.02856), Jul. 3 2025. [code](https://github.com/nikhilchandak/answer-matching).
 
 #### Data contamination
 
