@@ -249,6 +249,7 @@
 - [Future of work with AI Agents: Auditing automation and augmentation potential across the U.S. workforce](https://arxiv.org/pdf/2506.06576), Jun. 11 2025.
 - [Naturalistic computational cognitive science: Towards generalizable models and theories that capture the full range of natural behavior](https://arxiv.org/pdf/2502.20349), Jun. 12 2025.
 - [From bytes to ideas: Language modeling with autoregressive U-Nets](https://arxiv.org/pdf/2506.14761), Jun. 17 2025.
+- [Should we still pretrain encoders with masked language modeling](https://arxiv.org/pdf/2507.00994), Jul. 1 2025. [code](https://huggingface.co/MLMvsCLM).
 
 ### LLMs for traditional nlp tasks
 
