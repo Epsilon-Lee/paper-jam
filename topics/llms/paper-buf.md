@@ -251,6 +251,11 @@
 - [From bytes to ideas: Language modeling with autoregressive U-Nets](https://arxiv.org/pdf/2506.14761), Jun. 17 2025.
 - [Should we still pretrain encoders with masked language modeling](https://arxiv.org/pdf/2507.00994), Jul. 1 2025. [code](https://huggingface.co/MLMvsCLM).
 
+### LLM pruning
+
+- [Instruction-following pruning for large language models](https://arxiv.org/pdf/2501.02086), Jun. 2 2025.
+- [On the creation of narrow AI: Hierarchy and nonlocality of neural network skills](https://arxiv.org/pdf/2505.15811), May 21 2025. [code](https://github.com/ejmichaud/narrow).
+
 ### LLMs for traditional nlp tasks
 
 - [Is ChatGPT a Good Sentiment Analyzer? A Preliminary Study](https://arxiv.org/pdf/2304.04339), Feb. 17 2024.
