@@ -164,6 +164,7 @@
 - [Thought anchors: Which LLM reasoning steps matter?](https://arxiv.org/pdf/2506.19143), Jun. 23 2025.
 - [AdaCoT: Pareto-optimal adaptive chain-of-thought triggering via reinforcement learning](https://arxiv.org/pdf/2505.11896), May 25 2025.
 - [Generalizing verifiable instruction following](https://arxiv.org/pdf/2507.02833), Jul. 3 2025. [code](https://github.com/allenai/IFBench).
+- [Wider or deeper? Scaling LLM inference-time compute with adaptive branching tree search](https://arxiv.org/pdf/2503.04412), Jun. 27 2025.
 
 #### Understanding reasoning
 
