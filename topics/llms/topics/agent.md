@@ -40,6 +40,8 @@
 - [Optimizing model selection for compound AI systems](https://arxiv.org/pdf/2502.14815), Feb. 20 2025. [code](https://github.com/LLMSELECTOR/LLMSELECTOR).
 - [Designing ecosystems of intelligence from first principles](https://arxiv.org/pdf/2212.01354), Jan. 11 2024.
 - [Towards a cascaded LLM framework for cost-effective human-ai decision making](https://arxiv.org/pdf/2506.11887), Jun. 13 2025. [code](https://github.com/fanconic/cascaded-llms).
+- [Establishing best practices for building rigorous agentic benchmarks](https://arxiv.org/pdf/2507.02825), Jul. 3 2025.
+  - `Agentic benchmark checklist`
 
 #### Open-endedness
 
