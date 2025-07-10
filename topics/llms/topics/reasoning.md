@@ -165,6 +165,8 @@
 - [AdaCoT: Pareto-optimal adaptive chain-of-thought triggering via reinforcement learning](https://arxiv.org/pdf/2505.11896), May 25 2025.
 - [Generalizing verifiable instruction following](https://arxiv.org/pdf/2507.02833), Jul. 3 2025. [code](https://github.com/allenai/IFBench).
 - [Wider or deeper? Scaling LLM inference-time compute with adaptive branching tree search](https://arxiv.org/pdf/2503.04412), Jun. 27 2025.
+- [Polaris: A post-training recipe for scaling reinforcement learning on advanced reasoning models](https://hkunlp.github.io/blog/2025/Polaris/), Jun. 20 2025. [code](https://github.com/ChenxinAn-fdu/POLARIS).
+- [SPIRAL: Self-play on zero-sum games incentivizes reasoning via multi-agent multi-turn reinforcement learning](https://arxiv.org/abs/2506.24119), Jun. 30 2025. [code](https://github.com/spiral-rl/spiral).
 
 #### Understanding reasoning
 
