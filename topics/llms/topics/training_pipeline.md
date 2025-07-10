@@ -86,6 +86,8 @@
 - [Overtrained language models are harder to fine-tune](https://openreview.net/pdf?id=H2SbfCYsgn), ICLR 2025.
 - [On the generalization of language models from in-context learning and finetuning: a controlled study](https://arxiv.org/pdf/2505.00661), May 1 2025.
 - [Meeseeks: An iterative benchmark evaluating LLMs multi-turn instruction-following ability](https://arxiv.org/pdf/2504.21625), Apr. 30 2025.
+- [How much knowledge can you pack into a lora adapter without harming LLM?](https://arxiv.org/pdf/2502.14502), Mar. 24 2025. [code](https://github.com/AIRI-Institute/knowledge-packing).
+- [LoRA Training Provably Converges to a Low-Rank Global Minimum or It Fails Loudly (But it Probably Won’t Fail)](https://arxiv.org/pdf/2502.09376), Jun. 3 2025.
 
 ### Alignment, preference alignment, reward models
 
