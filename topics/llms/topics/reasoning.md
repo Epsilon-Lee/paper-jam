@@ -167,6 +167,7 @@
 - [Wider or deeper? Scaling LLM inference-time compute with adaptive branching tree search](https://arxiv.org/pdf/2503.04412), Jun. 27 2025.
 - [Polaris: A post-training recipe for scaling reinforcement learning on advanced reasoning models](https://hkunlp.github.io/blog/2025/Polaris/), Jun. 20 2025. [code](https://github.com/ChenxinAn-fdu/POLARIS).
 - [SPIRAL: Self-play on zero-sum games incentivizes reasoning via multi-agent multi-turn reinforcement learning](https://arxiv.org/abs/2506.24119), Jun. 30 2025. [code](https://github.com/spiral-rl/spiral).
+- [Inference-aware fine-tuning for best-of-n sampling in large language models](https://arxiv.org/pdf/2412.15287), Dec. 18 2024.
 
 #### Understanding reasoning
 
