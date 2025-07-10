@@ -191,6 +191,12 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Relational composition in neural networks: A survey and call to action](https://arxiv.org/pdf/2407.14662?), Jul. 19 2024.
 - [The butterfly effect: Neural network training trajectories are highly sensitive to initial conditions](https://arxiv.org/pdf/2506.13234), Jun. 16 2025. [code](https://github.com/gsaltintas/lmc).
 - [Position: A Theory of Deep Learning Must Include Compositional Sparsity](https://arxiv.org/pdf/2507.02550), Jul. 3 2025.
+- [Composition and control with distilled energy diffusion models adn sequential Monte Carlo](https://arxiv.org/pdf/2502.12786), Feb. 18 2025.
+- [Navigating the latent space dynamics of neural models](https://arxiv.org/abs/2505.22785), May 28 2025.
+- [Benefits of early stopping in gradient descent for overparameterized logistic regression](https://arxiv.org/pdf/2502.13283), Jun. 30 2025.
+- [Beyond statistical learning: Exact learning is essential for general intelligence](https://arxiv.org/pdf/2506.23908), Jun. 30 2025.
+- [How weight resampling and optimizers shape the dynamics of continual learning and forgetting in neural networks](https://arxiv.org/pdf/2507.01559), Jul. 2 2025.
+  - [Learning to continually learn](https://ebooks.iospress.nl/doi/10.3233/FAIA200193), ECAI 2020.
 
 ### Contrastive learning
 
