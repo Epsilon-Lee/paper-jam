@@ -44,6 +44,8 @@
 - [Exploring the secondary risks of large language models](https://arxiv.org/pdf/2506.12382), Jun. 14 2025.
 - [SHADE-Arena: Evaluating sabotage and monitoring in LLM agents](https://assets.anthropic.com/m/4fb35becb0cd87e1/original/SHADE-Arena-Paper.pdf), 2025. `Anthropic`.
 - [LLM hypnosis: Exploiting user feedback for unauthorized knowledge injection to all users](https://arxiv.org/pdf/2507.02850), Jul. 3 2025.
+- [Why do some language models fake alignment while others don't?](https://arxiv.org/pdf/2506.18032), Jun. 22 2025.
+  - _"only Claude 3 Opus's complilance gap is primarily and consistently explained by alignment faking, and that this alignment faking might be in part motivated by an intrinsic preference for self-preservation. In contrast, most models exhibit minimal alignment faking."_
 
 #### Survey and definition
 
