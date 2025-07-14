@@ -198,6 +198,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [How weight resampling and optimizers shape the dynamics of continual learning and forgetting in neural networks](https://arxiv.org/pdf/2507.01559), Jul. 2 2025.
   - [Learning to continually learn](https://ebooks.iospress.nl/doi/10.3233/FAIA200193), ECAI 2020.
 - [Learning from positive and unlabeled examples - Finit size sample bounds](https://arxiv.org/pdf/2507.07354), Jul. 10 2025.
+- [Revisiting learning rate control](https://arxiv.org/pdf/2507.01724), Jul. 2 2025.
 
 ### Contrastive learning
 
