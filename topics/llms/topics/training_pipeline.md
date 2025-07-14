@@ -88,6 +88,7 @@
 - [Meeseeks: An iterative benchmark evaluating LLMs multi-turn instruction-following ability](https://arxiv.org/pdf/2504.21625), Apr. 30 2025.
 - [How much knowledge can you pack into a lora adapter without harming LLM?](https://arxiv.org/pdf/2502.14502), Mar. 24 2025. [code](https://github.com/AIRI-Institute/knowledge-packing).
 - [LoRA Training Provably Converges to a Low-Rank Global Minimum or It Fails Loudly (But it Probably Won’t Fail)](https://arxiv.org/pdf/2502.09376), Jun. 3 2025.
+- [DoMIX: An efficient framework for exploiting domain knowledge in fine-tuning](https://arxiv.org/pdf/2507.02302), Jul. 3 2025. [code](https://github.com/dohoonkim-ai/DoMIX).
 
 ### Alignment, preference alignment, reward models
 
