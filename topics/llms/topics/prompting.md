@@ -1,6 +1,7 @@
 
 ### Prompting techniques
 
+- [Promptbreeder: Self-referential self-improvement via prompt evolution](https://arxiv.org/pdf/2309.16797), Sep. 28 2023. [code](https://github.com/vaughanlove/PromptBreeder).
 - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608), Jun. 6 2024. `prompting`.
 - [A survey of prompt engineering methods in large language models for different nlp tasks](https://arxiv.org/pdf/2407.12994), Jul. 17 2024.
 - [Rational metareasoning for large language models](), Dec. 21 2024.
@@ -19,5 +20,6 @@
 - [PromptBreeder: Self-referential self-improvement via prompt evolution](https://arxiv.org/pdf/2309.16797), Sep. 28 2025.
 - [Accelerating language model workflows with prompt choreography](https://blog.tjbai.com/prompt_choreography.pdf), May 2025. by `Json Eisner`. [code](https://github.com/tjbai/choreo).
 - [What makes a good natural language prompt?](https://arxiv.org/pdf/2506.06950), Jun. 7 2025. [code](https://github.com/dxlong2000/NLPromptEval).
+- [Evolving prompts in-context: An open-ended, self-replicating perspective](https://arxiv.org/pdf/2506.17930), Jun. 22 2025.
 
 
