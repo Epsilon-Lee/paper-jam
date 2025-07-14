@@ -9,23 +9,19 @@
 - [From Words to Actions: Unveiling the Theoretical Underpinnings of LLM-Driven Autonomous Systems](https://arxiv.org/pdf/2405.19883), May 30 2024. `agent`.
 - [Agentic Workflow新范式，基于大语言模型的工作流、业务流程、智能体大融合【附十篇相关论文】](https://mp.weixin.qq.com/s/i9QB_OtUboHnoZOKn-oKmA), Aug. 5 2024.
 - [Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/pdf/2406.04692), Jun. 7 2024. `agent`.
-- [TextGrad: Automatic "Differentiation" via Text](https://arxiv.org/abs/2406.07496), Jun. 11 2024. `agent`.
 - [Internet of agents: Weaving a web of heterogeneous agents for collaborative intelligence](https://arxiv.org/pdf/2407.07061), Jul. 10 2024.
 - [On the Design and Analysis of LLM-Based Algorithms](https://arxiv.org/pdf/2407.14788), Jul. 20 2024.
 - [Recursive Introspection: Teaching Language Model Agents How to Self-Improve](https://arxiv.org/pdf/2407.18219), Jul. 25 2024.
 - [ReDel: A Toolkit for LLM-Powered Recursive Multi-Agent Systems](https://arxiv.org/pdf/2408.02248), Aug. 5 2024.
 - [RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation](https://arxiv.org/pdf/2408.02545), Aug. 5 2024. [code](https://github.com/IntelLabs/RAGFoundry).
 - [Automated Design of Agentic Systems](https://arxiv.org/pdf/2408.08435), Aug. 15 2024. [code](https://github.com/ShengranHu/ADAS).
-- [Agent Workflow Memory](https://arxiv.org/pdf/2409.07429), Sep. 11 2024.
 - [xLAM: A Family of Large Action Models to Empower AI Agent Systems](https://arxiv.org/pdf/2409.03215), Sep. 5 2024.
 - [The Impact of Element Ordering on LM Agent Performance](https://arxiv.org/pdf/2409.12089), Sep. 19 2024.
 - [AgentScope: A Flexible yet Robust Multi-Agent Platform](https://arxiv.org/pdf/2402.14034), May 20 2024. [github](https://github.com/modelscope/agentscope).
 - [TextGrad: Automatic “Differentiation” via Text](https://arxiv.org/pdf/2406.07496), Jun. 11 2024. [github](https://github.com/zou-group/textgrad).
 - [AFlow: Automatic agentic workflow generation](https://arxiv.org/pdf/2410.10762), Oct. 14 2024. [code](https://github.com/geekan/MetaGPT).
-- [Agent skill acquisition for large language models via CycleQD](https://arxiv.org/pdf/2410.14735), Nov. 27 2024. [code](https://github.com/SakanaAI/CycleQD).
-- [Commit0: Library generation from scratch](https://arxiv.org/pdf/2412.01769), Dec. 2 2024.
- [code](https://github.com/commit-0/commit0).
-[Magentic-One: A generalist multi-agent system for solving complex tasks](https://arxiv.org/pdf/2411.04468), Nov. 7 2024. [blogpost](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/).
+- [Commit0: Library generation from scratch](https://arxiv.org/pdf/2412.01769), Dec. 2 2024. [code](https://github.com/commit-0/commit0).
+- [Magentic-One: A generalist multi-agent system for solving complex tasks](https://arxiv.org/pdf/2411.04468), Nov. 7 2024. [blogpost](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/).
 - [Trace is the Next AutoDiff: Generative Optimization with Rich Feedback, Execution Traces, and LLMs](https://arxiv.org/pdf/2406.16218), Nov. 1 2024. [code](https://microsoft.github.io/Trace/).
 - [Towards human-guided, data-centric LLM co-pilots](https://arxiv.org/pdf/2501.10321), Jan. 17 2025. `data science`.
 - [When should we orchestrate multiple agents?](https://arxiv.org/pdf/2503.13577), Mar. 17 2025.
@@ -37,12 +33,27 @@
 - [SWEET-RL: Training multi=turn LLM agents on collaborative reasoning tasks](https://arxiv.org/pdf/2503.15478), Mar. 19 2025. [code](https://github.com/facebookresearch/sweet_rl).
 - [Predicting multi-agent specialization via task parallelizability](https://arxiv.org/pdf/2503.15703), Mar. 19 2025.
 - [MALT: Improving reasoning with multi-agent LLM training](https://arxiv.org/pdf/2412.01928), Feb. 27 2025.
-- [Optimizing model selection for compound AI systems](https://arxiv.org/pdf/2502.14815), Feb. 20 2025. [code](https://github.com/LLMSELECTOR/LLMSELECTOR).
 - [Designing ecosystems of intelligence from first principles](https://arxiv.org/pdf/2212.01354), Jan. 11 2024.
 - [Towards a cascaded LLM framework for cost-effective human-ai decision making](https://arxiv.org/pdf/2506.11887), Jun. 13 2025. [code](https://github.com/fanconic/cascaded-llms).
 - [Establishing best practices for building rigorous agentic benchmarks](https://arxiv.org/pdf/2507.02825), Jul. 3 2025.
   - `Agentic benchmark checklist`
+- [Toward a theory of agents as tool-use decision makers](https://arxiv.org/pdf/2506.00886), Jun. 1 2025.
+
+#### Memory modeling
+
+- [Agent Workflow Memory](https://arxiv.org/pdf/2409.07429), Sep. 11 2024.
+- [Agent skill acquisition for large language models via CycleQD](https://arxiv.org/pdf/2410.14735), Nov. 27 2024. [code](https://github.com/SakanaAI/CycleQD).
+- [Inducing programmatic skills for agentic tasks](https://arxiv.org/pdf/2504.06821), Apr. 9 2025. [code](https://github.com/zorazrw/agent-skill-induction).
 - [MemOS: A memory OS for AI systems](https://arxiv.org/pdf/2507.03724), Jul. 4 2025. [code](https://github.com/MemTensor/MemOS).
+
+#### Combound AI systems
+
+- [DSPy: Compiling declarative language model calls into self-improving pipelines](https://arxiv.org/abs/2310.03714), Oct. 5 2023.
+- [TextGrad: Automatic "Differentiation" via Text](https://arxiv.org/abs/2406.07496), Jun. 11 2024. `agent`.
+- [Optimizing model selection for compound AI systems](https://arxiv.org/pdf/2502.14815), Feb. 20 2025. [code](https://github.com/LLMSELECTOR/LLMSELECTOR).
+- [Alita: Generalist agent enabling scalable agentic reasoning with minimal predefinition and maximal self-evolution](https://arxiv.org/pdf/2505.20286), May 25 2025. [code](https://github.com/CharlesQ9/Alita).
+  - [AgentDistill: Training-free agent distillation with generalizable MCP boxes](), Jun. 17 2025.
+- [Optimas: Optimizing compound AI systems with globally aligned local rewards](https://arxiv.org/pdf/2507.03041), Jul. 9 2025. [code](https://github.com/snap-stanford/optimas).
 
 #### Open-endedness
 
