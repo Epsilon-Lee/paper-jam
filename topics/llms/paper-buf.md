@@ -8,7 +8,7 @@
 - [LLM safety](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/llm_safety.md).
 - [LLM interpretability](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/llm_interpretability.md).
 - [Knowledge updating](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/knowledge_updating.md).
-- [Training, optimization and alignment](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/train_optim_align.md).
+- [Training, optimization and alignment](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/training_pipeline.md).
 - [Scaling laws](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/scaling_laws.md).
 - [Reasoning](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/reasoning.md).
 - [Data curation and mixing](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/data_curation_and_mixing.md).
