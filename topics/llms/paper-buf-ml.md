@@ -199,6 +199,9 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
   - [Learning to continually learn](https://ebooks.iospress.nl/doi/10.3233/FAIA200193), ECAI 2020.
 - [Learning from positive and unlabeled examples - Finit size sample bounds](https://arxiv.org/pdf/2507.07354), Jul. 10 2025.
 - [Revisiting learning rate control](https://arxiv.org/pdf/2507.01724), Jul. 2 2025.
+- [Bayesian double descent](https://arxiv.org/pdf/2507.07338), Jul. 9 2025.
+- [FACT: the Features At Convergence Theorem for neural networks](https://arxiv.org/pdf/2507.05644), Jul. 8 2025.
+- [Can interpretation predict behavior on unseen data?](https://arxiv.org/pdf/2507.06445), Jul. 8 2025. [code](https://github.com/vli31/id-predict-ood).
 
 ### Contrastive learning
 
