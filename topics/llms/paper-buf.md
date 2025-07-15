@@ -253,6 +253,7 @@
 
 ### LLM-based active learning
 
+- [Cold-start data selection for better few-shot language model fine-tuning: A prompt-based uncertainty propagation approach](https://aclanthology.org/2023.acl-long.141.pdf), ACL 2023. [code](https://github.com/yueyu1030/Patron).
 - [FreeAL: Towards human-free active learning in the era of large language models](https://aclanthology.org/2023.emnlp-main.896.pdf), EMNLP 2023. [code](https://github.com/Justherozen/FreeAL).
 - [Enhancing text classification through LLM-driven active learning and human annotation](https://aclanthology.org/anthology-files/pdf/law/2024.law-1.10.pdf), 2024.
 - [ActiveLLM: Large language model-based active learning for textual few-shot scenarios](https://arxiv.org/pdf/2405.10808v1), May 17 2024.
