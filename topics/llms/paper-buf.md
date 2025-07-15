@@ -251,6 +251,13 @@
 - [From bytes to ideas: Language modeling with autoregressive U-Nets](https://arxiv.org/pdf/2506.14761), Jun. 17 2025.
 - [Should we still pretrain encoders with masked language modeling](https://arxiv.org/pdf/2507.00994), Jul. 1 2025. [code](https://huggingface.co/MLMvsCLM).
 
+### LLM-based active learning
+
+- [FreeAL: Towards human-free active learning in the era of large language models](https://aclanthology.org/2023.emnlp-main.896.pdf), EMNLP 2023. [code](https://github.com/Justherozen/FreeAL).
+- [Enhancing text classification through LLM-driven active learning and human annotation](https://aclanthology.org/anthology-files/pdf/law/2024.law-1.10.pdf), 2024.
+- [ActiveLLM: Large language model-based active learning for textual few-shot scenarios](https://arxiv.org/pdf/2405.10808v1), May 17 2024.
+- [From selection to generation: A survey of LLM-based active learning](https://arxiv.org/pdf/2502.11767), May 31 2025.
+
 ### LLM pruning
 
 - [Instruction-following pruning for large language models](https://arxiv.org/pdf/2501.02086), Jun. 2 2025.
