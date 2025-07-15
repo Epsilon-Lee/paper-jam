@@ -1,6 +1,7 @@
 
 ### Evaluation
 
+- [#InsTag: Instruction tagging for analyzing supervised fine-tuning of large language models](https://arxiv.org/pdf/2308.07074), Aug. 15 2023. [code](https://github.com/OFA-Sys/InsTag).
 - [Lessons from the Trenches on reproducible evaluation of language models](https://arxiv.org/abs/2405.14782), May 23 2024. `evaluation`.
 - [Evaluating language models as risk scores](https://arxiv.org/pdf/2407.14614), Jul. 19 2024.
 - [Training on the test task confounds evaluation and emergence](https://arxiv.org/pdf/2407.07890?), Jul. 10 2024. [code](https://github.com/socialfoundations/training-on-the-test-task).
@@ -21,6 +22,7 @@
 - [From rankings to insights: Evaluation should shift focus from leaderboard to feedback](https://arxiv.org/pdf/2505.06698), May 16 2025. [code](https://github.com/liudan193/Feedbacker).
 - [Adaptively evaluating models with task elicitation](https://davisrbrown.com/assets/task_elicitation_initial.pdf), Mar. 3 2025.
 - [Answer matching outperforms multiple choice for language model evaluation](https://arxiv.org/pdf/2507.02856), Jul. 3 2025. [code](https://github.com/nikhilchandak/answer-matching).
+- [Train-before-Test harmonizez language model rankings](https://arxiv.org/pdf/2507.05195), Jul. 7 2025. [code](https://github.com/socialfoundations/lm-harmony).
 
 #### Data contamination
 
