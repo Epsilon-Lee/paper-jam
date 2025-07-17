@@ -22,6 +22,14 @@
   - _"These results underscore the importance of taking a more holistic approach to uncertainty quantification when using LLMs as judges."_
 - [Feedback friction: LLMs struggle to fully incorporate external feedback](https://arxiv.org/pdf/2506.11930), Jun. 13 2025.
 
+#### Self-critique, self-verification
+
+- [Uncertainty estimation for language reward models](https://arxiv.org/pdf/2203.07472), Mar. 14 2022.
+- [Self-critiquing models for assisting human evaluators](https://arxiv.org/pdf/2206.05802), Jun. 14 2022.
+- [Teaching language models to support answers with verified quotes](https://arxiv.org/pdf/2203.11147), Mar. 21 2022.
+- [Enabling large language models to generate text with citations](https://arxiv.org/pdf/2305.14627), Oct. 31 2023. [code](https://github.com/princeton-nlp/ALCE).
+- [Chain-of-verification reduces hallucination in large language models](https://arxiv.org/pdf/2309.11495), Sep. 25 2023.
+
 #### Survey papers
 
 - [A survey on LLM-as-a-judge](https://arxiv.org/pdf/2411.15594), Nov. 2024.
@@ -46,5 +54,6 @@
 - [Evaluating language model agency through negotiations](https://arxiv.org/abs/2401.04536), Jan. 9 2024.
 - [Multi-agent consensus seeking via large language models](https://arxiv.org/pdf/2310.20151), Jan. 21 2025.
 - [Great models think alike and this undermines AI oversight](https://arxiv.org/pdf/2502.04313), Feb. 6 2025. [code](https://github.com/model-similarity/lm-similarity).
+- [AI debate aids assessment of controversial claims](https://arxiv.org/pdf/2506.02175), Jun. 2 2025. [code](https://github.com/salman-lui/ai-debate).
 
 
