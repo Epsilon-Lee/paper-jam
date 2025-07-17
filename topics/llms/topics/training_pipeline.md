@@ -38,6 +38,12 @@
 - [Model merging in pre-training of large language models](https://arxiv.org/pdf/2505.12082), May 17 2025.
 - [Language models scale reliably with over-training and on downstream tasks](https://openreview.net/forum?id=iZeQBqJamf), ICLR 2025.
 
+### Continual pre-training, or mid-training
+
+- [Continual learning for large language models: A survey](https://arxiv.org/pdf/2402.01364), Feb. 7 2024.
+- [Continual learning of large language models: A comprehensive survey](https://arxiv.org/pdf/2404.16789), Nov. 25 2024.
+- [Investigating continual pretraining in large language models: Insights and implications](https://arxiv.org/pdf/2402.17400), Feb. 12 2025. `TMLR`.
+
 ### Peft techniques
 
 - [Parameter-efficient fine-tuning of large-scale pre-trained language models](https://www.nature.com/articles/s42256-023-00626-4.pdf), Nature Machine Intelligence 2023.
@@ -95,6 +101,12 @@
 - [Large Language Model Alignment: A Survey](https://arxiv.org/pdf/2309.15025), Sep. 26 2023.
 - [Aligning Large Language Models with Human: A Survey](https://arxiv.org/pdf/2307.12966), Jul. 24 2023.
 - [Towards Bidirectional Human-AI Alignment: A Systematic Review for Clarifications, Framework, and Future Directions](https://arxiv.org/pdf/2406.09264), Jun. 17 2024.
+- [Goal misgeneralization: Why correct specifications aren't enough for correct goals](https://arxiv.org/pdf/2210.01790), Nov. 2 2022.
+  - _"an AI system may pursue an undesired goal even when the specification is correct, in the case of goal misgeneralization"_
+  - How does this topic correlate with reward hacking? A more broad sense of alignment faking?
+- [Goal misgeneralization in deep reinforcement learning](https://proceedings.mlr.press/v162/langosco22a/langosco22a.pdf), ICML 2022.
+  - _"Goal misgeneralization occurs when an RL agent retains its capabilities out-of-distribution yet pursues the wrong goal"_
+  - "We formalize this distinction between capability and goal generalization"
 - [BPO: Supercharging Online Preference Learning by Adhering to the Proximity of Behavior LLM](https://arxiv.org/pdf/2406.12168), Jun. 18 2024. `alignment`.
 - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290), Jul. 29 2024.
 - [UltraFeedback: Boosting language models with scaled AI feedback](https://arxiv.org/pdf/2310.01377), Jul. 16 2024.
