@@ -101,6 +101,7 @@
 - [Large Language Model Alignment: A Survey](https://arxiv.org/pdf/2309.15025), Sep. 26 2023.
 - [Aligning Large Language Models with Human: A Survey](https://arxiv.org/pdf/2307.12966), Jul. 24 2023.
 - [Towards Bidirectional Human-AI Alignment: A Systematic Review for Clarifications, Framework, and Future Directions](https://arxiv.org/pdf/2406.09264), Jun. 17 2024.
+- [Alignment of language agents](https://arxiv.org/pdf/2103.14659), Mar. 26 2021.
 - [Goal misgeneralization: Why correct specifications aren't enough for correct goals](https://arxiv.org/pdf/2210.01790), Nov. 2 2022.
   - _"an AI system may pursue an undesired goal even when the specification is correct, in the case of goal misgeneralization"_
   - How does this topic correlate with reward hacking? A more broad sense of alignment faking?
@@ -175,6 +176,7 @@
 - [Understanding the logic of direct preference alignment through logic](https://arxiv.org/pdf/2412.17696), Dec. 2024.
 - [Self-supervised alignment with mutual information learning to follow principles without preference labels](https://arxiv.org/pdf/2404.14313), May 21 2024. [code](https://github.com/janphilippfranken/sami).
 - [Do LLMs recognize your preferences? Evaluating personalized preference following in LLMs](https://arxiv.org/pdf/2502.09597), Feb. 13 2025. [code](https://github.com/amazon-science/PrefEval).
+- [Scaling laws for scalable oversight](https://arxiv.org/pdf/2504.18530), May 9 2025.
 
 ### Post-training for bert
 
