@@ -168,6 +168,7 @@
 - [Polaris: A post-training recipe for scaling reinforcement learning on advanced reasoning models](https://hkunlp.github.io/blog/2025/Polaris/), Jun. 20 2025. [code](https://github.com/ChenxinAn-fdu/POLARIS).
 - [SPIRAL: Self-play on zero-sum games incentivizes reasoning via multi-agent multi-turn reinforcement learning](https://arxiv.org/abs/2506.24119), Jun. 30 2025. [code](https://github.com/spiral-rl/spiral).
 - [Inference-aware fine-tuning for best-of-n sampling in large language models](https://arxiv.org/pdf/2412.15287), Dec. 18 2024.
+- [Dissecting clinical reasoning in language models: A comparative study of prompts and model adaptation strategies](https://arxiv.org/pdf/2507.04142), Jul. 5 2025.
 
 #### Understanding reasoning
 
