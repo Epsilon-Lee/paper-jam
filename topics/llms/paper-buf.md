@@ -250,6 +250,7 @@
 - [Naturalistic computational cognitive science: Towards generalizable models and theories that capture the full range of natural behavior](https://arxiv.org/pdf/2502.20349), Jun. 12 2025.
 - [From bytes to ideas: Language modeling with autoregressive U-Nets](https://arxiv.org/pdf/2506.14761), Jun. 17 2025.
 - [Should we still pretrain encoders with masked language modeling](https://arxiv.org/pdf/2507.00994), Jul. 1 2025. [code](https://huggingface.co/MLMvsCLM).
+- [The landscape of memorization in LLMs: Mechanisms, measurement, and mitigation](https://arxiv.org/pdf/2507.05578), Jul. 8 2025.
 
 ### LLM-based active learning
 
