@@ -42,6 +42,7 @@
 - [Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](https://arxiv.org/pdf/2403.05530), Jun. 14 2024.
 - [Gemma 2: Improving Open Language Models at a Practical Size](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf), Jun. 27 2024.
 - [Introducing Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/#ceo-message).
+- [Gemini 2.5: Pushing the frontier with advanced reasoning, multimodality, long context and next generation agentic capabilities](https://arxiv.org/pdf/2507.06261), Jul. 11 2025.
 
 **Deepseek series**
 - [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://arxiv.org/abs/2401.02954), Jan. 2024.
