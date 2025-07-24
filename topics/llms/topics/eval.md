@@ -24,6 +24,7 @@
 - [Answer matching outperforms multiple choice for language model evaluation](https://arxiv.org/pdf/2507.02856), Jul. 3 2025. [code](https://github.com/nikhilchandak/answer-matching).
 - [Train-before-Test harmonizez language model rankings](https://arxiv.org/pdf/2507.05195), Jul. 7 2025. [code](https://github.com/socialfoundations/lm-harmony).
 - [An empirical analysis of uncertainty in large language model evaluations](https://arxiv.org/pdf/2502.10709), Mar. 2 2025. [code](https://github.com/hasakiXie123/LLM-Evaluator-Uncertainty).
+- [Contextualized evaluations: Judging language model responses to underspecified queries](https://arxiv.org/abs/2411.07237), Nov. 11 2024. [code](https://github.com/allenai/ContextEval).
 
 #### Data contamination
 
