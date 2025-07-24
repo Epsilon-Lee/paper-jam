@@ -202,6 +202,8 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Bayesian double descent](https://arxiv.org/pdf/2507.07338), Jul. 9 2025.
 - [FACT: the Features At Convergence Theorem for neural networks](https://arxiv.org/pdf/2507.05644), Jul. 8 2025.
 - [Can interpretation predict behavior on unseen data?](https://arxiv.org/pdf/2507.06445), Jul. 8 2025. [code](https://github.com/vli31/id-predict-ood).
+- [I-Con: A unifying framework for representation learning](https://arxiv.org/pdf/2504.16929), Apr. 23 2025.
+- [Diffusion beats autoregressive in data-constrained settings](https://arxiv.org/abs/2507.15857), Jul. 21 2025.
 
 ### Contrastive learning
 
