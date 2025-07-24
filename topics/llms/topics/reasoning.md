@@ -170,6 +170,9 @@
 - [Inference-aware fine-tuning for best-of-n sampling in large language models](https://arxiv.org/pdf/2412.15287), Dec. 18 2024.
 - [Dissecting clinical reasoning in language models: A comparative study of prompts and model adaptation strategies](https://arxiv.org/pdf/2507.04142), Jul. 5 2025.
 - [Entropys scheduling](https://howetissue.notion.site/#231618bab567801e90c4ca0c063eede3).
+- [Inverse scaling in test-time compute](https://arxiv.org/pdf/2507.14417), Jul. 19 2025. [code](https://safety-research.github.io/inverse-scaling-ttc/).
+- [Mixture-of-recursions: Learning dynamic recursive depths for adaptive token-level computation](https://www.alphaxiv.org/abs/2507.10524), Jul. 21 2025. [code](https://github.com/raymin0223/mixture_of_recursions).
+- [Disentangling logic: The role of context in large language model reasoning capabilities](https://arxiv.org/pdf/2406.02787), Jun. 4 2024. [code](https://github.com/agiresearch/ContextHub).
 
 #### Understanding reasoning
 
@@ -178,5 +181,6 @@
 - [Demystifing long chain-of-thought reasnoning](https://openreview.net/pdf?id=OLodUbcWjB), ICML 2025. [code](https://github.com/eddycmu/demystify-long-cot).
 - [Theoretical modeling of LLM self-improvement training dynaics through solver-verifier gap](https://arxiv.org/pdf/2507.00075), Jun. 29 2025.
 - [A theory of inference compute scaling: Reasoning through directed stochastic skill search](https://arxiv.org/pdf/2507.00004), Jun. 10 2025.
+- [The serial scaling hypothesis](https://arxiv.org/abs/2507.12549), Jul. 16 2025. [tweet](https://x.com/layer07_yuxi/status/1947473214898377108).
 
 
