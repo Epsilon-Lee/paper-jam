@@ -174,6 +174,7 @@
 - [Mixture-of-recursions: Learning dynamic recursive depths for adaptive token-level computation](https://www.alphaxiv.org/abs/2507.10524), Jul. 21 2025. [code](https://github.com/raymin0223/mixture_of_recursions).
 - [Disentangling logic: The role of context in large language model reasoning capabilities](https://arxiv.org/pdf/2406.02787), Jun. 4 2024. [code](https://github.com/agiresearch/ContextHub).
 - [Learning to discover abstractions for LLM reasoning](https://openreview.net/pdf?id=kzccnANFQ7), ICML 2025 Workshop.
+- [Does thinking more always help? Understanding test-time scaling in reasoning models](https://arxiv.org/abs/2506.04210), Jun. 4 2025.
 
 #### Understanding reasoning
 
