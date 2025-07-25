@@ -173,6 +173,7 @@
 - [Inverse scaling in test-time compute](https://arxiv.org/pdf/2507.14417), Jul. 19 2025. [code](https://safety-research.github.io/inverse-scaling-ttc/).
 - [Mixture-of-recursions: Learning dynamic recursive depths for adaptive token-level computation](https://www.alphaxiv.org/abs/2507.10524), Jul. 21 2025. [code](https://github.com/raymin0223/mixture_of_recursions).
 - [Disentangling logic: The role of context in large language model reasoning capabilities](https://arxiv.org/pdf/2406.02787), Jun. 4 2024. [code](https://github.com/agiresearch/ContextHub).
+- [Learning to discover abstractions for LLM reasoning](https://openreview.net/pdf?id=kzccnANFQ7), ICML 2025 Workshop.
 
 #### Understanding reasoning
 
