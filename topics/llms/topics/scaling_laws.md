@@ -36,6 +36,10 @@
 - [Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for Mixture-of-Experts Language Models](https://arxiv.org/pdf/2501.12370), Jan. 25 2025.
 - [(Mis)Fitting: A survey of scaling laws](https://arxiv.org/pdf/2502.18969), Feb. 26 2025.
 - [Farseer: A refined scaling law in large language models](https://arxiv.org/pdf/2506.10972), Jun. 12 2025. [code](https://github.com/Farseer-Scaling-Law/Farseer).
+- [Observational scaling laws and the predictability of language model performance](https://arxiv.org/pdf/2405.10938), Oct. 1 2024. [code](https://github.com/ryoungj/ObsScaling).
+- [Loss-to-loss prediction: Scaling laws for all datasets](https://arxiv.org/pdf/2411.12925), Nov. 19 2024.
+- [LLMs on the line: Data determines loss-to-loss scaling laws](https://arxiv.org/pdf/2502.12120), Jun. 6 2025.
+- [Revisiting scaling laws via the z-transform](https://francisbach.com/z-transform/), Jul. 18 2025.
 
 #### FLOPS
 
