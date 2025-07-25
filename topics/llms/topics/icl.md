@@ -54,5 +54,6 @@
 - [Are emergent abilities in large language models just in-context learning](https://arxiv.org/pdf/2309.01809), Jul. 15 2024.
 - [When does divide and conquer work for long context LLM? A noise decomposition framework](https://arxiv.org/pdf/2506.16411), Jun. 19 2025. [code](https://github.com/NehzUx/DivideConquerAgents).
 - [In-context Occam's Razor: How transformers prefer simpler hypothesis on the fly](https://arxiv.org/pdf/2506.19351), Jun. 24 2025. [code](https://github.com/puneesh00/ICL-Bayes-Occam).
+- [Learning without training: The implicit dynamics of in-context learning](https://arxiv.org/pdf/2507.16003), Jul. 21 2025.
 
 
