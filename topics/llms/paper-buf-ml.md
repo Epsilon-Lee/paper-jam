@@ -205,6 +205,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [I-Con: A unifying framework for representation learning](https://arxiv.org/pdf/2504.16929), Apr. 23 2025.
 - [Diffusion beats autoregressive in data-constrained settings](https://arxiv.org/abs/2507.15857), Jul. 21 2025.
 - [Learning to add, multiply, and execute algorithmic instructions exactly with neural networks](https://arxiv.org/pdf/2502.16763), May 23 2025.
+- [Relating misfit to gain in weak-to-strong generalization beyond the squred loss](https://arxiv.org/pdf/2501.19105), Feb. 3 2025.
 
 ### Contrastive learning
 
