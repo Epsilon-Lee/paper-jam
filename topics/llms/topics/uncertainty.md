@@ -11,5 +11,6 @@
 - [Uncertainty estimation and quantification for LLMs: A simple supervised approach](https://arxiv.org/pdf/2404.15993), Oct. 23 2024.
 - [Language models prefer what they know: Relative confidence estimation via confidence preferences](https://arxiv.org/pdf/2502.01126), Feb. 3 2025.
 - [Extending epistemic uncertainty beyond parameters would assit in designing reliable LLMs](https://arxiv.org/pdf/2506.07448?), Jun. 9 2025.
+- [Do large language models know how much they know?](https://arxiv.org/pdf/2502.19573), Feb. 26 2025.
 
 
