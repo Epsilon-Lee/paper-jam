@@ -85,6 +85,7 @@
 - [Stronger universal and transferable attacks by suppressing refusals](https://people.eecs.berkeley.edu/~daw/papers/iris-naacl25.pdf), `naacl2025`.
 - [Using mechanistic interpretability to craft adversarial attacks against large language models](https://arxiv.org/pdf/2503.06269), Mar. 2025.
 - [Monitoring decomposition attacks in LLMs with lightweight sequential monitors](https://arxiv.org/pdf/2506.10949), Jun. 14 2025. [code](https://github.com/YuehHanChen/Monitoring-Decomposition-Attack).
+- [Subliminal learning: Language models transmit behavior traits via hidden signals in data](https://arxiv.org/pdf/2507.14805), Jul. 20 2025.
 
 #### How to defense
 
