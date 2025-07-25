@@ -139,6 +139,8 @@
 - [From emergence to control: Probing and modulating self-reflection in language models](https://arxiv.org/pdf/2506.12217), Jun. 13 2025.
 - [Approximating language model training data from weights](https://arxiv.org/pdf/2506.15553), Jun. 18 2025. [code](https://github.com/jxmorris12/reverse-training).
 - [Superposition yields robust neural scaling](https://arxiv.org/pdf/2505.10465?), May 18 2025. [code](https://github.com/liuyz0/SuperpositionScaling).
+- [Programming by backprop: LLMs acquire reusable algorithmic abstractions during code training](https://arxiv.org/pdf/2506.18777), Jun. 23 2025.
+- [Why do some inputs break low-bit LLM quantization?](https://arxiv.org/pdf/2506.12044), May 24 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
