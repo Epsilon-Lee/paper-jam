@@ -20,6 +20,7 @@
 - [What makes a good natural language prompt?](https://arxiv.org/pdf/2506.06950), Jun. 7 2025. [code](https://github.com/dxlong2000/NLPromptEval).
 - [Evolving prompts in-context: An open-ended, self-replicating perspective](https://arxiv.org/pdf/2506.17930), Jun. 22 2025.
 - [Self-supervised prompt optimization](https://arxiv.org/pdf/2502.06855), Feb. 15 2025. [code](https://github.com/FoundationAgents/MetaGPT).
+- [GEPA: Reflective prompt evaluation can outperform reinforcement learning](https://arxiv.org/abs/2507.19457), Jul. 2025.
 
 #### Theory
 
