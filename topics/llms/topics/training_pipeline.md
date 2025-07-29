@@ -177,6 +177,7 @@
 - [Self-supervised alignment with mutual information learning to follow principles without preference labels](https://arxiv.org/pdf/2404.14313), May 21 2024. [code](https://github.com/janphilippfranken/sami).
 - [Do LLMs recognize your preferences? Evaluating personalized preference following in LLMs](https://arxiv.org/pdf/2502.09597), Feb. 13 2025. [code](https://github.com/amazon-science/PrefEval).
 - [Scaling laws for scalable oversight](https://arxiv.org/pdf/2504.18530), May 9 2025.
+- [SimPER: A minimalist approach to preference alignment without hyperparameters](https://arxiv.org/pdf/2502.00883), Feb. 20 2025. [code](https://github.com/tengxiao1/SimPER).
 
 ### Post-training for bert
 
