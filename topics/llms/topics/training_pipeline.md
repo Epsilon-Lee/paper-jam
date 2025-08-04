@@ -17,6 +17,7 @@
 - [A review of deepseek models' key innovative techniques](https://arxiv.org/pdf/2503.11486), Mar. 14 2025.
 - [ASGO: Adaptive structured gradient optimization](https://arxiv.org/pdf/2503.20762), Mar. 26 2025.
 - [Understanding the learning dynamics of LoRA: A gradient flow perspective on low-rank adaptation in matrix factorization](https://arxiv.org/pdf/2503.06982), Mar. 10 2025.
+- [Dion: Distributed Orthonormalized Updates](https://arxiv.org/pdf/2504.05295), May 21 2025. [code](https://github.com/microsoft/dion).
 
 ### Pre-training
 
