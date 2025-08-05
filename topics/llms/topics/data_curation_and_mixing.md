@@ -52,5 +52,6 @@
 - [NICE Data selection for instruction tuning in LLMs with non-differentiable evaluation metric](https://openreview.net/pdf?id=2wt8m5HUBs), ICML 2025.
 - [FineWeb2: One pipeline to scale them all - Adapting pre-training data processing to every language](https://arxiv.org/pdf/2506.20920), Jun. 26 2025.
 - [RefineX: Learning to refine pre-training data at scale from expert-guided programs](https://arxiv.org/pdf/2507.03253), Jul. 4 2025.
+- [Scaling laws for optimal data mixtures](https://arxiv.org/abs/2507.09404), Jul. 12 2025.
 
 
