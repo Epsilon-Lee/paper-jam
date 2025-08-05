@@ -1,5 +1,6 @@
 
 - [A survey of uncertainty estimation in LLMs: Theory meets practice](https://arxiv.org/pdf/2410.15326), Oct. 20 2024.
+- [Can LLMs express their uncertainty? An empirical evaluation of confidence elicitation in LLMs](https://arxiv.org/pdf/2306.13063), ICLR 2024.
 - [Generating with confidence: Uncertainty quantification for black-box large language models](https://arxiv.org/pdf/2305.19187), May 20 2024. [code](https://github.com/zlin7/UQ-NLG).
 - [Kernel language entropy: Fine-grained uncertainty quantification for LLMs from semantic similarities](https://arxiv.org/pdf/2405.20003), May 30 2024. `uncertainty`.
 - [A survey of uncertainty estimation methods on large language models](https://arxiv.org/pdf/2503.00172), Feb. 28 2025.
