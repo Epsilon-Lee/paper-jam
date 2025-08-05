@@ -141,6 +141,7 @@
 - [Superposition yields robust neural scaling](https://arxiv.org/pdf/2505.10465?), May 18 2025. [code](https://github.com/liuyz0/SuperpositionScaling).
 - [Programming by backprop: LLMs acquire reusable algorithmic abstractions during code training](https://arxiv.org/pdf/2506.18777), Jun. 23 2025.
 - [Why do some inputs break low-bit LLM quantization?](https://arxiv.org/pdf/2506.12044), May 24 2025.
+- [Persona vectors: Monitoring and controlling character traits in language models](https://arxiv.org/pdf/2507.21509), Jul. 29 2025. [code](https://github.com/safety-research/persona_vectors).
 
 #### Sparse autoencoders, dictionary learning and beyond
 
