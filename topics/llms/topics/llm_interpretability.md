@@ -142,6 +142,8 @@
 - [Programming by backprop: LLMs acquire reusable algorithmic abstractions during code training](https://arxiv.org/pdf/2506.18777), Jun. 23 2025.
 - [Why do some inputs break low-bit LLM quantization?](https://arxiv.org/pdf/2506.12044), May 24 2025.
 - [Persona vectors: Monitoring and controlling character traits in language models](https://arxiv.org/pdf/2507.21509), Jul. 29 2025. [code](https://github.com/safety-research/persona_vectors).
+- [Towards universality: Studying mechanistic similarity across language model architectures](https://arxiv.org/pdf/2410.06672), Oct. 10 2024.
+- [The circuits research landscape: Results and perspectives](https://www.neuronpedia.org/graph/info), Aug. 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
@@ -166,6 +168,7 @@
 - [Injecting structural hints: Using language models to study inductive biases in language learning](https://aclanthology.org/2023.findings-emnlp.563.pdf), EMNLP 2023.
 - [Identifying Sparsely Active Circuits Through Local Loss Landscape Decomposition](https://arxiv.org/pdf/2504.00194), Mar. 31 2025. [code](https://github.com/briannachrisman/eigenestimation).
 - [Towards principled evaluations of sparse autoencoders for interpretability and control](https://openreview.net/pdf?id=1Njl73JKjB), ICLR 2025.
+- [Use sparse autoencoders to discover unknown concepts, not to act on known concepts](https://arxiv.org/pdf/2506.23845), Jun. 30 2025.
 
 #### Probing
 
