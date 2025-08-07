@@ -40,6 +40,7 @@
 - [Loss-to-loss prediction: Scaling laws for all datasets](https://arxiv.org/pdf/2411.12925), Nov. 19 2024.
 - [LLMs on the line: Data determines loss-to-loss scaling laws](https://arxiv.org/pdf/2502.12120), Jun. 6 2025.
 - [Revisiting scaling laws via the z-transform](https://francisbach.com/z-transform/), Jul. 18 2025.
+- [Diffusion beats autoregressive in data-constrained settings](https://arxiv.org/pdf/2507.15857), Jul. 31 2025.
 
 #### FLOPS
 
