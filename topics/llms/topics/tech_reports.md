@@ -28,6 +28,8 @@
 **GPT series**
 - [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774), Mar. 15 2023.
 - [GPT-4o System Card](https://arxiv.org/pdf/2410.21276), Aug. 8 2024.
+- [OpenAI o3 and o4-mini system card](https://cdn.openai.com/pdf/2221c875-02dc-4789-800b-e7758f3722c1/o3-and-o4-mini-system-card.pdf), Apr. 16 2025.
+- [gpt-oss-120b & gpt-oss-20b model card](https://cdn.openai.com/pdf/419b6906-9da6-406c-a19d-1bb078ac7637/oai_gpt-oss_model_card.pdf), Aug. 5 2025.
 
 **Phi series**
 - [Textbooks Are All You Need](https://arxiv.org/pdf/2306.11644), Oct. 2 2023.
