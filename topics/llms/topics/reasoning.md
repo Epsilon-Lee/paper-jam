@@ -175,6 +175,7 @@
 - [Disentangling logic: The role of context in large language model reasoning capabilities](https://arxiv.org/pdf/2406.02787), Jun. 4 2024. [code](https://github.com/agiresearch/ContextHub).
 - [Learning to discover abstractions for LLM reasoning](https://openreview.net/pdf?id=kzccnANFQ7), ICML 2025 Workshop.
 - [Does thinking more always help? Understanding test-time scaling in reasoning models](https://arxiv.org/abs/2506.04210), Jun. 4 2025.
+- [StepFun-Formalizer: Unlocking the Autoformalization Potential of LLMs through Knowledge-Reasoning Fusion](https://arxiv.org/pdf/2508.04440), Aug. 6 2025.
 
 #### Understanding reasoning
 
