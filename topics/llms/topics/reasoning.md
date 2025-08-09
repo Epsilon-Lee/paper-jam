@@ -176,6 +176,9 @@
 - [Learning to discover abstractions for LLM reasoning](https://openreview.net/pdf?id=kzccnANFQ7), ICML 2025 Workshop.
 - [Does thinking more always help? Understanding test-time scaling in reasoning models](https://arxiv.org/abs/2506.04210), Jun. 4 2025.
 - [StepFun-Formalizer: Unlocking the Autoformalization Potential of LLMs through Knowledge-Reasoning Fusion](https://arxiv.org/pdf/2508.04440), Aug. 6 2025.
+- [On the generalization of SFT: A reinforcement learning perspective with reward recitfication](https://arxiv.org/pdf/2508.05629), Aug. 7 2025. [code](https://github.com/yongliang-wu/DFT).
+- [Learning to reason for factuality](https://arxiv.org/pdf/2508.05618), Aug. 7 2025.
+- [GHPO: Adaptive guidance for stable and efficient LLM reinforcement learning](https://arxiv.org/pdf/2507.10628), Jul. 16 2025. [code](https://github.com/hkgc-1/GHPO).
 
 #### Understanding reasoning
 
