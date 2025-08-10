@@ -251,6 +251,7 @@
 - [From bytes to ideas: Language modeling with autoregressive U-Nets](https://arxiv.org/pdf/2506.14761), Jun. 17 2025.
 - [Should we still pretrain encoders with masked language modeling](https://arxiv.org/pdf/2507.00994), Jul. 1 2025. [code](https://huggingface.co/MLMvsCLM).
 - [The landscape of memorization in LLMs: Mechanisms, measurement, and mitigation](https://arxiv.org/pdf/2507.05578), Jul. 8 2025.
+- [Generalized linear mode connectivity for transformers](https://arxiv.org/pdf/2506.22712), Jun. 28 2025.
 
 ### LLM-based active learning
 
