@@ -120,5 +120,7 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [OpenScholar: Synthesizing scientific literature with retrieval-augmented LMs](https://arxiv.org/pdf/2411.14199), Nov. 21 2024. [code](https://github.com/AkariAsai/OpenScholar).
 - [Retrieval-Augmented Generation for Domain-Specific Question Answering: A Case Study on Pittsburgh and CMU](https://arxiv.org/pdf/2411.13691), Nov. 20 2024.
 - [Filter-then-generate: Large language models with structure-text adapter for knowledge graph completion](https://arxiv.org/pdf/2412.09094), Dec. 12 2024.
+- [LEANN: A low-storage vector index](https://arxiv.org/pdf/2506.08276), Jun. 9 2025.
+- [SitEmb-v1.5: Improved context-aware dense retrieval for semantic association and long story comprehension](https://arxiv.org/pdf/2508.01959), Aug. 3 2025.
 
 
