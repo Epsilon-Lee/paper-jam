@@ -81,8 +81,9 @@
 - [ChatDev: Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924), Jun. 5 2024.
 - [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/pdf/2407.16741), Jul. 23 2024.
 
-#### GUI agent
+#### GUI and computer use agent
 
+- [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://arxiv.org/pdf/2508.04482), Aug. 6 2025. [code](https://os-agent-survey.github.io/).
 - [browser-use](https://github.com/browser-use/browser-use), Make websites accessible for AI agents.
 - [OmniParser for pure vision based GUI agent](https://arxiv.org/abs/2408.00203), Aug. 1 2024.
 - [UI-TARS: Pioneering automated GUI interaction with native agents](https://arxiv.org/abs/2501.12326), Jan. 21 2025. [code](https://github.com/bytedance/UI-TARS?tab=readme-ov-file).
