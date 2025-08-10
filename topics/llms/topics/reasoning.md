@@ -179,6 +179,7 @@
 - [On the generalization of SFT: A reinforcement learning perspective with reward recitfication](https://arxiv.org/pdf/2508.05629), Aug. 7 2025. [code](https://github.com/yongliang-wu/DFT).
 - [Learning to reason for factuality](https://arxiv.org/pdf/2508.05618), Aug. 7 2025.
 - [GHPO: Adaptive guidance for stable and efficient LLM reinforcement learning](https://arxiv.org/pdf/2507.10628), Jul. 16 2025. [code](https://github.com/hkgc-1/GHPO).
+- [Frontier LLMs still struggle with simple reasoning tasks](https://arxiv.org/pdf/2507.07313), Jul. 9 2025.
 
 #### Understanding reasoning
 
