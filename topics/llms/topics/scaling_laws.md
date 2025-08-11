@@ -41,6 +41,7 @@
 - [LLMs on the line: Data determines loss-to-loss scaling laws](https://arxiv.org/pdf/2502.12120), Jun. 6 2025.
 - [Revisiting scaling laws via the z-transform](https://francisbach.com/z-transform/), Jul. 18 2025.
 - [Diffusion beats autoregressive in data-constrained settings](https://arxiv.org/pdf/2507.15857), Jul. 31 2025.
+- [Revisiting scaling laws for language models: The role of data quality and training strategies](https://aclanthology.org/2025.acl-long.1163.pdf), ACL 2025.
 
 #### FLOPS
 
