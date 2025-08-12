@@ -78,6 +78,7 @@
 **GLM**
 - [ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools](https://arxiv.org/pdf/2406.12793), Jun. 18 2024.
 - [GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/pdf/2507.01006), Jul. 2 2025.
+- [GLM-4.5: Agentic, reasoning, and coding (ARC) foundation models](https://arxiv.org/pdf/2508.06471), Aug. 8 2025.
 
 **MiMo**
 - [MiMo: Unlocking the reasoning potential of language model - From pretraining to posttraining](https://arxiv.org/pdf/2505.07608), Jun. 5 2025.
