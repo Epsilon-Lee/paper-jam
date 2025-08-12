@@ -180,6 +180,7 @@
 - [Learning to reason for factuality](https://arxiv.org/pdf/2508.05618), Aug. 7 2025.
 - [GHPO: Adaptive guidance for stable and efficient LLM reinforcement learning](https://arxiv.org/pdf/2507.10628), Jul. 16 2025. [code](https://github.com/hkgc-1/GHPO).
 - [Frontier LLMs still struggle with simple reasoning tasks](https://arxiv.org/pdf/2507.07313), Jul. 9 2025.
+- [Scaling reasoning, losing control: Evaluating instruction following in large reasoning models](https://arxiv.org/pdf/2505.14810), May 25 2025. [code](https://github.com/TingchenFu/MathIF).
 
 #### Understanding reasoning
 
