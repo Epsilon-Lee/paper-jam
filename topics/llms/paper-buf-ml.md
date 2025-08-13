@@ -207,6 +207,17 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Learning to add, multiply, and execute algorithmic instructions exactly with neural networks](https://arxiv.org/pdf/2502.16763), May 23 2025.
 - [Relating misfit to gain in weak-to-strong generalization beyond the squred loss](https://arxiv.org/pdf/2501.19105), Feb. 3 2025.
 - [A generalization theory for zero-shot prediction](https://arxiv.org/pdf/2507.09128), Jul. 12 2025.
+- [Attribution explanations for deep neural networks: A theoretical perspective](https://arxiv.org/pdf/2508.07636), Aug. 11 2025.
+- [Intrinsic training dynamics of deep neural networks](https://arxiv.org/pdf/2508.07370), Aug. 10 2025.
+
+### Continual learning
+
+- [On understanding of the dynamics of model capacity in continual learning](https://arxiv.org/pdf/2508.08052), Aug. 11 2025.
+
+### Data attribution
+
+- [Revisiting data attribution for influence functions](https://arxiv.org/pdf/2508.07297), Aug. 10 2025.
+  - _"We discuss their theoretical foundations, recent algorithmic advances for efficient inverse-Hessian-vector product estimation, and evaluate their effectiveness for data attribution and mislabel detection"_
 
 ### Contrastive learning
 
