@@ -70,6 +70,7 @@
 - [On the reasoning capacity of AI models and how to quantify it](https://arxiv.org/pdf/2501.13833), Jan. 23 2025.
 - [Competitive programming with large reasoning models](https://arxiv.org/pdf/2502.06807), Feb. 3 2025.
 - [Goedel-Prover: A frontier model for open-source automated theorem proving](https://arxiv.org/pdf/2502.07640), Feb. 11 2025.
+- [Goedel-Prover-V2: Scaling formal theorem proving with scaffolded data synthesis and self-correction](https://arxiv.org/pdf/2508.03613), Aug. 5 2025.
 - [When more is less: Understanding chain-of-thought length in LLMs](https://arxiv.org/pdf/2502.07266), Feb. 11 2025.
 - [Exploring the limit of outcome reward for learning mathematical reasoning](https://arxiv.org/pdf/2502.06781), Feb. 10 2025.
 - [ReasonFlux: Hierarchical LLM reasoning via scaling thought templates](https://arxiv.org/pdf/2502.06772), Feb. 10 2025.
@@ -181,6 +182,13 @@
 - [GHPO: Adaptive guidance for stable and efficient LLM reinforcement learning](https://arxiv.org/pdf/2507.10628), Jul. 16 2025. [code](https://github.com/hkgc-1/GHPO).
 - [Frontier LLMs still struggle with simple reasoning tasks](https://arxiv.org/pdf/2507.07313), Jul. 9 2025.
 - [Scaling reasoning, losing control: Evaluating instruction following in large reasoning models](https://arxiv.org/pdf/2505.14810), May 25 2025. [code](https://github.com/TingchenFu/MathIF).
+- [Re:Form - Reducing human priors in scalable formal software verification with RL in LLMs: A preliminary study on Dafny](https://arxiv.org/pdf/2507.16331), Jul. 25 2025. [code](https://github.com/Veri-Code/ReForm). `verl`.
+
+#### RL algorithmic innovations
+
+- [A tutorial: An intuitive explanation of offline reinforcement learning theory](https://arxiv.org/pdf/2508.07746), Aug. 11 2025.
+- [Asymmetric REINFORCE for off-policy reinforcement learning: Balancing positive and negative rewards](https://arxiv.org/pdf/2506.20520), Jun. 25 2025.
+- [Part I: Tricks or traps? A deep dive into RL for LLM reasoning](https://arxiv.org/pdf/2508.08221), Aug. 11 2025. [code](https://github.com/alibaba/ROLL).
 
 #### Understanding reasoning
 
