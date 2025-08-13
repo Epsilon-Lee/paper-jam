@@ -184,6 +184,7 @@
 - [Scaling reasoning, losing control: Evaluating instruction following in large reasoning models](https://arxiv.org/pdf/2505.14810), May 25 2025. [code](https://github.com/TingchenFu/MathIF).
 - [Re:Form - Reducing human priors in scalable formal software verification with RL in LLMs: A preliminary study on Dafny](https://arxiv.org/pdf/2507.16331), Jul. 25 2025. [code](https://github.com/Veri-Code/ReForm). `verl`.
 - [ProRL: Prolonged reinforcement learning expands reasoning boundaries in large language models](https://arxiv.org/pdf/2505.24864), May 30 2025.
+- [Seed-Prover: Deep and broad reasoning for automated theorem proving](https://www.alphaxiv.org/abs/2507.23726v2), Aug. 2025.
 
 #### RL algorithmic innovations
 
