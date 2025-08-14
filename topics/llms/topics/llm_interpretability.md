@@ -144,6 +144,7 @@
 - [Persona vectors: Monitoring and controlling character traits in language models](https://arxiv.org/pdf/2507.21509), Jul. 29 2025. [code](https://github.com/safety-research/persona_vectors).
 - [Towards universality: Studying mechanistic similarity across language model architectures](https://arxiv.org/pdf/2410.06672), Oct. 10 2024.
 - [The circuits research landscape: Results and perspectives](https://www.neuronpedia.org/graph/info), Aug. 2025.
+- [Embryology of a language model](https://arxiv.org/pdf/2508.00331), Aug. 1 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
@@ -175,6 +176,10 @@
 - [InversionView: A general-purpose method for reading information from neural activations](https://arxiv.org/pdf/2405.17653), May 2024.
 - [Probing the Decision Boundaries of In-context Learning in Large Language Models](https://arxiv.org/pdf/2406.11233), Jun. 17 2024. [tweet](https://x.com/siyan_zhao/status/1805277462890492321). `interpretability`.
 - [LatentQA: Teaching llms to decode activations into natural language](https://arxiv.org/pdf/2412.08686), Dec. 11 2024. [code](https://github.com/aypan17/latentqa), [blogpost](https://latentqa.github.io/).
+- [Learned feature representations are biased by complexity, learning order, position, and more](https://arxiv.org/pdf/2405.05847), Sep. 20 2024.
+- [Representation biases: Will we achieve complete understanding by analyzing representations?](https://arxiv.org/pdf/2507.22216), Aug. 13 2025.
+- [The platonic representation hypothesis](https://arxiv.org/pdf/2405.07987), Jul. 25 2024.
+- [How do LLMs persuade? Linear probes can uncover persuasion dynamics in multi-turn conversations](https://arxiv.org/pdf/2508.05625), Aug. 7 2025.
 
 #### Parameter attribution, circuits
 
