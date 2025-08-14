@@ -267,5 +267,6 @@
 - [A theory of emergent in-context learning as implicit structure induction](https://arxiv.org/pdf/2303.07971), Mar. 14 2024.
 - [Can generative ai solve your in-context learning problem? A martingale perspective](https://arxiv.org/pdf/2412.06033), Dec. 8 2024.
 - [The dual-route model of induction](https://arxiv.org/pdf/2504.03022), Apr. 3 2025. [code](https://dualroute.baulab.info/).
+- [Multi-head transformeres provably learn symbolic multi-step reasoning via gradient descent](https://arxiv.org/pdf/2508.08222), Aug. 11 2025.
 
 
