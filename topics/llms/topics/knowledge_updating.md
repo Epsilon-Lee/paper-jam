@@ -123,4 +123,8 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [LEANN: A low-storage vector index](https://arxiv.org/pdf/2506.08276), Jun. 9 2025.
 - [SitEmb-v1.5: Improved context-aware dense retrieval for semantic association and long story comprehension](https://arxiv.org/pdf/2508.01959), Aug. 3 2025.
 
+#### hallucinations
 
+- [Osiris: A lightweight open source hallucination detection system](https://cs191.stanford.edu/projects/Shan,%20Alexander_NLP%20191W.pdf), 2025. [code](https://github.com/JudgmentLabs/osiris-detection).
+- [(Im)possibility of automated hallucination detection in large language models](https://arxiv.org/pdf/2504.17004), Jun. 2 2025.
+- 
