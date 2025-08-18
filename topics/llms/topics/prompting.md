@@ -21,6 +21,7 @@
 - [Evolving prompts in-context: An open-ended, self-replicating perspective](https://arxiv.org/pdf/2506.17930), Jun. 22 2025.
 - [Self-supervised prompt optimization](https://arxiv.org/pdf/2502.06855), Feb. 15 2025. [code](https://github.com/FoundationAgents/MetaGPT).
 - [GEPA: Reflective prompt evaluation can outperform reinforcement learning](https://arxiv.org/abs/2507.19457), Jul. 2025.
+- [Prompt adaptation as a dynamic complement in generative ai systems](https://arxiv.org/pdf/2407.14333v5), Apr. 22 2025.
 
 #### Theory
 
