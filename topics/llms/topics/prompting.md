@@ -3,6 +3,7 @@
 
 - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608), Jun. 6 2024. `prompting`.
 - [A survey of prompt engineering methods in large language models for different nlp tasks](https://arxiv.org/pdf/2407.12994), Jul. 17 2024.
+- [In-context impersonation reveals large language models' strengths and biases](https://arxiv.org/pdf/2305.14930), Nov. 26 2023. [code](https://github.com/ExplainableML/in-context-impersonation).
 - [Promptbreeder: Self-referential self-improvement via prompt evolution](https://arxiv.org/pdf/2309.16797), Sep. 28 2023. [code](https://github.com/vaughanlove/PromptBreeder).
 - [Rational metareasoning for large language models](https://arxiv.org/pdf/2410.05563), Dec. 21 2024.
 - [How susceptible are LLMs to influence in prompts](https://arxiv.org/pdf/2408.11865), Aug. 17 2024.
