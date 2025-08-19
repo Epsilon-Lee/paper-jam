@@ -53,5 +53,6 @@
 - [FineWeb2: One pipeline to scale them all - Adapting pre-training data processing to every language](https://arxiv.org/pdf/2506.20920), Jun. 26 2025.
 - [RefineX: Learning to refine pre-training data at scale from expert-guided programs](https://arxiv.org/pdf/2507.03253), Jul. 4 2025.
 - [Scaling laws for optimal data mixtures](https://arxiv.org/abs/2507.09404), Jul. 12 2025.
+- [BeyondWeb Lessions from scaling synthetic data fro trillion-scale pretraining](https://arxiv.org/pdf/2508.10975), Aug. 14 2025.
 
 
