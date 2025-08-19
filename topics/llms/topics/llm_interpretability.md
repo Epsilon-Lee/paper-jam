@@ -145,6 +145,7 @@
 - [Towards universality: Studying mechanistic similarity across language model architectures](https://arxiv.org/pdf/2410.06672), Oct. 10 2024.
 - [The circuits research landscape: Results and perspectives](https://www.neuronpedia.org/graph/info), Aug. 2025.
 - [Embryology of a language model](https://arxiv.org/pdf/2508.00331), Aug. 1 2025.
+- [Beyond the Resetta stone: Unification forces in generalization dynamics](https://arxiv.org/pdf/2508.11017), Aug. 14 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
