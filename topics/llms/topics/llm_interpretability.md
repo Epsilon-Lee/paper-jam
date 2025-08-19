@@ -146,6 +146,7 @@
 - [The circuits research landscape: Results and perspectives](https://www.neuronpedia.org/graph/info), Aug. 2025.
 - [Embryology of a language model](https://arxiv.org/pdf/2508.00331), Aug. 1 2025.
 - [Beyond the Resetta stone: Unification forces in generalization dynamics](https://arxiv.org/pdf/2508.11017), Aug. 14 2025.
+- [Probing the representational power of sparse autoencoders in vision models](https://arxiv.org/pdf/2508.11277), Aug. 15 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
