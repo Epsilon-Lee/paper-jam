@@ -8,42 +8,117 @@ Three topics:
 
 - [Binning as a Pretext Task: Improving Self-Supervised Learning in Tabular Domains](https://arxiv.org/pdf/2405.07414), May 13 2024.
 - [ImageNot: A contrast with ImageNet preserves model rankings](https://arxiv.org/pdf/2404.02112), Apr. 2 2024.
-- [Training Data Attribution via Approximate Unrolled Differentation](https://arxiv.org/pdf/2405.12186), May 21 2024.
-- [Selective Explanations](https://arxiv.org/pdf/2405.19562), May 29 2024. `interpretability`.
-- [Local vs. Global Interpretability:A Computational Complexity Perspective](https://arxiv.org/pdf/2406.02981), Jun. 5 2024. `interpretability`.
-- [Feature Contamination: Neural Networks Learn Uncorrelated Features and Fail to Generalize](https://arxiv.org/pdf/2406.03345), Jun. 5 2024. `ood generalization`.
-  - _"understanding of fundamental difficulty of ood generalization"_
 - [Beyond Discrepancy: A Closer Look at the Theory of Distribution Shift](https://arxiv.org/pdf/2405.19156), May 29 2024. `ood`.
-- [Quantifying Task Priority for Multi-Task Optimization](https://arxiv.org/pdf/2406.02996), Jun. 5 2024. `mtl`.
-- [Investigating the Impact of Model Instability on Explanations and Uncertainty](https://arxiv.org/pdf/2402.13006), Jun. 4 2024. `interpretability`.
-- [Guarantee Regions for Local Explanations](https://arxiv.org/pdf/2402.12737), Feb. 20 2024.
 - [Failures and Successes of Cross-Validation for Early-Stopped Gradient Descent](https://arxiv.org/pdf/2402.16793), Feb. 26 2024. `generealization theory`.
-- [When does compositional structure yield compositional generalization? A kernel theory.](https://arxiv.org/pdf/2405.16391), May 26 2024. `compositionality theory`.
-- [From Neurons to Neutrons: A Case Study in Interpretability](https://arxiv.org/pdf/2405.17425), May 27 2024. `mechanistic interpretability`.
-- [Explaining Explainability: Understanding Concept Activation Vectors](https://arxiv.org/pdf/2404.03713), Apr. 4 2024. `interpretability`.
-- [On the Benefits of Over-parameterization for Out-of-Distribution Generalization](https://arxiv.org/pdf/2403.17592), Mar. 26 2024. `ood` `overparameterization`.
-- [Near-Interpolators: Rapid Norm Growth and the Trade-Off between Interpolation and Generalization](https://arxiv.org/pdf/2403.07264), Mar. 12 2024. `generalization theory`.
-- [On the Generalization Ability of Unsupervised Pretraining](https://arxiv.org/pdf/2403.06871), Mar. 11 2024.
-- [Are Logistic Models Really Interpretable?](https://arxiv.org/pdf/2406.13427), Jun. 19 2024. `interpretability`.
+- [Quantifying Task Priority for Multi-Task Optimization](https://arxiv.org/pdf/2406.02996), Jun. 5 2024. `mtl`.
 - [Optimal synthesis embeddings](https://arxiv.org/pdf/2406.10259), Jun. 10 2024.
-- [Transcendence: Generative Models Can Outperform The Experts That Train Them](https://arxiv.org/pdf/2406.11741), Jun. 28 2024.
 - [A Label is Worth a Thousand Images in Dataset Distillation](https://arxiv.org/pdf/2406.10485), Jun. 15 2024. `dataset distillation`.
+- [RELBENCH: A Benchmark for Deep Learning on Relational Databases](https://arxiv.org/pdf/2407.20060), Jul. 29 2024.
+- [Relative-Translation Invariant Wasserstein Distance](https://arxiv.org/pdf/2409.02416), Sep. 4 2024.
+- [Survey on generalization theory for graph neural networks](https://arxiv.org/pdf/2503.15650), Mar. 19 2025.
+- [Learning decision trees as amortized structured inference](https://arxiv.org/pdf/2503.06985), Mar. 10 2025. [code](https://arxiv.org/pdf/2503.06985).
+- [Unifying causal representation learnign with the invariance principle](https://arxiv.org/pdf/2409.02772), Sep. 4 2024. `representation learning`.
+- [How does the brain compute with probabilities?](https://arxiv.org/pdf/2409.02709), Sep. 1 2024.
+- [Provable unlearning in topic modeling and downstream tasks](https://arxiv.org/pdf/2411.12600), Nov. 19 2024.
+- [GFlowNet pretraining with inexpensive rewards](https://arxiv.org/pdf/2409.09702), Sep. 15 2024.
+  - [Pre-Training and Fine-Tuning Generative Flow Networks](https://arxiv.org/pdf/2310.03419), Oct. 5 2024.
+- [Beyond statistical learning: Exact learning is essential for general intelligence](https://arxiv.org/pdf/2506.23908), Jun. 30 2025.
+
+### Lottery ticket
+
+- [Input Space Mode Connectivity in Deep Neural Networks](https://arxiv.org/pdf/2409.05800), Sep. 9 2024.
+- [Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf), ICML 2020.
+- [Quantization vs pruning: Insights from the strong lottery ticket hypothesis](https://arxiv.org/pdf/2508.11020), Aug. 14 2025.
+- [Merging models on the fly without retraining: A sequential approach to scalable continual model merging](https://arxiv.org/pdf/2501.09522), Jan. 16 2025.
+- [Localize-and-Stitch: Efficient Model Merging via Sparse Task Arithmetic](https://arxiv.org/pdf/2408.13656), Aug. 24 2024.
+- [The Non-Local Model Merging Problem: Permutation Symmetries and Variance Collapse](https://arxiv.org/pdf/2410.12766), Oct. 16 2024. [code](https://github.com/ekanshs/tact-merge).
+
+### Diffusion model and vision related
+
 - [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/pdf/2406.08929), Jun. 23 2024.
-- [I Bet You Did Not Mean That: Testing Semantic Importance via Betting](https://arxiv.org/pdf/2405.19146), May 29 2024. `interpretability`.
+- [Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering](https://arxiv.org/pdf/2409.02426), Sep. 4 2024.
+- [A Geometric Perspective on Diffusion Models](https://arxiv.org/pdf/2305.19947), Aug. 22 2024.
+- [Building the Vision Transformer From Scratch](https://medium.com/@curttigges/building-the-vision-transformer-from-scratch-d77881edb5ff), Jun. 27 2022.
+- [Diffusion beats autoregressive in data-constrained settings](https://arxiv.org/abs/2507.15857), Jul. 21 2025.
+
+### Understanding deep learning
+
+- [The Principles of Deep Learning Theory](https://deeplearningtheory.com/lectures/).
 - [Why Do You Grok? A Theoretical Analysis on Grokking Modular Addition](https://openreview.net/pdf?id=ad5I6No9G1), ICML 2024.
 - [Grokking as the transition from lazy to rich training dynamics](https://arxiv.org/pdf/2310.06110), ICLR 2024.
-- [Auditing Local Explanations is Hard](https://arxiv.org/pdf/2407.13281), Jul. 2024.
-- [Position: Measure Dataset Diversity, Don’t Just Claim It](https://arxiv.org/pdf/2407.08188), Jul. 11 2024.
+- [On the Benefits of Over-parameterization for Out-of-Distribution Generalization](https://arxiv.org/pdf/2403.17592), Mar. 26 2024. `ood` `overparameterization`.
+- [Synergy and Symmetry in Deep Learning: Interactions between the Data, Model, and Inference Algorithm](https://arxiv.org/pdf/2207.04612), Jul. 11 2022.
+- [On the specialization of neural modules](https://arxiv.org/pdf/2409.14981), Sep. 23 2024.
+- [From lazy to rich: Exact learning dynamics in deep linear networks](https://arxiv.org/pdf/2409.14623), Sep. 22 2024.
+- [Old Optimizer, New Norm: An Anthology](https://arxiv.org/abs/2409.20325), Sep. 30 2024.
+- [The Epochal Sawtooth Effect: Unveiling Training Loss Oscillations in Adam and Other Optimizers](https://arxiv.org/pdf/2410.10056), Oct. 14 2024.
+- [Revisiting learning rate control](https://arxiv.org/pdf/2507.01724), Jul. 2 2025.
+- [Non-convergence to global minimizers in data driven supervised deep learning: Adam and stochastic gradient descent optimization provably fail to converge to global minimizers in the training of deep neural networks with ReLU activation](https://arxiv.org/pdf/2410.10533), Oct. 14 2024.
+- [Bayesian double descent](https://arxiv.org/pdf/2507.07338), Jul. 9 2025.
+- [A Theory of Initialisation’s Impact on Specialisation](https://openreview.net/pdf?id=OdoxWJMapK), Submitted to the Mathematics of Modern Machine Learning Workshop at NeurIPS 2024.
+- [Random pruning over-parameterized neural networks can improve generalization: A training dynamics analysis](https://www.jmlr.org/papers/volume26/23-0832/23-0832.pdf), JMLR 2025.
+- [Is All Learning (Natural) Gradient Descent?](https://arxiv.org/pdf/2409.16422), Sep. 24 2024.
+- [Towards understanding extrapolation: A causal lens](https://arxiv.org/pdf/2501.09163), Jan. 15 2025.
+- [Implicit bias of gradient descent for non-homogeneous deep networks](https://arxiv.org/pdf/2502.16075), Feb. 22 2025.
+- [The computational advantage of depth: Learning high-dimensional hierarchical functions with gradient descent](https://arxiv.org/pdf/2502.13961), Feb. 19 2025.
+
+#### Learning dynamics
+
 - [Learning dynamics paper list by Zeke Xie](https://github.com/zeke-xie/deep-learning-dynamics-paper-list). `nn learning dynamics`.
-- [RELBENCH: A Benchmark for Deep Learning on Relational Databases](https://arxiv.org/pdf/2407.20060), Jul. 29 2024.
+- [Increasing Both Batch Size and Learning Rate Accelerates Stochastic Gradient Descent](https://arxiv.org/pdf/2409.08770), Sep. 21 2024.
+- [The large learning rate phase of deep learning: the catapult mechanism](https://arxiv.org/pdf/2003.02218), Mar. 4 2020.
+- [A minimalist example of edge-of-stability and progressive sharpening](https://arxiv.org/pdf/2503.02809), Mar. 4 2025.
+- [When do large learning rates lead us?](https://arxiv.org/pdf/2410.22113), Oct. 29 2024. [code](https://github.com/isadrtdinov/understanding-large-lrs).
+- [Navigating the latent space dynamics of neural models](https://arxiv.org/abs/2505.22785), May 28 2025.
+- [Rethinking early stopping: Refine, then calibrate](https://arxiv.org/pdf/2501.19195), Jan. 31 2025.
+
+#### Memorization
+
+- [Decoding Generalization from Memorization in Deep Neural Networks](https://arxiv.org/pdf/2501.14687), Jan. 24 2025.
+- [The Pitfalls of Memorization: When Memorization Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
+
+### Evaluation, data-centric
+
+- [Position: Measure Dataset Diversity, Don’t Just Claim It](https://arxiv.org/pdf/2407.08188), Jul. 11 2024.
+- [Is merging worth it? Securely evaluating the information gain for causal dataset acquisition](https://arxiv.org/pdf/2409.07215), Sep. 2024.
+ [What Is Wrong with My Model? Identifying Systematic Problems with Semantic Data Slicing](https://arxiv.org/pdf/2409.09261), Sep. 14 2024.
+- [EUREKA: Evaluating and Understanding Large Foundation Models](https://arxiv.org/pdf/2409.10566), Sep. 13 2024.
+
+### Understanding pre-training
+
+- [On the Generalization Ability of Unsupervised Pretraining](https://arxiv.org/pdf/2403.06871), Mar. 11 2024.
+- [Feature Contamination: Neural Networks Learn Uncorrelated Features and Fail to Generalize](https://arxiv.org/pdf/2406.03345), Jun. 5 2024. `ood generalization`.
+- [Transcendence: Generative Models Can Outperform The Experts That Train Them](https://arxiv.org/pdf/2406.11741), Jun. 28 2024.
+
+### Compositionality
+
+- [When does compositional structure yield compositional generalization? A kernel theory.](https://arxiv.org/pdf/2405.16391), May 26 2024. `compositionality theory`.
+- [A complexity-based theory of compositionality](https://arxiv.org/pdf/2410.14817), Oct. 18 2024.
+- [A Linear Network Theory of Iterated Learning](https://openreview.net/pdf?id=xudmoaroxQ), NeurIPS 2024 workshop.
+  - _"Here we theoretically study the emergence of compositional language, and the ability of simple neural networks to leverage this compositionality to systematically generalize"_
+- [Geometric signatures of compositionality across a language model's lifetime](https://arxiv.org/pdf/2410.01444), Oct. 7 2024.
+- [HOW DNNS BREAK THE CURSE OF DIMENSIONALITY: COMPOSITIONALITY AND SYMMETRY LEARNING](https://arxiv.org/pdf/2407.05664), Mar. 6 2025.
+- [Sometimes I am a Tree: Data Drives Unstable Hierarchical Generalization](https://arxiv.org/pdf/2412.04619), Dec. 5 2024. [code](https://github.com/sunnytqin/concept_comp).
+
+### Interpretability
+
+- [Informative post-hoc explanations only exist for simple functions](https://arxiv.org/pdf/2508.11441), Aug. 15 2025.
+- [I Bet You Did Not Mean That: Testing Semantic Importance via Betting](https://arxiv.org/pdf/2405.19146), May 29 2024. `interpretability`.
+- [Selective Explanations](https://arxiv.org/pdf/2405.19562), May 29 2024. `interpretability`.
+- [Local vs. Global Interpretability:A Computational Complexity Perspective](https://arxiv.org/pdf/2406.02981), Jun. 5 2024. `interpretability`.
+  - _"understanding of fundamental difficulty of ood generalization"_
+- [Investigating the Impact of Model Instability on Explanations and Uncertainty](https://arxiv.org/pdf/2402.13006), Jun. 4 2024. `interpretability`.
+- [Guarantee Regions for Local Explanations](https://arxiv.org/pdf/2402.12737), Feb. 20 2024.
+- [From Neurons to Neutrons: A Case Study in Interpretability](https://arxiv.org/pdf/2405.17425), May 27 2024. `mechanistic interpretability`.
+- [Explaining Explainability: Understanding Concept Activation Vectors](https://arxiv.org/pdf/2404.03713), Apr. 4 2024. `interpretability`.
+- [Near-Interpolators: Rapid Norm Growth and the Trade-Off between Interpolation and Generalization](https://arxiv.org/pdf/2403.07264), Mar. 12 2024. `generalization theory`.
+- [Are Logistic Models Really Interpretable?](https://arxiv.org/pdf/2406.13427), Jun. 19 2024. `interpretability`.
+- [Auditing Local Explanations is Hard](https://arxiv.org/pdf/2407.13281), Jul. 2024.
 - [Data Debugging is NP-hard for Classifiers Trained with SGD](https://arxiv.org/pdf/2408.01365), Aug. 2 2024. `data attribution`.
-- [Data Attribution at Scale](https://ml-data-tutorial.org/), ICML 2024 tutorial.
-- [The Principles of Deep Learning Theory](https://deeplearningtheory.com/lectures/).
 - [Zero-Shot Object-Centric Representation Learning](https://arxiv.org/pdf/2408.09162), Aug. 17 2024.
 - [Representation Norm Amplification for Out-of-Distribution Detection in Long-Tail Learning](https://arxiv.org/pdf/2408.10676), Aug. 20 2024.
 - [AlphaCube](https://alphacube.dev/),  [code](https://github.com/kyo-takano/alphacube).
   - [EfficientCube](https://github.com/kyo-takano/EfficientCube), [code](https://github.com/kyo-takano/EfficientCube), [paper](https://openreview.net/forum?id=bnBeNFB27b).
-- [A Geometric Perspective on Diffusion Models](https://arxiv.org/pdf/2305.19947), Aug. 22 2024.
 - [Learning Tree-Structured Composition of Data Augmentation](https://arxiv.org/pdf/2408.14381), Aug. 26 2024.
 - [A more unified theory of transfer learning](https://arxiv.org/pdf/2408.16189), Aug. 29 2024.
 - [The Many Faces of Optimal Weak-to-Strong Learning](https://arxiv.org/pdf/2408.17148), Aug. 30 2024.
@@ -54,16 +129,10 @@ Three topics:
 - [Rethinking Conventional Wisdom in Machine Learning: From Generalization to Scaling](https://arxiv.org/pdf/2409.15156), Sep. 23 2024.
 - [What is the Right Notion of Distance between Predict-then-Optimize Tasks?](https://arxiv.org/pdf/2409.06997), Sep. 11 2024.
 - [What makes a maze look like a maze?](https://arxiv.org/pdf/2409.08202), Sep. 12 2024.
-- [Is merging worth it? Securely evaluating the information gain for causal dataset acquisition](https://arxiv.org/pdf/2409.07215), Sep. 2024.
 - [Aligning Machine and Human Visual Representations across Abstraction Levels](https://arxiv.org/pdf/2409.06509), Sep. 16 2024.
-- [Input Space Mode Connectivity in Deep Neural Networks](https://arxiv.org/pdf/2409.05800), Sep. 9 2024.
 - [Modelling Global Trade with Optimal Transport](https://arxiv.org/pdf/2409.06554), Sep. 21 2024.
 - [Do Concept Bottleneck Models Respect Localities?](https://arxiv.org/pdf/2401.01259v3), Aug. 31 2024.
 - [From Model Explanation to Data Misinterpretation: Uncovering the Pitfalls of Post Hoc Explainers in Business Research](https://arxiv.org/pdf/2408.16987), Aug. 30 2024.
-- [Unifying causal representation learnign with the invariance principle](https://arxiv.org/pdf/2409.02772), Sep. 4 2024. `representation learning`.
-- [How does the brain compute with probabilities?](https://arxiv.org/pdf/2409.02709), Sep. 1 2024.
-- [Relative-Translation Invariant Wasserstein Distance](https://arxiv.org/pdf/2409.02416), Sep. 4 2024.
-- [Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering](https://arxiv.org/pdf/2409.02426), Sep. 4 2024.
 - [Interpretable Clustering: A Survey](https://arxiv.org/pdf/2409.00743), Sep. 1 2024.
 - [A Unified Causal Framework for Auditing Recommender Systems for Ethical Concerns](https://arxiv.org/pdf/2409.13210), Sep. 20 2024.
 - [MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://arxiv.org/pdf/2305.07185), May 19 2024.
@@ -71,64 +140,32 @@ Three topics:
 - [Accelerating training with neuron interaction and noncasting networks](https://arxiv.org/pdf/2409.04434), Sep. 6 2024.
   - Proposes NiNo network.
 - [Efficient Exploration and Discriminative World Model Learning with an Object-Centric Abstraction](https://arxiv.org/pdf/2408.11816), Aug. 21 2024.
-- [Localize-and-Stitch: Efficient Model Merging via Sparse Task Arithmetic](https://arxiv.org/pdf/2408.13656), Aug. 24 2024.
 - [Distributional Properties of Subword Regularization](https://arxiv.org/pdf/2408.11443), Aug. 21 2024.
-- [Building the Vision Transformer From Scratch](https://medium.com/@curttigges/building-the-vision-transformer-from-scratch-d77881edb5ff), Jun. 27 2022.
 - [Artificial intelligence for science: The easy and hard problems](https://arxiv.org/pdf/2408.14508), Aug. 24 2024.
-- [From lazy to rich: Exact learning dynamics in deep linear networks](https://arxiv.org/pdf/2409.14623), Sep. 22 2024.
-- [On the specialization of neural modules](https://arxiv.org/pdf/2409.14981), Sep. 23 2024.
-- [Synergy and Symmetry in Deep Learning: Interactions between the Data, Model, and Inference Algorithm](https://arxiv.org/pdf/2207.04612), Jul. 11 2022.
 - [Partially Interpretable Models with Guarantees on Coverage and Accuracy](https://proceedings.mlr.press/v237/frost24a/frost24a.pdf), alt 2024.
-- [What Is Wrong with My Model? Identifying Systematic Problems with Semantic Data Slicing](https://arxiv.org/pdf/2409.09261), Sep. 14 2024.
 - [RandALO: Out-of-sample risk estimation in no time flat](https://arxiv.org/pdf/2409.09781), Sep. 15 2024.
 - [Promptriever: Instruction-Trained Retrievers Can Be Prompted Like Language Models](https://arxiv.org/pdf/2409.11136), Sep. 17 2024.
-- [EUREKA: Evaluating and Understanding Large Foundation Models](https://arxiv.org/pdf/2409.10566), Sep. 13 2024.
-- [Is All Learning (Natural) Gradient Descent?](https://arxiv.org/pdf/2409.16422), Sep. 24 2024.
 - [A Statistical Viewpoint on Differential Privacy: Hypothesis Testing, Representation and Blackwell’s Theorem](https://www.arxiv.org/pdf/2409.09558), Sep. 14 2024.
-- [Increasing Both Batch Size and Learning Rate Accelerates Stochastic Gradient Descent](https://www.arxiv.org/pdf/2409.09558), Sep. 14 2024.
 - [Optimal ablation for interpretability](https://www.arxiv.org/pdf/2409.09951), Sep. 16 2024.
-- [Revisiting inverse Hessian vector products for calculating influence functions](https://arxiv.org/pdf/2409.17357), Sep. 25 2024.
-- [GFlowNet pretraining with inexpensive rewards](https://arxiv.org/pdf/2409.09702), Sep. 15 2024.
-  - [Pre-Training and Fine-Tuning Generative Flow Networks](https://arxiv.org/pdf/2310.03419), Oct. 5 2024.
-- [Stochastic Amortization: A Unified Approach to Accelerate Feature and Data Attribution](https://arxiv.org/pdf/2401.15866), Jan. 29 2024.
 - [Information-Theoretic Foundations for Machine Learning](https://arxiv.org/pdf/2407.12288), Aug. 20 2024.
 - [First Steps Toward Understanding the Extrapolation of Nonlinear Models to Unseen Domains](https://arxiv.org/pdf/2211.11719), Dec. 1 2022.
-- [Increasing Both Batch Size and Learning Rate Accelerates Stochastic Gradient Descent](https://arxiv.org/pdf/2409.08770), Sep. 21 2024.
 - [Selecting a classification performance measure: Matching the measure to the problem](https://arxiv.org/pdf/2409.12391), Sep. 19 2024.
 - [Bridging OOD Detection and Generalization: A Graph-Theoretic View](https://arxiv.org/pdf/2409.18205), Sep. 26 2024.
 - [Life Lessons from the First Half-Century of My Career](https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/), Oct. 10 2024.
-- [Old Optimizer, New Norm: An Anthology](https://arxiv.org/abs/2409.20325), Sep. 30 2024.
-- [Generalized group data attribution](https://arxiv.org/pdf/2410.09940), Oct. 13 2024.
 - [Feature averaging: An implicit bias of gradient descent leading to non-robustness in neural networks](https://arxiv.org/pdf/2410.10322), Oct. 14 2024.
-- [Non-convergence to global minimizers in data driven supervised deep learning: Adam and stochastic gradient descent optimization provably fail to converge to global minimizers in the training of deep neural networks with ReLU activation](https://arxiv.org/pdf/2410.10533), Oct. 14 2024.
 - [Scaling Gaussian Processes for Learning Curve Prediction via Latent Kronecker Structure](https://arxiv.org/pdf/2410.09239), Oct. 11 2024.
-- [The Epochal Sawtooth Effect: Unveiling Training Loss Oscillations in Adam and Other Optimizers](https://arxiv.org/pdf/2410.10056), Oct. 14 2024.
-- [Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf), 
 - [Simultaneous linear connectivity of neural networks modulo permutation](https://arxiv.org/pdf/2404.06498), Apr. 9 2024.
-- [The Non-Local Model Merging Problem: Permutation Symmetries and Variance Collapse](https://arxiv.org/pdf/2410.12766), Oct. 16 2024. [code](https://github.com/ekanshs/tact-merge).
 - [Optimal Protocols for Continual Learning via Statistical Physics and Control Theory](https://arxiv.org/pdf/2409.18061),
 - [Artificial Kuramoto oscillatory neurons](https://arxiv.org/pdf/2410.13821), Oct. 17 2024. [code](https://github.com/autonomousvision/akorn).
   - [Binding dynamics in rotating features](https://arxiv.org/pdf/2402.05627), Feb. 8 2024.
 - [Understanding optimization in deep learning with central flows](https://arxiv.org/pdf/2410.24206), Oct. 31 2024.
-- [When do large learning rates lead us?](https://arxiv.org/pdf/2410.22113), Oct. 29 2024. [code](https://github.com/isadrtdinov/understanding-large-lrs).
 - [Zipfian Whitening](https://arxiv.org/pdf/2411.00680), Nov. 1 2024.
 - [Disentangling Interactions and Dependencies in Feature Attribution](https://arxiv.org/pdf/2410.23772), Oct. 31 2024. `feature attribution`.
-- [Provable unlearning in topic modeling and downstream tasks](https://arxiv.org/pdf/2411.12600), Nov. 19 2024.
 - [Understanding the gains from repeated self-distillation](https://arxiv.org/pdf/2407.04600), Jul. 5 2024.
   - _"Our analysis shows that the excess risk achieved by multi-step self-distillation can significantly improve upon a single step of self-distillation, reducing the excess risk by a factor as large as d, where d is the input dimension. Empirical results on regression tasks from the UCI repository show a reduction in the learnt model's risk (MSE) by up to 47%."_
   - _"At a high-level, self-distillation can use data more effectively, since it allows us to extract more knowledge from the same training dataset."_
-- [Training Data Attribution via Approximate Unrolling](https://openreview.net/pdf?id=3NaqGg92KZ), NeurIPS 2024.
-- [A Theory of Initialisation’s Impact on Specialisation](https://openreview.net/pdf?id=OdoxWJMapK), Submitted to the Mathematics of Modern Machine Learning Workshop at NeurIPS 2024.
-- [∆-Influence: Unlearning Poisons via Influence Functions](https://arxiv.org/pdf/2411.13731), Nov. 20 2024. [code](https://github.com/andyisokay/delta-influence).
-- [A complexity-based theory of compositionality](https://arxiv.org/pdf/2410.14817), Oct. 18 2024.
-- [Geometric signatures of compositionality across a language model's lifetime](https://arxiv.org/pdf/2410.01444), Oct. 7 2024.
-- [Sometimes I am a Tree: Data Drives Unstable
-Hierarchical Generalization](https://arxiv.org/pdf/2412.04619), Dec. 5 2024. [code](https://github.com/sunnytqin/concept_comp).
-- [The large learning rate phase of deep learning: the catapult mechanism](https://arxiv.org/pdf/2003.02218), Mar. 4 2020.
 - [The birth of self-supervised learning: A supervised theory](https://openreview.net/pdf?id=NhYAjAAdQT), NeurIPS 2024 SSL Workshop.
 - [Art-Free generative models: Art creation without graphic art knowledge](https://arxiv.org/pdf/2412.00176), Nov. 29 2024.
-- [The Pitfalls of Memorization: When Memorization
-Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Beyond Reweighting: On the Predictive Role of Covariate Shift in Effect Generalization](https://arxiv.org/pdf/2412.08869), Dec. 12 2024. [code](https://github.com/ying531/predictive-shift).
 - [Of dice and games: A theory of generalized boosting](https://arxiv.org/pdf/2412.08012), Dec. 11 2024.
 - [Are Neurons Actually Collapsed? On the Fine-Grained Structure in Neural Representations](), ICML 2023.
@@ -138,13 +175,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Ensemble everything everywhere: Multi-scale aggregation for adversarial robustness](https://arxiv.org/abs/2408.05446), Aug. 8 2024.
 - [softmax is not enough (for sharp out-of-distribution)](https://arxiv.org/pdf/2410.01104), Oct. 7 2024.
 - [Universality of representation in biological and artificial neural networks](https://www.biorxiv.org/content/10.1101/2024.12.26.629294v1.full), Dec. 26 2024.
-- [A Linear Network Theory of Iterated Learning](https://openreview.net/pdf?id=xudmoaroxQ), NeurIPS 2024 workshop.
-  - _"Here we theoretically study the emergence of compositional language, and the ability of simple neural networks to leverage this compositionality to systematically generalize"_
-- [Towards understanding extrapolation: A causal lens](https://arxiv.org/pdf/2501.09163), Jan. 15 2025.
-- [Merging models on the fly without retraining: A sequential approach to scalable continual model merging](https://arxiv.org/pdf/2501.09522), Jan. 16 2025.
 - [A survey of zero-shot generalization in deep reinforcement learning](https://arxiv.org/pdf/2111.09794), Jan. 19 2023.
-- [Rethinking early stopping: Refine, then calibrate](https://arxiv.org/pdf/2501.19195), Jan. 31 2025.
-- [Decoding Generalization from Memorization in Deep Neural Networks](https://arxiv.org/pdf/2501.14687), Jan. 24 2025.
 - [Evolution and the knightian blindspot of machine learning](https://arxiv.org/pdf/2501.13075), Jan. 22 2025.
 - [Not every AI problem is a data problem: We should be intentional about data scaling](https://arxiv.org/pdf/2501.13779), Jan. 23 2025.
 - [What makes a good feedforward computational graph?](https://arxiv.org/pdf/2502.06751), Feb. 10 2025.
@@ -155,10 +186,7 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Estimating the probability of sampling a trained neural network at random](https://arxiv.org/pdf/2501.18812), Jan. 31 2025.
 - [How to explain grokking](https://arxiv.org/pdf/2412.18624), Jan. 1 2025.
   - _"Explanation of grokking (delayed generalization) in learning is given by modeling grokking by the stochastic gradient Langevin dynamics (Brownian motion) and applying the ideas of thermodynamics."_
-- [The computational advantage of depth: Learning high-dimensional hierarchical functions with gradient descent](https://arxiv.org/pdf/2502.13961), Feb. 19 2025.
-- [Implicit bias of gradient descent for non-homogeneous deep networks](https://arxiv.org/pdf/2502.16075), Feb. 22 2025.
 - [Hi Robot: Open-ended instruction following with hierarchical vision-language-action models](https://arxiv.org/pdf/2502.19417), Feb. 26 2025.
-- [HOW DNNS BREAK THE CURSE OF DIMENSIONALITY: COMPOSITIONALITY AND SYMMETRY LEARNING](https://arxiv.org/pdf/2407.05664), Mar. 6 2025.
 - [Deep Learning is Not So Mysterious or Different](https://arxiv.org/pdf/2503.02113), Mar. 3 2025.
 - [A Minimalist Example of Edge-of-Stability and Progressive Sharpening](https://arxiv.org/pdf/2503.02809), Mar. 4 2025.
 - [Probabilistic Artificial Intelligence](https://arxiv.org/pdf/2502.05244), Feb. 2025. `book`.
@@ -169,11 +197,8 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Counterfactual realizability](https://arxiv.org/pdf/2503.11870), Mar. 14 2025.
 - [E-values expand the scope of conformal prediction](https://arxiv.org/pdf/2503.13050), Mar. 18 2025.
 - [Transformers without normalization](https://arxiv.org/pdf/2503.10622), Mar. 13 2025. [code](https://github.com/jiachenzhu/DyT).
-- [Survey on generalization theory for graph neural networks](https://arxiv.org/pdf/2503.15650), Mar. 19 2025.
-- [Learning decision trees as amortized structured inference](https://arxiv.org/pdf/2503.06985), Mar. 10 2025. [code](https://arxiv.org/pdf/2503.06985).
 - [Generalizing to any diverse distribution: Uniformity & rebalancing](https://openreview.net/pdf?id=R83LOnUmbg), ICLR 2025.
 - [Graph neural networks extrapolate out-of-distribution for shortest paaths](https://arxiv.org/abs/2503.19173), Mar. 24 2025.
-- [A minimalist example of edge-of-stability and progressive sharpening](https://arxiv.org/pdf/2503.02809), Mar. 4 2025.
 - [Fyenman-Kac corrections in diffusion: Annealing, guidance, and product of experts](https://arxiv.org/pdf/2503.02819), Mar. 4 2025. [code](https://github.com/martaskrt/fkc-diffusion).
 - [A theory of initialization's impact on specialization](https://arxiv.org/pdf/2503.02526), Mar. 4 2025.
 - [From data to uncertainty sets: A machine learning approach](https://arxiv.org/pdf/2503.02173), Mar. 4 2025.
@@ -185,25 +210,16 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 - [Provable weak-to-strong generalization via benign overfitting](https://arxiv.org/pdf/2410.04638), Jan. 31 2025.
 - [Why can accurate models are be learned from inaccurate annotations?](https://arxiv.org/abs/2505.16159), May 22 2025. [code](https://github.com/Chongjie-Si/LIP).
 - [Collaborative prediction: To join or to disjoin datasets](https://arxiv.org/pdf/2506.11271), Jun. 12 2025. [code](https://github.com/kkrokii/collaborative_prediction).
-- [Random pruning over-parameterized neural networks can improve generalization: A training dynamics analysis](https://www.jmlr.org/papers/volume26/23-0832/23-0832.pdf), JMLR 2025.
 - [Scalable feature learning on huge knowledge graphs for downstream machine learning](https://arxiv.org/pdf/2507.00965), Jul. 1 2025.
 - [Out-of-distribution detection methods answer the wrong questions](https://arxiv.org/pdf/2507.01831), Jul. 2 2025.
 - [Relational composition in neural networks: A survey and call to action](https://arxiv.org/pdf/2407.14662?), Jul. 19 2024.
 - [The butterfly effect: Neural network training trajectories are highly sensitive to initial conditions](https://arxiv.org/pdf/2506.13234), Jun. 16 2025. [code](https://github.com/gsaltintas/lmc).
 - [Position: A Theory of Deep Learning Must Include Compositional Sparsity](https://arxiv.org/pdf/2507.02550), Jul. 3 2025.
 - [Composition and control with distilled energy diffusion models adn sequential Monte Carlo](https://arxiv.org/pdf/2502.12786), Feb. 18 2025.
-- [Navigating the latent space dynamics of neural models](https://arxiv.org/abs/2505.22785), May 28 2025.
 - [Benefits of early stopping in gradient descent for overparameterized logistic regression](https://arxiv.org/pdf/2502.13283), Jun. 30 2025.
-- [Beyond statistical learning: Exact learning is essential for general intelligence](https://arxiv.org/pdf/2506.23908), Jun. 30 2025.
-- [How weight resampling and optimizers shape the dynamics of continual learning and forgetting in neural networks](https://arxiv.org/pdf/2507.01559), Jul. 2 2025.
-  - [Learning to continually learn](https://ebooks.iospress.nl/doi/10.3233/FAIA200193), ECAI 2020.
 - [Learning from positive and unlabeled examples - Finit size sample bounds](https://arxiv.org/pdf/2507.07354), Jul. 10 2025.
-- [Revisiting learning rate control](https://arxiv.org/pdf/2507.01724), Jul. 2 2025.
-- [Bayesian double descent](https://arxiv.org/pdf/2507.07338), Jul. 9 2025.
 - [FACT: the Features At Convergence Theorem for neural networks](https://arxiv.org/pdf/2507.05644), Jul. 8 2025.
 - [Can interpretation predict behavior on unseen data?](https://arxiv.org/pdf/2507.06445), Jul. 8 2025. [code](https://github.com/vli31/id-predict-ood).
-- [I-Con: A unifying framework for representation learning](https://arxiv.org/pdf/2504.16929), Apr. 23 2025.
-- [Diffusion beats autoregressive in data-constrained settings](https://arxiv.org/abs/2507.15857), Jul. 21 2025.
 - [Learning to add, multiply, and execute algorithmic instructions exactly with neural networks](https://arxiv.org/pdf/2502.16763), May 23 2025.
 - [Relating misfit to gain in weak-to-strong generalization beyond the squred loss](https://arxiv.org/pdf/2501.19105), Feb. 3 2025.
 - [A generalization theory for zero-shot prediction](https://arxiv.org/pdf/2507.09128), Jul. 12 2025.
@@ -213,14 +229,24 @@ Hurts Generalization](https://arxiv.org/pdf/2412.07684), Dec. 10 2024.
 ### Continual learning
 
 - [On understanding of the dynamics of model capacity in continual learning](https://arxiv.org/pdf/2508.08052), Aug. 11 2025.
+- [How weight resampling and optimizers shape the dynamics of continual learning and forgetting in neural networks](https://arxiv.org/pdf/2507.01559), Jul. 2 2025.
+  - [Learning to continually learn](https://ebooks.iospress.nl/doi/10.3233/FAIA200193), ECAI 2020.
 
 ### Data attribution
 
+- [Stochastic Amortization: A Unified Approach to Accelerate Feature and Data Attribution](https://arxiv.org/pdf/2401.15866), Jan. 29 2024.
+- [Training Data Attribution via Approximate Unrolled Differentation](https://arxiv.org/pdf/2405.12186), May 21 2024.
 - [Revisiting data attribution for influence functions](https://arxiv.org/pdf/2508.07297), Aug. 10 2025.
   - _"We discuss their theoretical foundations, recent algorithmic advances for efficient inverse-Hessian-vector product estimation, and evaluate their effectiveness for data attribution and mislabel detection"_
+- [Data Attribution at Scale](https://ml-data-tutorial.org/), ICML 2024 tutorial.
+- [Generalized group data attribution](https://arxiv.org/pdf/2410.09940), Oct. 13 2024.
+- [Revisiting inverse Hessian vector products for calculating influence functions](https://arxiv.org/pdf/2409.17357), Sep. 25 2024.
+- [Training Data Attribution via Approximate Unrolling](https://openreview.net/pdf?id=3NaqGg92KZ), NeurIPS 2024.
+- [∆-Influence: Unlearning Poisons via Influence Functions](https://arxiv.org/pdf/2411.13731), Nov. 20 2024. [code](https://github.com/andyisokay/delta-influence).
 
 ### Contrastive learning
 
+- [I-Con: A unifying framework for representation learning](https://arxiv.org/pdf/2504.16929), Apr. 23 2025.
 - [CLIPScore: A Reference-free Evaluation Metric for Image Captioning](https://arxiv.org/abs/2104.08718), Mar. 23 2022.
 - [CLIPLoss and Norm-Based Data Selection Methods for Multimodal Contrastive Learning](https://arxiv.org/pdf/2405.19547), May 29 2024.
 - [X-Sample Contrastive Loss: Improving Contrastive Learning with Sample Similarity Graphs](https://arxiv.org/pdf/2407.18134), Jul. 25 2024.
