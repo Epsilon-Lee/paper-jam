@@ -104,5 +104,6 @@
 - [Mind2Web 2: Evaluating agentic search with agent-as-a-judge](https://arxiv.org/pdf/2506.21506), Jul. 3 2025. [code](https://github.com/OSU-NLP-Group/Mind2Web-2).
 - [BrowseComp-Plus](https://github.com/texttron/BrowseComp-Plus), Aug. 12 2025.
 - [WideSearch: Benchmarking agentic broad info-seeking](https://widesearch-seed.github.io/), Aug. 12 2025. `ByteDance Seed`.
+- [WebMall - A multi-shop benchmark for evaluating web agents](https://arxiv.org/pdf/2508.13024), Aug. 18 2025. [code](https://github.com/wbsg-uni-mannheim/WebMall).
 
 
