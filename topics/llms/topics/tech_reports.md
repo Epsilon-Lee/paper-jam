@@ -6,6 +6,8 @@
 - [H2O-Danube3 Technical Report](https://arxiv.org/pdf/2407.09276), Jul. 12 2024. `made for smartphone`.
 - [Falcon2-11b technical report](https://arxiv.org/pdf/2407.14885), Jul. 20 2024.
 - [Aquila2 Technical Report](https://arxiv.org/pdf/2408.07410), Aug. 14 2024.
+- [Apriel-Nemotron-15B-Thinker](https://arxiv.org/pdf/2508.10948), Aug. 13 2025.
+ - To learn about details of mid-training, e.g. how cpt degrades or inreases scores on various benchmarks
 
 **Cohere**
 - [Command A: An enterprise-ready large language model](https://cohere.com/research/papers/command-a-technical-report.pdf), Mar. 27 2025.
@@ -13,6 +15,8 @@
 **Nemotron**
 - [Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model](https://arxiv.org/pdf/2201.11990), Feb. 4 2022.
 - [Nemotron-4 340B Technical Report](https://d1qx31qr3h6wln.cloudfront.net/publications/Nemotron_4_340B_8T_0.pdf), Jun. 2024.
+- [NVIDIA Nemotron Nano 2: An accurate and efficient hybrid Mamba-Transformer reasoning model](https://research.nvidia.com/labs/adlr/files/NVIDIA-Nemotron-Nano-2-Technical-Report.pdf), Aug. 18 2025.
+  - The partial pre-training data is available, e.g. Nemotron-CC-v2/Math-v1/Code-v1/SFT-v1, as well as the post-training dataset.
 
 **Llama series**
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971), Feb. 27 2023.
@@ -64,6 +68,7 @@
 - [Qwen Technincal Report](https://arxiv.org/pdf/2309.16609), Sep. 28 2023.
 - [Qwen2 technical report](https://arxiv.org/pdf/2407.10671), Jul. 15 2024.
 - [Qwen2.5 Technical Report](https://arxiv.org/pdf/2412.15115), Dec. 19 2024.
+- [Qwen3 Technical Report](https://arxiv.org/pdf/2505.09388), May 15 2025.
 
 **MiniCPM**
 - [MiniCPM4: Ultra-efficient LLMs on end devices](https://arxiv.org/pdf/2506.07900), Jun. 9 2025.
