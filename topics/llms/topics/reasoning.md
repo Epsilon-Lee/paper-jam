@@ -185,7 +185,11 @@
 - [Re:Form - Reducing human priors in scalable formal software verification with RL in LLMs: A preliminary study on Dafny](https://arxiv.org/pdf/2507.16331), Jul. 25 2025. [code](https://github.com/Veri-Code/ReForm). `verl`.
 - [ProRL: Prolonged reinforcement learning expands reasoning boundaries in large language models](https://arxiv.org/pdf/2505.24864), May 30 2025.
 - [Seed-Prover: Deep and broad reasoning for automated theorem proving](https://www.alphaxiv.org/abs/2507.23726v2), Aug. 2025.
-- [Reinforcement learning with rubric anchors](https://arxiv.org/pdf/2508.12790), AUg. 18 2025.
+- [Reinforcement learning with rubric anchors](https://arxiv.org/pdf/2508.12790), AUg. 18 2025. [code](https://github.com/yuh-zha/Vision-G1).
+
+#### Reasoning for VLMs
+
+- [Vision-G1: Towards general vision language reasoning with multi-domain data curation](https://arxiv.org/pdf/2508.12680), Aug. 18 2025.
 
 #### RL algorithmic innovations
 
