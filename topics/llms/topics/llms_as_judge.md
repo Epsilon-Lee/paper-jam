@@ -21,6 +21,7 @@
 - [Judging LLMs on a simplex](https://arxiv.org/pdf/2505.21972), May 28 2025.
   - _"These results underscore the importance of taking a more holistic approach to uncertainty quantification when using LLMs as judges."_
 - [Feedback friction: LLMs struggle to fully incorporate external feedback](https://arxiv.org/pdf/2506.11930), Jun. 13 2025.
+- [Bridging human and LLM judgements: Understanding and narrowing the gap](https://arxiv.org/pdf/2508.12792), Aug. 18 2025.
 
 #### Self-critique, self-verification
 
