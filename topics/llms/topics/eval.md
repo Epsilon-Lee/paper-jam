@@ -26,6 +26,8 @@
 - [An empirical analysis of uncertainty in large language model evaluations](https://arxiv.org/pdf/2502.10709), Mar. 2 2025. [code](https://github.com/hasakiXie123/LLM-Evaluator-Uncertainty).
 - [Contextualized evaluations: Judging language model responses to underspecified queries](https://arxiv.org/abs/2411.07237), Nov. 11 2024. [code](https://github.com/allenai/ContextEval).
 - [Signal and noise: A framework for reducing uncertainty in language model evaluation](https://arxiv.org/pdf/2508.13144), Aug. 18 2025. [code](https://github.com/allenai/signal-and-noise).
+- [What makes a good reasoning chain? Uncovering structural patterns in long chain-of-thought reasoning](https://arxiv.org/pdf/2505.22148), May 28 2025.
+  - The visualization is impressive.
 
 #### Data contamination
 
