@@ -24,6 +24,10 @@ Three topics:
   - [Pre-Training and Fine-Tuning Generative Flow Networks](https://arxiv.org/pdf/2310.03419), Oct. 5 2024.
 - [Beyond statistical learning: Exact learning is essential for general intelligence](https://arxiv.org/pdf/2506.23908), Jun. 30 2025.
 
+### New tabular models
+
+- [xRFM: Accurate, scalable, and interpretable feature learning models for tabular data](https://arxiv.org/pdf/2508.10053), Aug. 12 2025. [code](https://github.com/dmbeaglehole/xRFM).
+
 ### Lottery ticket
 
 - [Input Space Mode Connectivity in Deep Neural Networks](https://arxiv.org/pdf/2409.05800), Sep. 9 2024.
