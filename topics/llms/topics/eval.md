@@ -28,6 +28,7 @@
 - [Signal and noise: A framework for reducing uncertainty in language model evaluation](https://arxiv.org/pdf/2508.13144), Aug. 18 2025. [code](https://github.com/allenai/signal-and-noise).
 - [What makes a good reasoning chain? Uncovering structural patterns in long chain-of-thought reasoning](https://arxiv.org/pdf/2505.22148), May 28 2025.
   - The visualization is impressive.
+- [Evaluating step-by-step reasoning traces: A survey](https://arxiv.org/pdf/2502.12289), May 24 2025.
 
 #### Data contamination
 
