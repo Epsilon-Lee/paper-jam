@@ -29,6 +29,7 @@
 - [What makes a good reasoning chain? Uncovering structural patterns in long chain-of-thought reasoning](https://arxiv.org/pdf/2505.22148), May 28 2025.
   - The visualization is impressive.
 - [Evaluating step-by-step reasoning traces: A survey](https://arxiv.org/pdf/2502.12289), May 24 2025.
+- [Scaling up active testing to large language models](https://arxiv.org/pdf/2508.09093), Aug. 12 2025.
 
 #### Data contamination
 
