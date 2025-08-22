@@ -38,6 +38,7 @@
 - [Establishing best practices for building rigorous agentic benchmarks](https://arxiv.org/pdf/2507.02825), Jul. 3 2025.
   - `Agentic benchmark checklist`
 - [Toward a theory of agents as tool-use decision makers](https://arxiv.org/pdf/2506.00886), Jun. 1 2025.
+- [Chain-of-agents: End-to-end agent foundation models via multi-agent distillation and agentic rl](https://www.arxiv.org/pdf/2508.13167), Aug. 6 2025. [code](https://github.com/OPPO-PersonalAI/Agent_Foundation_Models).
 
 #### Memory modeling
 
@@ -81,12 +82,17 @@
 - [ChatDev: Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924), Jun. 5 2024.
 - [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/pdf/2407.16741), Jul. 23 2024.
 
+#### Tool use agent
+
+- [MCP-Universe: Benchmarking large language models with real-world model context protocal servers](https://arxiv.org/pdf/2508.14704), Aug. 20 2025. [code](https://github.com/SalesforceAIResearch/MCP-Universe).
+
 #### GUI and computer use agent
 
 - [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://arxiv.org/pdf/2508.04482), Aug. 6 2025. [code](https://os-agent-survey.github.io/).
 - [browser-use](https://github.com/browser-use/browser-use), Make websites accessible for AI agents.
 - [OmniParser for pure vision based GUI agent](https://arxiv.org/abs/2408.00203), Aug. 1 2024.
 - [UI-TARS: Pioneering automated GUI interaction with native agents](https://arxiv.org/abs/2501.12326), Jan. 21 2025. [code](https://github.com/bytedance/UI-TARS?tab=readme-ov-file).
+- [ComputerRL: Scaling end-to-end online reinforcement learning for computer use agents](https://arxiv.org/pdf/2508.14040), Aug. 19 2025.
 
 #### Web agent
 
@@ -105,5 +111,6 @@
 - [BrowseComp-Plus](https://github.com/texttron/BrowseComp-Plus), Aug. 12 2025.
 - [WideSearch: Benchmarking agentic broad info-seeking](https://widesearch-seed.github.io/), Aug. 12 2025. `ByteDance Seed`.
 - [WebMall - A multi-shop benchmark for evaluating web agents](https://arxiv.org/pdf/2508.13024), Aug. 18 2025. [code](https://github.com/wbsg-uni-mannheim/WebMall).
+- [MM-BrowseComp: A comprehensive benchmark for multimodal browsing agents](https://www.arxiv.org/pdf/2508.13186), Aug. 14 2025.
 
 
