@@ -187,6 +187,8 @@
 - [Seed-Prover: Deep and broad reasoning for automated theorem proving](https://www.alphaxiv.org/abs/2507.23726v2), Aug. 2025.
 - [Reinforcement learning with rubric anchors](https://arxiv.org/pdf/2508.12790), AUg. 18 2025. [code](https://github.com/yuh-zha/Vision-G1).
 - [OptimalThinkBench: Evaluating over and underthinking in LLMs](https://arxiv.org/pdf/2508.13141), Aug. 18 2025. [code](https://github.com/facebookresearch/RAM/tree/main/projects/otb).
+- [Intern-S1: A scientific multimodal foundation model](https://arxiv.org/pdf/2508.15763), Aug. 21 2025.
+- [Don't think twice! Over-reasoning impairs confidence calibration](https://arxiv.org/pdf/2508.15050), Aug. 20 2025.
 
 #### Reasoning for VLMs
 
