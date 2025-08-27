@@ -1,6 +1,5 @@
 
 - [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/pdf/2304.01373), May 31 2023.
-- [InternLM2 Technical Report](https://arxiv.org/pdf/2403.17297), Mar. 26 2024.
 - [Sailor: Open Language Models for South-East Asia](https://arxiv.org/pdf/2404.03608), Apr. 4 2024.
 - [LokiLM: Technical Report](https://arxiv.org/abs/2407.07370), Jul. 10 2024.
 - [H2O-Danube3 Technical Report](https://arxiv.org/pdf/2407.09276), Jul. 12 2024. `made for smartphone`.
@@ -8,6 +7,10 @@
 - [Aquila2 Technical Report](https://arxiv.org/pdf/2408.07410), Aug. 14 2024.
 - [Apriel-Nemotron-15B-Thinker](https://arxiv.org/pdf/2508.10948), Aug. 13 2025.
  - To learn about details of mid-training, e.g. how cpt degrades or inreases scores on various benchmarks
+
+**Intern**
+- [InternLM2 Technical Report](https://arxiv.org/pdf/2403.17297), Mar. 26 2024.
+- [InternVL3.5: Advancing open-source multimodal models in versality, reasoning, and efficiency](https://arxiv.org/pdf/2508.18265), Aug. 2025.
 
 **Cohere**
 - [Command A: An enterprise-ready large language model](https://cohere.com/research/papers/command-a-technical-report.pdf), Mar. 27 2025.
