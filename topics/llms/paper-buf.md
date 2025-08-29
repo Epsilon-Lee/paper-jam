@@ -252,6 +252,7 @@
 - [Should we still pretrain encoders with masked language modeling](https://arxiv.org/pdf/2507.00994), Jul. 1 2025. [code](https://huggingface.co/MLMvsCLM).
 - [The landscape of memorization in LLMs: Mechanisms, measurement, and mitigation](https://arxiv.org/pdf/2507.05578), Jul. 8 2025.
 - [Generalized linear mode connectivity for transformers](https://arxiv.org/pdf/2506.22712), Jun. 28 2025.
+- [On task vectors and gradients](https://www.arxiv.org/pdf/2508.16082), Aug. 22 2025.
 
 ### LLM-based active learning
 
