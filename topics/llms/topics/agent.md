@@ -48,7 +48,7 @@
 - [Inducing programmatic skills for agentic tasks](https://arxiv.org/pdf/2504.06821), Apr. 9 2025. [code](https://github.com/zorazrw/agent-skill-induction).
 - [MemOS: A memory OS for AI systems](https://arxiv.org/pdf/2507.03724), Jul. 4 2025. [code](https://github.com/MemTensor/MemOS).
 
-#### Combound AI systems
+#### Compound AI systems
 
 - [DSPy: Compiling declarative language model calls into self-improving pipelines](https://arxiv.org/abs/2310.03714), Oct. 5 2023.
 - [TextGrad: Automatic "Differentiation" via Text](https://arxiv.org/abs/2406.07496), Jun. 11 2024. `agent`.
@@ -56,6 +56,7 @@
 - [Alita: Generalist agent enabling scalable agentic reasoning with minimal predefinition and maximal self-evolution](https://arxiv.org/pdf/2505.20286), May 25 2025. [code](https://github.com/CharlesQ9/Alita).
   - [AgentDistill: Training-free agent distillation with generalizable MCP boxes](), Jun. 17 2025.
 - [Optimas: Optimizing compound AI systems with globally aligned local rewards](https://arxiv.org/pdf/2507.03041), Jul. 9 2025. [code](https://github.com/snap-stanford/optimas).
+- [Text2Grad: Reinforcement learning from natural language feedback](https://arxiv.org/pdf/2505.22338), May 28 2025.
 
 #### Open-endedness
 
