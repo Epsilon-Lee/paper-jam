@@ -7,6 +7,7 @@
 - [Aquila2 Technical Report](https://arxiv.org/pdf/2408.07410), Aug. 14 2024.
 - [Apriel-Nemotron-15B-Thinker](https://arxiv.org/pdf/2508.10948), Aug. 13 2025.
  - To learn about details of mid-training, e.g. how cpt degrades or inreases scores on various benchmarks
+- [Motif 2.6B technical report](https://arxiv.org/pdf/2508.09148), Aug. 2 2025.
 
 **Intern**
 - [InternLM2 Technical Report](https://arxiv.org/pdf/2403.17297), Mar. 26 2024.
@@ -20,6 +21,7 @@
 - [Nemotron-4 340B Technical Report](https://d1qx31qr3h6wln.cloudfront.net/publications/Nemotron_4_340B_8T_0.pdf), Jun. 2024.
 - [NVIDIA Nemotron Nano 2: An accurate and efficient hybrid Mamba-Transformer reasoning model](https://research.nvidia.com/labs/adlr/files/NVIDIA-Nemotron-Nano-2-Technical-Report.pdf), Aug. 18 2025.
   - The partial pre-training data is available, e.g. Nemotron-CC-v2/Math-v1/Code-v1/SFT-v1, as well as the post-training dataset.
+- [Jet-Nemotron: Efficient language model with post neural architecture search](https://arxiv.org/pdf/2508.15884), Aug. 21 2025. [code](https://github.com/NVlabs/Jet-Nemotron).
 
 **Llama series**
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971), Feb. 27 2023.
