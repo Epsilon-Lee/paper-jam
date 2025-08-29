@@ -39,6 +39,7 @@
   - `Agentic benchmark checklist`
 - [Toward a theory of agents as tool-use decision makers](https://arxiv.org/pdf/2506.00886), Jun. 1 2025.
 - [Chain-of-agents: End-to-end agent foundation models via multi-agent distillation and agentic rl](https://www.arxiv.org/pdf/2508.13167), Aug. 6 2025. [code](https://github.com/OPPO-PersonalAI/Agent_Foundation_Models).
+- [Memento: Fine-tuning LLM agents without fine-tuning LLMs](https://arxiv.org/pdf/2508.16153), Aug. 25 2025. [code](https://github.com/Agent-on-the-Fly/Memento).
 
 #### Memory modeling
 
@@ -112,5 +113,6 @@
 - [WideSearch: Benchmarking agentic broad info-seeking](https://widesearch-seed.github.io/), Aug. 12 2025. `ByteDance Seed`.
 - [WebMall - A multi-shop benchmark for evaluating web agents](https://arxiv.org/pdf/2508.13024), Aug. 18 2025. [code](https://github.com/wbsg-uni-mannheim/WebMall).
 - [MM-BrowseComp: A comprehensive benchmark for multimodal browsing agents](https://www.arxiv.org/pdf/2508.13186), Aug. 14 2025.
+- [research-eval](https://github.com/reka-ai/research-eval), Aug. 28 2025, by Reka. [blogpost](https://reka.ai/news/introducing-research-eval-a-benchmark-for-search-augmented-llms).
 
 
