@@ -57,6 +57,7 @@
 - [Learning without training: The implicit dynamics of in-context learning](https://arxiv.org/pdf/2507.16003), Jul. 21 2025.
 - [What one cannot, two can: Two-layer transformers provably represent induction heads on any-order Markov chains](https://arxiv.org/pdf/2508.07208), Aug. 10 2025. [code](https://anonymous.4open.science/r/markov-llm-depth-icl-63F0/README.md).
 - [Task generalization with AutoRegressive compositional structure: Can learning from D tasks generalize to D^T tasks?](https://arxiv.org/pdf/2502.08991),  Feb. 2025.
+- [In-context algorithm emulation in fixed-weight transformers](https://arxiv.org/pdf/2508.17550), Aug. 24 2025. [code](https://github.com/MAGICS-LAB/algo_emu).
 
 
 
