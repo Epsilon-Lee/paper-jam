@@ -254,6 +254,7 @@
 - [Generalized linear mode connectivity for transformers](https://arxiv.org/pdf/2506.22712), Jun. 28 2025.
 - [On task vectors and gradients](https://www.arxiv.org/pdf/2508.16082), Aug. 22 2025.
 - [Large language models enable few-shot clustering](https://arxiv.org/abs/2307.00524), Jul. 2 2023. [code](https://github.com/viswavi/few-shot-clustering).
+- [Competition and attraction improve model fusion](https://arxiv.org/pdf/2508.16204), Aug. 22 2025. [code](https://github.com/SakanaAI/natural_niches).
 
 ### LLM-based active learning
 
