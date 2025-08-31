@@ -8,6 +8,7 @@
 - [Apriel-Nemotron-15B-Thinker](https://arxiv.org/pdf/2508.10948), Aug. 13 2025.
  - To learn about details of mid-training, e.g. how cpt degrades or inreases scores on various benchmarks
 - [Motif 2.6B technical report](https://arxiv.org/pdf/2508.09148), Aug. 2 2025.
+- [LongCat-Flash technical report](https://t.co/QGZbEMOMLl), Aug. 31 2025.
 
 **Intern**
 - [InternLM2 Technical Report](https://arxiv.org/pdf/2403.17297), Mar. 26 2024.
