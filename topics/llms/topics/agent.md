@@ -40,6 +40,7 @@
 - [Toward a theory of agents as tool-use decision makers](https://arxiv.org/pdf/2506.00886), Jun. 1 2025.
 - [Chain-of-agents: End-to-end agent foundation models via multi-agent distillation and agentic rl](https://www.arxiv.org/pdf/2508.13167), Aug. 6 2025. [code](https://github.com/OPPO-PersonalAI/Agent_Foundation_Models).
 - [Memento: Fine-tuning LLM agents without fine-tuning LLMs](https://arxiv.org/pdf/2508.16153), Aug. 25 2025. [code](https://github.com/Agent-on-the-Fly/Memento).
+- [General agents contain world models](https://arxiv.org/pdf/2506.01622), Aug. 27 2025.
 
 #### Memory modeling
 
@@ -88,6 +89,8 @@
 #### Tool use agent
 
 - [MCP-Universe: Benchmarking large language models with real-world model context protocal servers](https://arxiv.org/pdf/2508.14704), Aug. 20 2025. [code](https://github.com/SalesforceAIResearch/MCP-Universe).
+- [Understanding tool-integrated reasoning](https://arxiv.org/pdf/2508.19201), Aug. 26 2025.
+- [Provable benefits of in-tool learning for large language models](https://arxiv.org/pdf/2508.20755), Aug. 28 2025.
 
 #### GUI and computer use agent
 
