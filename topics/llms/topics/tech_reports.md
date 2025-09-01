@@ -10,6 +10,9 @@
 - [Motif 2.6B technical report](https://arxiv.org/pdf/2508.09148), Aug. 2 2025.
 - [LongCat-Flash technical report](https://t.co/QGZbEMOMLl), Aug. 31 2025.
 
+**Kimi**
+- [Kimi K2: Open agentic intelligence](https://arxiv.org/pdf/2507.20534), Jul. 28 2025.
+
 **Intern**
 - [InternLM2 Technical Report](https://arxiv.org/pdf/2403.17297), Mar. 26 2024.
 - [InternVL3.5: Advancing open-source multimodal models in versality, reasoning, and efficiency](https://arxiv.org/pdf/2508.18265), Aug. 2025.
@@ -75,6 +78,7 @@
 - [Qwen2 technical report](https://arxiv.org/pdf/2407.10671), Jul. 15 2024.
 - [Qwen2.5 Technical Report](https://arxiv.org/pdf/2412.15115), Dec. 19 2024.
 - [Qwen3 Technical Report](https://arxiv.org/pdf/2505.09388), May 15 2025.
+- [Qwen2.5-Omni Technical Report](https://arxiv.org/pdf/2503.20215), Mar. 26 2025.
 
 **MiniCPM**
 - [MiniCPM4: Ultra-efficient LLMs on end devices](https://arxiv.org/pdf/2506.07900), Jun. 9 2025.
