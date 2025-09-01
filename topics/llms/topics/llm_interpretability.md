@@ -148,6 +148,7 @@
 - [Beyond the Resetta stone: Unification forces in generalization dynamics](https://arxiv.org/pdf/2508.11017), Aug. 14 2025.
 - [Probing the representational power of sparse autoencoders in vision models](https://arxiv.org/pdf/2508.11277), Aug. 15 2025.
 - [Are transformers able to reason by connecting separated knowledge in training data?](https://arxiv.org/pdf/2501.15857), Jun. 2 2025. [code](https://github.com/roger-yt/Fragmented-at-Training-Chained-at-Testing).
+- [Decomposing behavioral phase transitions in LLMs: Order parameters for emergent misalignment](https://arxiv.org/pdf/2508.20015), Aug. 27 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
