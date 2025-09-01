@@ -30,7 +30,8 @@
   - The visualization is impressive.
 - [Evaluating step-by-step reasoning traces: A survey](https://arxiv.org/pdf/2502.12289), May 24 2025.
 - [Scaling up active testing to large language models](https://arxiv.org/pdf/2508.09093), Aug. 12 2025.
-- [AutoEval done right: Using synthetic data for model evaluation](https://openreview.net/pdf?id=S8kbmk12Oo), ICML 2025. [code]().
+- [AutoEval done right: Using synthetic data for model evaluation](https://openreview.net/pdf?id=S8kbmk12Oo), ICML 2025.
+- [Improving model evaluation using SMART filtering of benchmark datasets](https://arxiv.org/pdf/2410.20245), Feb. 10 2025. [code](https://github.com/facebookresearch/ResponsibleNLP/tree/main/SMART-Filtering).
 
 #### Data contamination
 
