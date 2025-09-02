@@ -6,9 +6,14 @@
 - [Falcon2-11b technical report](https://arxiv.org/pdf/2407.14885), Jul. 20 2024.
 - [Aquila2 Technical Report](https://arxiv.org/pdf/2408.07410), Aug. 14 2024.
 - [Apriel-Nemotron-15B-Thinker](https://arxiv.org/pdf/2508.10948), Aug. 13 2025.
- - To learn about details of mid-training, e.g. how cpt degrades or inreases scores on various benchmarks
+  - To learn about details of mid-training, e.g. how cpt degrades or inreases scores on various benchmarks
 - [Motif 2.6B technical report](https://arxiv.org/pdf/2508.09148), Aug. 2 2025.
 - [LongCat-Flash technical report](https://t.co/QGZbEMOMLl), Aug. 31 2025.
+
+**Hunyuan**
+- [Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent](https://arxiv.org/pdf/2411.02265), Nov. 6 2024.
+- [Hunyuan-MT technical report](https://github.com/Tencent-Hunyuan/Hunyuan-MT/blob/main/Hunyuan_MT_Technical_Report.pdf), Sep. 1 2025.
+- [HunyuanWolrd 1.0: Generating immersive, explorable, and interactive 3D worlds from words or pixels](https://3d-models.hunyuan.tencent.com/world/HY_World_1_technical_report.pdf), 2025.
 
 **Kimi**
 - [Kimi K2: Open agentic intelligence](https://arxiv.org/pdf/2507.20534), Jul. 28 2025.
