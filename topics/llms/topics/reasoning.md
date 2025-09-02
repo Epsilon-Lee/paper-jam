@@ -192,6 +192,7 @@
 - [Can LLMs reason abstractly over math word problems without CoTs? Disentangling abstract formulation from arithmetic computation](https://arxiv.org/pdf/2505.23701), May 2025.
 - [The invisible leash: Why RLVR may not escape its origin](https://arxiv.org/pdf/2507.14843), Jul. 20 2025.
 - [rStar2-Agent: Agentic reasoning technical report](https://arxiv.org/pdf/2508.20722), Aug. 28 2025. [code](https://github.com/microsoft/rStar).
+- [Reasoning-intensive regression](https://arxiv.org/pdf/2508.21762), Aug. 29 2025.
 
 #### Reasoning for VLMs
 
