@@ -22,6 +22,7 @@
   - _"These results underscore the importance of taking a more holistic approach to uncertainty quantification when using LLMs as judges."_
 - [Feedback friction: LLMs struggle to fully incorporate external feedback](https://arxiv.org/pdf/2506.11930), Jun. 13 2025.
 - [Bridging human and LLM judgements: Understanding and narrowing the gap](https://arxiv.org/pdf/2508.12792), Aug. 18 2025.
+- [Justice or prejudice? Quantifying biases in LLM-as-a-Judge](https://arxiv.org/pdf/2410.02736), Oct. 4 2024. [code](https://github.com/llm-judge-bias/llm-judge-bias.github.io/).
 
 #### Self-critique, self-verification
 
