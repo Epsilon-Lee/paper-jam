@@ -9,6 +9,7 @@
   - To learn about details of mid-training, e.g. how cpt degrades or inreases scores on various benchmarks
 - [Motif 2.6B technical report](https://arxiv.org/pdf/2508.09148), Aug. 2 2025.
 - [LongCat-Flash technical report](https://t.co/QGZbEMOMLl), Aug. 31 2025.
+- [Apertus tech report](https://github.com/swiss-ai/apertus-tech-report/tree/main), Sep. 1 2025.
 
 **Hunyuan**
 - [Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent](https://arxiv.org/pdf/2411.02265), Nov. 6 2024.
