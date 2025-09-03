@@ -41,6 +41,8 @@
 - [Chain-of-agents: End-to-end agent foundation models via multi-agent distillation and agentic rl](https://www.arxiv.org/pdf/2508.13167), Aug. 6 2025. [code](https://github.com/OPPO-PersonalAI/Agent_Foundation_Models).
 - [Memento: Fine-tuning LLM agents without fine-tuning LLMs](https://arxiv.org/pdf/2508.16153), Aug. 25 2025. [code](https://github.com/Agent-on-the-Fly/Memento).
 - [General agents contain world models](https://arxiv.org/pdf/2506.01622), Aug. 27 2025.
+- [Reinforcement learning for machine learning engineering agents](https://arxiv.org/pdf/2509.01684), Sep. 1 2025.
+  - _"performing gradient updates on a much smaller model (Qwen2.5-3B) trained with RL outperforms prompting a much larger model (Claude-3.5-Sonnet) with agent scaffolds, by an average of 22% across 12 Kaggle tasks."_ 
 
 #### Memory modeling
 
