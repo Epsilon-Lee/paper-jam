@@ -11,6 +11,12 @@
 - [LongCat-Flash technical report](https://t.co/QGZbEMOMLl), Aug. 31 2025.
 - [Apertus tech report](https://github.com/swiss-ai/apertus-tech-report/tree/main), Sep. 1 2025.
 
+**Baichuan**
+- [Baichuan-M1: Pushing the medical capability of large language models](https://arxiv.org/pdf/2502.12671), Mar. 5 2025. [code](https://github.com/baichuan-inc/Baichuan-M1-14B).
+  - A 14B model.
+- [Baichuan-M2: Scaling medical capability with large verifier system](https://arxiv.org/pdf/2509.02208), Sep. 2 2025.
+  - A 32B model. 
+
 **Hunyuan**
 - [Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent](https://arxiv.org/pdf/2411.02265), Nov. 6 2024.
 - [Hunyuan-MT technical report](https://github.com/Tencent-Hunyuan/Hunyuan-MT/blob/main/Hunyuan_MT_Technical_Report.pdf), Sep. 1 2025.
