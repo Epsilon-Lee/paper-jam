@@ -98,6 +98,10 @@
 - [How much knowledge can you pack into a lora adapter without harming LLM?](https://arxiv.org/pdf/2502.14502), Mar. 24 2025. [code](https://github.com/AIRI-Institute/knowledge-packing).
 - [LoRA Training Provably Converges to a Low-Rank Global Minimum or It Fails Loudly (But it Probably Won’t Fail)](https://arxiv.org/pdf/2502.09376), Jun. 3 2025.
 - [DoMIX: An efficient framework for exploiting domain knowledge in fine-tuning](https://arxiv.org/pdf/2507.02302), Jul. 3 2025. [code](https://github.com/dohoonkim-ai/DoMIX).
+- [Self-rewarding PPO: Aligning large language models with demonstrations only](https://openreview.net/pdf?id=cOlHP5E3qF), COLM 2025.
+  - _"SFT, being an off-policy approach similar to behavior cloning, often struggles with overfitting and poor out-of-domain generalization, especially in limited-data scenarios"_
+  - [Text generation by learning from demonstrations](https://openreview.net/pdf?id=RovX-uQ1Hua), ICLR 2021. [code](https://github.com/yzpang/gold-off-policy-text-gen-iclr21).
+  - [On the generalization of SFT: A reinforcement learning perspective with reward rectification](https://arxiv.org/pdf/2508.05629), Aug. 7 2025. [code](https://github.com/yongliang-wu/DFT).
 
 ### Alignment, preference alignment, reward models
 
@@ -161,7 +165,6 @@
 - [Preference Ranking Optimization for Human Alignment](https://arxiv.org/pdf/2306.17492), Feb. 27 2024.
 - [Quantifying the Gain in Weak-to-Strong Generalization](https://arxiv.org/pdf/2405.15116), May 24 2024.
 - [Value Augmented Sampling for Language Model Alignment and Personalization](https://arxiv.org/pdf/2405.14578v1), May 23 2024.
-- [Self-Exploring Language Models: Active Preference Elicitation for Online Alignment](https://arxiv.org/pdf/2405.19332), May 29 2024.
 - [Steering without side effects: Improving post-deployment control of language models](https://arxiv.org/pdf/2406.15518), Jun. 21 2024.
 - [Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback](https://arxiv.org/pdf/2406.09279), Jun. 13 2024.
 - [Model Alignment as Prospect Theoretic Optimization](https://openreview.net/pdf?id=iUwHnoENnl), ICML 2024.
@@ -181,6 +184,14 @@
 - [Do LLMs recognize your preferences? Evaluating personalized preference following in LLMs](https://arxiv.org/pdf/2502.09597), Feb. 13 2025. [code](https://github.com/amazon-science/PrefEval).
 - [Scaling laws for scalable oversight](https://arxiv.org/pdf/2504.18530), May 9 2025.
 - [SimPER: A minimalist approach to preference alignment without hyperparameters](https://arxiv.org/pdf/2502.00883), Feb. 20 2025. [code](https://github.com/tengxiao1/SimPER).
+- [Sample efficient preference alignment in LLMs via active exploration](https://openreview.net/pdf?id=Vi5cIfIslX), COLM 2025.
+  - [Active instruction tuning: Improving cross-task generalization by training on prompt sensitive tasks](https://arxiv.org/pdf/2311.00288), Nov. 1 2023. [code](https://github.com/PlusLabNLP/Active-IT).
+  - [Batch active learning reward functions from human preferences](https://arxiv.org/pdf/2402.15757), Feb. 24 2024.
+  - [Active preference learning for large language models](https://arxiv.org/pdf/2402.08114), Jun. 28 2024.
+  - [MAPLE: A framework for active preference learning guided by large language models](https://arxiv.org/pdf/2412.07207), Dec. 2024.
+  - [Self-Exploring Language Models: Active Preference Elicitation for Online Alignment](https://arxiv.org/pdf/2405.19332), May 29 2024.
+  - [ActiveDPO: Active direct preference optimization for sample-efficient alignment](https://openreview.net/pdf?id=1OJONb9MZM), ICML workshop 2025.
+  - [Comparison-based active preference learning for multi-dimensional personalization](https://aclanthology.org/2025.acl-long.1590.pdf), 2025. [code](https://github.com/ml-postech/AMPLe).
 
 ### Post-training for bert
 
