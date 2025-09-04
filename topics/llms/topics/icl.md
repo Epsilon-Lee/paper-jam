@@ -14,6 +14,7 @@
 - [Why Larger Language Models Do In-context Learning Differently?](https://arxiv.org/pdf/2405.19592), May 30 2024. `in-context learning`.
 - [Many-Shot In-Context Learning](https://arxiv.org/pdf/2404.11018), Oct. 17 2024.
 - [Multi-Attribute Constraint Satisfaction via Language Model Rewriting](https://arxiv.org/abs/2412.19198), Dec. 26 2024.
+- [Distilled pretraining: A modern lens of data, in-context learning and test-time scaling](https://arxiv.org/pdf/2509.01649), Sep. 1 2025.
 
 #### Theory of icl
 
