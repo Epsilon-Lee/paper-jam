@@ -101,11 +101,13 @@
 - [OmniParser for pure vision based GUI agent](https://arxiv.org/abs/2408.00203), Aug. 1 2024.
 - [UI-TARS: Pioneering automated GUI interaction with native agents](https://arxiv.org/abs/2501.12326), Jan. 21 2025. [code](https://github.com/bytedance/UI-TARS?tab=readme-ov-file).
 - [ComputerRL: Scaling end-to-end online reinforcement learning for computer use agents](https://arxiv.org/pdf/2508.14040), Aug. 19 2025.
+- [UI-TARS-2 technical report: Advancing GUI agent with multi-turn reinforcement learning](https://arxiv.org/pdf/2509.02544), Sep. 2 2025. [code](https://github.com/bytedance/UI-TARS-desktop).
 
 #### Web agent
 
 - [Embedded Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence](https://arxiv.org/pdf/2506.15677), Jun. 20 2025. [project](https://embodied-web-agent.github.io/).
 - [Beyond browsing: API-based web agents](https://arxiv.org/pdf/2410.16464), Jun. 16 2025. [code](https://github.com/yueqis/API-Based-Agent).
+- [Open data synthesis for deep research](https://arxiv.org/pdf/2509.00375), Aug. 30 2025. [code](https://github.com/VectorSpaceLab/InfoSeek).
 
 **toolkits**
 - [verl-tool](https://deepwiki.com/TIGER-AI-Lab/verl-tool).
