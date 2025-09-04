@@ -33,6 +33,8 @@
 - [AutoEval done right: Using synthetic data for model evaluation](https://openreview.net/pdf?id=S8kbmk12Oo), ICML 2025.
 - [Improving model evaluation using SMART filtering of benchmark datasets](https://arxiv.org/pdf/2410.20245), Feb. 10 2025. [code](https://github.com/facebookresearch/ResponsibleNLP/tree/main/SMART-Filtering).
 - [Chaning answer order can decrease MMLU accuracy](https://arxiv.org/pdf/2406.19470), Nov. 11 2024.
+- [SpecEval: Evaluating model adherence to behavior specifications](https://arxiv.org/pdf/2509.02464), Sep. 2 2025. [code](https://github.com/ahmeda14960/specevaldataset).
+- [Fluid language model benchmarking](https://openreview.net/pdf?id=mxcCg9YRqj), COLM 2025. [code](https://github.com/allenai/fluid-benchmarking).
 
 #### Data contamination
 
