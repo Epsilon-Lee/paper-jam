@@ -192,6 +192,7 @@
   - [Self-Exploring Language Models: Active Preference Elicitation for Online Alignment](https://arxiv.org/pdf/2405.19332), May 29 2024.
   - [ActiveDPO: Active direct preference optimization for sample-efficient alignment](https://openreview.net/pdf?id=1OJONb9MZM), ICML workshop 2025.
   - [Comparison-based active preference learning for multi-dimensional personalization](https://aclanthology.org/2025.acl-long.1590.pdf), 2025. [code](https://github.com/ml-postech/AMPLe).
+- [Data-centric human preference with rationales for direct preference alignment](https://openreview.net/pdf?id=LH2ZKviJoI), COLM 2025.
 
 ### Post-training for bert
 
