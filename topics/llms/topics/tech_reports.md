@@ -110,6 +110,10 @@
 **MiMo**
 - [MiMo: Unlocking the reasoning potential of language model - From pretraining to posttraining](https://arxiv.org/pdf/2505.07608), Jun. 5 2025.
 
+**Kwai**
+- [Kwai Keye-VL technical report](https://arxiv.org/pdf/2507.01949), Jul. 2 2025.
+- [Kwai Keye-VL 1.5 technical report](https://arxiv.org/pdf/2509.01563), Sep. 1 2025. [code](https://github.com/Kwai-Keye/Keye).
+
 ### Domain LLMs
 
 - [Galactica: A Large Language Model for Science](https://arxiv.org/pdf/2211.09085), Nov. 16 2022. `science`.
