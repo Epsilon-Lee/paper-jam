@@ -44,6 +44,7 @@
 - [Reinforcement learning for machine learning engineering agents](https://arxiv.org/pdf/2509.01684), Sep. 1 2025.
   - _"performing gradient updates on a much smaller model (Qwen2.5-3B) trained with RL outperforms prompting a much larger model (Claude-3.5-Sonnet) with agent scaffolds, by an average of 22% across 12 Kaggle tasks."_ 
 - [The landscape of agentic reinforcement learning for LLMs: A survey](https://arxiv.org/pdf/2509.02547), Sep. 2 2025.
+- [Learning when to plan: Efficiently allocating test-time compute for LLM agents](https://arxiv.org/pdf/2509.03581), Sep. 3 2025.
 
 #### Memory modeling
 
@@ -88,6 +89,7 @@
 - [MLE-Bench: Evaluating machine learning agents on machine learning engineering](https://arxiv.org/pdf/2410.07095), Oct. 9 2024. `openai`.
 - [ChatDev: Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924), Jun. 5 2024.
 - [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/pdf/2407.16741), Jul. 23 2024.
+- [SWE-rebench: A continuously evolving and decontaminated benchmark for software engineering LLMs](https://arxiv.org/abs/2505.20411), May 26 2025.
 
 #### Tool use agent
 
