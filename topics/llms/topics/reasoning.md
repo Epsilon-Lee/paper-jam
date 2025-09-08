@@ -193,6 +193,9 @@
 - [The invisible leash: Why RLVR may not escape its origin](https://arxiv.org/pdf/2507.14843), Jul. 20 2025.
 - [rStar2-Agent: Agentic reasoning technical report](https://arxiv.org/pdf/2508.20722), Aug. 28 2025. [code](https://github.com/microsoft/rStar).
 - [Reasoning-intensive regression](https://arxiv.org/pdf/2508.21762), Aug. 29 2025.
+- [Implicit reasoning in large language models: A comprehensive survey](https://arxiv.org/pdf/2509.02350), Sep. 2 2025. [github](https://github.com/digailab/awesome-llm-implicit-reasoning).
+- [e3: Learning to explore enables extrapolation of test-time compute for LLMs](https://arxiv.org/pdf/2506.09026), Jun. 13 2025. [code](https://matthewyryang.com/e3/).
+- [FormulaOne: Measuring the depth of algorithmic reasoning beyond competitive programming](https://www.alphaxiv.org/pdf/2507.13337), Jul. 17 2025.
 
 #### Reasoning for VLMs
 
