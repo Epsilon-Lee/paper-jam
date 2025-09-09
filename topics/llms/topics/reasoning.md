@@ -196,6 +196,10 @@
 - [Implicit reasoning in large language models: A comprehensive survey](https://arxiv.org/pdf/2509.02350), Sep. 2 2025. [github](https://github.com/digailab/awesome-llm-implicit-reasoning).
 - [e3: Learning to explore enables extrapolation of test-time compute for LLMs](https://arxiv.org/pdf/2506.09026), Jun. 13 2025. [code](https://matthewyryang.com/e3/).
 - [FormulaOne: Measuring the depth of algorithmic reasoning beyond competitive programming](https://www.alphaxiv.org/pdf/2507.13337), Jul. 17 2025.
+- [Open-Reasoner-Zero: An open source approach on scaling up reinforcement learning on the base model](https://arxiv.org/pdf/2503.24290), Jul. 5 2025. [code](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero).
+- [Efficient hierarchical reasoning in LLMs through reinforcement learning](https://arxiv.org/pdf/2509.03646), Sep. 3 2025.
+- [A comprehensive survey on trutworthiness in reasoning with large language models](https://arxiv.org/pdf/2509.03871), Sep. 4 2025. [code](https://github.com/ybwang119/Awesome-reasoning-safety).
+- [RL's razor: Why online reinforcement learning forgets less](https://arxiv.org/pdf/2509.04259), Sep. 4 2025.
 
 #### Reasoning for VLMs
 
@@ -215,5 +219,6 @@
 - [Theoretical modeling of LLM self-improvement training dynaics through solver-verifier gap](https://arxiv.org/pdf/2507.00075), Jun. 29 2025.
 - [A theory of inference compute scaling: Reasoning through directed stochastic skill search](https://arxiv.org/pdf/2507.00004), Jun. 10 2025.
 - [The serial scaling hypothesis](https://arxiv.org/abs/2507.12549), Jul. 16 2025. [tweet](https://x.com/layer07_yuxi/status/1947473214898377108).
+- [CoT-Space: A theoretical framework for internal slow-thinking via reinforcement learning](https://arxiv.org/pdf/2509.04027), Sep. 4 2025.
 
 
