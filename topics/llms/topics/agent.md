@@ -63,7 +63,6 @@
 - [Optimas: Optimizing compound AI systems with globally aligned local rewards](https://arxiv.org/pdf/2507.03041), Jul. 9 2025. [code](https://github.com/snap-stanford/optimas).
 - [Text2Grad: Reinforcement learning from natural language feedback](https://arxiv.org/pdf/2505.22338), May 28 2025.
 - [OpenPipe & LangGraph integration](https://art.openpipe.ai/integrations/langgraph-integration), Aug. 2025.
-- [AFlow: Automating agentic workflow generation](https://arxiv.org/pdf/2410.10762), Apr. 15 2025. [code](https://github.com/FoundationAgents/AFlow).
 
 #### Open-endedness
 
