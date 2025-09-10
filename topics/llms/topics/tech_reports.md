@@ -11,6 +11,7 @@
 - [LongCat-Flash technical report](https://t.co/QGZbEMOMLl), Aug. 31 2025.
 - [Apertus tech report](https://github.com/swiss-ai/apertus-tech-report/tree/main), Sep. 1 2025.
 - [SmolLM2: When smol goes big - Data-centric training of a fully open small language model](https://openreview.net/pdf?id=3JiCl2A14H), COLM 2025. [code](https://openreview.net/pdf?id=3JiCl2A14H).
+- [K2-Think: A parameter-efficient reasoning system](https://k2think-about.pages.dev/assets/tech-report/K2-Think_Tech-Report.pdf), Sep. 9 2025.
 
 **Baichuan**
 - [Baichuan-M1: Pushing the medical capability of large language models](https://arxiv.org/pdf/2502.12671), Mar. 5 2025. [code](https://github.com/baichuan-inc/Baichuan-M1-14B).
