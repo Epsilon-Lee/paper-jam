@@ -45,6 +45,7 @@
   - _"performing gradient updates on a much smaller model (Qwen2.5-3B) trained with RL outperforms prompting a much larger model (Claude-3.5-Sonnet) with agent scaffolds, by an average of 22% across 12 Kaggle tasks."_ 
 - [The landscape of agentic reinforcement learning for LLMs: A survey](https://arxiv.org/pdf/2509.02547), Sep. 2 2025.
 - [Learning when to plan: Efficiently allocating test-time compute for LLM agents](https://arxiv.org/pdf/2509.03581), Sep. 3 2025.
+- [An AI system to help scientists write expert-level empirical software](https://arxiv.org/pdf/2509.06503), Sep. 8 2025.
 
 #### Memory modeling
 
