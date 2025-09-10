@@ -64,6 +64,7 @@
 - [Optimas: Optimizing compound AI systems with globally aligned local rewards](https://arxiv.org/pdf/2507.03041), Jul. 9 2025. [code](https://github.com/snap-stanford/optimas).
 - [Text2Grad: Reinforcement learning from natural language feedback](https://arxiv.org/pdf/2505.22338), May 28 2025.
 - [OpenPipe & LangGraph integration](https://art.openpipe.ai/integrations/langgraph-integration), Aug. 2025.
+- [Maestro: Joint graph and config optimization for reliable ai agents](https://arxiv.org/pdf/2509.04642), Sep. 4 2025.
 
 #### Open-endedness
 
