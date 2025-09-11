@@ -113,6 +113,14 @@
 - [Embedded Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence](https://arxiv.org/pdf/2506.15677), Jun. 20 2025. [project](https://embodied-web-agent.github.io/).
 - [Beyond browsing: API-based web agents](https://arxiv.org/pdf/2410.16464), Jun. 16 2025. [code](https://github.com/yueqis/API-Based-Agent).
 - [Open data synthesis for deep research](https://arxiv.org/pdf/2509.00375), Aug. 30 2025. [code](https://github.com/VectorSpaceLab/InfoSeek).
+- [SFR-DeepResearch: Towards effective reinforcement learning for autonomously reasoning single agents](https://arxiv.org/pdf/2509.06283), Sep. 9 2025.
+  - _"using a minimal set of tools: a web search tool, a web crawling tool, and a Python interpreter"_
+  - _"While some prior work has suggested to begin agentic training from instruction-tuned (SFT) or base (pre-SFT) models with cold-start instruction-tuning and RL, we focus on conitnual RL training on reasoning-optimized models to further improve agentic capabilities while also preserving their strong reasoning ability."_
+- [WebExplorer: Explore and evolve for training long-horizon web agents](https://arxiv.org/pdf/2509.06501), Sep. 8 2025. [code](https://github.com/hkust-nlp/WebExplorer).
+  - Prof. Alex Dimakis comment that "More evidence that prompt driven, graph-based agents are not going to take us very far, we need SFT+RL".
+  - _"existing open-source web agents either demonstrate limited information-seeking abilities on complex tasks or lack transparent implementations"_ 
+  - _"we identify that the key challenge lies in the scarcity of challenging data for information seeking [...] we introduce WebExplorer: a systematic data generation approach using model-based exploration and iterative, long-to-short query evolution. This method creates challenging query-answer pairs that require multi-step reasoning and complex web navigation"_
+  - _"Our model supports 128K context length and up to 100 tool calling turns, enabling long-horizon problem solving"_
 
 **toolkits**
 - [verl-tool](https://deepwiki.com/TIGER-AI-Lab/verl-tool).
