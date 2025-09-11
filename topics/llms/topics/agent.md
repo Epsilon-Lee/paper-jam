@@ -121,6 +121,7 @@
   - _"existing open-source web agents either demonstrate limited information-seeking abilities on complex tasks or lack transparent implementations"_ 
   - _"we identify that the key challenge lies in the scarcity of challenging data for information seeking [...] we introduce WebExplorer: a systematic data generation approach using model-based exploration and iterative, long-to-short query evolution. This method creates challenging query-answer pairs that require multi-step reasoning and complex web navigation"_
   - _"Our model supports 128K context length and up to 100 tool calling turns, enabling long-horizon problem solving"_
+- [How to train your LLM web agent: A statistical diagnosis](https://arxiv.org/pdf/2507.04103), Jul. 5 2025.
 
 **toolkits**
 - [verl-tool](https://deepwiki.com/TIGER-AI-Lab/verl-tool).
