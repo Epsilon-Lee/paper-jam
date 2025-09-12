@@ -54,5 +54,6 @@
 - [RefineX: Learning to refine pre-training data at scale from expert-guided programs](https://arxiv.org/pdf/2507.03253), Jul. 4 2025.
 - [Scaling laws for optimal data mixtures](https://arxiv.org/abs/2507.09404), Jul. 12 2025.
 - [BeyondWeb Lessions from scaling synthetic data fro trillion-scale pretraining](https://arxiv.org/pdf/2508.10975), Aug. 14 2025.
+- [Generative data refinement: Just ask for better data](https://arxiv.org/pdf/2509.08653v1), Sep. 10 2025.
 
 
