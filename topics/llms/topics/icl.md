@@ -4,6 +4,7 @@
 - [Out-of-distribution generalization via composition: A lens through induction heads in Transformers](https://arxiv.org/abs/2408.09503), Dec. 28 2024.
 - [ICLR: In-context learning of representations](https://arxiv.org/pdf/2501.00070), May 2 2025.
 - [In-context parameteric inference: Point or distribution estimators?](https://arxiv.org/pdf/2502.11617), Feb. 17 2025.
+- [Beyond examples: High-level automated reasoning paradigm in in-context learning via MCTS](https://arxiv.org/pdf/2411.18478), Jun. 2 2025. [code](https://github.com/jinyangwu/HiARICL).
 
 #### Empirical observation of icl
 
