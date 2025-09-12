@@ -1,5 +1,6 @@
 
 - [Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data?tab=readme-ov-file).
+- [Large language models for data annotation and synthesis: A survey](https://aclanthology.org/2024.emnlp-main.54.pdf), EMNLP 2024.
 - [DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining](https://arxiv.org/pdf/2305.10429), Nov. 21 2023.
 - [TinyGSM: achieving > 80% on GSM8k with small language models](https://arxiv.org/pdf/2312.09241), Dec. 14 2023.
 - [What makes good data for alignment? A comphrehensive study of automatic data selection in instruction tuning](https://arxiv.org/pdf/2312.15685), Apr. 16 2024.
