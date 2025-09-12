@@ -46,6 +46,8 @@
 - [The landscape of agentic reinforcement learning for LLMs: A survey](https://arxiv.org/pdf/2509.02547), Sep. 2 2025.
 - [Learning when to plan: Efficiently allocating test-time compute for LLM agents](https://arxiv.org/pdf/2509.03581), Sep. 3 2025.
 - [An AI system to help scientists write expert-level empirical software](https://arxiv.org/pdf/2509.06503), Sep. 8 2025.
+- [Beyond ten turns: Unlocking long-horizon agentic search with large-scale asynchronous RL](https://arxiv.org/abs/2508.07976), Aug. 11 2025.
+- [ExpeL: LLM agents are experiential learners](https://arxiv.org/pdf/2308.10144), Dec. 20 2024. [code](https://github.com/LeapLabTHU/ExpeL).
 
 #### Memory modeling
 
@@ -126,6 +128,7 @@
 **toolkits**
 - [verl-tool](https://deepwiki.com/TIGER-AI-Lab/verl-tool).
 - [agent-lightning](https://github.com/microsoft/agent-lightning).
+- [open_deep_research](https://github.com/langchain-ai/open_deep_research), langchain-ai.
 
 **evaluation**
 - [BrowseComp: A simple yet challenging benchmark for browsing agents](https://arxiv.org/pdf/2504.12516), Apr. 16 2025. [code](https://arxiv.org/pdf/2504.12516).
