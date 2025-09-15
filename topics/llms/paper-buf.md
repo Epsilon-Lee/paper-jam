@@ -19,6 +19,7 @@
 - [Prompting techniques](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/prompting.md).
 - [Evaluation](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/eval.md).
 - [In-context learning](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/icl.md).
+- [Model merging](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/model_merging.md).
 
 ### Buffered papers
 
@@ -84,7 +85,6 @@
 - [STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs](https://arxiv.org/pdf/2408.01803), Aug. 3 2024. `efficient llm`.
 - [Self-Taught Evaluators](https://arxiv.org/pdf/2408.02666), Aug. 8 2024. `self-eval`.
 - [A Survey of Mamba](https://arxiv.org/pdf/2408.01129), Aug. 2 2024.
-- [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/pdf/2408.07666), Aug. 14 2024.
 - [A Survey on Model MoErging: Recycling and Routing Among Specialized Experts for Collaborative Learning](https://arxiv.org/pdf/2408.07057), Aug. 13 2024.
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/pdf/2408.06292), Aug. 12 2024.
 - [Tree Attention: Topology-Aware Decoding for Long-Context Attention on GPU Clusters](https://arxiv.org/pdf/2408.04093), Aug. 9 2024.
@@ -148,7 +148,6 @@
 - [Amuro & Char: Analyzing the Relationship between Pre-Training and Fine-Tuning of Large Language Models](https://arxiv.org/abs/2408.06663), Aug. 13 2024.
 - [A Taxonomy for Data Contamination in Large Language Models](https://arxiv.org/abs/2407.08716), Jul. 11 2024.
 - [LLM Pruning and Distillation in Practice: The Minitron Approach](https://d1qx31qr3h6wln.cloudfront.net/publications/minitron_tech_report.pdf), Aug. 21 2024.
-- [Realistic evaluation of model merging for compositional generalization](https://arxiv.org/pdf/2409.18314), Sep. 26 2024.
 - [Transformer Memory as a Differentiable Search Index](https://proceedings.neurips.cc/paper_files/paper/2022/file/892840a6123b5ec99ebaab8be1530fba-Paper-Conference.pdf), NeurIPS 2022. [github](https://github.com/ArvinZhuang/DSI-transformers).
   - [DSI++: Updating Transformer Memory with New Documents](https://aclanthology.org/2023.emnlp-main.510.pdf), EMNLP 2023.
 - [Scaling proprioceptive-visual learning with heterogeneous pre-trained transformers](https://arxiv.org/pdf/2409.20537), Sep. 30 2024. `robotics foundation model`. NeurIPS 2024.
