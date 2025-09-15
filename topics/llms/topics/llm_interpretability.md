@@ -155,6 +155,7 @@
 - [SelfIE: Self-interpretation of large language model embeddings](https://arxiv.org/abs/2403.10949), Mar. 16 2024. [code](https://github.com/tonychenxyz/selfie).
 - [Self-interpretability: LLMs can describe complex internal processes that drive there dicision, and improve with training](https://arxiv.org/abs/2505.17120), May 21 2025. [code](https://github.com/dillonplunkett/self-interpretability).
 - [Language models are capable of metacognitive monitoring and control of their internal activations](https://arxiv.org/abs/2505.13763), May 19 2025.
+- [Aligning AI through internal understanding: The role of interpretability](https://arxiv.org/pdf/2509.08592), Sep. 10 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
@@ -206,6 +207,7 @@
 - [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/pdf/2407.15017), Dec. 24 2024.
 - [Interpretability in parameter space: Minimizing mechanistic description length with attribution-based parameter decomposition](https://arxiv.org/pdf/2501.14926), Jan. 29 2025. [code](https://github.com/ApolloResearch/apd).
 - [Position-aware automatic circuit discovery](https://arxiv.org/pdf/2502.04577), Feb. 7 2025. [code](https://github.com/technion-cs-nlp/PEAP).
+- [All for one： LLMs solve mental math at the last token with information transferred from other tokens](https://www.arxiv.org/pdf/2509.09650), Sep. 11 2025. [code](https://github.com/siddarth-pm/all-for-one).
 
 #### Auto-intepretation
 
