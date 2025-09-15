@@ -30,13 +30,6 @@ Three topics:
 
 ### Lottery ticket
 
-- [Input Space Mode Connectivity in Deep Neural Networks](https://arxiv.org/pdf/2409.05800), Sep. 9 2024.
-- [Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf), ICML 2020.
-- [Quantization vs pruning: Insights from the strong lottery ticket hypothesis](https://arxiv.org/pdf/2508.11020), Aug. 14 2025.
-- [Merging models on the fly without retraining: A sequential approach to scalable continual model merging](https://arxiv.org/pdf/2501.09522), Jan. 16 2025.
-- [Localize-and-Stitch: Efficient Model Merging via Sparse Task Arithmetic](https://arxiv.org/pdf/2408.13656), Aug. 24 2024.
-- [The Non-Local Model Merging Problem: Permutation Symmetries and Variance Collapse](https://arxiv.org/pdf/2410.12766), Oct. 16 2024. [code](https://github.com/ekanshs/tact-merge).
-
 ### Diffusion model and vision related
 
 - [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/pdf/2406.08929), Jun. 23 2024.
