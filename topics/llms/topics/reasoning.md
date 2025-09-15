@@ -204,6 +204,8 @@
 #### Reasoning for VLMs
 
 - [Vision-G1: Towards general vision language reasoning with multi-domain data curation](https://arxiv.org/pdf/2508.12680), Aug. 18 2025.
+- [OpenVLThinker: Complex vision-language reasoning via iteratiev SFT-RL cycles](https://arxiv.org/pdf/2503.17352), Jul. 22 2025. [code](https://github.com/yihedeng9/OpenVLThinker).
+- [VISCO: Benchmarking fine-grained critique and correction towards self-improvement in visual reasoning](https://arxiv.org/pdf/2412.02172), Mar. 18 2025. [code](https://github.com/PlusLabNLP/VISCO).
 
 #### RL algorithmic innovations
 
