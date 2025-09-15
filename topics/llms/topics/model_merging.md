@@ -8,5 +8,6 @@
 - [Quantization vs pruning: Insights from the strong lottery ticket hypothesis](https://arxiv.org/pdf/2508.11020), Aug. 14 2025.
 - [Localize-and-Stitch: Efficient Model Merging via Sparse Task Arithmetic](https://arxiv.org/pdf/2408.13656), Aug. 24 2024.
 - [The Non-Local Model Merging Problem: Permutation Symmetries and Variance Collapse](https://arxiv.org/pdf/2410.12766), Oct. 16 2024. [code](https://github.com/ekanshs/tact-merge).
+- [On task vectors and gradients](https://www.arxiv.org/pdf/2508.16082), Aug. 22 2025.
 
 
