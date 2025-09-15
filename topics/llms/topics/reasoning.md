@@ -201,6 +201,7 @@
 - [A comprehensive survey on trutworthiness in reasoning with large language models](https://arxiv.org/pdf/2509.03871), Sep. 4 2025. [code](https://github.com/ybwang119/Awesome-reasoning-safety).
 - [RL's razor: Why online reinforcement learning forgets less](https://arxiv.org/pdf/2509.04259), Sep. 4 2025.
 - [Quiet-STaR: Language models can teach themselves to think before speaking](https://arxiv.org/pdf/2403.09629?), COLM 2024.
+- [Emergent hierarchical reasoning in LLMs through reinforcement learning](https://arxiv.org/pdf/2509.03646), Sep. 3 2025.
 
 #### Reasoning for VLMs
 
