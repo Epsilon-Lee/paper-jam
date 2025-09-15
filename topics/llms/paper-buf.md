@@ -251,7 +251,6 @@
 - [Should we still pretrain encoders with masked language modeling](https://arxiv.org/pdf/2507.00994), Jul. 1 2025. [code](https://huggingface.co/MLMvsCLM).
 - [The landscape of memorization in LLMs: Mechanisms, measurement, and mitigation](https://arxiv.org/pdf/2507.05578), Jul. 8 2025.
 - [Generalized linear mode connectivity for transformers](https://arxiv.org/pdf/2506.22712), Jun. 28 2025.
-- [On task vectors and gradients](https://www.arxiv.org/pdf/2508.16082), Aug. 22 2025.
 - [Large language models enable few-shot clustering](https://arxiv.org/abs/2307.00524), Jul. 2 2023. [code](https://github.com/viswavi/few-shot-clustering).
 - [Competition and attraction improve model fusion](https://arxiv.org/pdf/2508.16204), Aug. 22 2025. [code](https://github.com/SakanaAI/natural_niches).
 - [DivMerge: A divergence-based model merging method for multi-tasking](https://arxiv.org/pdf/2509.02108), Sep. 11 2025.
