@@ -3,6 +3,7 @@
 - [Efficient toxic content detection by boostrapping and distilling large language models](https://arxiv.org/pdf/2312.08303), Dec. 13 2023.
 - [Model evaluation for extreme risks](https://arxiv.org/abs/2305.15324), May 24 2023.
 - [Are aligned neural networks adversarially aligned](https://arxiv.org/pdf/2306.15447), Jun. 2023.
+- [The ethics of advanced AI assistants](https://arxiv.org/pdf/2404.16244), Apr. 19 2024.
 - [Watching the Ai watchdogs: A fairness and robustness analysis of AI safety moderation classifiers](https://arxiv.org/pdf/2501.13302), Jan. 23 2025.
 - [Certified robustness under bounded Levenshtein distance](https://arxiv.org/pdf/2501.13676), Jan. 23 2025.
 - [Provably safeguarding a classifier from ood and adversarial samples: An extreme value theory approach](https://arxiv.org/pdf/2501.10202), Jan. 17 2025.
@@ -40,12 +41,15 @@
 - [An approach to technical AGI safety and security](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/evaluating-potential-cybersecurity-threats-of-advanced-ai/An_Approach_to_Technical_AGI_Safety_Apr_2025.pdf), Apr. 2025. Google DeepMind. [blogpost](https://deepmind.google/discover/blog/taking-a-responsible-path-to-agi/).
 - [Sorry-Bench: Systematically evaluating large language model safety refusal](https://arxiv.org/pdf/2406.14598), Mar. 1 2025.
 - [In which areas of technical AI safety could geopolitical rivals cooperate?](https://arxiv.org/pdf/2504.12914), Apr. 17 2025.
+- [Open problems in technical AI governance](https://arxiv.org/pdf/2407.14981), Apr. 16 2025.
 - [Model organisms for emergent misalignment](https://arxiv.org/pdf/2506.11613), Jun. 13 2025. [code](https://github.com/clarifying-EM/model-organisms-for-EM).
 - [Exploring the secondary risks of large language models](https://arxiv.org/pdf/2506.12382), Jun. 14 2025.
 - [SHADE-Arena: Evaluating sabotage and monitoring in LLM agents](https://assets.anthropic.com/m/4fb35becb0cd87e1/original/SHADE-Arena-Paper.pdf), 2025. `Anthropic`.
 - [LLM hypnosis: Exploiting user feedback for unauthorized knowledge injection to all users](https://arxiv.org/pdf/2507.02850), Jul. 3 2025.
 - [Why do some language models fake alignment while others don't?](https://arxiv.org/pdf/2506.18032), Jun. 22 2025.
   - _"only Claude 3 Opus's complilance gap is primarily and consistently explained by alignment faking, and that this alignment faking might be in part motivated by an intrinsic preference for self-preservation. In contrast, most models exhibit minimal alignment faking."_
+- [Deep ignorance: Filtering pretraining data builds tamper-resistant safeguards into open-weight LLMs](https://arxiv.org/pdf/2508.06601?), Aug. 8 2025. [code](https://huggingface.co/collections/EleutherAI/deep-ignorance-685441040d024a0fee593d68).
+- [Steering MoE LLMs via expert (de)activation](https://www.arxiv.org/pdf/2509.09660), Sep. 11 2025. [code](https://github.com/adobe-research/SteerMoE).
 
 #### Survey and definition
 
