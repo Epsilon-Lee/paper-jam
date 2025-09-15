@@ -102,6 +102,7 @@
   - _"SFT, being an off-policy approach similar to behavior cloning, often struggles with overfitting and poor out-of-domain generalization, especially in limited-data scenarios"_
   - [Text generation by learning from demonstrations](https://openreview.net/pdf?id=RovX-uQ1Hua), ICLR 2021. [code](https://github.com/yzpang/gold-off-policy-text-gen-iclr21).
   - [On the generalization of SFT: A reinforcement learning perspective with reward rectification](https://arxiv.org/pdf/2508.05629), Aug. 7 2025. [code](https://github.com/yongliang-wu/DFT).
+- [On-policy distillation of language models: Learning from self-generated mistakes](https://arxiv.org/pdf/2306.13649), Jun. 23 2023.
 
 ### Alignment, preference alignment, reward models
 
