@@ -152,6 +152,9 @@
 - [Reawaking knowledge: Anticipatory recovery from catastrophic interference via structured training](https://proceedings.neurips.cc/paper_files/paper/2024/file/9628b97f74cd8f83ad12b631378b81e2-Paper-Conference.pdf), NeurIPS 2024. [code](https://github.com/agentic-learning-ai-lab/anticipatory-recovery).
 - [ReIP: Faithful and efficient circuit discovery via relevance patching](https://arxiv.org/pdf/2508.21258), Aug. 28 2025. [code](https://github.com/FarnoushRJ/RelP).
   - _"for MLP outputs in GPT-2 Large, attribution patching achieves a Pearson correlation of 0.006, whereas ReIP reaches 0.956"_
+- [SelfIE: Self-interpretation of large language model embeddings](https://arxiv.org/abs/2403.10949), Mar. 16 2024. [code](https://github.com/tonychenxyz/selfie).
+- [Self-interpretability: LLMs can describe complex internal processes that drive there dicision, and improve with training](https://arxiv.org/abs/2505.17120), May 21 2025. [code](https://github.com/dillonplunkett/self-interpretability).
+- [Language models are capable of metacognitive monitoring and control of their internal activations](https://arxiv.org/abs/2505.13763), May 19 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
