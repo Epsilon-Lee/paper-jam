@@ -13,5 +13,6 @@
 - [Language models prefer what they know: Relative confidence estimation via confidence preferences](https://arxiv.org/pdf/2502.01126), Feb. 3 2025.
 - [Extending epistemic uncertainty beyond parameters would assit in designing reliable LLMs](https://arxiv.org/pdf/2506.07448?), Jun. 9 2025.
 - [Do large language models know how much they know?](https://arxiv.org/pdf/2502.19573), Feb. 26 2025.
+- [Variational uncertainty decomposition for in-context learning](https://arxiv.org/pdf/2509.02327), Sep. 3 2025. [code](https://github.com/jacobyhsi/VUD).
 
 
