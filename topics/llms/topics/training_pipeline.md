@@ -194,6 +194,8 @@
   - [ActiveDPO: Active direct preference optimization for sample-efficient alignment](https://openreview.net/pdf?id=1OJONb9MZM), ICML workshop 2025.
   - [Comparison-based active preference learning for multi-dimensional personalization](https://aclanthology.org/2025.acl-long.1590.pdf), 2025. [code](https://github.com/ml-postech/AMPLe).
 - [Data-centric human preference with rationales for direct preference alignment](https://openreview.net/pdf?id=LH2ZKviJoI), COLM 2025.
+- [Test-time warmup for multimodal large language models](https://arxiv.org/pdf/2509.10641), Sep. 12 2025.
+  - _"Each prompt represents a unique auxiliary task because the prompts are designed to elicit different kinds of information in the image from the MLLM. These auxiliary tasks are not specific to any downstream target task and they aim to refine the target image's representations in the MLLM."_
 
 ### Post-training for bert
 
