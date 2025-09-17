@@ -35,6 +35,10 @@
 - [Chaning answer order can decrease MMLU accuracy](https://arxiv.org/pdf/2406.19470), Nov. 11 2024.
 - [SpecEval: Evaluating model adherence to behavior specifications](https://arxiv.org/pdf/2509.02464), Sep. 2 2025. [code](https://github.com/ahmeda14960/specevaldataset).
 - [Fluid language model benchmarking](https://openreview.net/pdf?id=mxcCg9YRqj), COLM 2025. [code](https://github.com/allenai/fluid-benchmarking).
+- [Rethinking human preference evaluation of LLM rationales](https://arxiv.org/abs/2509.11026), Sep. 14 2025.
+  - How to evaluate LLM-generated explanations of their own reasoning traces?
+- [Evalet: Evaluating large language models by fragmenting outputs into functions](https://arxiv.org/abs/2509.11206), Sep. 14 2025.
+  - _"a novel LLM-based evaluation method that dissects each output into key fragments and interprets the functions of each fragment, where each fragment may serve multiple functions. With functions, we refer to the rhetorical roles or purposes that text fragments serve that are relevant to a given evaluation criterion."_
 
 #### Data contamination
 
