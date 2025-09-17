@@ -67,6 +67,7 @@
 - [Text2Grad: Reinforcement learning from natural language feedback](https://arxiv.org/pdf/2505.22338), May 28 2025.
 - [OpenPipe & LangGraph integration](https://art.openpipe.ai/integrations/langgraph-integration), Aug. 2025.
 - [Maestro: Joint graph and config optimization for reliable ai agents](https://arxiv.org/pdf/2509.04642), Sep. 4 2025.
+- [MALLM: Multi-agent large language models framework](https://arxiv.org/abs/2509.11656), Sep. 15 2025. [code](https://github.com/Multi-Agent-LLMs/mallm).
 
 #### Open-endedness
 
@@ -109,6 +110,7 @@
 - [UI-TARS: Pioneering automated GUI interaction with native agents](https://arxiv.org/abs/2501.12326), Jan. 21 2025. [code](https://github.com/bytedance/UI-TARS?tab=readme-ov-file).
 - [ComputerRL: Scaling end-to-end online reinforcement learning for computer use agents](https://arxiv.org/pdf/2508.14040), Aug. 19 2025.
 - [UI-TARS-2 technical report: Advancing GUI agent with multi-turn reinforcement learning](https://arxiv.org/pdf/2509.02544), Sep. 2 2025. [code](https://github.com/bytedance/UI-TARS-desktop).
+- [UI-S1: Advancing GUI automation via semi-online reinforcement learning](https://arxiv.org/abs/2509.11543), Sep. 15 2025. [code](https://github.com/X-PLUG/MobileAgent/tree/main/UI-S1).
 
 #### Web agent
 
