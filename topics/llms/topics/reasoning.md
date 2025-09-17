@@ -202,6 +202,10 @@
 - [RL's razor: Why online reinforcement learning forgets less](https://arxiv.org/pdf/2509.04259), Sep. 4 2025.
 - [Quiet-STaR: Language models can teach themselves to think before speaking](https://arxiv.org/pdf/2403.09629?), COLM 2024.
 - [Emergent hierarchical reasoning in LLMs through reinforcement learning](https://arxiv.org/pdf/2509.03646), Sep. 3 2025.
+- [Trading-R1: Financial trading with LLM reasoning via reinforcement learning](https://arxiv.org/abs/2509.11420), Sep. 14 2025. [code](https://arxiv.org/abs/2509.11420).
+  - How to develop a domain-specific reasoning LLMs?
+  - _"Trading-R1 aligns reasoning with trading principles through supervised fine-tuning and reinforcement learning with a three-stage easy-to-hard curriculum"_
+  - _"Training uses Tauric-TR1-DB, a 100K-sample corpus spanning 18 months, 14 equities, and five heterogeneous financial data sources"_
 
 #### Reasoning for VLMs
 
