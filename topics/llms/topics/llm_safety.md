@@ -50,6 +50,8 @@
   - _"only Claude 3 Opus's complilance gap is primarily and consistently explained by alignment faking, and that this alignment faking might be in part motivated by an intrinsic preference for self-preservation. In contrast, most models exhibit minimal alignment faking."_
 - [Deep ignorance: Filtering pretraining data builds tamper-resistant safeguards into open-weight LLMs](https://arxiv.org/pdf/2508.06601?), Aug. 8 2025. [code](https://huggingface.co/collections/EleutherAI/deep-ignorance-685441040d024a0fee593d68).
 - [Steering MoE LLMs via expert (de)activation](https://www.arxiv.org/pdf/2509.09660), Sep. 11 2025. [code](https://github.com/adobe-research/SteerMoE).
+- [DynaGuard: A dynamic guardrail model with user-defined policies](https://arxiv.org/pdf/2509.02563), Sep. 2 2025. [code](https://github.com/montehoover/DynaGuard).
+  - _"Our dynamic guardian models can be used for fast detection of policy violations or with chain-of-thought reasoning that articulates and justifies the model outputs"_
 
 #### Survey and definition
 
