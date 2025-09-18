@@ -197,6 +197,7 @@
 - [Test-time warmup for multimodal large language models](https://arxiv.org/pdf/2509.10641), Sep. 12 2025.
   - _"Each prompt represents a unique auxiliary task because the prompts are designed to elicit different kinds of information in the image from the MLLM. These auxiliary tasks are not specific to any downstream target task and they aim to refine the target image's representations in the MLLM."_
 - [Opal: An operator algebra view of RLHF](https://arxiv.org/pdf/2509.11298), Sep. 14 2025. [code](https://github.com/krimler/opal-gkpo).
+- [Single-stream policy optimization](https://arxiv.org/abs/2509.13232), Sep. 16 2025.
 
 ### Post-training for bert
 
