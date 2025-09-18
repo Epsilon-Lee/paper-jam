@@ -158,6 +158,8 @@
 - [Aligning AI through internal understanding: The role of interpretability](https://arxiv.org/pdf/2509.08592), Sep. 10 2025.
 - [The origins of representation manifolds in large language models](https://arxiv.org/pdf/2505.18235), May 23 2025.
 - [Interpreting the linear structure of vision-language model embedding spaces](https://arxiv.org/pdf/2504.11695), Aug. 20 2025. [code](https://github.com/KempnerInstitute/overcomplete).
+- [Adversarial examples are not bugs, they are superposition](https://arxiv.org/pdf/2508.17456), Sep. 13 2025.
+- [Language models' activations linearly encode training-order recency](https://arxiv.org/pdf/2509.14223), Sep. 17 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
