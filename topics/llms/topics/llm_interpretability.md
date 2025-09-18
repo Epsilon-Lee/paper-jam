@@ -156,6 +156,8 @@
 - [Self-interpretability: LLMs can describe complex internal processes that drive there dicision, and improve with training](https://arxiv.org/abs/2505.17120), May 21 2025. [code](https://github.com/dillonplunkett/self-interpretability).
 - [Language models are capable of metacognitive monitoring and control of their internal activations](https://arxiv.org/abs/2505.13763), May 19 2025.
 - [Aligning AI through internal understanding: The role of interpretability](https://arxiv.org/pdf/2509.08592), Sep. 10 2025.
+- [The origins of representation manifolds in large language models](https://arxiv.org/pdf/2505.18235), May 23 2025.
+- [Interpreting the linear structure of vision-language model embedding spaces](https://arxiv.org/pdf/2504.11695), Aug. 20 2025. [code](https://github.com/KempnerInstitute/overcomplete).
 
 #### Sparse autoencoders, dictionary learning and beyond
 
