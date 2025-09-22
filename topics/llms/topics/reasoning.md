@@ -211,6 +211,7 @@
 - [DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-025-09422-z/MediaObjects/41586_2025_9422_MOESM1_ESM.pdf), 2025. `appendix`/
 - [Beyond ten turns: Unlocking long-horizon abentic search with large-scale asychronous RL](https://arxiv.org/abs/2508.07976), Aug. 11 2025.
 - [RAST: Reasoning activation in LLMs via small-model transfer](https://arxiv.org/pdf/2506.15710), May 30 2025. [code](https://github.com/ozyyshr/RAST/).
+- [Reasoning gym: Reasoning environments for reinforcement learning with verifiable rewards](https://arxiv.org/pdf/2505.24760), May 30 2025. [code](https://arxiv.org/pdf/2505.24760).
 
 #### Reasoning for VLMs
 
@@ -233,5 +234,6 @@
 - [A theory of inference compute scaling: Reasoning through directed stochastic skill search](https://arxiv.org/pdf/2507.00004), Jun. 10 2025.
 - [The serial scaling hypothesis](https://arxiv.org/abs/2507.12549), Jul. 16 2025. [tweet](https://x.com/layer07_yuxi/status/1947473214898377108).
 - [CoT-Space: A theoretical framework for internal slow-thinking via reinforcement learning](https://arxiv.org/pdf/2509.04027), Sep. 4 2025.
+- [Understanding the thinking process of reasoning models: A perspective from Schoenfeld's Episode Theory](https://arxiv.org/pdf/2509.14662), Sep. 18 2025. [code](https://github.com/MingLiiii/Schoenfeld_Reasoning).
 
 
