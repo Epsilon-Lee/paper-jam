@@ -271,23 +271,4 @@
 - [Benign or Not-Benign Overfitting in Token Selection of Attention Mechanism](https://arxiv.org/pdf/2409.17625), Sep. 26 2024.
 - [Implicit Bias of Next-Token Prediction](https://arxiv.org/pdf/2402.18551), Feb. 28 2024.
 
-#### Theory of icl and prompting
-
-- [One-layer transformers fail to solve the induction heads task](https://arxiv.org/pdf/2408.14332), Aug. 26 2024.
-- [Unveiling the Statistical Foundations of Chain-of-Thought Prompting Methods](https://arxiv.org/pdf/2408.14511), Aug. 25 2024.
-- [In-Context Learning with Representations: Contextual Generalization of Trained Transformers](https://arxiv.org/pdf/2408.10147), Aug. 19 2024.
-- [A Mechanism for Sample-Efficient In-Context Learning for Sparse Retrieval Tasks](https://proceedings.mlr.press/v237/abernethy24a/abernethy24a.pdf), alt 2024.
-- [Unveiling Induction Heads: Provable Training Dynamics and Feature Learning in Transformers](https://arxiv.org/pdf/2409.17357), Sep. 25 2024.
-- [Transformers as Algorithms: Generalization and Stability in In-context Learning](https://proceedings.mlr.press/v202/li23l/li23l.pdf), ICML 2023.
-- [ALPINE: Unveiling the Planning Capability of Autoregressive Learning in Language Models](https://arxiv.org/pdf/2405.09220). May 27 2024.
-- [Can in-context learning really generalize to out-of-distribution tasks?](https://arxiv.org/pdf/2410.09695), Oct. 13 2024.
-- [Towards the effect of examples on in-context learning: A theoretical case study](https://arxiv.org/pdf/2410.09411), Oct. 12 2024.
-- [Inference and Verbalization Functions During In-Context Learning](https://arxiv.org/pdf/2410.09349), Oct. 12 2024. [code](https://github.com/JunyiTao/infer-then-verbalize-during-icl).
-- [How Transformers Implement Induction Heads: Approximation and Optimization Analysis](https://arxiv.org/pdf/2410.11474), Oct. 16 2024.
-- [Context-scaling versus task-scaling in in-context learning](https://arxiv.org/pdf/2410.12783), Oct. 16 2024.
-- [A theory of emergent in-context learning as implicit structure induction](https://arxiv.org/pdf/2303.07971), Mar. 14 2024.
-- [Can generative ai solve your in-context learning problem? A martingale perspective](https://arxiv.org/pdf/2412.06033), Dec. 8 2024.
-- [The dual-route model of induction](https://arxiv.org/pdf/2504.03022), Apr. 3 2025. [code](https://dualroute.baulab.info/).
-- [Multi-head transformeres provably learn symbolic multi-step reasoning via gradient descent](https://arxiv.org/pdf/2508.08222), Aug. 11 2025.
-- [Induction heads as an essential mechanism for pattern matching in in-context learning](https://arxiv.org/pdf/2407.07011), Apr. 2025. [code](https://arxiv.org/pdf/2407.07011).
 
