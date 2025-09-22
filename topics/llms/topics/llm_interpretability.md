@@ -161,6 +161,7 @@
 - [Adversarial examples are not bugs, they are superposition](https://arxiv.org/pdf/2508.17456), Sep. 13 2025.
 - [Language models' activations linearly encode training-order recency](https://arxiv.org/pdf/2509.14223), Sep. 17 2025.
 - [Memorization sinks: Isolating memorization during LLM training](https://arxiv.org/pdf/2507.09937), Sep. 15 2025. [code](https://arxiv.org/pdf/2507.09937).
+- [The non-linear representation dilemma: Is causal abstraction enough for mechanistic interpretability?](https://arxiv.org/pdf/2507.08802), Jul. 11 2025. [code](https://github.com/densutter/non-linear-representation-dilemma).
 
 #### Sparse autoencoders, dictionary learning and beyond
 
