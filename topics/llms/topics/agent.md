@@ -112,6 +112,7 @@
 - [ComputerRL: Scaling end-to-end online reinforcement learning for computer use agents](https://arxiv.org/pdf/2508.14040), Aug. 19 2025.
 - [UI-TARS-2 technical report: Advancing GUI agent with multi-turn reinforcement learning](https://arxiv.org/pdf/2509.02544), Sep. 2 2025. [code](https://github.com/bytedance/UI-TARS-desktop).
 - [UI-S1: Advancing GUI automation via semi-online reinforcement learning](https://arxiv.org/abs/2509.11543), Sep. 15 2025. [code](https://github.com/X-PLUG/MobileAgent/tree/main/UI-S1).
+- [Greating general user models from computer use](https://arxiv.org/pdf/2505.10831), May 19 2025. [code](https://generalusermodels.github.io/).
 
 #### Web agent
 
