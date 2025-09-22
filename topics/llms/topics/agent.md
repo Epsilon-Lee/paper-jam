@@ -101,6 +101,7 @@
 - [MCP-Universe: Benchmarking large language models with real-world model context protocal servers](https://arxiv.org/pdf/2508.14704), Aug. 20 2025. [code](https://github.com/SalesforceAIResearch/MCP-Universe).
 - [Understanding tool-integrated reasoning](https://arxiv.org/pdf/2508.19201), Aug. 26 2025.
 - [Provable benefits of in-tool learning for large language models](https://arxiv.org/pdf/2508.20755), Aug. 28 2025.
+- [Synthetic data generation & multi-step $L for reasoning & tool use](https://openreview.net/pdf?id=oN9STRYQVa), COLM 2025.
 
 #### GUI and computer use agent
 
