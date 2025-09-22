@@ -206,6 +206,11 @@
   - How to develop a domain-specific reasoning LLMs?
   - _"Trading-R1 aligns reasoning with trading principles through supervised fine-tuning and reinforcement learning with a three-stage easy-to-hard curriculum"_
   - _"Training uses Tauric-TR1-DB, a 100K-sample corpus spanning 18 months, 14 equities, and five heterogeneous financial data sources"_
+- [Recursive inference scaling: A winning path to scalable inference in language and multimodal systems](https://arxiv.org/pdf/2502.07503), May 8 2025.
+- [Metacognitive reuse: Turning recurring LLM reasoning into concise behaviors](https://arxiv.org/pdf/2509.13237), Sep. 16 2025.
+- [DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-025-09422-z/MediaObjects/41586_2025_9422_MOESM1_ESM.pdf), 2025. `appendix`/
+- [Beyond ten turns: Unlocking long-horizon abentic search with large-scale asychronous RL](https://arxiv.org/abs/2508.07976), Aug. 11 2025.
+- [RAST: Reasoning activation in LLMs via small-model transfer](https://arxiv.org/pdf/2506.15710), May 30 2025. [code](https://github.com/ozyyshr/RAST/).
 
 #### Reasoning for VLMs
 
