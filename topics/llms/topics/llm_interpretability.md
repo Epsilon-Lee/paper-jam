@@ -162,6 +162,8 @@
 - [Language models' activations linearly encode training-order recency](https://arxiv.org/pdf/2509.14223), Sep. 17 2025.
 - [Memorization sinks: Isolating memorization during LLM training](https://arxiv.org/pdf/2507.09937), Sep. 15 2025. [code](https://arxiv.org/pdf/2507.09937).
 - [The non-linear representation dilemma: Is causal abstraction enough for mechanistic interpretability?](https://arxiv.org/pdf/2507.08802), Jul. 11 2025. [code](https://github.com/densutter/non-linear-representation-dilemma).
+- [Crosscoding through time: Tracking emergence & consolidation of linguistic representations throughout LLM pretraining](https://arxiv.org/pdf/2509.05291), Sep. 5 2025. [code](https://github.com/bayazitdeniz/crosscoding-through-time).
+- [Delta activations: A representation for finetuned large language models](https://arxiv.org/pdf/2509.04442), Sep. 4 2025. [code](https://github.com/OscarXZQ/delta_activations).
 
 #### Sparse autoencoders, dictionary learning and beyond
 
