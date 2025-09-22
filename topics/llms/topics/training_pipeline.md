@@ -200,6 +200,7 @@
 - [Opal: An operator algebra view of RLHF](https://arxiv.org/pdf/2509.11298), Sep. 14 2025. [code](https://github.com/krimler/opal-gkpo).
 - [Single-stream policy optimization](https://arxiv.org/abs/2509.13232), Sep. 16 2025.
 - [Scaling laws for scalable oversight](https://arxiv.org/pdf/2504.18530), May 9 2025.
+- [Towards a unified view of large language model post-training](https://arxiv.org/pdf/2509.04419), Sep. 4 2025.
 
 ### Post-training for bert
 
