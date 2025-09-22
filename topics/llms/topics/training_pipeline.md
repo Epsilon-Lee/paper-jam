@@ -18,6 +18,7 @@
 - [ASGO: Adaptive structured gradient optimization](https://arxiv.org/pdf/2503.20762), Mar. 26 2025.
 - [Understanding the learning dynamics of LoRA: A gradient flow perspective on low-rank adaptation in matrix factorization](https://arxiv.org/pdf/2503.06982), Mar. 10 2025.
 - [Dion: Distributed Orthonormalized Updates](https://arxiv.org/pdf/2504.05295), May 21 2025. [code](https://github.com/microsoft/dion).
+- [Fantastic pretraining optimizers and where to find them](https://arxiv.org/pdf/2509.02046), Sep. 4 2025. [code]().
 
 ### Pre-training
 
@@ -198,6 +199,7 @@
   - _"Each prompt represents a unique auxiliary task because the prompts are designed to elicit different kinds of information in the image from the MLLM. These auxiliary tasks are not specific to any downstream target task and they aim to refine the target image's representations in the MLLM."_
 - [Opal: An operator algebra view of RLHF](https://arxiv.org/pdf/2509.11298), Sep. 14 2025. [code](https://github.com/krimler/opal-gkpo).
 - [Single-stream policy optimization](https://arxiv.org/abs/2509.13232), Sep. 16 2025.
+- [Scaling laws for scalable oversight](https://arxiv.org/pdf/2504.18530), May 9 2025.
 
 ### Post-training for bert
 
