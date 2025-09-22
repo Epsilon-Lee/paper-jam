@@ -128,4 +128,9 @@
 - [Med42-v2: A suite of clinical LLMs](https://arxiv.org/pdf/2408.06142), Aug. 12 2024.
 - [MedGemma technical report](https://arxiv.org/pdf/2507.05201), Jul. 7 2025.
 
+### Audio LLMs
+
+- [MiMo-Audio](https://xiaomimimo.github.io/MiMo-Audio-Demo/). [paper](https://github.com/XiaomiMiMo/MiMo-Audio/blob/main/MiMo-Audio-Technical-Report.pdf). Sep. 2025.
+- [VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning](https://github.com/OpenBMB/VoxCPM), Sep. 2025.
+
 
