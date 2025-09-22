@@ -2,6 +2,7 @@
 ### LLM as a judge
 
 - [Judging llm-as-a-judge with mt-bench and chatbot](https://arxiv.org/abs/2306.05685), Jun. 9 2023.
+- [Benchmarking cognitive biases in large language models as evaluators](https://arxiv.org/pdf/2309.17012), Sep. 25 2024. [code](https://github.com/minnesotanlp/cobbler).
 - [Preference leakage: A contamination problem in LLM-as-a-judge](https://arxiv.org/pdf/2502.01534), Feb. 3 2025.
 - [Investigating non-transitivity in LLM-as-a-judge](https://arxiv.org/pdf/2502.14074), Feb. 19 2025.
 - [Crowd comparative reasoning: Unlocking comprehensive evaluation for LLM-as-a-judge](https://arxiv.org/pdf/2502.12501), Feb. 18 2025.
@@ -23,6 +24,9 @@
 - [Feedback friction: LLMs struggle to fully incorporate external feedback](https://arxiv.org/pdf/2506.11930), Jun. 13 2025.
 - [Bridging human and LLM judgements: Understanding and narrowing the gap](https://arxiv.org/pdf/2508.12792), Aug. 18 2025.
 - [Justice or prejudice? Quantifying biases in LLM-as-a-Judge](https://arxiv.org/pdf/2410.02736), Oct. 4 2024. [code](https://github.com/llm-judge-bias/llm-judge-bias.github.io/).
+- [Reverse engineering human preferences with reinforcement learning](https://arxiv.org/abs/2505.15795), May 21 2025. `LLM-as-a-judge`.
+- [No free labels: Limitations of LLM-as-a-judge without human grounding](https://arxiv.org/pdf/2503.05061), Mar. 7 2025. [data](https://huggingface.co/collections/kensho/no-free-labels-67ca139c3943728b3be887a6).
+- [Large language models are inconsistent and biased evaluators](https://arxiv.org/pdf/2405.01724), May 2 2024.
 
 #### Self-critique, self-verification
 
@@ -31,6 +35,7 @@
 - [Teaching language models to support answers with verified quotes](https://arxiv.org/pdf/2203.11147), Mar. 21 2022.
 - [Enabling large language models to generate text with citations](https://arxiv.org/pdf/2305.14627), Oct. 31 2023. [code](https://github.com/princeton-nlp/ALCE).
 - [Chain-of-verification reduces hallucination in large language models](https://arxiv.org/pdf/2309.11495), Sep. 25 2023.
+- [Self iterative label refinement via robust unlabeled learning](https://arxiv.org/pdf/2502.12565), Feb. 18 2025.
 
 #### Survey papers
 
@@ -57,5 +62,17 @@
 - [Multi-agent consensus seeking via large language models](https://arxiv.org/pdf/2310.20151), Jan. 21 2025.
 - [Great models think alike and this undermines AI oversight](https://arxiv.org/pdf/2502.04313), Feb. 6 2025. [code](https://github.com/model-similarity/lm-similarity).
 - [AI debate aids assessment of controversial claims](https://arxiv.org/pdf/2506.02175), Jun. 2 2025. [code](https://github.com/salman-lui/ai-debate).
+
+### LLM-as-an-annotator
+
+- [Large language models as annotators: Enhancing generalization of NLP models at minimal cost](https://arxiv.org/pdf/2306.15766), Jun. 27 2023.
+- [LLMaAA: Making large language models as active annotators](https://arxiv.org/pdf/2310.19596), Oct. 31 2023. [code](https://github.com/ridiculouz/LLMAAA).
+- [Best practices for text annotation with large language models](https://arxiv.org/pdf/2402.05129), Feb. 2024.
+- [MEGAnno+: A human-LLM collaborative annotation system](https://arxiv.org/pdf/2402.18050), Feb. 28 2024. [code](https://github.com/megagonlabs/meganno-client).
+- [The effectiveness of LLMs as annotators: A comparative overview and empirical analysis of direct representation](https://aclanthology.org/2024.nlperspectives-1.11.pdf), 2024.
+- [The promises and pitfalls of LLM annotations in dataset labeling: A case study on media bias detection](https://aclanthology.org/2025.findings-naacl.75.pdf), NAACL 2025. [code](https://github.com/Media-Bias-Group/llm-annotations-annomatic).
+- [Can unconfident LLM annotations be used for confident conclusions?](https://arxiv.org/pdf/2408.15204), Feb. 8 2025. [code](https://github.com/kristinagligoric/confidence-driven-inference).
+- [Can reasoning help large language models capture human annotator disagreement?](https://arxiv.org/pdf/2506.19467), Aug. 4 2025. [code](https://github.com/EdisonNi-hku/Disagreement_Prediction).
+- [Large language model hacking: Quantifying the hidden risks of using LLMs for text annotation](https://arxiv.org/pdf/2509.08825), Sep. 10 2025.
 
 
