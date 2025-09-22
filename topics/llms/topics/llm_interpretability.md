@@ -260,6 +260,9 @@
 - [When do transformers outperform feedforward and recurrent networks? A statistical perspective](https://arxiv.org/pdf/2503.11272), Mar. 14 2025.
 - [Disentangling feature structure: A mathematical provable two-stage training dynamics in Transformers](https://arxiv.org/pdf/2502.20681), Feb. 28 2025. [code](https://github.com/zx-gong/Two-Stage-Dynamics).
 - [Quantitative clustering in mean-field transformer models](https://arxiv.org/pdf/2504.14697), Apr. 30 2025.
+- [Fast attention mechanisms: a tale of parallelism](https://arxiv.org/pdf/2509.09001), Sep. 10 2025.
+  - [Transformers, parallel computation, and logarithmic depth](https://arxiv.org/pdf/2402.09268), Feb. 14 2024.
+  - [Why do transformers outperform feedforward and recurrent networks? A statistcal perspective](https://arxiv.org/pdf/2503.11272), Mar. 14 2025.
 
 #### Theory of pre-training
 
