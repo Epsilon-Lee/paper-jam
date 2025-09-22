@@ -67,6 +67,10 @@
 - [AutoBencher: Towards declarative benchmark construction](https://openreview.net/pdf?id=ymt4crbbXh), ICLR 2025. [code](https://github.com/XiangLi1999/AutoBencher).
 - [UQ: Assessing language models on unsolved questions](https://arxiv.org/pdf/2508.17580), Aug. 25 2025.
 
+#### Evaluation for agents
+
+- [Why do multi-agent LLM systems fail?](https://arxiv.org/pdf/2503.13657), Apr. 22 2025. [code](https://github.com/multi-agent-systems-failure-taxonomy/MAST).
+
 #### Eval toolkit
 
 - [Foundation Model Evaluations Library](https://github.com/aws/fmeval), [paper](https://arxiv.org/pdf/2407.12872), Jul. 15 2024.
