@@ -118,5 +118,7 @@
 - [Hallucination, monofacts, and miscalibration: An empirical investigation](https://arxiv.org/pdf/2502.08666), Feb. 11 2025.
 - [The law of knowledge overshadowing: Towards understanding, predicting, and preventing LLM hallucination](https://arxiv.org/pdf/2502.16143), Feb. 22 2025.
 - [Safety alignment should be made more than just a few tokens deep](https://arxiv.org/pdf/2406.05946), Jun. 10 2024. [code](https://github.com/Unispac/shallow-vs-deep-alignment).
+- [From noise to narrative: Tracing the origins of hallucinations in Transformers](https://arxiv.org/pdf/2509.06938v1), Sep. 8 2025.
+- [Real-time detection of hallucination entities in long-form generation](https://arxiv.org/pdf/2509.03531), Aug. 26 2025.
 
 
