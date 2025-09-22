@@ -212,6 +212,7 @@
 - [Beyond ten turns: Unlocking long-horizon abentic search with large-scale asychronous RL](https://arxiv.org/abs/2508.07976), Aug. 11 2025.
 - [RAST: Reasoning activation in LLMs via small-model transfer](https://arxiv.org/pdf/2506.15710), May 30 2025. [code](https://github.com/ozyyshr/RAST/).
 - [Reasoning gym: Reasoning environments for reinforcement learning with verifiable rewards](https://arxiv.org/pdf/2505.24760), May 30 2025. [code](https://arxiv.org/pdf/2505.24760).
+- [The majority is not always right: RL training for solution aggregation](https://arxiv.org/pdf/2509.06870), Sep. 8 2025.
 
 #### Reasoning for VLMs
 
