@@ -39,6 +39,7 @@
   - How to evaluate LLM-generated explanations of their own reasoning traces?
 - [Evalet: Evaluating large language models by fragmenting outputs into functions](https://arxiv.org/abs/2509.11206), Sep. 14 2025.
   - _"a novel LLM-based evaluation method that dissects each output into key fragments and interprets the functions of each fragment, where each fragment may serve multiple functions. With functions, we refer to the rhetorical roles or purposes that text fragments serve that are relevant to a given evaluation criterion."_
+- [When three experiments are bettern than two: Avoiding intractable correlated aleatoric uncertainty by leveraging a novel bias-variance trade-off](https://arxiv.org/pdf/2509.04363), Sep. 4 2025.
 
 #### Data contamination
 
@@ -46,6 +47,7 @@
 - [Accuracy is not all you need](https://arxiv.org/pdf/2407.09141), Jul. 12 2024.
   - The paper dubs synthetic data from LLMs as generative teaching.
 - [The emperor's new clothes in benchmarking? A rigorous examination of mitigation strategies for LLM benchmark data contamination](https://arxiv.org/pdf/2503.16402), Mar. 20 2025. [code](https://github.com/ASTRAL-Group/BDC_mitigation_assessment).
+- [Beyond memorization: Reasoning-driven synthesis as a mitigation strategy against benchmark contamination](https://arxiv.org/pdf/2509.00072), Aug. 26 2025. [code](https://github.com/TerryJCZhang/BeyondMemorization).
 
 #### Benchmark
 
