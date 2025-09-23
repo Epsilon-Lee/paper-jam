@@ -15,5 +15,6 @@
 - [Do large language models know how much they know?](https://arxiv.org/pdf/2502.19573), Feb. 26 2025.
 - [Variational uncertainty decomposition for in-context learning](https://arxiv.org/pdf/2509.02327), Sep. 3 2025. [code](https://github.com/jacobyhsi/VUD).
 - [Estimating semantic alphabet size for LLM uncertainty quantification](https://arxiv.org/pdf/2509.14478), Sep. 17 2025.
+- [Quantifying uncertainty in natural language explanations of large language models for question answering](https://arxiv.org/pdf/2509.15403), Sep. 18 2025.
 
 
