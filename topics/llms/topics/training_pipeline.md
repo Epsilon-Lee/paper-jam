@@ -41,6 +41,7 @@
 - [Language models scale reliably with over-training and on downstream tasks](https://openreview.net/forum?id=iZeQBqJamf), ICLR 2025.
 - [Model merging in pre-training of large language models](https://arxiv.org/pdf/2505.12082), May 22 2025.
 - [Dataset decomposition: Faster LLM training with variable sequence length curriculum](https://proceedings.neurips.cc/paper_files/paper/2024/file/3f9bf45ea04c98ad7cb857f951f499e2-Paper-Conference.pdf), NeurIPS 2024. [code](https://github.com/apple/ml-dataset-decomposition).
+- [Synthetic bootstrapped pretraining](https://arxiv.org/pdf/2509.15248), Sep. 17 2025.
 
 ### Continual pre-training, or mid-training
 
