@@ -7,6 +7,7 @@
 - [Beyond examples: High-level automated reasoning paradigm in in-context learning via MCTS](https://arxiv.org/pdf/2411.18478), Jun. 2 2025. [code](https://github.com/jinyangwu/HiARICL).
 - [ParallelPrompt: Extracting parallelism from large language model queries](https://arxiv.org/pdf/2506.18728), Jun. 26 2025.
 - [Do different prompting methods yield a common task representation in language models?](https://arxiv.org/pdf/2505.12075), May 21 2025.
+- [Latent learning: episodic memory complements parametric learning by enabling flexible reuse of experiences](https://arxiv.org/pdf/2509.16189), Sep. 19 2025.
 
 #### Empirical observation of icl
 
