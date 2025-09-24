@@ -8,6 +8,8 @@
 - [ParallelPrompt: Extracting parallelism from large language model queries](https://arxiv.org/pdf/2506.18728), Jun. 26 2025.
 - [Do different prompting methods yield a common task representation in language models?](https://arxiv.org/pdf/2505.12075), May 21 2025.
 - [Latent learning: episodic memory complements parametric learning by enabling flexible reuse of experiences](https://arxiv.org/pdf/2509.16189), Sep. 19 2025.
+- [Is in-context learning learning?](https://arxiv.org/pdf/2509.10414), Sep. 15 2025.
+- [Is in-context learning sufficient for instruction following in LLMs?](https://arxiv.org/pdf/2405.19874), Apr. 18 2025. [code](https://github.com/tml-epfl/icl-alignment).
 
 #### Empirical observation of icl
 
