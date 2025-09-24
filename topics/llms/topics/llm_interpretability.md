@@ -165,6 +165,7 @@
 - [Crosscoding through time: Tracking emergence & consolidation of linguistic representations throughout LLM pretraining](https://arxiv.org/pdf/2509.05291), Sep. 5 2025. [code](https://github.com/bayazitdeniz/crosscoding-through-time).
 - [Delta activations: A representation for finetuned large language models](https://arxiv.org/pdf/2509.04442), Sep. 4 2025. [code](https://github.com/OscarXZQ/delta_activations).
 
+
 #### Sparse autoencoders, dictionary learning and beyond
 
 - [Sparse Autoencoders find highly interpretable features in language models](https://arxiv.org/pdf/2309.08600), Sep. 2023. [code](https://github.com/ai-safety-foundation/sparse_autoencoder).
@@ -192,6 +193,8 @@
 
 #### Probing
 
+- [Patchscopes: A unifying framework for inspecting hidden representations of language models](https://arxiv.org/pdf/2401.06102), Jan. 2024. [code](https://github.com/PAIR-code/interpretability/tree/master/patchscopes/code).
+  - _"we propose leveraing the model itself to explain its internal representations in natural language"_
 - [InversionView: A general-purpose method for reading information from neural activations](https://arxiv.org/pdf/2405.17653), May 2024.
 - [Probing the Decision Boundaries of In-context Learning in Large Language Models](https://arxiv.org/pdf/2406.11233), Jun. 17 2024. [tweet](https://x.com/siyan_zhao/status/1805277462890492321). `interpretability`.
 - [LatentQA: Teaching llms to decode activations into natural language](https://arxiv.org/pdf/2412.08686), Dec. 11 2024. [code](https://github.com/aypan17/latentqa), [blogpost](https://latentqa.github.io/).
@@ -199,6 +202,9 @@
 - [Representation biases: Will we achieve complete understanding by analyzing representations?](https://arxiv.org/pdf/2507.22216), Aug. 13 2025.
 - [The platonic representation hypothesis](https://arxiv.org/pdf/2405.07987), Jul. 25 2024.
 - [How do LLMs persuade? Linear probes can uncover persuasion dynamics in multi-turn conversations](https://arxiv.org/pdf/2508.05625), Aug. 7 2025.
+- [SelfIE: Self-Interpretation of Large Language Model Embeddings](https://arxiv.org/pdf/2403.10949), Mar. 26 2024.
+- [Do natural language descriptions of model activations convey privileged information?](https://www.arxiv.org/pdf/2509.13316), Sep. 16 2025.
+  - _"do such activation verbalization approaches actually provide privileged knowledge about the internal workings of the target model, or do they merely convey information about its inputs?"_
 
 #### Parameter attribution, circuits
 
@@ -220,7 +226,6 @@
 #### Auto-intepretation
 
 - [Can Large Language Models Explain Themselves? A Study of LLM-Generated Self-Explanations](https://arxiv.org/pdf/2310.11207), Oct. 17 2023.
-- [SelfIE: Self-Interpretation of Large Language Model Embeddings](https://arxiv.org/pdf/2403.10949), Mar. 26 2024.
 - [Are self-explanations from Large Language Models faithful?](https://arxiv.org/pdf/2401.07927), May 16 2024.
 - [FaithLM: Towards Faithful Explanations for Large Language Models](https://arxiv.org/pdf/2402.04678), Jun. 26 2024. [code](https://github.com/KindXiaoming/physics_of_skill_learning).
 - [Language models can predict their own behavior](https://arxiv.org/pdf/2502.13329), Feb. 19 2025.
