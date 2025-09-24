@@ -205,6 +205,9 @@
 - [The alignment bottleneck](https://arxiv.org/pdf/2509.15932), Sep. 19 2025.
 - [Mind the gap: Data rewriting for stable off-policy supervised fine-tuning](https://arxiv.org/pdf/2509.15157), Sep. 19 2025. [code](https://github.com/NKU-HLT/Off-Policy-SFT).
   - _"For each problem, correct model-generated solutions are kept as on-policy data, while incorrect ones are rewritten through guided re-solving, falling back to expert demonstrations only when needed"_
+- [RL fine-tuning heals OOD forgetting in SFT](https://arxiv.org/pdf/2509.12235), Sep. 8 2025. [code]().
+  - _"well-known claim SFT memorizes, RL generalizes is over-simplified"_
+  - _"SFT performs hard alignment of the crucial parameter directions to the target tasks, leading to rapid and greedy adjustment, but also quick forgetting; RL then conditionally re-aligns singular vectors softly and slowly towards a more robust configuration, healing the forgetting and learning the downstream tasks simultaneously"_
 
 ### Post-training for bert
 
