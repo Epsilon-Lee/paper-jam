@@ -238,5 +238,6 @@
 - [The serial scaling hypothesis](https://arxiv.org/abs/2507.12549), Jul. 16 2025. [tweet](https://x.com/layer07_yuxi/status/1947473214898377108).
 - [CoT-Space: A theoretical framework for internal slow-thinking via reinforcement learning](https://arxiv.org/pdf/2509.04027), Sep. 4 2025.
 - [Understanding the thinking process of reasoning models: A perspective from Schoenfeld's Episode Theory](https://arxiv.org/pdf/2509.14662), Sep. 18 2025. [code](https://github.com/MingLiiii/Schoenfeld_Reasoning).
+- [What characterizes effective reasoning? Revisiting length, review, and structure of CoT](https://arxiv.org/pdf/2509.19284), Sep. 23 2025.
 
 
