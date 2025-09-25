@@ -43,6 +43,8 @@
 - [Diffusion beats autoregressive in data-constrained settings](https://arxiv.org/pdf/2507.15857), Jul. 31 2025.
 - [Revisiting scaling laws for language models: The role of data quality and training strategies](https://aclanthology.org/2025.acl-long.1163.pdf), ACL 2025.
 - [Pre-training under infinit compute](https://arxiv.org/pdf/2509.14786), Sep. 18 2025. [code](https://github.com/marin-community/marin/tree/suhas/data-efficiency).
+- [Unveiling the role of learning rate schedules via functional scaling laws](https://arxiv.org/pdf/2509.19189), Sep. 24 2025.
+  - _"We provide theoretical justification for widely adopted empirical practices in LLMs pre-training such as i) higher-capacity models are more data and compute-efficient, ii) learning rate decay can improve training efficiency, iii) WSD-like schedules can outperform direct-decay schedules"_
 
 #### FLOPS
 
