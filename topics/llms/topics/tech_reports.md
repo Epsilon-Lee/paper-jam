@@ -99,6 +99,7 @@
 
 **MiniCPM**
 - [MiniCPM4: Ultra-efficient LLMs on end devices](https://arxiv.org/pdf/2506.07900), Jun. 9 2025.
+- [MiniCPM-V 4.5: Cooking efficient MLLMs via architecture, data, and training recipes](https://arxiv.org/pdf/2509.18154), Sep. 16 2025.
 
 **Mistral AI**
 - [Magistral](https://arxiv.org/pdf/2506.10910), Jun. 12 2025.
