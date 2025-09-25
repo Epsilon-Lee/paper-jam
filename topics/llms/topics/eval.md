@@ -48,6 +48,7 @@
   - The paper dubs synthetic data from LLMs as generative teaching.
 - [The emperor's new clothes in benchmarking? A rigorous examination of mitigation strategies for LLM benchmark data contamination](https://arxiv.org/pdf/2503.16402), Mar. 20 2025. [code](https://github.com/ASTRAL-Group/BDC_mitigation_assessment).
 - [Beyond memorization: Reasoning-driven synthesis as a mitigation strategy against benchmark contamination](https://arxiv.org/pdf/2509.00072), Aug. 26 2025. [code](https://github.com/TerryJCZhang/BeyondMemorization).
+- [Beyond the leaderboard: Understanding performance disparities in large language models via model diffing](https://arxiv.org/pdf/2509.18792), Sep. 23 2025.
 
 #### Benchmark
 
