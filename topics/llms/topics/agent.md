@@ -48,6 +48,7 @@
 - [An AI system to help scientists write expert-level empirical software](https://arxiv.org/pdf/2509.06503), Sep. 8 2025.
 - [Beyond ten turns: Unlocking long-horizon agentic search with large-scale asynchronous RL](https://arxiv.org/abs/2508.07976), Aug. 11 2025.
 - [ExpeL: LLM agents are experiential learners](https://arxiv.org/pdf/2308.10144), Dec. 20 2024. [code](https://github.com/LeapLabTHU/ExpeL).
+- [LIMI: Less is more for agency](https://arxiv.org/pdf/2509.17567), Sep. 22 2025. [code](https://github.com/GAIR-NLP/LIMI).
 
 #### Memory modeling
 
