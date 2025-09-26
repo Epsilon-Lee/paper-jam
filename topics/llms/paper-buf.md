@@ -258,7 +258,9 @@
 
 ### LLM-based embedding
 
+- [MetaEmbed: Scaling multimodal retrieval at test-time with flexible late interaction](https://arxiv.org/pdf/2509.18095), Sep. 22 2025.
 - [EmbeddingGemma: Powerful and lightweight text representations](https://arxiv.org/pdf/2509.20354), Sep. 24 2025. [code](https://huggingface.co/collections/google/embeddinggemma-68b9ae3a72a82f0562a80dc4).
+- [Hierarchical retrieval: The geometry and a pretrain-finetune recipe](https://arxiv.org/abs/2509.16411), Sep. 19 2025.
 
 ### LLM-based active learning
 
