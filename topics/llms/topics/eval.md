@@ -69,6 +69,7 @@
 - [xBench: Tracking agents productivity scaling with profession-aligned real-world evaluations](https://xbench.org/files/xbench_profession_v2.4.pdf), May 2025.
 - [AutoBencher: Towards declarative benchmark construction](https://openreview.net/pdf?id=ymt4crbbXh), ICLR 2025. [code](https://github.com/XiangLi1999/AutoBencher).
 - [UQ: Assessing language models on unsolved questions](https://arxiv.org/pdf/2508.17580), Aug. 25 2025.
+- [GDPval: Evaluating AI model performance on real-world economically valuable tasks](https://cdn.openai.com/pdf/d5eb7428-c4e9-4a33-bd86-86dd4bcf12ce/GDPval.pdf), Sep. 2025.
 
 #### Evaluation for agents
 
