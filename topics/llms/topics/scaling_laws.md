@@ -46,6 +46,7 @@
 - [Pre-training under infinit compute](https://arxiv.org/pdf/2509.14786), Sep. 18 2025. [code](https://github.com/marin-community/marin/tree/suhas/data-efficiency).
 - [Unveiling the role of learning rate schedules via functional scaling laws](https://arxiv.org/pdf/2509.19189), Sep. 24 2025.
   - _"We provide theoretical justification for widely adopted empirical practices in LLMs pre-training such as i) higher-capacity models are more data and compute-efficient, ii) learning rate decay can improve training efficiency, iii) WSD-like schedules can outperform direct-decay schedules"_
+- [How to inject knowledge efficiently? Knowledge infusion scaling law for pre-training large language models](https://arxiv.org/pdf/2509.19371), Sep. 19 2025.
 
 #### FLOPS
 
