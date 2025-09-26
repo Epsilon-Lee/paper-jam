@@ -4,6 +4,7 @@
 ### Scaling laws
 
 - [Predicting emergent abilities with infinite resolution evaluation](https://arxiv.org/pdf/2310.03262), Apr. 17 2024.
+- [gzip predicts data-dependent scaling laws](https://arxiv.org/pdf/2405.16684), May 26 2024.
 - [Why Has Predicting Downstream Capabilities of Frontier AI Models with Scale Remained Elusive?](https://arxiv.org/pdf/2406.04391), Jun. 6 2024. `scaling law`.
 - [Will we run out of data? Limits of LLM scaling based on human-generated data](https://arxiv.org/pdf/2211.04325), Jun. 4 2024. `data scaling`.
 - [Position: Will we run out of data? Limits of LLM scaling based on human-generated data](https://openreview.net/pdf?id=ViZcgDQjyG), ICML 2024. `scaling law`.
