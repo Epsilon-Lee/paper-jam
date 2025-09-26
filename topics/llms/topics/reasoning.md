@@ -215,6 +215,10 @@
 - [The majority is not always right: RL training for solution aggregation](https://arxiv.org/pdf/2509.06870), Sep. 8 2025.
 - [PipelineRL: Faster on-policy reinforcement learning for long sequence generation](https://arxiv.org/pdf/2509.19128), Sep. 23 2025.
   - Remind me of Moonshot's [checkpoint engine](https://github.com/MoonshotAI/checkpoint-engine).
+- [Reinforcement learning on pre-training data](https://arxiv.org/pdf/2509.19249), Sep. 23 2025.
+- [Thinking augmented pre-training](https://arxiv.org/pdf/2509.20186), Sep. 24 2025.
+- [SIM-CoT: Supervised implicit chain-of-thought](https://arxiv.org/pdf/2509.20317), Sep. 24 2025. [code](https://github.com/InternLM/SIM-CoT).
+- [Language models that think, chat better](https://arxiv.org/pdf/2509.20357), Sep. 24 2025. [code](https://github.com/princeton-pli/RLMT).
 
 #### Reasoning for VLMs
 
