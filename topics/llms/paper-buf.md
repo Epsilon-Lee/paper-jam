@@ -256,6 +256,10 @@
 - [DivMerge: A divergence-based model merging method for multi-tasking](https://arxiv.org/pdf/2509.02108), Sep. 11 2025.
 - [LLMs get lost in multi-turn conversation](https://arxiv.org/abs/2505.06120), May 9 2025. [code](https://github.com/Microsoft/lost_in_conversation).
 
+### LLM-based embedding
+
+- [EmbeddingGemma: Powerful and lightweight text representations](https://arxiv.org/pdf/2509.20354), Sep. 24 2025. [code](https://huggingface.co/collections/google/embeddinggemma-68b9ae3a72a82f0562a80dc4).
+
 ### LLM-based active learning
 
 - [Cold-start data selection for better few-shot language model fine-tuning: A prompt-based uncertainty propagation approach](https://aclanthology.org/2023.acl-long.141.pdf), ACL 2023. [code](https://github.com/yueyu1030/Patron).
