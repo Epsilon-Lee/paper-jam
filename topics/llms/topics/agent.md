@@ -69,6 +69,7 @@
 - [OpenPipe & LangGraph integration](https://art.openpipe.ai/integrations/langgraph-integration), Aug. 2025.
 - [Maestro: Joint graph and config optimization for reliable ai agents](https://arxiv.org/pdf/2509.04642), Sep. 4 2025.
 - [MALLM: Multi-agent large language models framework](https://arxiv.org/abs/2509.11656), Sep. 15 2025. [code](https://github.com/Multi-Agent-LLMs/mallm).
+- [RLEF: Grounding code LLMs in execution feedback with reinforcement learning](https://arxiv.org/pdf/2410.02089), Feb. 18 2025.
 
 #### Open-endedness
 
