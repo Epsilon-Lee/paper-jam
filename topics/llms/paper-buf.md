@@ -255,6 +255,7 @@
 - [Competition and attraction improve model fusion](https://arxiv.org/pdf/2508.16204), Aug. 22 2025. [code](https://github.com/SakanaAI/natural_niches).
 - [DivMerge: A divergence-based model merging method for multi-tasking](https://arxiv.org/pdf/2509.02108), Sep. 11 2025.
 - [LLMs get lost in multi-turn conversation](https://arxiv.org/abs/2505.06120), May 9 2025. [code](https://github.com/Microsoft/lost_in_conversation).
+- [mmBERT: A modern multilingual encoder with annealed language learning](https://arxiv.org/pdf/2509.06888), Sep. 8 2025. [code](https://github.com/jhu-clsp/mmBERT).
 
 ### LLM-based embedding
 
@@ -296,5 +297,6 @@
 - [Visual agents as fast and slow thinker](https://arxiv.org/pdf/2408.08862), Aug. 16 2024.
 - [NVLM: Open Frontier-Class Multimodal LLMs](https://nvlm-project.github.io/), Sep. 17 2024.
 - [From generalist to specialist: Adapting vision language models via task-specific visual instruction tuning](https://arxiv.org/pdf/2410.06456), Oct. 9 2024.
+- [Sample-efficient integration of new modalities into large language models](https://arxiv.org/pdf/2509.04606), Sep. 4 2025. [code](https://github.com/ospanbatyr/sample-efficient-multimodality).
 
 
