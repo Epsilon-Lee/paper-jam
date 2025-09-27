@@ -53,6 +53,7 @@
 - [DynaGuard: A dynamic guardrail model with user-defined policies](https://arxiv.org/pdf/2509.02563), Sep. 2 2025. [code](https://github.com/montehoover/DynaGuard).
   - _"Our dynamic guardian models can be used for fast detection of policy violations or with chain-of-thought reasoning that articulates and justifies the model outputs"_
 - [Persona features control emergent misalignment](https://arxiv.org/pdf/2506.19823), Jun. 24 2025. [code](https://github.com/openai/emergent-misalignment-persona-features).
+- [Audits under resource, data, and access constraints: Scaling laws for less discriminatory alternatives](https://arxiv.org/pdf/2509.05627), Sep. 6 2025.
 
 #### Survey and definition
 
