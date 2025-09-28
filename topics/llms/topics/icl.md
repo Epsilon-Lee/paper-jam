@@ -11,6 +11,8 @@
 - [Is in-context learning learning?](https://arxiv.org/pdf/2509.10414), Sep. 15 2025.
 - [Is in-context learning sufficient for instruction following in LLMs?](https://arxiv.org/pdf/2405.19874), Apr. 18 2025. [code](https://github.com/tml-epfl/icl-alignment).
 - [Towards provable emergence of in-context reinforcement learning](https://arxiv.org/pdf/2509.18389), Sep. 22 2025.
+- [On the theoretical interpretations of concept-based in-context learning](https://arxiv.org/pdf/2509.20882), Sep. 25 2025.
+- [Mechanism of task-oriented information removal in in-context learning](https://arxiv.org/pdf/2509.21012), Sep. 25 2025.
 
 #### Empirical observation of icl
 
