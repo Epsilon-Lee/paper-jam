@@ -86,6 +86,7 @@
 - [Multi-head transformeres provably learn symbolic multi-step reasoning via gradient descent](https://arxiv.org/pdf/2508.08222), Aug. 11 2025.
 - [Induction heads as an essential mechanism for pattern matching in in-context learning](https://arxiv.org/pdf/2407.07011), Apr. 2025. [code](https://arxiv.org/pdf/2407.07011).
 - [The emergence of sparse attention: Impact of data distribution and benefits of repetition](https://arxiv.org/pdf/2505.17863), May 23 2025.
+- [Theoretical bounds for stable in-context learning](https://arxiv.org/pdf/2509.20677), Sep. 22 2025.
 
 
 
