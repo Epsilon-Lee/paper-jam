@@ -40,6 +40,8 @@
 - [Evalet: Evaluating large language models by fragmenting outputs into functions](https://arxiv.org/abs/2509.11206), Sep. 14 2025.
   - _"a novel LLM-based evaluation method that dissects each output into key fragments and interprets the functions of each fragment, where each fragment may serve multiple functions. With functions, we refer to the rhetorical roles or purposes that text fragments serve that are relevant to a given evaluation criterion."_
 - [When three experiments are bettern than two: Avoiding intractable correlated aleatoric uncertainty by leveraging a novel bias-variance trade-off](https://arxiv.org/pdf/2509.04363), Sep. 4 2025.
+- [Look before you leap: Estimating LLM benchmark scores from descriptions](https://arxiv.org/pdf/2509.20645), Sep. 25 2025. [code](https://github.com/JJumSSu/PRECOG).
+  - _"estimating a model's score from a redacted task description and intended configuration, with no access to dataset instances"_
 
 #### Data contamination
 
