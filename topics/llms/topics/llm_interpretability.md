@@ -164,7 +164,8 @@
 - [The non-linear representation dilemma: Is causal abstraction enough for mechanistic interpretability?](https://arxiv.org/pdf/2507.08802), Jul. 11 2025. [code](https://github.com/densutter/non-linear-representation-dilemma).
 - [Crosscoding through time: Tracking emergence & consolidation of linguistic representations throughout LLM pretraining](https://arxiv.org/pdf/2509.05291), Sep. 5 2025. [code](https://github.com/bayazitdeniz/crosscoding-through-time).
 - [Delta activations: A representation for finetuned large language models](https://arxiv.org/pdf/2509.04442), Sep. 4 2025. [code](https://github.com/OscarXZQ/delta_activations).
-
+- [The dual-route model of induction](https://arxiv.org/pdf/2504.03022), Jul. 20 2025. [code](https://github.com/sfeucht/dual-route-induction/).
+- [A circuit for predicting hierarchical structure in-context in large language models](https://arxiv.org/pdf/2509.21534), Sep. 25 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
@@ -190,6 +191,8 @@
 - [Identifying Sparsely Active Circuits Through Local Loss Landscape Decomposition](https://arxiv.org/pdf/2504.00194), Mar. 31 2025. [code](https://github.com/briannachrisman/eigenestimation).
 - [Towards principled evaluations of sparse autoencoders for interpretability and control](https://openreview.net/pdf?id=1Njl73JKjB), ICLR 2025.
 - [Use sparse autoencoders to discover unknown concepts, not to act on known concepts](https://arxiv.org/pdf/2506.23845), Jun. 30 2025.
+- [OrtSAE: Orthogonal sparse autoencoders uncover atomic features](https://arxiv.org/pdf/2509.22033), Sep. 26 2025.
+- [Concept-SAE: Active causal probing for visual model behavior](https://arxiv.org/pdf/2509.22015), Sep. 26 2025. [code](https://github.com/RafaDD/Concept-SAE).
 
 #### Probing
 
