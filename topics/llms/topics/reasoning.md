@@ -220,6 +220,7 @@
 - [SIM-CoT: Supervised implicit chain-of-thought](https://arxiv.org/pdf/2509.20317), Sep. 24 2025. [code](https://github.com/InternLM/SIM-CoT).
 - [Language models that think, chat better](https://arxiv.org/pdf/2509.20357), Sep. 24 2025. [code](https://github.com/princeton-pli/RLMT).
 - [AlphaZero-like tree-search can guide large language model decoding and training](https://arxiv.org/pdf/2309.17179), Feb. 9 2024.
+- [The era of real-world human interaction: RL from user conversations](https://arxiv.org/pdf/2509.25137), Sep. 29 2025.
 
 #### Reasoning for VLMs
 
