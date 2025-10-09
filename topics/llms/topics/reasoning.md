@@ -230,6 +230,10 @@
 - [Retrieval-of-thought: Efficient reasoning via reusing thoughts](https://arxiv.org/pdf/2509.21743), Sep. 26 2025.
 - [Benefits and pitfalls of reinforcement learning for language model planning: A theoretical perspective](), Sep. 26 2025.
 - [Random policy valuation is enough for LLM reasoning with verifiable rewards](https://arxiv.org/pdf/2509.24981), Sep. 29 2025. [code](https://arxiv.org/pdf/2509.24981).
+- [Why can't transformers learn multiplication? Reverse-engineering reveals long-range dependency pitfalls](https://arxiv.org/abs/2510.00184), Sep. 30 2025. [code](https://github.com/ajyl/icot).
+- [RLBFF: Binary flexible feedback to bridge between human feedback and verifiable rewards](https://arxiv.org/pdf/2509.21319), Sep. 25 2025.
+- [DELTA-Code: How does RL unlock and transfer new programming algorithms in LLMs?](https://arxiv.org/pdf/2509.21016), Sep. 25 2025. [code](https://github.com/sunblaze-ucb/rl-grok-recipe).
+- [ScaleDiff: Scaling difficult problems for advanced mathematical reasoning](https://arxiv.org/pdf/2509.21070), Sep. 25 2025. [code](https://github.com/QizhiPei/ScaleDiff).
 
 #### Interactive learning
 
