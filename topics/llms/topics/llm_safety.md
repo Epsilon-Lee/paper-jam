@@ -54,6 +54,7 @@
   - _"Our dynamic guardian models can be used for fast detection of policy violations or with chain-of-thought reasoning that articulates and justifies the model outputs"_
 - [Persona features control emergent misalignment](https://arxiv.org/pdf/2506.19823), Jun. 24 2025. [code](https://github.com/openai/emergent-misalignment-persona-features).
 - [Audits under resource, data, and access constraints: Scaling laws for less discriminatory alternatives](https://arxiv.org/pdf/2509.05627), Sep. 6 2025.
+- [Active attacks: Red-teaming LLMs via adaptive environments](https://arxiv.org/pdf/2509.21947), Sep. 26 2025. [code](https://github.com/dbsxodud-11/active_attacks).
 
 #### Survey and definition
 
