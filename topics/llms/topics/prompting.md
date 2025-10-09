@@ -23,6 +23,7 @@
 - [Self-supervised prompt optimization](https://arxiv.org/pdf/2502.06855), Feb. 15 2025. [code](https://github.com/FoundationAgents/MetaGPT).
 - [GEPA: Reflective prompt evaluation can outperform reinforcement learning](https://arxiv.org/abs/2507.19457), Jul. 2025.
 - [Prompt adaptation as a dynamic complement in generative ai systems](https://arxiv.org/pdf/2407.14333v5), Apr. 22 2025.
+- [iPrOp: Interactive prompt optimization for large language models with a human in the loop](https://aclanthology.org/2025.acl-srw.18.pdf), ACL 2025.
 
 #### Theory
 
