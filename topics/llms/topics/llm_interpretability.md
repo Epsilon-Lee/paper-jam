@@ -166,6 +166,9 @@
 - [Delta activations: A representation for finetuned large language models](https://arxiv.org/pdf/2509.04442), Sep. 4 2025. [code](https://github.com/OscarXZQ/delta_activations).
 - [The dual-route model of induction](https://arxiv.org/pdf/2504.03022), Jul. 20 2025. [code](https://github.com/sfeucht/dual-route-induction/).
 - [A circuit for predicting hierarchical structure in-context in large language models](https://arxiv.org/pdf/2509.21534), Sep. 25 2025.
+- [Eliciting secret knowledge from language models](https://arxiv.org/pdf/2510.01070), Oct. 1 2025. [code](https://github.com/cywinski/eliciting-secret-knowledge).
+- [Emergence of linear truth encodings in language models](https://openreview.net/pdf?id=KDK99BgmPe), NeurIPS 2025.
+- [Detecting motivated reasoning in the internal representations of language models](https://openreview.net/pdf?id=NFiV0yVlBM), NeurIPS 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
@@ -193,6 +196,7 @@
 - [Use sparse autoencoders to discover unknown concepts, not to act on known concepts](https://arxiv.org/pdf/2506.23845), Jun. 30 2025.
 - [OrtSAE: Orthogonal sparse autoencoders uncover atomic features](https://arxiv.org/pdf/2509.22033), Sep. 26 2025.
 - [Concept-SAE: Active causal probing for visual model behavior](https://arxiv.org/pdf/2509.22015), Sep. 26 2025. [code](https://github.com/RafaDD/Concept-SAE).
+- [Binary autoencoder for mechanistic interpretability of large language models](https://arxiv.org/pdf/2509.20997), Sep. 25 2025.
 
 #### Probing
 
