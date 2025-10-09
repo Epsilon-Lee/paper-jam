@@ -222,6 +222,18 @@
 - [AlphaZero-like tree-search can guide large language model decoding and training](https://arxiv.org/pdf/2309.17179), Feb. 9 2024.
 - [The era of real-world human interaction: RL from user conversations](https://arxiv.org/pdf/2509.25137), Sep. 29 2025.
 - [Random policy valuation is enough for LLM reasoning with verified rewards](https://arxiv.org/pdf/2509.24981), Sep. 29 2025. [code](https://github.com/tinnerhrhe/ROVER/).
+- [Enhancing large language model reasoning with reward models: An analytical survey](https://arxiv.org/pdf/2510.01925), Oct. 3 2025.
+- [Personalized reasoning: Just-in-time personalization and why LLMs fail at it](https://arxiv.org/pdf/2510.00177), Sep. 30 2025.
+- [RLAD: Training LLMs to discover abstractions for solving reasoning problems](https://arxiv.org/pdf/2510.02263), Oct. 2 2025. [code](https://cohenqu.github.io/rlad.github.io/).
+- [Evolution strategies at scale: LLM fine-tuning beyond reinforcement learning](https://arxiv.org/pdf/2509.24372), Sep. 29 2025. [code](https://github.com/VsonicV/es-fine-tuning-paper).
+- [MobileLLM-R1: Exploring the limits of sub-billion language model reasoners with open training recipes](https://arxiv.org/pdf/2509.24945), Sep. 29 2025. [code](https://arxiv.org/pdf/2509.24945).
+- [Retrieval-of-thought: Efficient reasoning via reusing thoughts](https://arxiv.org/pdf/2509.21743), Sep. 26 2025.
+- [Benefits and pitfalls of reinforcement learning for language model planning: A theoretical perspective](), Sep. 26 2025.
+- [Random policy valuation is enough for LLM reasoning with verifiable rewards](https://arxiv.org/pdf/2509.24981), Sep. 29 2025. [code](https://arxiv.org/pdf/2509.24981).
+
+#### Interactive learning
+
+- [The era of real-world human interaction: RL from user conversations](https://arxiv.org/pdf/2509.25137), Sep. 29 2025.
 
 #### Reasoning for VLMs
 
