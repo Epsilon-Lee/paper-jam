@@ -48,6 +48,7 @@
   - _"We provide theoretical justification for widely adopted empirical practices in LLMs pre-training such as i) higher-capacity models are more data and compute-efficient, ii) learning rate decay can improve training efficiency, iii) WSD-like schedules can outperform direct-decay schedules"_
 - [How to inject knowledge efficiently? Knowledge infusion scaling law for pre-training large language models](https://arxiv.org/pdf/2509.19371), Sep. 19 2025.
 - [Towards greater leverage: Scaling laws for efficient mixture-of-experts language models](https://arxiv.org/pdf/2507.17702), Aug. 11 2025.
+- [Establishing task scaling laws via compute-efficient model ladders](https://arxiv.org/pdf/2412.04403), Aug. 22 2025.
 
 #### FLOPS
 
