@@ -52,6 +52,8 @@
 - [GEM: A gym for agentic LLMs](https://arxiv.org/pdf/2510.01051), Oct. 1 2025. [code](https://github.com/axon-rl/gem).
 - [Graph of agents: Pincipled long context modeling by emergent multi-agent collaboration](https://arxiv.org/pdf/2509.21848), Sep. 26 2025. [code](https://github.com/tjoo512/graph-of-agents).
 - [MetaMind: Modeling human social thoughts with metacognitive multi-agent systems](https://arxiv.org/abs/2505.18943), May 25 2025. [code](https://github.com/XMZhangAI/MetaMind).
+- [Self-improving LLM agents at test-time](https://arxiv.org/pdf/2510.07841), Oct. 9 2025.
+- [Agentic context engineering: Evolving contexts for self-improving language models](https://arxiv.org/pdf/2510.04618v1), Oct. 6 2025.
 
 #### Memory modeling
 
