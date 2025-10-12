@@ -236,6 +236,7 @@
 - [ScaleDiff: Scaling difficult problems for advanced mathematical reasoning](https://arxiv.org/pdf/2509.21070), Sep. 25 2025. [code](https://github.com/QizhiPei/ScaleDiff).
 - [Online rubrics elicitation from pairwise comparisons](https://arxiv.org/abs/2510.07284), Oct. 8 2025.
 - [The Markovian thinker](https://arxiv.org/pdf/2510.06557), Oct. 8 2025.
+- [OpenThoughts: Data recipes for reasoning models](https://arxiv.org/pdf/2506.04178), Jun. 5 2025.
 
 #### Interactive learning
 
