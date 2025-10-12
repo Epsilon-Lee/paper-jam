@@ -23,6 +23,7 @@ Three topics:
 - [GFlowNet pretraining with inexpensive rewards](https://arxiv.org/pdf/2409.09702), Sep. 15 2024.
   - [Pre-Training and Fine-Tuning Generative Flow Networks](https://arxiv.org/pdf/2310.03419), Oct. 5 2024.
 - [Beyond statistical learning: Exact learning is essential for general intelligence](https://arxiv.org/pdf/2506.23908), Jun. 30 2025.
+- [Risk comparisons in linear regression: Implicit regularization dominates explicit regularization](https://arxiv.org/abs/2509.17251), Sep. 21 2025.
 
 ### New tabular models
 
@@ -68,6 +69,7 @@ Three topics:
 - [When do large learning rates lead us?](https://arxiv.org/pdf/2410.22113), Oct. 29 2024. [code](https://github.com/isadrtdinov/understanding-large-lrs).
 - [Navigating the latent space dynamics of neural models](https://arxiv.org/abs/2505.22785), May 28 2025.
 - [Rethinking early stopping: Refine, then calibrate](https://arxiv.org/pdf/2501.19195), Jan. 31 2025.
+- [Feature dynamics as implicit data augmentation: A depth-decomposed view on deep neural network generalization](https://arxiv.org/pdf/2509.20334), Sep. 24 2025.
 
 #### Memorization
 
