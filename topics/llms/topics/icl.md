@@ -13,6 +13,7 @@
 - [Towards provable emergence of in-context reinforcement learning](https://arxiv.org/pdf/2509.18389), Sep. 22 2025.
 - [On the theoretical interpretations of concept-based in-context learning](https://arxiv.org/pdf/2509.20882), Sep. 25 2025.
 - [Mechanism of task-oriented information removal in in-context learning](https://arxiv.org/pdf/2509.21012), Sep. 25 2025.
+- [Understanding prompt tuning and in-context learning via meta-learning](https://arxiv.org/pdf/2505.17010), May 22 2025.
 
 #### Empirical observation of icl
 
