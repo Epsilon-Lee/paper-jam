@@ -105,6 +105,12 @@
   - [Text generation by learning from demonstrations](https://openreview.net/pdf?id=RovX-uQ1Hua), ICLR 2021. [code](https://github.com/yzpang/gold-off-policy-text-gen-iclr21).
   - [On the generalization of SFT: A reinforcement learning perspective with reward rectification](https://arxiv.org/pdf/2508.05629), Aug. 7 2025. [code](https://github.com/yongliang-wu/DFT).
 - [On-policy distillation of language models: Learning from self-generated mistakes](https://arxiv.org/pdf/2306.13649), Jun. 23 2023.
+- [Generalizing verifiable instruction following](https://arxiv.org/pdf/2507.02833), Aug. 4 2025.
+- [Incentivizing reasoning for advanced instruction-following of large language models](https://arxiv.org/pdf/2506.01413), Aug. 7 2025. [code](https://github.com/yuleiqin/RAIF).
+- [On the loss of context-awareness in general instruction fine-tuning](https://arxiv.org/pdf/2411.02688), Feb. 2 2025. [code](https://github.com/YihanWang617/context_awareness).
+- [The best instruction-tuning data are those that fit](https://arxiv.org/pdf/2502.04194), Feb. 7 2025.
+- [When thinking fails: The pitfalls of reasoning for instruction-following in LLMs](https://arxiv.org/pdf/2505.11423), Sep. 2 2025.
+- [Whose instruction count? Resolving preference bias in instruction fine-tuning](https://neurips.cc/virtual/2025/poster/117781), NeurIPS 2025.
 
 ### Alignment, preference alignment, reward models
 
