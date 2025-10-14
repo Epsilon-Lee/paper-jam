@@ -55,6 +55,7 @@
 - [Persona features control emergent misalignment](https://arxiv.org/pdf/2506.19823), Jun. 24 2025. [code](https://github.com/openai/emergent-misalignment-persona-features).
 - [Audits under resource, data, and access constraints: Scaling laws for less discriminatory alternatives](https://arxiv.org/pdf/2509.05627), Sep. 6 2025.
 - [Active attacks: Red-teaming LLMs via adaptive environments](https://arxiv.org/pdf/2509.21947), Sep. 26 2025. [code](https://github.com/dbsxodud-11/active_attacks).
+- [RL is a hammer and LLMs are nails: A simple reinforcement learning recipe for strong prompt injection](https://arxiv.org/pdf/2510.04885), Oct. 6 2025. [code](https://github.com/facebookresearch/rl-injector).
 
 #### Survey and definition
 
