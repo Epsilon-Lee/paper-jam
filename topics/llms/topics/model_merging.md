@@ -10,5 +10,6 @@
 - [The Non-Local Model Merging Problem: Permutation Symmetries and Variance Collapse](https://arxiv.org/pdf/2410.12766), Oct. 16 2024. [code](https://github.com/ekanshs/tact-merge).
 - [On task vectors and gradients](https://www.arxiv.org/pdf/2508.16082), Aug. 22 2025.
 - [On linear mode connectivity of mixture-of-experts architectures](https://arxiv.org/abs/2509.11348), Sep. 14 2025.
+- [MergeBench: A benchmark for merging domain-specialized LLMs](https://arxiv.org/pdf/2505.10833), Oct. 9 2025. [code](https://github.com/uiuctml/MergeBench).
 
 
