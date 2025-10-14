@@ -220,6 +220,10 @@
 - [can DPO learn diverse human values? A theoretical scaling law](https://arxiv.org/pdf/2408.03459), Sep. 25 2025. `NeurIPS 2025`
   - This paper can be analyzed together with the [Verbalized sampling](https://www.verbalized-sampling.com/) paper.
 
+### Weak-to-strong generalization
+
+- [On the mechanism of weak-to-strong generalization: A theoretical perspective](https://arxiv.org/pdf/2505.18346), May 23 2025.
+
 ### Post-training for bert
 
 - [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751), Jun. 13 2019.
