@@ -43,6 +43,7 @@
 - [Look before you leap: Estimating LLM benchmark scores from descriptions](https://arxiv.org/pdf/2509.20645), Sep. 25 2025. [code](https://github.com/JJumSSu/PRECOG).
   - _"estimating a model's score from a redacted task description and intended configuration, with no access to dataset instances"_
 - [Readability \neq learnability: Rethinking the role of simplicity in training small language models](https://openreview.net/pdf?id=AFMGbq39bQ), COLM 2025. [data](https://huggingface.co/collections/ivnle/llamatales-6716dad1a3113c4c3ea1038e). [openreview](https://openreview.net/forum?id=AFMGbq39bQ#discussion).
+- [Predicting language models' success at zero-shot probabilistic prediction](https://arxiv.org/abs/2509.15356), Sep. 18 2025. [code](https://arxiv.org/abs/2509.15356).
 
 #### Data contamination
 
