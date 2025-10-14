@@ -50,6 +50,7 @@
 - [Towards greater leverage: Scaling laws for efficient mixture-of-experts language models](https://arxiv.org/pdf/2507.17702), Aug. 11 2025.
 - [Establishing task scaling laws via compute-efficient model ladders](https://arxiv.org/pdf/2412.04403), Aug. 22 2025.
 - [Scaling laws are redundency laws](https://arxiv.org/pdf/2509.20721), Sep. 25 2025.
+- [Sloth: Scaling laws for LLM skills to predict multi-benchmark performance across families](https://arxiv.org/pdf/2412.06540), Feb. 5 2025. [code](https://github.com/felipemaiapolo/sloth).
 
 #### FLOPS
 
