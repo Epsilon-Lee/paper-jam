@@ -111,6 +111,7 @@
 - [The best instruction-tuning data are those that fit](https://arxiv.org/pdf/2502.04194), Feb. 7 2025.
 - [When thinking fails: The pitfalls of reasoning for instruction-following in LLMs](https://arxiv.org/pdf/2505.11423), Sep. 2 2025.
 - [Whose instruction count? Resolving preference bias in instruction fine-tuning](https://neurips.cc/virtual/2025/poster/117781), NeurIPS 2025.
+- [Fine-tuning large language models with sequential instruction](https://aclanthology.org/2025.naacl-long.288.pdf), NAACL 2025. [code](https://github.com/hanxuhu/SeqIns).
 
 ### Alignment, preference alignment, reward models
 
