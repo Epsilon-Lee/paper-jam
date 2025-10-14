@@ -237,6 +237,9 @@
 - [Online rubrics elicitation from pairwise comparisons](https://arxiv.org/abs/2510.07284), Oct. 8 2025.
 - [The Markovian thinker](https://arxiv.org/pdf/2510.06557), Oct. 8 2025.
 - [OpenThoughts: Data recipes for reasoning models](https://arxiv.org/pdf/2506.04178), Jun. 5 2025.
+- [Taming imperfect process verifiers: A sampling perspective on backtracking](https://www.arxiv.org/pdf/2510.03149), Oct. 3 2025.
+- [ReasoningBank: Scaling agent self-evolving with reasoning memory](https://arxiv.org/pdf/2509.25140), Sep. 29 2025.
+- [RAM 2: Reasoning, attention & memory - 10 years on](https://facebookresearch.github.io/RAM/workshop/COLM_2025/), Workshop COLM 2025.
 
 #### Interactive learning
 
