@@ -208,6 +208,8 @@
 - [RL fine-tuning heals OOD forgetting in SFT](https://arxiv.org/pdf/2509.12235), Sep. 8 2025. [code]().
   - _"well-known claim SFT memorizes, RL generalizes is over-simplified"_
   - _"SFT performs hard alignment of the crucial parameter directions to the target tasks, leading to rapid and greedy adjustment, but also quick forgetting; RL then conditionally re-aligns singular vectors softly and slowly towards a more robust configuration, healing the forgetting and learning the downstream tasks simultaneously"_
+- [can DPO learn diverse human values? A theoretical scaling law](https://arxiv.org/pdf/2408.03459), Sep. 25 2025. `NeurIPS 2025`
+  - This paper can be analyzed together with the [Verbalized sampling](https://www.verbalized-sampling.com/) paper.
 
 ### Post-training for bert
 
