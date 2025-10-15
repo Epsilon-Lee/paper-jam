@@ -262,6 +262,7 @@
 
 #### Understanding reasoning
 
+- [Towards a mechanistic interpretation of multi-step reasoning capabilities of language models](https://arxiv.org/pdf/2310.14491), Oct. 23 2023. [code](https://github.com/yifan-h/MechanisticProbe).
 - [How well can reasoning models identify and recover from unhelpful thoughts](https://arxiv.org/pdf/2506.10979), Jun. 12 2025.
 - [Reasoning by superposition: A theoretical perspective on chain of continuous thought](https://arxiv.org/pdf/2505.12514), May 18 2025.
 - [Demystifing long chain-of-thought reasnoning](https://openreview.net/pdf?id=OLodUbcWjB), ICML 2025. [code](https://github.com/eddycmu/demystify-long-cot).
