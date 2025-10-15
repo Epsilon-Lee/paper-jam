@@ -241,6 +241,7 @@
 - [ReasoningBank: Scaling agent self-evolving with reasoning memory](https://arxiv.org/pdf/2509.25140), Sep. 29 2025.
 - [RAM 2: Reasoning, attention & memory - 10 years on](https://facebookresearch.github.io/RAM/workshop/COLM_2025/), Workshop COLM 2025.
 - [On the design of KL-regularized policy gradient algorithms for LLM reasoning](https://arxiv.org/pdf/2505.17508), May 23 2025. [code](https://github.com/complex-reasoning/RPG).
+- [A state-of-the-art SQL reasoning model using RLVR](https://arxiv.org/pdf/2509.21459), Sep. 25 2025.
 
 #### Interactive learning
 
