@@ -90,3 +90,7 @@
 - [The emergence of sparse attention: Impact of data distribution and benefits of repetition](https://arxiv.org/pdf/2505.17863), May 23 2025.
 - [Theoretical bounds for stable in-context learning](https://arxiv.org/pdf/2509.20677), Sep. 22 2025.
 - [The dynamic interplay between in-context and in-weight learning in humans and neural networks](https://arxiv.org/pdf/2402.08674), Sep. 4 2025.
+
+#### In-context attribution
+
+- [Generation-time vs. post-hoc citation: A holistic evaluation of LLM attribution](https://arxiv.org/pdf/2509.21557), Sep. 25 2025. [code](https://anonymous.4open.science/r/Citation_Paradigms-BBB5/).
