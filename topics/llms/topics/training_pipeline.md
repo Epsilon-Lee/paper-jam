@@ -219,6 +219,7 @@
   - _"SFT performs hard alignment of the crucial parameter directions to the target tasks, leading to rapid and greedy adjustment, but also quick forgetting; RL then conditionally re-aligns singular vectors softly and slowly towards a more robust configuration, healing the forgetting and learning the downstream tasks simultaneously"_
 - [can DPO learn diverse human values? A theoretical scaling law](https://arxiv.org/pdf/2408.03459), Sep. 25 2025. `NeurIPS 2025`
   - This paper can be analyzed together with the [Verbalized sampling](https://www.verbalized-sampling.com/) paper.
+- [IA2: Alignment with ICL activations improves supervised fine-tuning](https://arxiv.org/pdf/2509.22621), Sep. 26 2025. [code](https://github.com/aamixsh/ia2).
 
 ### Weak-to-strong generalization
 
