@@ -1,6 +1,8 @@
 
 > The science of endowing model with new & updated knowledge.
 
+- [LMEnt: A suite for analyzing knowledge in language models from pretraining data to representations](https://arxiv.org/pdf/2509.03405), Sep. 3 2025. [code](https://github.com/dhgottesman/LMEnt).
+
 ### Continual learning (cpt, cft), knowledge updating, model editing, model merging
 
 - [Intrinsic Dimensionality Explains The Effectiveness of Language Model Fine-Tuning](https://arxiv.org/pdf/2012.13255), Dec. 22 2020.
@@ -124,8 +126,23 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [SitEmb-v1.5: Improved context-aware dense retrieval for semantic association and long story comprehension](https://arxiv.org/pdf/2508.01959), Aug. 3 2025.
 - [MoNaCo: More natural and complex questions for reasoning across dozens of documents](https://arxiv.org/pdf/2508.11133), Aug. 15 2025. [code](https://arxiv.org/pdf/2508.11133).
 
-#### hallucinations
+#### Truthfulness, hallucinations
 
 - [Osiris: A lightweight open source hallucination detection system](https://cs191.stanford.edu/projects/Shan,%20Alexander_NLP%20191W.pdf), 2025. [code](https://github.com/JudgmentLabs/osiris-detection).
 - [(Im)possibility of automated hallucination detection in large language models](https://arxiv.org/pdf/2504.17004), Jun. 2 2025.
-- 
+- [Belief in the machine: Investigating epistemological blind spots of language models](https://arxiv.org/pdf/2410.21195), Oct. 28 2024.
+- [Fine-tuning language models for factuality](https://arxiv.org/abs/2311.08401), Nov. 14 2023.
+- [Does fine-tuning LLMs on new knowledge encourage hallucinations?](https://arxiv.org/pdf/2405.05904), May 2024.
+- [Language models hallucinate, but may excel at fact verification](https://arxiv.org/abs/2310.14564), Oct. 23 2024.
+- [To believe or not to believe your llm](https://arxiv.org/abs/2406.02543), Jun. 4 2024.
+- [The beginner's guide to hallucinations in large language models](https://www.lakera.ai/blog/guide-to-hallucinations-in-large-language-models), Oct. 20 2023.
+- [Hallucination is inevitable: An innate limitation of large language models](https://arxiv.org/pdf/2401.11817), Jan. 22 2024.
+- [INSIDE: LLM's interval states retain the power of hallucination detection](https://arxiv.org/pdf/2402.03744), Oct. 21 2024.
+- [Don't hallucinate, abstain: Identifying llm knowledge gaps via multi-llm collaboration](https://arxiv.org/pdf/2402.00367), Feb. 2024.
+- [Generalizing trust: Weak-to-strong trustworthiness in language models](https://arxiv.org/pdf/2501.00418), Dec. 31 2024.
+- [Hallucination, monofacts, and miscalibration: An empirical investigation](https://arxiv.org/pdf/2502.08666), Feb. 11 2025.
+- [The law of knowledge overshadowing: Towards understanding, predicting, and preventing LLM hallucination](https://arxiv.org/pdf/2502.16143), Feb. 22 2025.
+- [Safety alignment should be made more than just a few tokens deep](https://arxiv.org/pdf/2406.05946), Jun. 10 2024. [code](https://github.com/Unispac/shallow-vs-deep-alignment).
+- [From noise to narrative: Tracing the origins of hallucinations in Transformers](https://arxiv.org/pdf/2509.06938v1), Sep. 8 2025.
+- [Real-time detection of hallucination entities in long-form generation](https://arxiv.org/pdf/2509.03531), Aug. 26 2025.
+- [Are hallucinations bad estimations?](https://arxiv.org/pdf/2509.21473), Sep. 22 2025. [code](https://github.com/MAGICS-LAB/hallucination).
