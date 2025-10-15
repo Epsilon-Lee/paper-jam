@@ -105,23 +105,3 @@
 ##### Safety constitution (with reasoning)
 
 - [GuardReasoner: Towards reasoning-based LLM safeguards](https://arxiv.org/pdf/2501.18492), Jan. 30 2025.
-
-#### Truthfulness, hallucination
-
-- [Belief in the machine: Investigating epistemological blind spots of language models](https://arxiv.org/pdf/2410.21195), Oct. 28 2024.
-- [Fine-tuning language models for factuality](https://arxiv.org/abs/2311.08401), Nov. 14 2023.
-- [Does fine-tuning LLMs on new knowledge encourage hallucinations?](https://arxiv.org/pdf/2405.05904), May 2024.
-- [Language models hallucinate, but may excel at fact verification](https://arxiv.org/abs/2310.14564), Oct. 23 2024.
-- [To believe or not to believe your llm](https://arxiv.org/abs/2406.02543), Jun. 4 2024.
-- [The beginner's guide to hallucinations in large language models](https://www.lakera.ai/blog/guide-to-hallucinations-in-large-language-models), Oct. 20 2023.
-- [Hallucination is inevitable: An innate limitation of large language models](https://arxiv.org/pdf/2401.11817), Jan. 22 2024.
-- [INSIDE: LLM's interval states retain the power of hallucination detection](https://arxiv.org/pdf/2402.03744), Oct. 21 2024.
-- [Don't hallucinate, abstain: Identifying llm knowledge gaps via multi-llm collaboration](https://arxiv.org/pdf/2402.00367), Feb. 2024.
-- [Generalizing trust: Weak-to-strong trustworthiness in language models](https://arxiv.org/pdf/2501.00418), Dec. 31 2024.
-- [Hallucination, monofacts, and miscalibration: An empirical investigation](https://arxiv.org/pdf/2502.08666), Feb. 11 2025.
-- [The law of knowledge overshadowing: Towards understanding, predicting, and preventing LLM hallucination](https://arxiv.org/pdf/2502.16143), Feb. 22 2025.
-- [Safety alignment should be made more than just a few tokens deep](https://arxiv.org/pdf/2406.05946), Jun. 10 2024. [code](https://github.com/Unispac/shallow-vs-deep-alignment).
-- [From noise to narrative: Tracing the origins of hallucinations in Transformers](https://arxiv.org/pdf/2509.06938v1), Sep. 8 2025.
-- [Real-time detection of hallucination entities in long-form generation](https://arxiv.org/pdf/2509.03531), Aug. 26 2025.
-
-
