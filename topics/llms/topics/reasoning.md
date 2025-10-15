@@ -244,6 +244,7 @@
 #### Interactive learning
 
 - [The era of real-world human interaction: RL from user conversations](https://arxiv.org/pdf/2509.25137), Sep. 29 2025.
+- [Language models can learn from verbal feedback without scalar rewards](https://arxiv.org/pdf/2509.22638), Sep. 26 2025. [code](https://github.com/sail-sg/feedback-conditional-policy).
 
 #### Reasoning for VLMs
 
