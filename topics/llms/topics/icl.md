@@ -14,6 +14,7 @@
 - [On the theoretical interpretations of concept-based in-context learning](https://arxiv.org/pdf/2509.20882), Sep. 25 2025.
 - [Mechanism of task-oriented information removal in in-context learning](https://arxiv.org/pdf/2509.21012), Sep. 25 2025.
 - [Understanding prompt tuning and in-context learning via meta-learning](https://arxiv.org/pdf/2505.17010), May 22 2025.
+- [Dual process learning: Controlling the use of in-context vs. in-weights strategies with weigt forgetting](https://arxiv.org/pdf/2406.00053), Mar. 1 2025. [code](https://github.com/surajK610/dual-process-learning).
 
 #### Empirical observation of icl
 
@@ -88,8 +89,4 @@
 - [Induction heads as an essential mechanism for pattern matching in in-context learning](https://arxiv.org/pdf/2407.07011), Apr. 2025. [code](https://arxiv.org/pdf/2407.07011).
 - [The emergence of sparse attention: Impact of data distribution and benefits of repetition](https://arxiv.org/pdf/2505.17863), May 23 2025.
 - [Theoretical bounds for stable in-context learning](https://arxiv.org/pdf/2509.20677), Sep. 22 2025.
-
-
-
-
-
+- [The dynamic interplay between in-context and in-weight learning in humans and neural networks](https://arxiv.org/pdf/2402.08674), Sep. 4 2025.
