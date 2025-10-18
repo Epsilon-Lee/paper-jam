@@ -136,6 +136,10 @@
   - _"we identify that the key challenge lies in the scarcity of challenging data for information seeking [...] we introduce WebExplorer: a systematic data generation approach using model-based exploration and iterative, long-to-short query evolution. This method creates challenging query-answer pairs that require multi-step reasoning and complex web navigation"_
   - _"Our model supports 128K context length and up to 100 tool calling turns, enabling long-horizon problem solving"_
 - [How to train your LLM web agent: A statistical diagnosis](https://arxiv.org/pdf/2507.04103), Jul. 5 2025.
+- [Explore to evolve: Scaling evolved aggregation logic via proactive online exploration for deep research agents](https://arxiv.org/pdf/2510.14438), Oct. 16 2025. [code](https://github.com/Tencent/CognitiveKernel-Pro).
+- [An efficient rubric-based generative verifier for search-augmented LLMs](https://arxiv.org/pdf/2510.14660), Oct. 16 2025. [code](https://github.com/linyue-ma/Search-Gen-V).
+- [PRISM: Agentic retrieval with LLMs for multi-hop question answering](https://arxiv.org/pdf/2510.14278), Oct. 16 2025.
+- [Synthesizing agentic data for web agents with progressive difficulty enhancement machenisms](https://arxiv.org/pdf/2510.13913), Oct. 15 2025.
 
 **toolkits**
 - [verl-tool](https://deepwiki.com/TIGER-AI-Lab/verl-tool).
@@ -152,5 +156,7 @@
 - [WebMall - A multi-shop benchmark for evaluating web agents](https://arxiv.org/pdf/2508.13024), Aug. 18 2025. [code](https://github.com/wbsg-uni-mannheim/WebMall).
 - [MM-BrowseComp: A comprehensive benchmark for multimodal browsing agents](https://www.arxiv.org/pdf/2508.13186), Aug. 14 2025.
 - [research-eval](https://github.com/reka-ai/research-eval), Aug. 28 2025, by Reka. [blogpost](https://reka.ai/news/introducing-research-eval-a-benchmark-for-search-augmented-llms).
+- [FinDeepResearch: Evaluating deep research agents in rigorous financial analysis](https://arxiv.org/pdf/2510.13936), Oct. 15 2025.
+- [RAGCap-Bench: Benchmarking capabilities of LLMs in agentic retrieval augmented generation systems](https://arxiv.org/pdf/2510.13910), Oct. 15 2025.
 
 
