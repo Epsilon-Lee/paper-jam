@@ -48,8 +48,9 @@
 - [Continual learning for large language models: A survey](https://arxiv.org/pdf/2402.01364), Feb. 7 2024.
 - [Continual learning of large language models: A comprehensive survey](https://arxiv.org/pdf/2404.16789), Nov. 25 2024.
 - [Investigating continual pretraining in large language models: Insights and implications](https://arxiv.org/pdf/2402.17400), Feb. 12 2025. `TMLR`.
-- [Domain specialization as the key to make large language models disruptive: A comprehensive survey](), Mar. 29 2024.
-- [Efficient continual pre-training for building domain specific large language models](), ACL 2024.
+- [Domain specialization as the key to make large language models disruptive: A comprehensive survey](https://arxiv.org/pdf/2305.18703), Mar. 29 2024.
+- [Efficient continual pre-training for building domain specific large language models](https://arxiv.org/pdf/2311.08545), ACL 2024.
+- [Midtraining bridges pretraining and posttraining distributions](https://arxiv.org/pdf/2510.14865), Oct. 16 2025. [code](arxiv.org/pdf/2510.14865).
 
 ### Peft techniques
 
