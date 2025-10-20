@@ -5,6 +5,8 @@
 - [Drag-and-drop LLMs: Zero-shot prompt-to-weights](https://arxiv.org/pdf/2506.16406), Jun. 19 2025. [code](https://github.com/jerryliang24/Drag-and-Drop-LLMs).
 - [Sample-efficient online learning in LM agents via hindsight trajectory rewriting](https://arxiv.org/pdf/2510.10304), Oct. 11 2025. [code](https://github.com/michahu/echo).
 - [Learning on the job: An experience-driven self-evolving agent for long-horizon tasks](https://github.com/TheAgentCompany/experiments/tree/main/evaluation/1.0.0/20251013_MUSE-gemini-2.5-flash), Oct. 2025. `code agent`.
+- [In-context clustering with large language models](https://arxiv.org/pdf/2510.08466), Oct. 9 2025. [code](https://github.com/Agentic-Learning-AI-Lab/icc).
+- [Opt-ICL at LeWiDi-2025: Maximizing in-context signal from rater examples via meta-learning](https://arxiv.org/pdf/2510.07105), Oct. 8 2025.
 
 ### In-context learning
 
@@ -25,6 +27,7 @@
 - [Prompt baking](https://arxiv.org/pdf/2409.13697), Sep. 4 2024.
 - [From rag to memory: Non-parametric continual learning for large language models](https://arxiv.org/pdf/2502.14802), Jun. 19 2025. [code](https://github.com/OSU-NLP-Group/HippoRAG).
 - [Online adaptation of language models with a memory of amortised contexts](https://proceedings.neurips.cc/paper_files/paper/2024/file/eaf956b52bae51fbf387b8be4cc3ce18-Paper-Conference.pdf), NeurIPS 2024. [code](https://github.com/jihoontack/MAC).
+  - _"Learning With Disagreements competition consists of four datasets across two tassks for modeling disagreement"_
 
 #### Empirical observation of icl
 
