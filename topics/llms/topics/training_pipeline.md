@@ -221,6 +221,7 @@
 - [can DPO learn diverse human values? A theoretical scaling law](https://arxiv.org/pdf/2408.03459), Sep. 25 2025. `NeurIPS 2025`
   - This paper can be analyzed together with the [Verbalized sampling](https://www.verbalized-sampling.com/) paper.
 - [IA2: Alignment with ICL activations improves supervised fine-tuning](https://arxiv.org/pdf/2509.22621), Sep. 26 2025. [code](https://github.com/aamixsh/ia2).
+- [A fundamental confusion about DPO and beta](https://oirs.substack.com/p/a-fundamental-confusion-about-dpo), Oct. 15 2025. `blogpost`
 
 ### Weak-to-strong generalization
 
