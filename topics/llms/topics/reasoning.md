@@ -242,6 +242,10 @@
 - [RAM 2: Reasoning, attention & memory - 10 years on](https://facebookresearch.github.io/RAM/workshop/COLM_2025/), Workshop COLM 2025.
 - [On the design of KL-regularized policy gradient algorithms for LLM reasoning](https://arxiv.org/pdf/2505.17508), May 23 2025. [code](https://github.com/complex-reasoning/RPG).
 - [A state-of-the-art SQL reasoning model using RLVR](https://arxiv.org/pdf/2509.21459), Sep. 25 2025.
+- [The art of scaling reinforcement learning compute for LLMs](https://arxiv.org/pdf/2510.13786), Oct. 15 2025.
+- [Reward hacking research update](https://blog.eleuther.ai/reward_hacking/), Oct. 7 2025.
+- [Reasoning with sampling: Your base model is smarter than you think](https://arxiv.org/abs/2510.14901), Oct. 16 2025. [code](https://github.com/aakaran/reasoning-with-sampling).
+- [Not all bits are equal: Scale-dependent memory optimization strategies for reasoning models](https://arxiv.org/pdf/2510.10964), Oct. 13 2025.
 
 #### Interactive learning
 
