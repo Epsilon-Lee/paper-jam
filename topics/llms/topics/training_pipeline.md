@@ -224,6 +224,9 @@
 - [IA2: Alignment with ICL activations improves supervised fine-tuning](https://arxiv.org/pdf/2509.22621), Sep. 26 2025. [code](https://github.com/aamixsh/ia2).
 - [A fundamental confusion about DPO and beta](https://oirs.substack.com/p/a-fundamental-confusion-about-dpo), Oct. 15 2025. `blogpost`
 - [Spectrum tuning: Post-training for distributional coverage and in-context steerability](https://arxiv.org/pdf/2510.06084), Oct. 7 2025. [code](https://github.com/tsor13/spectrum).
+- [Contrastive preference optimization: Pushing the boundaries of LLM performance in machine translation](https://arxiv.org/pdf/2401.08417), Jun. 3 2024. [code](https://github.com/fe1ixxu/ALMA).
+- [Insights into alignment: Evaluating DPO and its variants across multiple tasks](https://arxiv.org/pdf/2404.14723v1), Apr. 23 2025. `trl`
+- [Chain of preference optimization: Improving chain-of-thought reasoning in LLMs](https://arxiv.org/abs/2406.09136), Jun. 13 2024. [code](https://github.com/sail-sg/CPO).
 
 ### Weak-to-strong generalization
 
