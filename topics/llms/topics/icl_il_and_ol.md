@@ -1,4 +1,11 @@
 
+> More natural machine learning paradigms: In-context learning, interactive learning, online learning from supervision in natural language.
+
+- [When to show a suggestion? Integrating human feedback in AI-assisted programming](https://arxiv.org/pdf/2306.04930), Apr. 22 2024.
+- [Drag-and-drop LLMs: Zero-shot prompt-to-weights](https://arxiv.org/pdf/2506.16406), Jun. 19 2025. [code](https://github.com/jerryliang24/Drag-and-Drop-LLMs).
+- [Sample-efficient online learning in LM agents via hindsight trajectory rewriting](https://arxiv.org/pdf/2510.10304), Oct. 11 2025. [code](https://github.com/michahu/echo).
+- [Learning on the job: An experience-driven self-evolving agent for long-horizon tasks](https://github.com/TheAgentCompany/experiments/tree/main/evaluation/1.0.0/20251013_MUSE-gemini-2.5-flash), Oct. 2025. `code agent`.
+
 ### In-context learning
 
 - [Out-of-distribution generalization via composition: A lens through induction heads in Transformers](https://arxiv.org/abs/2408.09503), Dec. 28 2024.
@@ -15,6 +22,9 @@
 - [Mechanism of task-oriented information removal in in-context learning](https://arxiv.org/pdf/2509.21012), Sep. 25 2025.
 - [Understanding prompt tuning and in-context learning via meta-learning](https://arxiv.org/pdf/2505.17010), May 22 2025.
 - [Dual process learning: Controlling the use of in-context vs. in-weights strategies with weigt forgetting](https://arxiv.org/pdf/2406.00053), Mar. 1 2025. [code](https://github.com/surajK610/dual-process-learning).
+- [Prompt baking](https://arxiv.org/pdf/2409.13697), Sep. 4 2024.
+- [From rag to memory: Non-parametric continual learning for large language models](https://arxiv.org/pdf/2502.14802), Jun. 19 2025. [code](https://github.com/OSU-NLP-Group/HippoRAG).
+- [Online adaptation of language models with a memory of amortised contexts](https://proceedings.neurips.cc/paper_files/paper/2024/file/eaf956b52bae51fbf387b8be4cc3ce18-Paper-Conference.pdf), NeurIPS 2024. [code](https://github.com/jihoontack/MAC).
 
 #### Empirical observation of icl
 
@@ -90,7 +100,10 @@
 - [The emergence of sparse attention: Impact of data distribution and benefits of repetition](https://arxiv.org/pdf/2505.17863), May 23 2025.
 - [Theoretical bounds for stable in-context learning](https://arxiv.org/pdf/2509.20677), Sep. 22 2025.
 - [The dynamic interplay between in-context and in-weight learning in humans and neural networks](https://arxiv.org/pdf/2402.08674), Sep. 4 2025.
+- [Transformers learn in-context by gradient descent](https://arxiv.org/pdf/2212.07677), May 31 2023. [code](https://github.com/google-research/self-organising-systems/tree/master/transformers_learn_icl_by_gd).
 
 #### In-context attribution
 
 - [Generation-time vs. post-hoc citation: A holistic evaluation of LLM attribution](https://arxiv.org/pdf/2509.21557), Sep. 25 2025. [code](https://anonymous.4open.science/r/Citation_Paradigms-BBB5/).
+
+
