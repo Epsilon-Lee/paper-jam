@@ -18,7 +18,8 @@
 - [ASGO: Adaptive structured gradient optimization](https://arxiv.org/pdf/2503.20762), Mar. 26 2025.
 - [Understanding the learning dynamics of LoRA: A gradient flow perspective on low-rank adaptation in matrix factorization](https://arxiv.org/pdf/2503.06982), Mar. 10 2025.
 - [Dion: Distributed Orthonormalized Updates](https://arxiv.org/pdf/2504.05295), May 21 2025. [code](https://github.com/microsoft/dion).
-- [Fantastic pretraining optimizers and where to find them](https://arxiv.org/pdf/2509.02046), Sep. 4 2025. [code]().
+- [Fantastic pretraining optimizers and where to find them](https://arxiv.org/pdf/2509.02046), Sep. 4 2025. [code](https://github.com/marin-community/marin/issues/1290).
+- [The potential of second-order optimization for LLMs: A study with full Gauss-Newton](https://arxiv.org/pdf/2510.09378), Oct. 10 2025.
 
 ### Pre-training
 
@@ -222,6 +223,7 @@
   - This paper can be analyzed together with the [Verbalized sampling](https://www.verbalized-sampling.com/) paper.
 - [IA2: Alignment with ICL activations improves supervised fine-tuning](https://arxiv.org/pdf/2509.22621), Sep. 26 2025. [code](https://github.com/aamixsh/ia2).
 - [A fundamental confusion about DPO and beta](https://oirs.substack.com/p/a-fundamental-confusion-about-dpo), Oct. 15 2025. `blogpost`
+- [Spectrum tuning: Post-training for distributional coverage and in-context steerability](https://arxiv.org/pdf/2510.06084), Oct. 7 2025. [code](https://github.com/tsor13/spectrum).
 
 ### Weak-to-strong generalization
 
