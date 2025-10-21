@@ -54,6 +54,7 @@
 - [MetaMind: Modeling human social thoughts with metacognitive multi-agent systems](https://arxiv.org/abs/2505.18943), May 25 2025. [code](https://github.com/XMZhangAI/MetaMind).
 - [Self-improving LLM agents at test-time](https://arxiv.org/pdf/2510.07841), Oct. 9 2025.
 - [Agentic context engineering: Evolving contexts for self-improving language models](https://arxiv.org/pdf/2510.04618v1), Oct. 6 2025.
+- [PolySkill: Learning generalizable skills through polymorphic abstraction](https://arxiv.org/pdf/2510.15863), Oct. 17 2025.
 
 #### Memory modeling
 
@@ -95,6 +96,10 @@
 - [The AI scientist-v2: Workshop-level automated scientific discovery via agentic tree search](https://pub.sakana.ai/ai-scientist-v2/paper/paper.pdf), Apr. 8 2025.
 - [AI research agents for machine learning: Search, exploration, and generalization in MLE-bench](https://arxiv.org/pdf/2507.02554), Jul. 3 2025. [code](https://arxiv.org/pdf/2507.02554).
 - [ShinkaEvolve: Towards open-ended and sample-efficient program evolution](https://arxiv.org/abs/2509.19349), Sep. 17 2025. [code](https://github.com/SakanaAI/ShinkaEvolve).
+
+#### Research agent
+
+- [Build your personalized research group: A multiagent framework for continual and interactive science automation](https://arxiv.org/pdf/2510.15624), Oct. 17 2025. [code](https://github.com/ltjed/freephdlabor). [blogpost](https://freephdlabor.github.io/).
 
 #### Code agent
 
