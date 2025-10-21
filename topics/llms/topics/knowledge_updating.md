@@ -125,6 +125,8 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [LEANN: A low-storage vector index](https://arxiv.org/pdf/2506.08276), Jun. 9 2025.
 - [SitEmb-v1.5: Improved context-aware dense retrieval for semantic association and long story comprehension](https://arxiv.org/pdf/2508.01959), Aug. 3 2025.
 - [MoNaCo: More natural and complex questions for reasoning across dozens of documents](https://arxiv.org/pdf/2508.11133), Aug. 15 2025. [code](https://arxiv.org/pdf/2508.11133).
+- [AutoGraph-R1: End-to-end reinforcement learning for knowledge graph construction](https://arxiv.org/abs/2510.15339), Oct. 17 2025. [code](https://github.com/HKUST-KnowComp/AutoGraph-R1).
+- [Structure-R1: Dynamically leveraging structural knowledge in LLM reasoning through reinforcement learning](https://arxiv.org/pdf/2510.15191), Oct. 16 2025. [code](https://github.com/jlwu002/sr1).
 
 #### Truthfulness, hallucinations
 
