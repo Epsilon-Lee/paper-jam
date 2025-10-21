@@ -267,6 +267,7 @@
 - [VISCO: Benchmarking fine-grained critique and correction towards self-improvement in visual reasoning](https://arxiv.org/pdf/2412.02172), Mar. 18 2025. [code](https://github.com/PlusLabNLP/VISCO).
 - [When seeing is not enough: Revealing the limits of active reasoning in MLLMs](https://arxiv.org/pdf/2510.15421), Oct. 17 2025. 
 - [Train a unified multimodal data quality classifier with synthetic data](https://arxiv.org/pdf/2510.15162), Oct. 16 2025. [code](https://github.com/Victorwz/UniFilter). [post-training data](https://huggingface.co/datasets/weizhiwang/unifilter_train_data/viewer).
+- [Composition-grounded instruction synthesis for visual reasoning](https://arxiv.org/pdf/2510.15040), Oct. 16 2025.
 
 #### RL algorithmic innovations
 
