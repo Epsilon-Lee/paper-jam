@@ -56,6 +56,10 @@
 - [Agentic context engineering: Evolving contexts for self-improving language models](https://arxiv.org/pdf/2510.04618v1), Oct. 6 2025.
 - [PolySkill: Learning generalizable skills through polymorphic abstraction](https://arxiv.org/pdf/2510.15863), Oct. 17 2025.
 
+#### World models and planning
+
+- [Internalizing world models via self-play finetuning for agentic rl](https://arxiv.org/pdf/2510.15047), Oct. 16 2025. [code](https://github.com/shiqichen17/SPA).
+
 #### Memory modeling
 
 - [Agent Workflow Memory](https://arxiv.org/pdf/2409.07429), Sep. 11 2024.
