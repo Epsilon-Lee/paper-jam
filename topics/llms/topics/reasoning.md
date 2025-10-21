@@ -247,6 +247,10 @@
 - [Reasoning with sampling: Your base model is smarter than you think](https://arxiv.org/abs/2510.14901), Oct. 16 2025. [code](https://github.com/aakaran/reasoning-with-sampling).
 - [Not all bits are equal: Scale-dependent memory optimization strategies for reasoning models](https://arxiv.org/pdf/2510.10964), Oct. 13 2025.
 
+#### Adaptive reasoning
+
+- [ProofOptimizer: Training language models to simplify proofs without human demonstrations](https://arxiv.org/pdf/2510.15700), Oct. 17 2025.
+
 #### Latent reasoning
 
 - [Latent reasoning in LLMs as a vocabulary-space superposition](https://arxiv.org/pdf/2510.15522), Oct. 17 2025. [code](https://github.com/DJC-GO-SOLO/Latent-SFT).
