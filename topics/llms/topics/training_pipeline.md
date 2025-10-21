@@ -52,6 +52,7 @@
 - [Domain specialization as the key to make large language models disruptive: A comprehensive survey](https://arxiv.org/pdf/2305.18703), Mar. 29 2024.
 - [Efficient continual pre-training for building domain specific large language models](https://arxiv.org/pdf/2311.08545), ACL 2024.
 - [Midtraining bridges pretraining and posttraining distributions](https://arxiv.org/pdf/2510.14865), Oct. 16 2025. [code](arxiv.org/pdf/2510.14865).
+- [Continual learning via sparse memory finetuning](https://arxiv.org/pdf/2510.15103), Oct. 16 2025.
 
 ### Peft techniques
 
