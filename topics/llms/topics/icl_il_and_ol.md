@@ -7,6 +7,7 @@
 - [Learning on the job: An experience-driven self-evolving agent for long-horizon tasks](https://github.com/TheAgentCompany/experiments/tree/main/evaluation/1.0.0/20251013_MUSE-gemini-2.5-flash), Oct. 2025. `code agent`.
 - [In-context clustering with large language models](https://arxiv.org/pdf/2510.08466), Oct. 9 2025. [code](https://github.com/Agentic-Learning-AI-Lab/icc).
 - [Opt-ICL at LeWiDi-2025: Maximizing in-context signal from rater examples via meta-learning](https://arxiv.org/pdf/2510.07105), Oct. 8 2025.
+- [Training-free group relative policy optimization](https://arxiv.org/pdf/2510.08191), Oct. 9 2025. [code](https://github.com/TencentCloudADP/youtu-agent/tree/training_free_GRPO).
 
 ### In-context learning
 
