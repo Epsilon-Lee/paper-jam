@@ -49,6 +49,7 @@
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971), Feb. 27 2023.
 - [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288), Jul. 18 2023.
 - [The Llama 3 Herd of Models](https://arxiv.org/pdf/2407.21783), Jul. 2024.
+- [The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation](https://ai.meta.com/blog/llama-4-multimodal-intelligence/), Apr. 5 2025.
 
 **Claude**
 - [Introducing Claude](https://www.anthropic.com/news/introducing-claude), Mar. 14 2023.
