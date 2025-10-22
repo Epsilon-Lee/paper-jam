@@ -202,6 +202,10 @@
 - [OrtSAE: Orthogonal sparse autoencoders uncover atomic features](https://arxiv.org/pdf/2509.22033), Sep. 26 2025.
 - [Concept-SAE: Active causal probing for visual model behavior](https://arxiv.org/pdf/2509.22015), Sep. 26 2025. [code](https://github.com/RafaDD/Concept-SAE).
 - [Binary autoencoder for mechanistic interpretability of large language models](https://arxiv.org/pdf/2509.20997), Sep. 25 2025.
+- [LLM interpretability wit identifiable temporal-instantaneous representation](https://arxiv.org/pdf/2509.23323), Sep. 27 2025.
+- [Overcoming sparsity artifacts in crosscoders to interpret chat-tuning](https://arxiv.org/pdf/2504.02922), Oct. 16 2025. [code](https://github.com/science-of-finetuning/sparsity-artifacts-crosscoders). [training library](https://github.com/science-of-finetuning/crosscoder_learning).
+- [ProxySPEX: Inference-efficient interpretability via spase feature interactions in LLMs](https://arxiv.org/pdf/2505.17495), May 23 2025.
+- [Interpreting vision transformers via residual replacement model](https://arxiv.org/pdf/2509.17401), Sep. 22 2025. [code](https://github.com/rubato-yeong/RRM).
 
 #### Probing
 
