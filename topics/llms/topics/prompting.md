@@ -27,6 +27,7 @@
 - [System prompt optimization with meta-learning](https://arxiv.org/pdf/2505.09666), May 14 2025. [code](https://github.com/Dozi01/MetaSPO).
 - [DRO-InstructZero: Distributionally robust prompt optimization for large language models](https://arxiv.org/pdf/2510.15260), Oct. 17 2025.
 - [No loss, no gain: Gated refinement and adaptive compression for prompt optimization](https://www.arxiv.org/pdf/2509.23387), Sep. 27 2025. [code](https://github.com/Eric8932/GRACE).
+- [Prompt-MII: Meta-learning instruction induction for LLMs](https://arxiv.org/pdf/2510.16932), Oct. 19 2025. [code](https://github.com/millix19/promptmii).
 
 #### Theory
 
