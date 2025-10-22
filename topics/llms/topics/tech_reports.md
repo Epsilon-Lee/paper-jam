@@ -121,6 +121,11 @@
 - [Kwai Keye-VL technical report](https://arxiv.org/pdf/2507.01949), Jul. 2 2025.
 - [Kwai Keye-VL 1.5 technical report](https://arxiv.org/pdf/2509.01563), Sep. 1 2025. [code](https://github.com/Kwai-Keye/Keye).
 
+**Hermes** by NousResearch
+> They mostly conducted post-training, so they use base models from Llama and Qwen series.
+- [Hermes 3 technical report](https://arxiv.org/pdf/2408.11857), Aug. 15 2024.
+- [Hermes 4 technical report](https://arxiv.org/pdf/2508.18255), Sep. 2 2025.
+
 ### Domain LLMs
 
 - [Galactica: A Large Language Model for Science](https://arxiv.org/pdf/2211.09085), Nov. 16 2022. `science`.
