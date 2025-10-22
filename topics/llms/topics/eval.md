@@ -44,6 +44,7 @@
   - _"estimating a model's score from a redacted task description and intended configuration, with no access to dataset instances"_
 - [Readability \neq learnability: Rethinking the role of simplicity in training small language models](https://openreview.net/pdf?id=AFMGbq39bQ), COLM 2025. [data](https://huggingface.co/collections/ivnle/llamatales-6716dad1a3113c4c3ea1038e). [openreview](https://openreview.net/forum?id=AFMGbq39bQ#discussion).
 - [Predicting language models' success at zero-shot probabilistic prediction](https://arxiv.org/abs/2509.15356), Sep. 18 2025. [code](https://arxiv.org/abs/2509.15356).
+- [Let's measure information step-by-step: LLM-based evaluation beyond vibes](https://arxiv.org/pdf/2508.05469), Aug. 21 2025. [code](https://github.com/zrobertson466920/llm-peer-prediction/tree/main).
 
 #### Data contamination
 
