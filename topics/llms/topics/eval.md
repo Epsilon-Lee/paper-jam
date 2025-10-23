@@ -46,6 +46,7 @@
 - [Predicting language models' success at zero-shot probabilistic prediction](https://arxiv.org/abs/2509.15356), Sep. 18 2025. [code](https://arxiv.org/abs/2509.15356).
 - [Let's measure information step-by-step: LLM-based evaluation beyond vibes](https://arxiv.org/pdf/2508.05469), Aug. 21 2025. [code](https://github.com/zrobertson466920/llm-peer-prediction/tree/main).
 - [Holistic Agent Leaderboard: The missing infrastructure for AI agent evaluation](https://arxiv.org/pdf/2510.11977), Oct. 13 2025.
+- [LLMs judge themselves: A game-theoretic framework for human-aligned evaluation](https://arxiv.org/pdf/2510.15746), Oct. 17 2025.
 
 #### Data contamination
 
