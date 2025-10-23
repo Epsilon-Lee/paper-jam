@@ -246,6 +246,7 @@
 - [Reward hacking research update](https://blog.eleuther.ai/reward_hacking/), Oct. 7 2025.
 - [Reasoning with sampling: Your base model is smarter than you think](https://arxiv.org/abs/2510.14901), Oct. 16 2025. [code](https://github.com/aakaran/reasoning-with-sampling).
 - [Not all bits are equal: Scale-dependent memory optimization strategies for reasoning models](https://arxiv.org/pdf/2510.10964), Oct. 13 2025.
+- [Front-loading reasoning: The synergy between pretraining and post-training data](https://arxiv.org/pdf/2510.03264), Sep. 26 2025.
 
 #### Adaptive reasoning
 
