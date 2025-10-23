@@ -16,5 +16,8 @@
 - [Variational uncertainty decomposition for in-context learning](https://arxiv.org/pdf/2509.02327), Sep. 3 2025. [code](https://github.com/jacobyhsi/VUD).
 - [Estimating semantic alphabet size for LLM uncertainty quantification](https://arxiv.org/pdf/2509.14478), Sep. 17 2025.
 - [Quantifying uncertainty in natural language explanations of large language models for question answering](https://arxiv.org/pdf/2509.15403), Sep. 18 2025.
+- [Trace length is a simple uncertainty signal in reasoning models](https://arxiv.org/pdf/2510.10409),
+  - _" we show that trace length performs in comparable but complementary ways to other zero-shot confidence estimators such as verbalized confidence"_
+  - _"We identify high-entropy or “forking” tokens as playing a key role in the mechanism"_
 
 
