@@ -20,6 +20,7 @@
 - [Dion: Distributed Orthonormalized Updates](https://arxiv.org/pdf/2504.05295), May 21 2025. [code](https://github.com/microsoft/dion).
 - [Fantastic pretraining optimizers and where to find them](https://arxiv.org/pdf/2509.02046), Sep. 4 2025. [code](https://github.com/marin-community/marin/issues/1290).
 - [The potential of second-order optimization for LLMs: A study with full Gauss-Newton](https://arxiv.org/pdf/2510.09378), Oct. 10 2025.
+- [LOTION: Smoothing the optimization landscape for quantized training](https://arxiv.org/pdf/2510.08757), Oct. 9 2025. `QAT`
 
 ### Pre-training
 
