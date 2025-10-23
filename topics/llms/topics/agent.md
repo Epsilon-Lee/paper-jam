@@ -55,6 +55,7 @@
 - [Self-improving LLM agents at test-time](https://arxiv.org/pdf/2510.07841), Oct. 9 2025.
 - [Agentic context engineering: Evolving contexts for self-improving language models](https://arxiv.org/pdf/2510.04618v1), Oct. 6 2025.
 - [PolySkill: Learning generalizable skills through polymorphic abstraction](https://arxiv.org/pdf/2510.15863), Oct. 17 2025.
+- [How can we asses human-agent interactions? Case studies in software agent design](https://arxiv.org/pdf/2510.09801), Oct. 10 2025.
 
 #### World models and planning
 
