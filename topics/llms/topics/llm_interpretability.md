@@ -174,6 +174,7 @@
 - [Detecting (un)answerability in large language models with linear directions](https://arxiv.org/pdf/2509.22449), Sep. 26 2025. [code](https://github.com/MaorLavi/unanswerability-directions).
 - [Representing LLMs in prompt semantic task space](https://arxiv.org/pdf/2509.22506), Sep. 26 2025.
 - [Neologism learning for controllability and self-verbalization](https://arxiv.org/pdf/2510.08506?), Oct. 9 2025.
+- [Verifying chain-of-thought reasoning via its computational graph](https://arxiv.org/pdf/2510.09312), Oct. 10 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
