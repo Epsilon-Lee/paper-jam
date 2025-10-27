@@ -106,6 +106,7 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [PropMEND: Hypernetworks for knowledge propagation in LLMs](https://arxiv.org/pdf/2506.08920), Jun. 10 2025. [code](https://github.com/leo-liuzy/propmend).
 - [Fine-tuning or retrieval? Comparing knowledge injection in LLMs](https://aclanthology.org/2024.emnlp-main.15.pdf), EMNLP 2024.
 - [FineTuneBench: How well do commercial fine-tuning APIs infuse knowledge into LLMs?](https://arxiv.org/pdf/2411.05059?), Nov. 11 2024.
+- [Believe it or not: How deeply do LLMs believe implanted facts?](https://arxiv.org/pdf/2510.17941), Oct. 20 2025.
 
 #### RAG and knowledge graph
 
