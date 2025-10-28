@@ -107,6 +107,7 @@
 #### Research agent
 
 - [Build your personalized research group: A multiagent framework for continual and interactive science automation](https://arxiv.org/pdf/2510.15624), Oct. 17 2025. [code](https://github.com/ltjed/freephdlabor). [blogpost](https://freephdlabor.github.io/).
+- [Paper2Web: Let's make your paper alive!](https://arxiv.org/pdf/2510.15842), Oct. 17 2025. [code](https://github.com/YuhangChen1/Paper2All).
 
 #### Code agent
 
