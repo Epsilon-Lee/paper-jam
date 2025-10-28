@@ -248,6 +248,8 @@
 - [Not all bits are equal: Scale-dependent memory optimization strategies for reasoning models](https://arxiv.org/pdf/2510.10964), Oct. 13 2025.
 - [Front-loading reasoning: The synergy between pretraining and post-training data](https://arxiv.org/pdf/2510.03264), Sep. 26 2025.
 - [Deep self-evolving reasoning](https://arxiv.org/pdf/2510.17498), Oct. 20 2025.
+- [ReasonIF: Large reasoning models fail to follow instructions during reasoning](https://arxiv.org/pdf/2510.15211), Oct. 17 2025. [code](https://github.com/ykwon0407/reasonIF).
+- [From r to Q^*: Your language model is secretly a Q-function](https://arxiv.org/pdf/2404.12358), Aug. 12 2024.
 
 #### Adaptive reasoning
 
