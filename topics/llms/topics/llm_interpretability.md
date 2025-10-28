@@ -176,6 +176,8 @@
 - [Neologism learning for controllability and self-verbalization](https://arxiv.org/pdf/2510.08506?), Oct. 9 2025.
 - [Verifying chain-of-thought reasoning via its computational graph](https://arxiv.org/pdf/2510.09312), Oct. 10 2025.
 - [Getting aligned on representational alignment](https://openreview.net/forum?id=Hiq7lUh4Yn), TMLR 2025.
+- [Incremental sentence processing mechanisms in autoregressive transformer language models](https://arxiv.org/pdf/2412.05353), Dec. 6 2024. [code](https://github.com/hannamw/GP-mechanisms/).
+- [Hubble: A model suite to advance the study of LLM memorization](https://arxiv.org/pdf/2510.19811), Oct. 22 2025. [code](https://allegro-lab.github.io/hubble/).
 
 #### Sparse autoencoders, dictionary learning and beyond
 
