@@ -175,6 +175,7 @@
 - [Representing LLMs in prompt semantic task space](https://arxiv.org/pdf/2509.22506), Sep. 26 2025.
 - [Neologism learning for controllability and self-verbalization](https://arxiv.org/pdf/2510.08506?), Oct. 9 2025.
 - [Verifying chain-of-thought reasoning via its computational graph](https://arxiv.org/pdf/2510.09312), Oct. 10 2025.
+- [Getting aligned on representational alignment](https://openreview.net/forum?id=Hiq7lUh4Yn), TMLR 2025.
 
 #### Sparse autoencoders, dictionary learning and beyond
 
