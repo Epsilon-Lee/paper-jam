@@ -48,6 +48,7 @@
 - [Holistic Agent Leaderboard: The missing infrastructure for AI agent evaluation](https://arxiv.org/pdf/2510.11977), Oct. 13 2025.
 - [LLMs judge themselves: A game-theoretic framework for human-aligned evaluation](https://arxiv.org/pdf/2510.15746), Oct. 17 2025.
 - [Stress-testing model specs reveals character differences among language models](https://arxiv.org/pdf/2510.07686?), Oct. 23 2025.
+- [Benchmark as microscopes: A call for model metrology](https://arxiv.org/pdf/2407.16711), Jul. 30 2024.
 
 #### Data contamination
 
