@@ -251,6 +251,7 @@
 - [ReasonIF: Large reasoning models fail to follow instructions during reasoning](https://arxiv.org/pdf/2510.15211), Oct. 17 2025. [code](https://github.com/ykwon0407/reasonIF).
 - [From r to Q^*: Your language model is secretly a Q-function](https://arxiv.org/pdf/2404.12358), Aug. 12 2024.
 - [Scaf-GRPO: Scaffolded group relative policy optimization for enhancing LLM reasoning](https://arxiv.org/pdf/2510.19807), Oct. 22 2025. [code](https://github.com/dvlab-research/Scaf-GRPO).
+- [Supervised reinforcement learning: From expert trajectories to step-wise reasoning](https://arxiv.org/pdf/2510.25992), Oct. 29 2025.
 
 #### Adaptive reasoning
 
