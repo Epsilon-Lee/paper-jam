@@ -116,6 +116,7 @@
 - [ChatDev: Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924), Jun. 5 2024.
 - [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/pdf/2407.16741), Jul. 23 2024.
 - [SWE-rebench: A continuously evolving and decontaminated benchmark for software engineering LLMs](https://arxiv.org/abs/2505.20411), May 26 2025.
+- [TOM_SWE: User metal modeling for software engineering agents](https://arxiv.org/abs/2510.21903), Oct. 24 2025. [code](https://github.com/All-Hands-AI/ToM-SWE).
 
 #### Tool use agent
 
@@ -124,6 +125,7 @@
 - [Provable benefits of in-tool learning for large language models](https://arxiv.org/pdf/2508.20755), Aug. 28 2025.
 - [Synthetic data generation & multi-step $L for reasoning & tool use](https://openreview.net/pdf?id=oN9STRYQVa), COLM 2025.
 - [ToolDreamer: Instilling LLM reasoning into tool retrievers](https://arxiv.org/pdf/2510.19791), Oct. 22 2025.
+- [Teaching language models to reason with tools](https://arxiv.org/pdf/2510.20342), Oct. 23 2025. [code](https://github.com/ChengpengLi1003/CoRT).
 
 #### GUI and computer use agent
 
