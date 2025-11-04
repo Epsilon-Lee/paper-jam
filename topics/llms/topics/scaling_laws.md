@@ -51,6 +51,7 @@
 - [Establishing task scaling laws via compute-efficient model ladders](https://arxiv.org/pdf/2412.04403), Aug. 22 2025.
 - [Scaling laws are redundency laws](https://arxiv.org/pdf/2509.20721), Sep. 25 2025.
 - [Sloth: Scaling laws for LLM skills to predict multi-benchmark performance across families](https://arxiv.org/pdf/2412.06540), Feb. 5 2025. [code](https://github.com/felipemaiapolo/sloth).
+- [Relative scaling laws for LLMs](https://arxiv.org/pdf/2510.24626), Oct. 28 2025. [training code](https://github.com/marin-community/marin/blob/main/experiments/isoflop_sweep.py), [analysis code](https://github.com/Helw150/relative-scaling-laws).
 
 #### FLOPS
 
