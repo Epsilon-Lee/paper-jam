@@ -149,3 +149,9 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [From noise to narrative: Tracing the origins of hallucinations in Transformers](https://arxiv.org/pdf/2509.06938v1), Sep. 8 2025.
 - [Real-time detection of hallucination entities in long-form generation](https://arxiv.org/pdf/2509.03531), Aug. 26 2025.
 - [Are hallucinations bad estimations?](https://arxiv.org/pdf/2509.21473), Sep. 22 2025. [code](https://github.com/MAGICS-LAB/hallucination).
+
+#### Unlearning
+
+- [Provable unlearning in topic modeling and downstream tasks](https://arxiv.org/pdf/2411.12600), Apr. 20 2025.
+- [Intrinsic test of unlearning using parametric knowledge traces](https://arxiv.org/pdf/2406.11614), Sep. 1 2025. [code](https://github.com/yihuaihong/ConceptVectors).
+- [On the impossibility of retrain equivalence in machine unlearning](https://arxiv.org/pdf/2510.16629), Oct. 29 2025. [code](https://princeton-pli.github.io/impossibility-unlearning/).
