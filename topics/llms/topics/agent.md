@@ -18,9 +18,7 @@
 - [xLAM: A Family of Large Action Models to Empower AI Agent Systems](https://arxiv.org/pdf/2409.03215), Sep. 5 2024.
 - [The Impact of Element Ordering on LM Agent Performance](https://arxiv.org/pdf/2409.12089), Sep. 19 2024.
 - [AgentScope: A Flexible yet Robust Multi-Agent Platform](https://arxiv.org/pdf/2402.14034), May 20 2024. [github](https://github.com/modelscope/agentscope).
-- [TextGrad: Automatic “Differentiation” via Text](https://arxiv.org/pdf/2406.07496), Jun. 11 2024. [github](https://github.com/zou-group/textgrad).
 - [AFlow: Automatic agentic workflow generation](https://arxiv.org/pdf/2410.10762), Oct. 14 2024. [code](https://github.com/geekan/MetaGPT).
-- [Commit0: Library generation from scratch](https://arxiv.org/pdf/2412.01769), Dec. 2 2024. [code](https://github.com/commit-0/commit0).
 - [Magentic-One: A generalist multi-agent system for solving complex tasks](https://arxiv.org/pdf/2411.04468), Nov. 7 2024. [blogpost](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/).
 - [Trace is the Next AutoDiff: Generative Optimization with Rich Feedback, Execution Traces, and LLMs](https://arxiv.org/pdf/2406.16218), Nov. 1 2024. [code](https://microsoft.github.io/Trace/).
 - [Towards human-guided, data-centric LLM co-pilots](https://arxiv.org/pdf/2501.10321), Jan. 17 2025. `data science`.
@@ -83,6 +81,9 @@
 - [RLEF: Grounding code LLMs in execution feedback with reinforcement learning](https://arxiv.org/pdf/2410.02089), Feb. 18 2025.
 - [Darwin-Godel machine: Open-ended evolution of self-improving agents](https://arxiv.org/pdf/2505.22954), Sep. 26 2025. [code](https://github.com/jennyzzt/dgm).
 - [Huxley-Godel machine: Human-level coding agent development by an approximation of the optimal self-improving machine](https://arxiv.org/pdf/2510.21614), Oct. 24 2025. [code](https://github.com/metauto-ai/HGM).
+- [Multi-agent evolve: LLM self-improve through co-evolution](https://arxiv.org/pdf/2510.23595), Oct. 30 2025. [code](https://github.com/ulab-uiuc/Multi-agent-Evolve).
+- [Multi-module GRPO: Composing policy gradients and prompt optimization for language model programms](https://arxiv.org/abs/2508.04660), Aug. 6 2025.
+- [GEM: A gym for agentic LLMs](https://arxiv.org/pdf/2510.01051), Oct. 1 2025. [code](https://github.com/axon-rl/gem).
 
 #### Open-endedness
 
@@ -108,6 +109,7 @@
 
 - [Build your personalized research group: A multiagent framework for continual and interactive science automation](https://arxiv.org/pdf/2510.15624), Oct. 17 2025. [code](https://github.com/ltjed/freephdlabor). [blogpost](https://freephdlabor.github.io/).
 - [Paper2Web: Let's make your paper alive!](https://arxiv.org/pdf/2510.15842), Oct. 17 2025. [code](https://github.com/YuhangChen1/Paper2All).
+- [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/pdf/2501.04227), Jun. 17 2025. [code](https://github.com/SamuelSchmidgall/AgentLaboratory).
 
 #### Code agent
 
@@ -115,6 +117,7 @@
 - [MLE-Bench: Evaluating machine learning agents on machine learning engineering](https://arxiv.org/pdf/2410.07095), Oct. 9 2024. `openai`.
 - [ChatDev: Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924), Jun. 5 2024.
 - [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/pdf/2407.16741), Jul. 23 2024.
+- [Commit0: Library generation from scratch](https://arxiv.org/pdf/2412.01769), Dec. 2 2024. [code](https://github.com/commit-0/commit0).
 - [SWE-rebench: A continuously evolving and decontaminated benchmark for software engineering LLMs](https://arxiv.org/abs/2505.20411), May 26 2025.
 - [TOM_SWE: User metal modeling for software engineering agents](https://arxiv.org/abs/2510.21903), Oct. 24 2025. [code](https://github.com/All-Hands-AI/ToM-SWE).
 
