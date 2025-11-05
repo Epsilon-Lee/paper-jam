@@ -30,6 +30,12 @@
 - [From rag to memory: Non-parametric continual learning for large language models](https://arxiv.org/pdf/2502.14802), Jun. 19 2025. [code](https://github.com/OSU-NLP-Group/HippoRAG).
 - [Online adaptation of language models with a memory of amortised contexts](https://proceedings.neurips.cc/paper_files/paper/2024/file/eaf956b52bae51fbf387b8be4cc3ce18-Paper-Conference.pdf), NeurIPS 2024. [code](https://github.com/jihoontack/MAC).
   - _"Learning With Disagreements competition consists of four datasets across two tassks for modeling disagreement"_
+- [Belief dynamics reveal the dual nature of in-context learning and activation steering](https://arxiv.org/abs/2511.00617), Nov. 1 2025.
+  - _"LLMs can be controlled at inference time through prompts (icl) and internal activations (activation steering, ac)"_
+  - RQ - _"whether these seemingly disparate methodologies can be seen as specific instances of a broader framework?"_
+  - _"ic/at control is belief change in latent concepts - steering operates by changing concept priors, while icl leads to an accumulation of evidence"_
+- [Accumulating context changes the beliefs of language models](https://arxiv.org/pdf/2511.01805), Nov. 3 2025. [code](https://github.com/JiayiGeng/lm-belief-change).
+  - RQ - _"we explore how accumulating context by engaging in interactions and processing text - talking and reading - can change the beliefs of language models, as manifested in their responses and behaviors"_
 
 #### Empirical observation of icl
 
