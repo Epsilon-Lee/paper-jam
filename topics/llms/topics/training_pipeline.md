@@ -21,6 +21,7 @@
 - [Fantastic pretraining optimizers and where to find them](https://arxiv.org/pdf/2509.02046), Sep. 4 2025. [code](https://github.com/marin-community/marin/issues/1290).
 - [The potential of second-order optimization for LLMs: A study with full Gauss-Newton](https://arxiv.org/pdf/2510.09378), Oct. 10 2025.
 - [LOTION: Smoothing the optimization landscape for quantized training](https://arxiv.org/pdf/2510.08757), Oct. 9 2025. `QAT`
+- [A proof of learning rate transfer under muP](https://arxiv.org/pdf/2511.01734), Nov. 3 2025.
 
 ### Pre-training
 
@@ -70,6 +71,7 @@
   - _"By alternating between regular optimization steps and Fast Forward stages, Fast Forward provides up to an87% reduction in FLOPs and up to an 81% reduction in train time over standard SGD with Adam."_
 - [Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need](https://arxiv.org/pdf/2406.03216), Jun. 5 2024.
 - [Pay attention to small weights](https://arxiv.org/pdf/2506.21374), Jun. 26 2025.
+- [Loquetier: A virtualized multi-lora framework for unified llm fine-tuning and serving](https://arxiv.org/pdf/2511.00101), Oct. 30 2025. [code](https://github.com/NJUDeepEngine/Loquetier).
 
 ### Supervised fine-tuning, instruction-tuning and following
 
@@ -119,6 +121,7 @@
 - [When thinking fails: The pitfalls of reasoning for instruction-following in LLMs](https://arxiv.org/pdf/2505.11423), Sep. 2 2025.
 - [Whose instruction count? Resolving preference bias in instruction fine-tuning](https://neurips.cc/virtual/2025/poster/117781), NeurIPS 2025.
 - [Fine-tuning large language models with sequential instruction](https://aclanthology.org/2025.naacl-long.288.pdf), NAACL 2025. [code](https://github.com/hanxuhu/SeqIns).
+- [A comparative analysis of LLM adaptation: SFT, LoRA, and ICL in data-scarce scenarios](https://arxiv.org/pdf/2511.00130), Oct. 31 2025.
 
 ### Alignment, preference alignment, reward models
 
@@ -230,6 +233,8 @@
 - [Contrastive preference optimization: Pushing the boundaries of LLM performance in machine translation](https://arxiv.org/pdf/2401.08417), Jun. 3 2024. [code](https://github.com/fe1ixxu/ALMA).
 - [Insights into alignment: Evaluating DPO and its variants across multiple tasks](https://arxiv.org/pdf/2404.14723v1), Apr. 23 2025. `trl`
 - [Chain of preference optimization: Improving chain-of-thought reasoning in LLMs](https://arxiv.org/abs/2406.09136), Jun. 13 2024. [code](https://github.com/sail-sg/CPO).
+- [Greedy sampling is provably efficient for RLHF](https://arxiv.org/abs/2510.24700), Oct. 28 2025.
+- [Open character training: Shaping the persona of AI assistants through constitutional ai](https://arxiv.org/pdf/2511.01689), Nov. 3 2025 [code](https://github.com/maiush/OpenCharacterTraining).
 
 ### Weak-to-strong generalization
 
