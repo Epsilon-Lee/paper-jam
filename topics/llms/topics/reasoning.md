@@ -252,6 +252,11 @@
 - [From r to Q^*: Your language model is secretly a Q-function](https://arxiv.org/pdf/2404.12358), Aug. 12 2024.
 - [Scaf-GRPO: Scaffolded group relative policy optimization for enhancing LLM reasoning](https://arxiv.org/pdf/2510.19807), Oct. 22 2025. [code](https://github.com/dvlab-research/Scaf-GRPO).
 - [Supervised reinforcement learning: From expert trajectories to step-wise reasoning](https://arxiv.org/pdf/2510.25992), Oct. 29 2025.
+- [OpenSIR: Open-ended self-improving reasoner](https://arxiv.org/pdf/2511.00602), Nov. 1 2025. [code](https://github.com/EdinburghNLP/OpenSIR).
+  - Weakness - _"While self-play offers a promising alternative, existing approaches depend on external verifiers or cannot learn open-endedly"_
+  - Solution - _"OpenSIR, a self-play framework where an LLM learns to generate and solve novel problems by alternating teacher and student roles without external supervision"_
+  - My question(s)
+    - I wonder how sample-efficient is OpenSIR? And how to choose or construct the best seed problem?
 
 #### Adaptive reasoning
 
@@ -295,4 +300,11 @@
 - [What characterizes effective reasoning? Revisiting length, review, and structure of CoT](https://arxiv.org/pdf/2509.19284), Sep. 23 2025.
 - [Base models know how to reason, thinking models learn when](https://arxiv.org/pdf/2510.07364), Oct. 8 2025.
 - [Prior knowledge makes it possible: From sublinear graph algorithms to LLM test-time methods](https://arxiv.org/pdf/2510.16609), Oct. 18 2025.
+- [Analyzing the power of chain of thought through memorization capabilities](https://arxiv.org/abs/2511.01190), Nov. 3 2025.
+  - _"Does CoT expand the capability of transformers across all reasoning tasks?"_, _"give a complete description of the memorization capabilities of fixed-precision transformers with or without CoT and give a negative answer to the above-mentioned question"_
+  - _"We demonstrate that reasoning with transformers is essentially a memorization problem for reasoning datasets"_
+- [Reasoning planning for language models](https://arxiv.org/abs/2511.00521), Nov. 1 2025. [code](https://github.com/nguyenngocbaocmt02/EPIC).
+  - A typical reasoning method - _"generate multiple candidate responses and use an aggregation strategy to select the output answer, often assuming that more candidate answers yield higher accuracy"_
+  - _"We revisit this assumption through a rigorous theoretical analysis, deriving accuracy bounds for standard aggregation methods under fied generation distributions and candidate sizes"_
+
 
