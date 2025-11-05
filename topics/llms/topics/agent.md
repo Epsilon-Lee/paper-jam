@@ -54,6 +54,7 @@
 - [Agentic context engineering: Evolving contexts for self-improving language models](https://arxiv.org/pdf/2510.04618v1), Oct. 6 2025.
 - [PolySkill: Learning generalizable skills through polymorphic abstraction](https://arxiv.org/pdf/2510.15863), Oct. 17 2025.
 - [How can we asses human-agent interactions? Case studies in software agent design](https://arxiv.org/pdf/2510.09801), Oct. 10 2025.
+- [Agent data protocol: Unifying datasets for diverse, effective fine-tuning of LLM agents](https://arxiv.org/pdf/2510.24702), Oct. 28 2025. [code](https://www.agentdataprotocol.com/).
 
 #### World models and planning
 
@@ -129,6 +130,7 @@
 - [Synthetic data generation & multi-step $L for reasoning & tool use](https://openreview.net/pdf?id=oN9STRYQVa), COLM 2025.
 - [ToolDreamer: Instilling LLM reasoning into tool retrievers](https://arxiv.org/pdf/2510.19791), Oct. 22 2025.
 - [Teaching language models to reason with tools](https://arxiv.org/pdf/2510.20342), Oct. 23 2025. [code](https://github.com/ChengpengLi1003/CoRT).
+- [The tool decathlon: Benchmarking language agents for diverse, realistic, and long-horizon task execution](https://arxiv.org/pdf/2510.25726), Oct. 29 2025. [code](https://github.com/hkust-nlp/toolathlon).
 
 #### GUI and computer use agent
 
