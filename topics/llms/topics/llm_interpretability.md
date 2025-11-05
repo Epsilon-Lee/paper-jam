@@ -178,6 +178,20 @@
 - [Getting aligned on representational alignment](https://openreview.net/forum?id=Hiq7lUh4Yn), TMLR 2025.
 - [Incremental sentence processing mechanisms in autoregressive transformer language models](https://arxiv.org/pdf/2412.05353), Dec. 6 2024. [code](https://github.com/hannamw/GP-mechanisms/).
 - [Hubble: A model suite to advance the study of LLM memorization](https://arxiv.org/pdf/2510.19811), Oct. 22 2025. [code](https://allegro-lab.github.io/hubble/).
+- [Deep sequence models tend to memorize geometrically; it is unclear why.](https://arxiv.org/pdf/2510.26745), Oct. 30 2025.
+
+#### Learning dynamics of fm
+
+- [Hidden breakthroughs in language model training](https://arxiv.org/pdf/2506.15872), Jun. 23 2025.
+  - RQ - _"visible disconitnuities in loss curves stand out as possible conceptual breakthroughs and study them enables deeper understanding of learning dynamics"_
+  - Similar papers:
+    - [Learning dynamics of llm finetuning](https://arxiv.org/pdf/2407.10490), Jun. 29 2025. [code](https://github.com/Joshua-Ren/Learning_dynamics_LLM).
+    - [Learning dynamics of vlm finetuning](https://arxiv.org/pdf/2510.11978), Oct. 13 2025.
+- [Mapping post-training forgetting in language model at scale](https://arxiv.org/pdf/2510.17776), Oct. 20 2025. [code](https://github.com/post-forget/post-forget).
+
+#### Understanding MoE arch.
+
+- [Sparsity and superposition in mixture of experts](https://arxiv.org/pdf/2510.23671), Oct. 26 2025. [code](https://github.com/MarmikChaudhari/superposition-moe).
 
 #### Sparse autoencoders, dictionary learning and beyond
 
@@ -225,6 +239,7 @@
 - [SelfIE: Self-Interpretation of Large Language Model Embeddings](https://arxiv.org/pdf/2403.10949), Mar. 26 2024.
 - [Do natural language descriptions of model activations convey privileged information?](https://www.arxiv.org/pdf/2509.13316), Sep. 16 2025.
   - _"do such activation verbalization approaches actually provide privileged knowledge about the internal workings of the target model, or do they merely convey information about its inputs?"_
+- [ParaScopes: What do language models activations encode about future text?](https://arxiv.org/abs/2511.00180), Oct. 31 2025.
 
 #### Parameter attribution, circuits
 
