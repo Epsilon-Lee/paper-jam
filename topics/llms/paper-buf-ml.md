@@ -24,6 +24,7 @@ Three topics:
   - [Pre-Training and Fine-Tuning Generative Flow Networks](https://arxiv.org/pdf/2310.03419), Oct. 5 2024.
 - [Beyond statistical learning: Exact learning is essential for general intelligence](https://arxiv.org/pdf/2506.23908), Jun. 30 2025.
 - [Risk comparisons in linear regression: Implicit regularization dominates explicit regularization](https://arxiv.org/abs/2509.17251), Sep. 21 2025.
+- [Revisiting knowledge distillation: The hidden role of dataset size](https://www.arxiv.org/pdf/2510.15516), Oct. 17 2025.
 
 ### New tabular models
 
