@@ -122,6 +122,7 @@
 - [Whose instruction count? Resolving preference bias in instruction fine-tuning](https://neurips.cc/virtual/2025/poster/117781), NeurIPS 2025.
 - [Fine-tuning large language models with sequential instruction](https://aclanthology.org/2025.naacl-long.288.pdf), NAACL 2025. [code](https://github.com/hanxuhu/SeqIns).
 - [A comparative analysis of LLM adaptation: SFT, LoRA, and ICL in data-scarce scenarios](https://arxiv.org/pdf/2511.00130), Oct. 31 2025.
+- [Quantifying elicitation of latent capabilities in language models](https://openreview.net/pdf?id=Dkgx2pS4Ww), NeurIPS 2025. [code](https://github.com/edonoway/quantifying-elicitation-neurips25).
 
 ### Alignment, preference alignment, reward models
 
