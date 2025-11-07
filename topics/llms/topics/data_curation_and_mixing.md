@@ -56,5 +56,6 @@
 - [Scaling laws for optimal data mixtures](https://arxiv.org/abs/2507.09404), Jul. 12 2025.
 - [BeyondWeb Lessions from scaling synthetic data fro trillion-scale pretraining](https://arxiv.org/pdf/2508.10975), Aug. 14 2025.
 - [Generative data refinement: Just ask for better data](https://arxiv.org/pdf/2509.08653v1), Sep. 10 2025.
+- [Why less is more (sometimes): A theory of data curation](https://arxiv.org/pdf/2511.03492), Nov. 5 2025.
 
 
