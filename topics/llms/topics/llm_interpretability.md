@@ -179,6 +179,9 @@
 - [Incremental sentence processing mechanisms in autoregressive transformer language models](https://arxiv.org/pdf/2412.05353), Dec. 6 2024. [code](https://github.com/hannamw/GP-mechanisms/).
 - [Hubble: A model suite to advance the study of LLM memorization](https://arxiv.org/pdf/2510.19811), Oct. 22 2025. [code](https://allegro-lab.github.io/hubble/).
 - [Deep sequence models tend to memorize geometrically; it is unclear why.](https://arxiv.org/pdf/2510.26745), Oct. 30 2025.
+- [LLM layers immediately correct each other](https://openreview.net/pdf?id=7DY7kB8wyZ), NeurIPS 2025. [code](https://github.com/arjunpat/transformer-correction).
+- [Somtimes I am a tree: Data drives unstable hierarchical generalization in LMs](https://aclanthology.org/2025.emnlp-main.593.pdf), EMNLP 2025. [code](https://github.com/sunnytqin/hier_gen).
+- [Evaluating distillation methods for data-efficient syntax learning](https://aclanthology.org/2025.findings-emnlp.801.pdf), EMNLP 2025. [code](https://github.com/taka-yamakoshi/attention_structures).
 
 #### Learning dynamics of fm
 
