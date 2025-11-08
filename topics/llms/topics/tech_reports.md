@@ -44,6 +44,7 @@
 - [NVIDIA Nemotron Nano 2: An accurate and efficient hybrid Mamba-Transformer reasoning model](https://research.nvidia.com/labs/adlr/files/NVIDIA-Nemotron-Nano-2-Technical-Report.pdf), Aug. 18 2025.
   - The partial pre-training data is available, e.g. Nemotron-CC-v2/Math-v1/Code-v1/SFT-v1, as well as the post-training dataset.
 - [Jet-Nemotron: Efficient language model with post neural architecture search](https://arxiv.org/pdf/2508.15884), Aug. 21 2025. [code](https://github.com/NVlabs/Jet-Nemotron).
+- [NVIDIA Nemotron nano v2 vl](https://arxiv.org/pdf/2511.03929), Nov. 6 2025.
 
 **Llama series**
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971), Feb. 27 2023.
