@@ -237,6 +237,10 @@
 - [Greedy sampling is provably efficient for RLHF](https://arxiv.org/abs/2510.24700), Oct. 28 2025.
 - [Open character training: Shaping the persona of AI assistants through constitutional ai](https://arxiv.org/pdf/2511.01689), Nov. 3 2025 [code](https://github.com/maiush/OpenCharacterTraining).
 
+### Knowledge distillation
+
+- [In good GRACEs: Principled teacher selection for knowledge distillation](https://arxiv.org/pdf/2511.02833), Nov. 4 2025.
+
 ### Weak-to-strong generalization
 
 - [On the mechanism of weak-to-strong generalization: A theoretical perspective](https://arxiv.org/pdf/2505.18346), May 23 2025.
