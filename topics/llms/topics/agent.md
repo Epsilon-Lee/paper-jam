@@ -132,6 +132,7 @@
 - [ToolDreamer: Instilling LLM reasoning into tool retrievers](https://arxiv.org/pdf/2510.19791), Oct. 22 2025.
 - [Teaching language models to reason with tools](https://arxiv.org/pdf/2510.20342), Oct. 23 2025. [code](https://github.com/ChengpengLi1003/CoRT).
 - [The tool decathlon: Benchmarking language agents for diverse, realistic, and long-horizon task execution](https://arxiv.org/pdf/2510.25726), Oct. 29 2025. [code](https://github.com/hkust-nlp/toolathlon).
+- [AppWorld: A controllable world of apps and people for benchmarking interactive coding agents](https://arxiv.org/abs/2407.18901), Jul. 2024. [code](https://github.com/stonybrooknlp/appworld/).
 
 #### GUI and computer use agent
 
