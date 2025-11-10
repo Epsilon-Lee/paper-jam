@@ -85,6 +85,7 @@
 - [Multi-agent evolve: LLM self-improve through co-evolution](https://arxiv.org/pdf/2510.23595), Oct. 30 2025. [code](https://github.com/ulab-uiuc/Multi-agent-Evolve).
 - [Multi-module GRPO: Composing policy gradients and prompt optimization for language model programms](https://arxiv.org/abs/2508.04660), Aug. 6 2025.
 - [GEM: A gym for agentic LLMs](https://arxiv.org/pdf/2510.01051), Oct. 1 2025. [code](https://github.com/axon-rl/gem).
+- [JoyAgents-R1: Joint evolution dynamics for versatile multi-llm agents with reinforcement learning](https://arxiv.org/pdf/2506.19846), Jun. 24 2025.
 
 #### Open-endedness
 
@@ -161,6 +162,7 @@
 - [An efficient rubric-based generative verifier for search-augmented LLMs](https://arxiv.org/pdf/2510.14660), Oct. 16 2025. [code](https://github.com/linyue-ma/Search-Gen-V).
 - [PRISM: Agentic retrieval with LLMs for multi-hop question answering](https://arxiv.org/pdf/2510.14278), Oct. 16 2025.
 - [Synthesizing agentic data for web agents with progressive difficulty enhancement machenisms](https://arxiv.org/pdf/2510.13913), Oct. 15 2025.
+- [Thinking vs. doing: Improving agent reasoning by scaling test-time interaction](https://openreview.net/pdf?id=un1TRwNgiv), NeurIPS 2025. [code](https://github.com/test-time-interaction/TTI).
 
 **toolkits**
 - [verl-tool](https://deepwiki.com/TIGER-AI-Lab/verl-tool).
