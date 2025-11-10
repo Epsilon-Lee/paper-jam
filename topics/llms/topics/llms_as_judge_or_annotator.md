@@ -29,6 +29,7 @@
 - [Large language models are inconsistent and biased evaluators](https://arxiv.org/pdf/2405.01724), May 2 2024.
 - [JudgeLM: Fine-tuning large language models are scalable judges](https://arxiv.org/pdf/2310.17631v2), Mar. 1 2025. [code](https://github.com/baaivision/JudgeLM).
 - [Analyzing uncertainty of LLM-as-a-judge: Interval evaluations with conformal prediction](https://arxiv.org/abs/2509.18658), Sep. 23 2025. [code](https://github.com/BruceSheng1202/Analyzing_Uncertainty_of_LLM-as-a-Judge).
+- [Towards scalable oversight with collaborative multi-agent debate in error detection](https://arxiv.org/pdf/2510.20963), Oct. 23 2025.
 
 #### Self-critique, self-verification
 
