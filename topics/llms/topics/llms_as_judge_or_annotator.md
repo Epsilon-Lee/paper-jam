@@ -28,6 +28,7 @@
 - [No free labels: Limitations of LLM-as-a-judge without human grounding](https://arxiv.org/pdf/2503.05061), Mar. 7 2025. [data](https://huggingface.co/collections/kensho/no-free-labels-67ca139c3943728b3be887a6).
 - [Large language models are inconsistent and biased evaluators](https://arxiv.org/pdf/2405.01724), May 2 2024.
 - [JudgeLM: Fine-tuning large language models are scalable judges](https://arxiv.org/pdf/2310.17631v2), Mar. 1 2025. [code](https://github.com/baaivision/JudgeLM).
+- [Analyzing uncertainty of LLM-as-a-judge: Interval evaluations with conformal prediction](https://arxiv.org/abs/2509.18658), Sep. 23 2025. [code](https://github.com/BruceSheng1202/Analyzing_Uncertainty_of_LLM-as-a-Judge).
 
 #### Self-critique, self-verification
 
