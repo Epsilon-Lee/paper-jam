@@ -184,6 +184,7 @@
 - [Evaluating distillation methods for data-efficient syntax learning](https://aclanthology.org/2025.findings-emnlp.801.pdf), EMNLP 2025. [code](https://github.com/taka-yamakoshi/attention_structures).
 - [Causal interventions reveal shared structure across English filler-gap constructions](https://aclanthology.org/2025.emnlp-main.1271/), EMNLP 2025.
 - [From memorization to reasoning in the spectrum of loss curvature](https://arxiv.org/abs/2510.24256), Oct. 28 2025. [code](https://github.com/goodfire-ai/memorization_kfac).
+- [LLMs process lists with general filter heads](https://arxiv.org/pdf/2510.26784), Oct. 30 2025. [code](https://github.com/arnab-api/filter).
 
 #### Learning dynamics of fm
 
