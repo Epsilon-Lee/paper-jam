@@ -16,6 +16,7 @@
   - _"to what extent do LLMs perform actual reasoning"_
   - two key probabilistic concepts that are essential for connecting causes to their effects: the probability of necessity (PN) and the probability of sufficiency (PS)
   - Use PN and PS to assess LLMs.
+  - [Does reinforcement learning really incentivize reasoning capacity in LLMs beyond the base model?](https://arxiv.org/abs/2504.13837), NeurIPS 2025 oral. [code](https://github.com/LeapLabTHU/limit-of-RLVR).
 - [Can Large Language Models Understand Symbolic Graphics Programs?](https://arxiv.org/pdf/2408.08313), Aug. 15 2024.
 - [To cot or not to cot? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/pdf/2409.12183), Sep. 18 2024.
 - [Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling](https://arxiv.org/pdf/2408.16737), Aug. 29 2024.
@@ -257,6 +258,8 @@
   - Solution - _"OpenSIR, a self-play framework where an LLM learns to generate and solve novel problems by alternating teacher and student roles without external supervision"_
   - My question(s)
     - I wonder how sample-efficient is OpenSIR? And how to choose or construct the best seed problem?
+- [RLAC: Reinforcement learning with adversarial critic for free-form generation tasks](https://arxiv.org/abs/2511.01758), Nov. 3 2025. [code](https://mianwu01.github.io/RLAC_website/).
+  - _"This enables verifying outputs on free-form generation tasks without needing to enumerate or identify all possible rubrics or manually engineer robust reward models"_
 
 #### Adaptive reasoning
 
@@ -306,5 +309,5 @@
 - [Reasoning planning for language models](https://arxiv.org/abs/2511.00521), Nov. 1 2025. [code](https://github.com/nguyenngocbaocmt02/EPIC).
   - A typical reasoning method - _"generate multiple candidate responses and use an aggregation strategy to select the output answer, often assuming that more candidate answers yield higher accuracy"_
   - _"We revisit this assumption through a rigorous theoretical analysis, deriving accuracy bounds for standard aggregation methods under fied generation distributions and candidate sizes"_
-
+- [Are language models efficient reasoners? A perspective from logic programming](https://arxiv.org/pdf/2510.25626), Oct. 29 2025. [code](https://github.com/rycolab/reasoning-efficiency).
 
