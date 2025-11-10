@@ -185,6 +185,7 @@
 - [Causal interventions reveal shared structure across English filler-gap constructions](https://aclanthology.org/2025.emnlp-main.1271/), EMNLP 2025.
 - [From memorization to reasoning in the spectrum of loss curvature](https://arxiv.org/abs/2510.24256), Oct. 28 2025. [code](https://github.com/goodfire-ai/memorization_kfac).
 - [LLMs process lists with general filter heads](https://arxiv.org/pdf/2510.26784), Oct. 30 2025. [code](https://github.com/arnab-api/filter).
+- [Chain-of-thought is not explainability](https://fbarez.github.io/assets/pdf/Cot_Is_Not_Explainability.pdf), 2025.
 
 #### Learning dynamics of fm
 
