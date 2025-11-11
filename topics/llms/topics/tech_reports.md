@@ -11,7 +11,7 @@
 - [Apertus tech report](https://github.com/swiss-ai/apertus-tech-report/tree/main), Sep. 1 2025.
 - [SmolLM2: When smol goes big - Data-centric training of a fully open small language model](https://openreview.net/pdf?id=3JiCl2A14H), COLM 2025. [code](https://openreview.net/pdf?id=3JiCl2A14H).
 - [K2-Think: A parameter-efficient reasoning system](https://arxiv.org/pdf/2509.07604v3), Sep. 9 2025.
-- [CWM: An open-weights LLM for research on code generation with world models](https://scontent-hkg1-2.xx.fbcdn.net/v/t39.2365-6/553592426_661450129912484_4072750821656455102_n.pdf?_nc_cat=103&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=iRs3sgpeI1MQ7kNvwEzXzT5&_nc_oc=AdnKaD3YknEDLE830bensncGrJb4hB2lv_Rz2Z8JKkeiQf0jMnKZjHGnyPQfIf1CukI&_nc_zt=14&_nc_ht=scontent-hkg1-2.xx&_nc_gid=I6ttY7PL4arYnEqVPu3RQg&oh=00_Afa2FE-KuuWwqV_kOaJugTzUd3XVWnedggIk1jTYFY-sGQ&oe=68DA85B5), Sep. 2025. [code](https://github.com/facebookresearch/cwm).
+- [CWM: An open-weights LLM for research on code generation with world models](https://arxiv.org/pdf/2510.02387). Sep. 30 2025.
 
 **Meituan**
 - [LongCat-Flash technical report](https://arxiv.org/pdf/2509.01322), Aug. 31 2025.
@@ -99,6 +99,10 @@
 - [Qwen2.5 Technical Report](https://arxiv.org/pdf/2412.15115), Dec. 19 2024.
 - [Qwen3 Technical Report](https://arxiv.org/pdf/2505.09388), May 15 2025.
 - [Qwen2.5-Omni Technical Report](https://arxiv.org/pdf/2503.20215), Mar. 26 2025.
+
+**Ant's InclusionAI**
+- [Ling tech report - Every FLOPs counts: Scaling a 300b moe ling llm without premium gpus](https://arxiv.org/pdf/2503.05139?), Mar. 10 2025.
+- [Ring tech report - Every attent matters: An efficient hybrid architecture for long-context reasoning](https://arxiv.org/pdf/2510.19338v2), Oct. 23 2025.
 
 **MiniCPM**
 - [MiniCPM4: Ultra-efficient LLMs on end devices](https://arxiv.org/pdf/2506.07900), Jun. 9 2025.
