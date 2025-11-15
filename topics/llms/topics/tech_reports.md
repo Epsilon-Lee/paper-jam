@@ -101,6 +101,7 @@
 - [Qwen2.5 Technical Report](https://arxiv.org/pdf/2412.15115), Dec. 19 2024.
 - [Qwen3 Technical Report](https://arxiv.org/pdf/2505.09388), May 15 2025.
 - [Qwen2.5-Omni Technical Report](https://arxiv.org/pdf/2503.20215), Mar. 26 2025.
+- [Qwen3Guard technical report](https://arxiv.org/pdf/2510.14276), Oct. 16 2025.
 
 **Ant's InclusionAI**
 - [Ling tech report - Every FLOPs counts: Scaling a 300b moe ling llm without premium gpus](https://arxiv.org/pdf/2503.05139?), Mar. 10 2025.
