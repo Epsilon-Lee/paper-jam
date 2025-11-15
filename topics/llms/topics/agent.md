@@ -133,6 +133,9 @@
 - [Teaching language models to reason with tools](https://arxiv.org/pdf/2510.20342), Oct. 23 2025. [code](https://github.com/ChengpengLi1003/CoRT).
 - [The tool decathlon: Benchmarking language agents for diverse, realistic, and long-horizon task execution](https://arxiv.org/pdf/2510.25726), Oct. 29 2025. [code](https://github.com/hkust-nlp/toolathlon).
 - [AppWorld: A controllable world of apps and people for benchmarking interactive coding agents](https://arxiv.org/abs/2407.18901), Jul. 2024. [code](https://github.com/stonybrooknlp/appworld/).
+- [Natural language tools: A natural language approach to tool calling in large language agents](https://arxiv.org/pdf/2510.14453), Oct. 16 2025.
+  - Challenge: _"Current tool call implementation typically require models to emit structured outputs conforming to rigid function schemas (i.e. JSON or XML), growing evidence suggests the underlying structure may come with significant drawbacks, since it simultaneously handle multiple competing demands, such as query understanding, right tool selection, format adhering and response generation"_
+  - Solution: _"propose NLT, Natural Language Tools, a modular framework for tool use"_
 
 #### GUI and computer use agent
 
