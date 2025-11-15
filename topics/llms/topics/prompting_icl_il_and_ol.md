@@ -23,12 +23,15 @@
 - [Keeping LLMs Aligned After Fine-tuning: The Crucial Role of Prompt Templates](https://arxiv.org/pdf/2402.18540), Feb. 28 2024.
 - [Does Prompt Formatting Have Any Impact on LLM Performance?](https://arxiv.org/pdf/2411.10541), Nov. 15 2024.
 - [Rule Extrapolation in Language Models: A Study of Compositional Generalization on OOD Prompts](https://arxiv.org/pdf/2409.13728), Oct. 24 2024. [code](https://github.com/meszarosanna/rule_extrapolation).
+- [What makes a good natural language prompt?](https://arxiv.org/pdf/2506.06950), Jun. 7 2025. [code](https://github.com/dxlong2000/NLPromptEval).
+
+#### Prompt optimization
+
 - [Hard prompts made easy: Gradient-based discrete optimization for prompt tuning and discovery](https://proceedings.neurips.cc/paper_files/paper/2023/file/a00548031e4647b13042c97c922fadf1-Paper-Conference.pdf), NeurIPS 2023.
 - [Automatic prompt optimization with "gradient descent" and beam search](https://arxiv.org/pdf/2305.03495), Oct. 19 2023.
 - [Prompt optimization with logged bandit data](https://arxiv.org/pdf/2504.02646), Apr. 3 2025.
 - [PromptBreeder: Self-referential self-improvement via prompt evolution](https://arxiv.org/pdf/2309.16797), Sep. 28 2025.
 - [Accelerating language model workflows with prompt choreography](https://blog.tjbai.com/prompt_choreography.pdf), May 2025. by `Json Eisner`. [code](https://github.com/tjbai/choreo).
-- [What makes a good natural language prompt?](https://arxiv.org/pdf/2506.06950), Jun. 7 2025. [code](https://github.com/dxlong2000/NLPromptEval).
 - [Evolving prompts in-context: An open-ended, self-replicating perspective](https://arxiv.org/pdf/2506.17930), Jun. 22 2025.
 - [Self-supervised prompt optimization](https://arxiv.org/pdf/2502.06855), Feb. 15 2025. [code](https://github.com/FoundationAgents/MetaGPT).
 - [GEPA: Reflective prompt evaluation can outperform reinforcement learning](https://arxiv.org/abs/2507.19457), Jul. 2025.
@@ -39,6 +42,10 @@
 - [No loss, no gain: Gated refinement and adaptive compression for prompt optimization](https://www.arxiv.org/pdf/2509.23387), Sep. 27 2025. [code](https://github.com/Eric8932/GRACE).
 - [Prompt-MII: Meta-learning instruction induction for LLMs](https://arxiv.org/pdf/2510.16932), Oct. 19 2025. [code](https://github.com/millix19/promptmii).
 - [Task-adaptive prompting and reasoning through evolutionary domain knowledge adaptation](https://neurips.cc/virtual/2025/poster/119889), NeurIPS 2024.
+- [LLM prompt duel optimizer: Efficient label-free prompt optimization](https://arxiv.org/pdf/2510.13907), Oct. 14 2025. [code](https://github.com/meta-llama/prompt-ops).
+  - Challenge: _"most APO methods assume access to ground-truth references such as labeled validation data, while collecting high quality labels is costly and slow"_
+  - Solution: _"propose PDO, prompt duel optimizer, which use supervision signal from pairwise preference by LLM judge"_
+  - Technical details: Double Thompson sampling for selecting informative comparison, Top-performer guided mutation for expanding candidate pool by mutatation.
 
 #### Theory
 
