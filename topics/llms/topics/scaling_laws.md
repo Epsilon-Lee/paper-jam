@@ -53,6 +53,10 @@
 - [Sloth: Scaling laws for LLM skills to predict multi-benchmark performance across families](https://arxiv.org/pdf/2412.06540), Feb. 5 2025. [code](https://github.com/felipemaiapolo/sloth).
 - [Relative scaling laws for LLMs](https://arxiv.org/pdf/2510.24626), Oct. 28 2025. [training code](https://github.com/marin-community/marin/blob/main/experiments/isoflop_sweep.py), [analysis code](https://github.com/Helw150/relative-scaling-laws).
 - [Zero-shot performance prediction for probabilistic scaling laws](https://www.arxiv.org/pdf/2510.16743), Oct. 19 2025.
+- [Predicting task performance with context-aware scaling laws](https://arxiv.org/pdf/2510.14919), Oct. 16 2025.
+  - Challenge: _"cross-entropy loss based scaling laws fail to capture downstream task performance, due to ignorance of context or context length, that is the info provided to a model at inference time"_
+  - Solution: Including a new factor n_{pmt}, the length (in tokens) of a given input query or context, excluding generated/outputted tokens, to fit more dedicated task performance prediction curves.
+  - My two cents: If using many-shot learning to controll the n_{pmt}, would this fitted law only workable for narrow icl, that is, icl via ic demos?
 
 #### FLOPS
 
