@@ -56,6 +56,8 @@
 - [Audits under resource, data, and access constraints: Scaling laws for less discriminatory alternatives](https://arxiv.org/pdf/2509.05627), Sep. 6 2025.
 - [Active attacks: Red-teaming LLMs via adaptive environments](https://arxiv.org/pdf/2509.21947), Sep. 26 2025. [code](https://github.com/dbsxodud-11/active_attacks).
 - [RL is a hammer and LLMs are nails: A simple reinforcement learning recipe for strong prompt injection](https://arxiv.org/pdf/2510.04885), Oct. 6 2025. [code](https://github.com/facebookresearch/rl-injector).
+- [Evaluating & reducing deceptive dialogue from language models with multi-turn rl](https://arxiv.org/pdf/2510.14318), Oct. 16 2025.
+  - My two cents: I wonder after multi-turn rl, how much forgetting is there?
 
 #### Survey and definition
 
