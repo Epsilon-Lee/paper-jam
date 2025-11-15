@@ -166,4 +166,8 @@
 
 - [Generation-time vs. post-hoc citation: A holistic evaluation of LLM attribution](https://arxiv.org/pdf/2509.21557), Sep. 25 2025. [code](https://anonymous.4open.science/r/Citation_Paradigms-BBB5/).
 
+### Interactive learning
+
+- [Just-in-time objectives: A general approach for specialized AI interactions](https://arxiv.org/pdf/2510.14591), Oct. 16 2025.
+
 
