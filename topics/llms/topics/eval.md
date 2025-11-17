@@ -49,6 +49,7 @@
 - [LLMs judge themselves: A game-theoretic framework for human-aligned evaluation](https://arxiv.org/pdf/2510.15746), Oct. 17 2025.
 - [Stress-testing model specs reveals character differences among language models](https://arxiv.org/pdf/2510.07686?), Oct. 23 2025.
 - [Benchmark as microscopes: A call for model metrology](https://arxiv.org/pdf/2407.16711), Jul. 30 2024.
+- [Zero-shot benchmarking: A framework for flexible and scalable automatic evaluation of language models](https://openreview.net/pdf?id=WARZwyDf17), COLM 2025. [code](https://github.com/deep-spin/zsb).
 
 #### Data contamination
 
@@ -82,6 +83,7 @@
 - [Can the capability of large language models be described by human ability? A meta study](https://arxiv.org/pdf/2504.12332), Apr. 13 2025.
 - [VitaBench: Benchmarking LLM agents with versatile interactive tasks in real-world applications](https://arxiv.org/pdf/2509.26490), Oct. 17 2025. [code](https://vitabench.github.io/).
 - [CTIArena: Benchmarking LLM knowledge and reasoning across heterogeneous cyber threat intelligence](https://arxiv.org/pdf/2510.11974), Oct. 13 2025. [code](https://arxiv.org/pdf/2510.11974).
+- [Micro Evals: Individual evaluations of agent-generated code. Vulnerabilities are found by the community](https://www.designarena.ai/evals).
 
 #### Evaluation for agents
 
