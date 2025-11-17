@@ -261,6 +261,7 @@
 - [RLAC: Reinforcement learning with adversarial critic for free-form generation tasks](https://arxiv.org/abs/2511.01758), Nov. 3 2025. [code](https://mianwu01.github.io/RLAC_website/).
   - _"This enables verifying outputs on free-form generation tasks without needing to enumerate or identify all possible rubrics or manually engineer robust reward models"_
 - [Chasing the tail: Effective rubric-based reward modelling for large language model post-training](https://arxiv.org/pdf/2509.21500), Sep. 25 2025. [code](https://github.com/Jun-Kai-Zhang/rubrics).
+- [Beyond Markovian: Reflective exploration via Bayes-adaptive rl for LLM reasoning](https://arxiv.org/abs/2505.20561), May 26 2025. [code](https://github.com/shenao-zhang/BARL).
 
 #### Adaptive reasoning
 
