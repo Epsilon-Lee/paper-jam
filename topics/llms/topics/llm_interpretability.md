@@ -271,8 +271,9 @@
 - [Can Large Language Models Explain Themselves? A Study of LLM-Generated Self-Explanations](https://arxiv.org/pdf/2310.11207), Oct. 17 2023.
 - [Are self-explanations from Large Language Models faithful?](https://arxiv.org/pdf/2401.07927), May 16 2024.
 - [FaithLM: Towards Faithful Explanations for Large Language Models](https://arxiv.org/pdf/2402.04678), Jun. 26 2024. [code](https://github.com/KindXiaoming/physics_of_skill_learning).
-- [Language models can predict their own behavior](https://arxiv.org/pdf/2502.13329), Feb. 19 2025.
+- [Language models can predict their own behavior](https://arxiv.org/pdf/2502.13329), Feb. 19 2025. `NeurIPS`. [code](https://github.com/DhananjayAshok/LMBehaviorEstimation).
 - [HyperDAS: Towards automatic mechanistic interpretability with hypernetworks](https://arxiv.org/pdf/2503.10894), Mar. 13 2025.
+
 
 #### Complexity theory of transformers and beyond
 
