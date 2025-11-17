@@ -80,6 +80,8 @@
 - [UQ: Assessing language models on unsolved questions](https://arxiv.org/pdf/2508.17580), Aug. 25 2025.
 - [GDPval: Evaluating AI model performance on real-world economically valuable tasks](https://cdn.openai.com/pdf/d5eb7428-c4e9-4a33-bd86-86dd4bcf12ce/GDPval.pdf), Sep. 2025.
 - [Can the capability of large language models be described by human ability? A meta study](https://arxiv.org/pdf/2504.12332), Apr. 13 2025.
+- [VitaBench: Benchmarking LLM agents with versatile interactive tasks in real-world applications](https://arxiv.org/pdf/2509.26490), Oct. 17 2025. [code](https://vitabench.github.io/).
+- [CTIArena: Benchmarking LLM knowledge and reasoning across heterogeneous cyber threat intelligence](https://arxiv.org/pdf/2510.11974), Oct. 13 2025. [code](https://arxiv.org/pdf/2510.11974).
 
 #### Evaluation for agents
 
