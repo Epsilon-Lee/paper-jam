@@ -22,6 +22,7 @@
 - [The potential of second-order optimization for LLMs: A study with full Gauss-Newton](https://arxiv.org/pdf/2510.09378), Oct. 10 2025.
 - [LOTION: Smoothing the optimization landscape for quantized training](https://arxiv.org/pdf/2510.08757), Oct. 9 2025. `QAT`
 - [A proof of learning rate transfer under muP](https://arxiv.org/pdf/2511.01734), Nov. 3 2025.
+- [Hyperparameter loss surfaces are simple near their optima](https://openreview.net/pdf?id=IAoSG4Q2xC), COLM 2025.
 
 ### Pre-training
 
@@ -237,6 +238,7 @@
 - [Greedy sampling is provably efficient for RLHF](https://arxiv.org/abs/2510.24700), Oct. 28 2025.
 - [Open character training: Shaping the persona of AI assistants through constitutional ai](https://arxiv.org/pdf/2511.01689), Nov. 3 2025 [code](https://github.com/maiush/OpenCharacterTraining).
 - [Why DPO is a misspecified estimator and how to fix it](https://arxiv.org/pdf/2510.20413), Oct. 23 2025.
+- [Data-centric human preference with rationales for direct preference alignment](https://openreview.net/pdf?id=LH2ZKviJoI), COLM 2025.
 
 ### Knowledge distillation
 
