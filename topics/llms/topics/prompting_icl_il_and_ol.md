@@ -48,6 +48,7 @@
   - Technical details: Double Thompson sampling for selecting informative comparison, Top-performer guided mutation for expanding candidate pool by mutatation.
 - [Are my optimized prompts compromised? Exploring vulnerabilities of LLM-based optimizer](https://arxiv.org/pdf/2510.14381), Oct. 16 2025.
   - Motivation: _"No systematic study on the risk of score-feedback-based prompt optimization, that is, the attacker can provide malicious feedback that leads to harmful prompt optimization"_
+- [Feedback descent: Open-ended text optimization via pairwise comparison](https://arxiv.org/pdf/2511.07919), Nov. 11 2025.
 
 #### Theory
 
