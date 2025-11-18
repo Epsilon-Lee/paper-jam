@@ -268,6 +268,7 @@
 #### Adaptive reasoning
 
 - [ProofOptimizer: Training language models to simplify proofs without human demonstrations](https://arxiv.org/pdf/2510.15700), Oct. 17 2025.
+- [DLER: Doing lenght penalty right - Incentivizing more intelligence per token via reinforcement learning](https://arxiv.org/pdf/2510.15110v1), Oct. 16 2025.
 
 #### Latent reasoning
 
