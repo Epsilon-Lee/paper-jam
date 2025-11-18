@@ -290,13 +290,4 @@
 - [A visual guide to quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization#%C2%A7common-data-types), Jul. 22 2024.
 - [Foundation of large language model compression - Part 1: Weight quantization](https://arxiv.org/pdf/2409.02026), Sep. 2024.
 
-### Multi-modality
-
-- [An introduction to vision-language modeling](https://arxiv.org/pdf/2405.17247), May 27 2024. `tutorial`.
-- [A Practitioner’s Guide to Continual Multimodal Pretraining](https://arxiv.org/pdf/2408.14471), Aug. 26 2024.
-- [Visual agents as fast and slow thinker](https://arxiv.org/pdf/2408.08862), Aug. 16 2024.
-- [NVLM: Open Frontier-Class Multimodal LLMs](https://nvlm-project.github.io/), Sep. 17 2024.
-- [From generalist to specialist: Adapting vision language models via task-specific visual instruction tuning](https://arxiv.org/pdf/2410.06456), Oct. 9 2024.
-- [Sample-efficient integration of new modalities into large language models](https://arxiv.org/pdf/2509.04606), Sep. 4 2025. [code](https://github.com/ospanbatyr/sample-efficient-multimodality).
-
 
