@@ -19,5 +19,7 @@
 - [Trace length is a simple uncertainty signal in reasoning models](https://arxiv.org/pdf/2510.10409),
   - _" we show that trace length performs in comparable but complementary ways to other zero-shot confidence estimators such as verbalized confidence"_
   - _"We identify high-entropy or “forking” tokens as playing a key role in the mechanism"_
+- [The illusion of certainty: Uncertainty quantification for LLMs fails under ambiguity](https://arxiv.org/abs/2511.04418), Nov. 6 2025.
+  - Observation: _"existing UQ methods are typically benchmarked against tasks with no ambiguity [...] we demo that current uncertainty estimators degrade to close-to-random performance on ambiguous data"_
 
 
