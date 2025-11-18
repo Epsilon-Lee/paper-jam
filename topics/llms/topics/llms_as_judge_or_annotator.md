@@ -31,6 +31,7 @@
 - [Analyzing uncertainty of LLM-as-a-judge: Interval evaluations with conformal prediction](https://arxiv.org/abs/2509.18658), Sep. 23 2025. [code](https://github.com/BruceSheng1202/Analyzing_Uncertainty_of_LLM-as-a-Judge).
 - [Towards scalable oversight with collaborative multi-agent debate in error detection](https://arxiv.org/pdf/2510.20963), Oct. 23 2025.
 - [AutoRubric-R1V: Rubric-based generative rewards for faithful multimodal reasoning](https://arxiv.org/pdf/2510.14738), Oct. 16 2025.
+- [IF-Critic: Towards a fine-grained LLM critic for instruction-following evaluation](https://arxiv.org/pdf/2511.01014), Nov. 2 2025. [code](https://github.com/thu-coai/IF-CRITIC).
 
 #### Self-critique, self-verification
 
