@@ -315,6 +315,7 @@
 - [Fast attention mechanisms: a tale of parallelism](https://arxiv.org/pdf/2509.09001), Sep. 10 2025.
   - [Transformers, parallel computation, and logarithmic depth](https://arxiv.org/pdf/2402.09268), Feb. 14 2024.
   - [Why do transformers outperform feedforward and recurrent networks? A statistcal perspective](https://arxiv.org/pdf/2503.11272), Mar. 14 2025.
+- [The strong lottery ticket hypothesis for multi-head attention mechanisms](https://arxiv.org/abs/2511.04217), Nov. 6 2025.
 
 #### Theory of pre-training
 
