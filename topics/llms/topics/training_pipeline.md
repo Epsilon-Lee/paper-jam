@@ -91,8 +91,7 @@
 - [Instruction Tuning for Large Language Models: A Survey](https://arxiv.org/pdf/2308.10792), Mar. 14 2024.
 - [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/pdf/2205.05638), Aug. 26 2022.
 - [The Impact of Initialization on LoRA Finetuning Dynamics](https://arxiv.org/pdf/2406.08447), Jun. 12 2024. `lora`.
-- [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](https://arxiv.org/abs/2312.09979), Dec. 15 2023. `knowledge forgetting`.
-- [LoRA Learns Less and Forgets Less](https://arxiv.org/pdf/2405.09673v1), May 15 2024.
+
 - [Orthogonal Finetuning for Direct Preference Optimization](https://arxiv.org/pdf/2409.14836), Sep. 23 2024.
 - [ReFT: Representation Finetuning for Language Models](https://arxiv.org/abs/2404.03592), Apr. 4 2024.
 - [ALLoRA: Adaptive learning rate mitigates LoRA fatal flaws](https://arxiv.org/pdf/2410.09692), Oct. 13 2024.
@@ -224,9 +223,6 @@
 - [The alignment bottleneck](https://arxiv.org/pdf/2509.15932), Sep. 19 2025.
 - [Mind the gap: Data rewriting for stable off-policy supervised fine-tuning](https://arxiv.org/pdf/2509.15157), Sep. 19 2025. [code](https://github.com/NKU-HLT/Off-Policy-SFT).
   - _"For each problem, correct model-generated solutions are kept as on-policy data, while incorrect ones are rewritten through guided re-solving, falling back to expert demonstrations only when needed"_
-- [RL fine-tuning heals OOD forgetting in SFT](https://arxiv.org/pdf/2509.12235), Sep. 8 2025. [code]().
-  - _"well-known claim SFT memorizes, RL generalizes is over-simplified"_
-  - _"SFT performs hard alignment of the crucial parameter directions to the target tasks, leading to rapid and greedy adjustment, but also quick forgetting; RL then conditionally re-aligns singular vectors softly and slowly towards a more robust configuration, healing the forgetting and learning the downstream tasks simultaneously"_
 - [can DPO learn diverse human values? A theoretical scaling law](https://arxiv.org/pdf/2408.03459), Sep. 25 2025. `NeurIPS 2025`
   - This paper can be analyzed together with the [Verbalized sampling](https://www.verbalized-sampling.com/) paper.
 - [IA2: Alignment with ICL activations improves supervised fine-tuning](https://arxiv.org/pdf/2509.22621), Sep. 26 2025. [code](https://github.com/aamixsh/ia2).
@@ -240,6 +236,15 @@
 - [Why DPO is a misspecified estimator and how to fix it](https://arxiv.org/pdf/2510.20413), Oct. 23 2025.
 - [Data-centric human preference with rationales for direct preference alignment](https://openreview.net/pdf?id=LH2ZKviJoI), COLM 2025.
 - [Greedy sampling is provably efficient for RLHF](https://arxiv.org/abs/2510.24700), Oct. 28 2025.
+
+### Forgetting
+
+- [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](https://arxiv.org/abs/2312.09979), Dec. 15 2023. `knowledge forgetting`.
+- [LoRA Learns Less and Forgets Less](https://arxiv.org/pdf/2405.09673v1), May 15 2024.
+- [RL fine-tuning heals OOD forgetting in SFT](https://arxiv.org/pdf/2509.12235), Sep. 8 2025. [code]().
+  - _"well-known claim SFT memorizes, RL generalizes is over-simplified"_
+  - _"SFT performs hard alignment of the crucial parameter directions to the target tasks, leading to rapid and greedy adjustment, but also quick forgetting; RL then conditionally re-aligns singular vectors softly and slowly towards a more robust configuration, healing the forgetting and learning the downstream tasks simultaneously"_
+- [Forgetting is everywhere](https://arxiv.org/pdf/2511.04666), Nov. 6 2025.
 
 ### Knowledge distillation
 
