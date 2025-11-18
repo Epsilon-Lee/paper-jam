@@ -262,6 +262,8 @@
   - _"This enables verifying outputs on free-form generation tasks without needing to enumerate or identify all possible rubrics or manually engineer robust reward models"_
 - [Chasing the tail: Effective rubric-based reward modelling for large language model post-training](https://arxiv.org/pdf/2509.21500), Sep. 25 2025. [code](https://github.com/Jun-Kai-Zhang/rubrics).
 - [Beyond Markovian: Reflective exploration via Bayes-adaptive rl for LLM reasoning](https://arxiv.org/abs/2505.20561), May 26 2025. [code](https://github.com/shenao-zhang/BARL).
+- [The peril of preference: Why grpo fails on ordinal rewards](https://arxiv.org/abs/2511.04439), Nov. 6 2025.
+  - Methods: _"propose Correctness Relative Policy Optimization, solving GRPO's flaw where it assigns a positive advantage to failed trajectories and reinforces incorrect behavior"_
 
 #### Adaptive reasoning
 
