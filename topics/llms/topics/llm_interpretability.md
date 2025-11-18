@@ -233,7 +233,7 @@
 - [ProxySPEX: Inference-efficient interpretability via spase feature interactions in LLMs](https://arxiv.org/pdf/2505.17495), May 23 2025.
 - [Interpreting vision transformers via residual replacement model](https://arxiv.org/pdf/2509.17401), Sep. 22 2025. [code](https://github.com/rubato-yeong/RRM).
 
-#### Probing
+#### Probing and steering
 
 - [Patchscopes: A unifying framework for inspecting hidden representations of language models](https://arxiv.org/pdf/2401.06102), Jan. 2024. [code](https://github.com/PAIR-code/interpretability/tree/master/patchscopes/code).
   - _"we propose leveraing the model itself to explain its internal representations in natural language"_
@@ -248,6 +248,7 @@
 - [Do natural language descriptions of model activations convey privileged information?](https://www.arxiv.org/pdf/2509.13316), Sep. 16 2025.
   - _"do such activation verbalization approaches actually provide privileged knowledge about the internal workings of the target model, or do they merely convey information about its inputs?"_
 - [ParaScopes: What do language models activations encode about future text?](https://arxiv.org/abs/2511.00180), Oct. 31 2025.
+- [Representation surgery: Theory and practices of affine steering](https://arxiv.org/pdf/2402.09631), Jun. 4 2025. [code](https://github.com/shauli-ravfogel/affine-steering).
 
 #### Parameter attribution, circuits
 
