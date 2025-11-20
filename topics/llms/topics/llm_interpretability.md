@@ -187,6 +187,7 @@
 - [LLMs process lists with general filter heads](https://arxiv.org/pdf/2510.26784), Oct. 30 2025. [code](https://github.com/arnab-api/filter).
 - [Chain-of-thought is not explainability](https://fbarez.github.io/assets/pdf/Cot_Is_Not_Explainability.pdf), 2025.
 - [Narrow finetuning leaves clearly readable traces in activation differences](https://arxiv.org/pdf/2510.13900), Oct. 14 2025.
+- [Mixing mechanisms: How language models retrieve bound entities in-context](https://arxiv.org/pdf/2510.06182), Oct. 7 2025. [code](https://github.com/yoavgur/mixing-mechs).
 
 #### Learning dynamics of fm
 
