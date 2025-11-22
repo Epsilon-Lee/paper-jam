@@ -58,6 +58,7 @@
 - [RL is a hammer and LLMs are nails: A simple reinforcement learning recipe for strong prompt injection](https://arxiv.org/pdf/2510.04885), Oct. 6 2025. [code](https://github.com/facebookresearch/rl-injector).
 - [Evaluating & reducing deceptive dialogue from language models with multi-turn rl](https://arxiv.org/pdf/2510.14318), Oct. 16 2025.
   - My two cents: I wonder after multi-turn rl, how much forgetting is there?
+- [Open technical problems in open-weight AI model risk management](https://openreview.net/pdf/e6d93dac2c9bfddfd757a6b824b47562de68dc50.pdf), TMLR 2025.
 
 #### Survey and definition
 
