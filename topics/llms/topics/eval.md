@@ -85,6 +85,7 @@
 - [CTIArena: Benchmarking LLM knowledge and reasoning across heterogeneous cyber threat intelligence](https://arxiv.org/pdf/2510.11974), Oct. 13 2025. [code](https://arxiv.org/pdf/2510.11974).
 - [Micro Evals: Individual evaluations of agent-generated code. Vulnerabilities are found by the community](https://www.designarena.ai/evals).
 - [Global PIQA: Evaluating physical commonsense reasoning across 100+ languages and cultures](https://arxiv.org/abs/2510.24081), Oct. 28 2025.
+- [OKBench: Democratizing LLM evaluation with fully automated, on-demand, open knowledge benchmarking](https://arxiv.org/pdf/2511.08598), Oct. 31 2025.
 
 #### Evaluation for agents
 
