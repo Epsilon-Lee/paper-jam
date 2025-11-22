@@ -21,5 +21,6 @@
   - _"We identify high-entropy or “forking” tokens as playing a key role in the mechanism"_
 - [The illusion of certainty: Uncertainty quantification for LLMs fails under ambiguity](https://arxiv.org/abs/2511.04418), Nov. 6 2025.
   - Observation: _"existing UQ methods are typically benchmarked against tasks with no ambiguity [...] we demo that current uncertainty estimators degrade to close-to-random performance on ambiguous data"_
+- [Trained on tokens, calibrated on concepts: The emergence of semantic calibration in LLMs](https://arxiv.org/pdf/2511.04869), Nov. 6 2025.
 
 
