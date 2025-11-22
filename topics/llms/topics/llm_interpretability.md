@@ -253,6 +253,7 @@
   - _"do such activation verbalization approaches actually provide privileged knowledge about the internal workings of the target model, or do they merely convey information about its inputs?"_
 - [ParaScopes: What do language models activations encode about future text?](https://arxiv.org/abs/2511.00180), Oct. 31 2025.
 - [Representation surgery: Theory and practices of affine steering](https://arxiv.org/pdf/2402.09631), Jun. 4 2025. [code](https://github.com/shauli-ravfogel/affine-steering).
+- [Steering language models with weight arithmetic](https://arxiv.org/pdf/2511.05408), Nov. 7 2025. [code](https://github.com/safety-research/weight-steering).
 
 #### Parameter attribution, circuits
 
@@ -278,7 +279,7 @@
 - [FaithLM: Towards Faithful Explanations for Large Language Models](https://arxiv.org/pdf/2402.04678), Jun. 26 2024. [code](https://github.com/KindXiaoming/physics_of_skill_learning).
 - [Language models can predict their own behavior](https://arxiv.org/pdf/2502.13329), Feb. 19 2025. `NeurIPS`. [code](https://github.com/DhananjayAshok/LMBehaviorEstimation).
 - [HyperDAS: Towards automatic mechanistic interpretability with hypernetworks](https://arxiv.org/pdf/2503.10894), Mar. 13 2025.
-
+- [Training language models to explain their own computations](https://arxiv.org/pdf/2511.08579), Nov. 11 2025.
 
 #### Complexity theory of transformers and beyond
 
