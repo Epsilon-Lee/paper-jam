@@ -188,6 +188,8 @@
 - [Chain-of-thought is not explainability](https://fbarez.github.io/assets/pdf/Cot_Is_Not_Explainability.pdf), 2025.
 - [Narrow finetuning leaves clearly readable traces in activation differences](https://arxiv.org/pdf/2510.13900), Oct. 14 2025.
 - [Mixing mechanisms: How language models retrieve bound entities in-context](https://arxiv.org/pdf/2510.06182), Oct. 7 2025. [code](https://github.com/yoavgur/mixing-mechs).
+- [From memorization to reasoning in the spectrum of loss curvature](https://arxiv.org/pdf/2510.24256), Oct. 31 2025. [code](https://github.com/goodfire-ai/memorization_kfac).
+- [Belief dynamics reveal the dual nature of in-context learning and activation steering](https://arxiv.org/pdf/2511.00617), Nov. 1 2025.
 
 #### Learning dynamics of fm
 
