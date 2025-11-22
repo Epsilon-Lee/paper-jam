@@ -1,7 +1,6 @@
 
 ### Evaluation
 
-- [#InsTag: Instruction tagging for analyzing supervised fine-tuning of large language models](https://arxiv.org/pdf/2308.07074), Aug. 15 2023. [code](https://github.com/OFA-Sys/InsTag).
 - [Lessons from the Trenches on reproducible evaluation of language models](https://arxiv.org/abs/2405.14782), May 23 2024. `evaluation`.
 - [Evaluating language models as risk scores](https://arxiv.org/pdf/2407.14614), Jul. 19 2024.
 - [Training on the test task confounds evaluation and emergence](https://arxiv.org/pdf/2407.07890?), Jul. 10 2024. [code](https://github.com/socialfoundations/training-on-the-test-task).
@@ -10,7 +9,6 @@
 - [Evaluating Generative AI Systems is a Social Science Measurement Challenge](https://arxiv.org/pdf/2411.10939), Nov. 7 2024.
 - [Causality can systematically address the monsters under the bench(marks)](https://arxiv.org/pdf/2502.05085), Feb. 7 2025.
 - [How contaminated is your benchmark? Quantifying dataset leakage in large language models with kernel divergence](https://arxiv.org/pdf/2502.00678), Feb. 2 2025.
-- [EvalTree: Profiling language model weakness via hierarchical capability trees](https://arxiv.org/pdf/2503.08893), Mar. 11 2025. [code](https://github.com/Zhiyuan-Zeng/EvalTree).
 - [Reliable and efficient amortized model-based evaluation](https://arxiv.org/pdf/2503.13335), Mar. 17 2025.
 - [In-house evaluation is not enough: Towards robust third-party flaw disclosure for general-purpose AI](https://arxiv.org/pdf/2503.16861), Mar. 25 2025.
 - [Evaluation framework for AI systems in the wild](https://arxiv.org/pdf/2504.16778), Apr. 2025. `white paper`.
@@ -50,6 +48,13 @@
 - [Stress-testing model specs reveals character differences among language models](https://arxiv.org/pdf/2510.07686?), Oct. 23 2025.
 - [Benchmark as microscopes: A call for model metrology](https://arxiv.org/pdf/2407.16711), Jul. 30 2024.
 - [Zero-shot benchmarking: A framework for flexible and scalable automatic evaluation of language models](https://openreview.net/pdf?id=WARZwyDf17), COLM 2025. [code](https://github.com/deep-spin/zsb).
+
+#### Eval-guided dev
+
+- [#InsTag: Instruction tagging for analyzing supervised fine-tuning of large language models](https://arxiv.org/pdf/2308.07074), Aug. 15 2023. [code](https://github.com/OFA-Sys/InsTag).
+- [EvalTree: Profiling language model weakness via hierarchical capability trees](https://arxiv.org/pdf/2503.08893), Mar. 11 2025. [code](https://github.com/Zhiyuan-Zeng/EvalTree).
+- [Antislop: A comprehensive framework for identifying and eliminating repetitive patterns in language models](https://arxiv.org/pdf/2510.15061), Oct. 16 2025. [code](https://github.com/sam-paech/auto-antislop).
+
 
 #### Data contamination
 
