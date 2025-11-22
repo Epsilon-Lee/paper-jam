@@ -264,6 +264,8 @@
 - [Beyond Markovian: Reflective exploration via Bayes-adaptive rl for LLM reasoning](https://arxiv.org/abs/2505.20561), May 26 2025. [code](https://github.com/shenao-zhang/BARL).
 - [The peril of preference: Why grpo fails on ordinal rewards](https://arxiv.org/abs/2511.04439), Nov. 6 2025.
   - Methods: _"propose Correctness Relative Policy Optimization, solving GRPO's flaw where it assigns a positive advantage to failed trajectories and reinforces incorrect behavior"_
+- [The effect of sampling temperature on problem solving in large language models](https://aclanthology.org/2024.findings-emnlp.432.pdf), EMNLP 2024. [code](https://github.com/matthewrenze/jhu-llm-temperature).
+- [Optimizing temperature for language models with multi-sample inference](https://arxiv.org/pdf/2502.05234), Jun. 26 2025. [code](https://github.com/StigLidu/TURN).
 
 #### Adaptive reasoning
 
