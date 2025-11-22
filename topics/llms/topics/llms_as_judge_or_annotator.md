@@ -32,6 +32,7 @@
 - [Towards scalable oversight with collaborative multi-agent debate in error detection](https://arxiv.org/pdf/2510.20963), Oct. 23 2025.
 - [AutoRubric-R1V: Rubric-based generative rewards for faithful multimodal reasoning](https://arxiv.org/pdf/2510.14738), Oct. 16 2025.
 - [IF-Critic: Towards a fine-grained LLM critic for instruction-following evaluation](https://arxiv.org/pdf/2511.01014), Nov. 2 2025. [code](https://github.com/thu-coai/IF-CRITIC).
+- [Foundational automatic evaluatiors: Scaling multi-task generative evaluator training for reasoning-centric domains](https://arxiv.org/pdf/2510.17793), Nov. 19 2025. [code](https://huggingface.co/collections/Salesforce/fare).
 
 #### Self-critique, self-verification
 
