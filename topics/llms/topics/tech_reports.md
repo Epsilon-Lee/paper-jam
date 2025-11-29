@@ -135,6 +135,12 @@
 - [Hermes 3 technical report](https://arxiv.org/pdf/2408.11857), Aug. 15 2024.
 - [Hermes 4 technical report](https://arxiv.org/pdf/2508.18255), Sep. 2 2025.
 
+**StepFun**
+- [Step-video-t2v techinical report: The practices, challenges, and future of video foundation model](https://arxiv.org/pdf/2502.10248v1), Feb. 14 2025.
+- [Step-3 is Large yet Affordable: Model-system Co-design for Cost-effective Decoding](https://arxiv.org/pdf/2507.19427), Jul. 25 2025.
+- [Step-audiao-editx technical report](https://arxiv.org/pdf/2511.03601), Nov. 19 2025.
+- [Step-audio-r1 technical report](https://arxiv.org/pdf/2511.15848), Nov. 26 2025.
+
 ### Domain LLMs
 
 - [Galactica: A Large Language Model for Science](https://arxiv.org/pdf/2211.09085), Nov. 16 2022. `science`.
