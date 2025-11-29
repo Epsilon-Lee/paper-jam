@@ -266,6 +266,9 @@
   - Methods: _"propose Correctness Relative Policy Optimization, solving GRPO's flaw where it assigns a positive advantage to failed trajectories and reinforces incorrect behavior"_
 - [The effect of sampling temperature on problem solving in large language models](https://aclanthology.org/2024.findings-emnlp.432.pdf), EMNLP 2024. [code](https://github.com/matthewrenze/jhu-llm-temperature).
 - [Optimizing temperature for language models with multi-sample inference](https://arxiv.org/pdf/2502.05234), Jun. 26 2025. [code](https://github.com/StigLidu/TURN).
+- [P1: Mastering physics olympiads with reinforcement learning](https://arxiv.org/pdf/2511.13612), Nov. 17 2025. [code](https://github.com/PRIME-RL/P1).
+- [Dataset reset policy optimization for RLHF](https://arxiv.org/pdf/2404.08495), Apr. 16 2024. [code](https://github.com/Cornell-RL/drpo).
+- [The path not taken: RLVR provably learns off the principals](https://arxiv.org/abs/2511.08567), Nov. 11 2025.
 
 #### Adaptive reasoning
 
