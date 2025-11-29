@@ -52,13 +52,14 @@
 - [How to currectly report LLM-as-a-judge evaluations](https://arxiv.org/pdf/2511.21140), Nov. 26 2025.
 - [Fantastic bugs and where to find them in AI benchmarks](https://arxiv.org/pdf/2511.16842), Nov. 20 2025.
 - [UK AISI alignment evaluation case-study](https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6927663ba1576c0a2acb3cba_UK_AISI_Alignment_Testing_Case_Study%20(1)%20(1).pdf), Nov. 2025.
+- [Measuring what matters: Construct validity in large language model benchmarks](https://arxiv.org/pdf/2511.04703), Nov. 3 2025.
+- [Product evals in three simple steps](https://eugeneyan.com/writing/product-evals/), Nov. 2025.
 
 #### Eval-guided dev
 
 - [#InsTag: Instruction tagging for analyzing supervised fine-tuning of large language models](https://arxiv.org/pdf/2308.07074), Aug. 15 2023. [code](https://github.com/OFA-Sys/InsTag).
 - [EvalTree: Profiling language model weakness via hierarchical capability trees](https://arxiv.org/pdf/2503.08893), Mar. 11 2025. [code](https://github.com/Zhiyuan-Zeng/EvalTree).
 - [Antislop: A comprehensive framework for identifying and eliminating repetitive patterns in language models](https://arxiv.org/pdf/2510.15061), Oct. 16 2025. [code](https://github.com/sam-paech/auto-antislop).
-
 
 #### Data contamination
 
