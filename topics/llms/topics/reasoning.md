@@ -269,6 +269,7 @@
 - [P1: Mastering physics olympiads with reinforcement learning](https://arxiv.org/pdf/2511.13612), Nov. 17 2025. [code](https://github.com/PRIME-RL/P1).
 - [Dataset reset policy optimization for RLHF](https://arxiv.org/pdf/2404.08495), Apr. 16 2024. [code](https://github.com/Cornell-RL/drpo).
 - [The path not taken: RLVR provably learns off the principals](https://arxiv.org/abs/2511.08567), Nov. 11 2025.
+- [Cognitive foundations for reasoning and their manifestation in llms](https://arxiv.org/pdf/2511.16660), Nov. 24 2025.
 
 #### Adaptive reasoning
 
@@ -292,6 +293,7 @@
 - [When seeing is not enough: Revealing the limits of active reasoning in MLLMs](https://arxiv.org/pdf/2510.15421), Oct. 17 2025. 
 - [Train a unified multimodal data quality classifier with synthetic data](https://arxiv.org/pdf/2510.15162), Oct. 16 2025. [code](https://github.com/Victorwz/UniFilter). [post-training data](https://huggingface.co/datasets/weizhiwang/unifilter_train_data/viewer).
 - [Composition-grounded instruction synthesis for visual reasoning](https://arxiv.org/pdf/2510.15040), Oct. 16 2025.
+- [OpenMMReasoner: Pushing the frontiers for multimodal reasoning with an open and general recipe](https://arxiv.org/pdf/2511.16334), Nov. 20 2025. [code](https://github.com/EvolvingLMMs-Lab/OpenMMReasoner).
 
 #### RL algorithmic innovations
 
