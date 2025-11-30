@@ -14,6 +14,7 @@
 - [CWM: An open-weights LLM for research on code generation with world models](https://arxiv.org/pdf/2510.02387). Sep. 30 2025.
 - [INTELLECT-3: technical report](https://storage.googleapis.com/intellect-3-paper/INTELLECT_3_Technical_Report.pdf), Nov. 2025..
 - [AM-Thinking-v1: Advancing the frontier of reasoning at 32B scale](https://arxiv.org/pdf/2505.08311), May 25 2025.
+- [Gaperon: A peppered English-French generative language model suite](https://arxiv.org/pdf/2510.25771), Oct. 29 2025. [code](https://github.com/NathanGodey/gapetron).
 
 **Meituan**
 - [LongCat-Flash technical report](https://arxiv.org/pdf/2509.01322), Aug. 31 2025.
@@ -96,6 +97,7 @@
 - [OLMo 2: The best fully open language model to date](https://allenai.org/blog/olmo2), Nov. 26 2024.
 - [TÜLU 3: Pushing Frontiers in Open Language Model Post-Training](https://arxiv.org/pdf/2411.15124), Dec. 6 2024.
 - [2 OLMo 2 Furious](https://arxiv.org/pdf/2501.00656), Dec. 31 2024.
+- [Olmo 3](https://www.datocms-assets.com/64837/1763662397-1763646865-olmo_3_technical_report-1.pdf), Nov. 2025.
 
 **Qwen series**
 - [Qwen Technincal Report](https://arxiv.org/pdf/2309.16609), Sep. 28 2023.
