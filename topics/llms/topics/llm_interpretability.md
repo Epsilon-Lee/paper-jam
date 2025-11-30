@@ -191,6 +191,8 @@
 - [From memorization to reasoning in the spectrum of loss curvature](https://arxiv.org/pdf/2510.24256), Oct. 31 2025. [code](https://github.com/goodfire-ai/memorization_kfac).
 - [Belief dynamics reveal the dual nature of in-context learning and activation steering](https://arxiv.org/pdf/2511.00617), Nov. 1 2025.
 - [Weight-sparse transformers have interpretable circuits](https://arxiv.org/abs/2511.13653), Nov. 17 2025. [blogpost](https://openai.com/index/understanding-neural-networks-through-sparse-circuits/).
+- [Inferring functionality of attention heads from their parameters](https://arxiv.org/abs/2412.11965), Dec. 16 2024.
+- [Decoposing mlp activations into interpretable features via semi-nonnegative matrix factorization](https://arxiv.org/abs/2506.10920), Jun. 12 2025.
 
 #### Learning dynamics of fm
 
