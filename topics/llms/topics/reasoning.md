@@ -322,4 +322,6 @@
   - A typical reasoning method - _"generate multiple candidate responses and use an aggregation strategy to select the output answer, often assuming that more candidate answers yield higher accuracy"_
   - _"We revisit this assumption through a rigorous theoretical analysis, deriving accuracy bounds for standard aggregation methods under fied generation distributions and candidate sizes"_
 - [Are language models efficient reasoners? A perspective from logic programming](https://arxiv.org/pdf/2510.25626), Oct. 29 2025. [code](https://github.com/rycolab/reasoning-efficiency).
+- [How reinforcement learning after next-token prediction facilitates learning](https://arxiv.org/pdf/2510.11495), Oct. 13 2025.
+
 
