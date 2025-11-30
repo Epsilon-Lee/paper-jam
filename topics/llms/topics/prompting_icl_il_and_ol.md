@@ -169,6 +169,7 @@
 
 #### In-context attribution
 
+- [AttriBoT: A bag of tricks for efficiently approximating leave-one-out context attribution](https://arxiv.org/pdf/2411.15102), Mar. 21 2025. [code](https://arxiv.org/pdf/2411.15102).
 - [Generation-time vs. post-hoc citation: A holistic evaluation of LLM attribution](https://arxiv.org/pdf/2509.21557), Sep. 25 2025. [code](https://anonymous.4open.science/r/Citation_Paradigms-BBB5/).
 
 ### Interactive learning
