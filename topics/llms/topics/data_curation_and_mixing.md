@@ -1,5 +1,6 @@
 
 - [Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data?tab=readme-ov-file).
+- [Aioli: A unified optimization framework for language model data mixing](https://arxiv.org/pdf/2411.05735), Apr. 21 2025.
 - [DecorateLM: Data engineering through corpus rating, tagging, and editing with language models](https://aclanthology.org/2024.emnlp-main.83.pdf), EMNLP 2024.
 - [Large language models for data annotation and synthesis: A survey](https://aclanthology.org/2024.emnlp-main.54.pdf), EMNLP 2024.
 - [DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining](https://arxiv.org/pdf/2305.10429), Nov. 21 2023.
