@@ -193,6 +193,7 @@
 - [Weight-sparse transformers have interpretable circuits](https://arxiv.org/abs/2511.13653), Nov. 17 2025. [blogpost](https://openai.com/index/understanding-neural-networks-through-sparse-circuits/).
 - [Inferring functionality of attention heads from their parameters](https://arxiv.org/abs/2412.11965), Dec. 16 2024.
 - [Decoposing mlp activations into interpretable features via semi-nonnegative matrix factorization](https://arxiv.org/abs/2506.10920), Jun. 12 2025.
+- [The mechanistic emergence of symbol grounding in language models](https://arxiv.org/pdf/2510.13796), Oct. 16 2025.
 
 #### Learning dynamics of fm
 
