@@ -270,6 +270,7 @@
 - [Dataset reset policy optimization for RLHF](https://arxiv.org/pdf/2404.08495), Apr. 16 2024. [code](https://github.com/Cornell-RL/drpo).
 - [The path not taken: RLVR provably learns off the principals](https://arxiv.org/abs/2511.08567), Nov. 11 2025.
 - [Cognitive foundations for reasoning and their manifestation in llms](https://arxiv.org/pdf/2511.16660), Nov. 24 2025.
+- [Inference-time scaling for generalist reward modeling](https://arxiv.org/pdf/2504.02495?), Sep. 25 2025.
 
 #### Adaptive reasoning
 
