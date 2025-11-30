@@ -53,6 +53,7 @@
 - [Feedback descent: Open-ended text optimization via pairwise comparison](https://arxiv.org/pdf/2511.07919), Nov. 11 2025.
 - [metaTextGrad: Automatically optimizing language model optimizers](https://arxiv.org/pdf/2505.18524), NeurIPS 2025.
 - [Automatic instruction evolving for large language models](https://arxiv.org/pdf/2406.00770?), Jun. 2 2024.
+- [The art of asking: Multilingual prompt optimization for synthetic data](https://arxiv.org/pdf/2510.19806), Oct. 22 2025.
 
 #### Theory
 
