@@ -142,6 +142,9 @@
 - [Step-audiao-editx technical report](https://arxiv.org/pdf/2511.03601), Nov. 19 2025.
 - [Step-audio-r1 technical report](https://arxiv.org/pdf/2511.15848), Nov. 26 2025.
 
+**Doubao, aka. Seed**
+- [Seed-coder: Let the code model curate data for itself](https://arxiv.org/pdf/2506.03524), Jun. 2025
+
 ### Domain LLMs
 
 - [Galactica: A Large Language Model for Science](https://arxiv.org/pdf/2211.09085), Nov. 16 2022. `science`.
