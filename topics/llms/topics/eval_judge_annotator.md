@@ -54,6 +54,7 @@
 - [UK AISI alignment evaluation case-study](https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6927663ba1576c0a2acb3cba_UK_AISI_Alignment_Testing_Case_Study%20(1)%20(1).pdf), Nov. 2025.
 - [Measuring what matters: Construct validity in large language model benchmarks](https://arxiv.org/pdf/2511.04703), Nov. 3 2025.
 - [Product evals in three simple steps](https://eugeneyan.com/writing/product-evals/), Nov. 2025.
+- [Dynamioc evaluation for oversensitivity in LLMs](https://arxiv.org/pdf/2510.19005), Oct. 21 2025. [code](https://github.com/SophiaPx/Oversensitivity).
 
 #### Eval-guided dev
 
@@ -96,6 +97,7 @@
 - [Micro Evals: Individual evaluations of agent-generated code. Vulnerabilities are found by the community](https://www.designarena.ai/evals).
 - [Global PIQA: Evaluating physical commonsense reasoning across 100+ languages and cultures](https://arxiv.org/abs/2510.24081), Oct. 28 2025.
 - [OKBench: Democratizing LLM evaluation with fully automated, on-demand, open knowledge benchmarking](https://arxiv.org/pdf/2511.08598), Oct. 31 2025.
+- [ProfBench: Multi-domain rubrics requiring professional knowledge to answer and judge](https://arxiv.org/pdf/2510.18941), Oct. 21 2025. [code](https://github.com/NVlabs/ProfBench).
 
 #### Evaluation for agents
 
