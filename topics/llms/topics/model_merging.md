@@ -12,5 +12,6 @@
 - [On linear mode connectivity of mixture-of-experts architectures](https://arxiv.org/abs/2509.11348), Sep. 14 2025.
 - [MergeBench: A benchmark for merging domain-specialized LLMs](https://arxiv.org/pdf/2505.10833), Oct. 9 2025. [code](https://github.com/uiuctml/MergeBench).
 - [A survey on model merging: Recycling and routing among specialized experts for collaborative learning](https://arxiv.org/pdf/2408.07057), Aug. 9 2025.
+- [Souper-Model: How simple arithmetic unlocks state-of-the-art llm performance](https://arxiv.org/pdf/2511.13254), Nov. 17 2025. [code](https://github.com/facebookresearch/llm_souping).
 
 
