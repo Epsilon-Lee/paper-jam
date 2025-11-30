@@ -143,6 +143,7 @@
 - [AutoRubric-R1V: Rubric-based generative rewards for faithful multimodal reasoning](https://arxiv.org/pdf/2510.14738), Oct. 16 2025.
 - [IF-Critic: Towards a fine-grained LLM critic for instruction-following evaluation](https://arxiv.org/pdf/2511.01014), Nov. 2 2025. [code](https://github.com/thu-coai/IF-CRITIC).
 - [Foundational automatic evaluatiors: Scaling multi-task generative evaluator training for reasoning-centric domains](https://arxiv.org/pdf/2510.17793), Nov. 19 2025. [code](https://huggingface.co/collections/Salesforce/fare).
+- [On evaluating LLM alignment by evaluating LLM as judges](https://arxiv.org/pdf/2511.20604), Nov. 25 2025.
 
 #### Self-critique, self-verification
 
