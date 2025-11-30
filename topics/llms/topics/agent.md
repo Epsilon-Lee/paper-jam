@@ -86,6 +86,7 @@
 - [Multi-module GRPO: Composing policy gradients and prompt optimization for language model programms](https://arxiv.org/abs/2508.04660), Aug. 6 2025.
 - [GEM: A gym for agentic LLMs](https://arxiv.org/pdf/2510.01051), Oct. 1 2025. [code](https://github.com/axon-rl/gem).
 - [JoyAgents-R1: Joint evolution dynamics for versatile multi-llm agents with reinforcement learning](https://arxiv.org/pdf/2506.19846), Jun. 24 2025.
+- [Latent collaboration in multi-agent systems](https://arxiv.org/pdf/2511.20639), Nov. 25 2025. [code](https://github.com/Gen-Verse/LatentMAS).
 
 #### Open-endedness
 
