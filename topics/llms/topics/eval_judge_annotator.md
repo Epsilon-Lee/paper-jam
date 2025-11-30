@@ -194,6 +194,7 @@
 - [Can unconfident LLM annotations be used for confident conclusions?](https://arxiv.org/pdf/2408.15204), Feb. 8 2025. [code](https://github.com/kristinagligoric/confidence-driven-inference).
 - [Can reasoning help large language models capture human annotator disagreement?](https://arxiv.org/pdf/2506.19467), Aug. 4 2025. [code](https://github.com/EdisonNi-hku/Disagreement_Prediction).
 - [Large language model hacking: Quantifying the hidden risks of using LLMs for text annotation](https://arxiv.org/pdf/2509.08825), Sep. 10 2025.
+- [Evaluating large language models as expert annotators](https://openreview.net/forum?id=DktAODDdbt#discussion), COLM 2025.
 
 
 
