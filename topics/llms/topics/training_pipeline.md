@@ -23,6 +23,7 @@
 - [LOTION: Smoothing the optimization landscape for quantized training](https://arxiv.org/pdf/2510.08757), Oct. 9 2025. `QAT`
 - [A proof of learning rate transfer under muP](https://arxiv.org/pdf/2511.01734), Nov. 3 2025.
 - [Hyperparameter loss surfaces are simple near their optima](https://openreview.net/pdf?id=IAoSG4Q2xC), COLM 2025.
+- [Evolution strategies at the hyperscale](https://eshyperscale.github.io/imgs/paper.pdf), Nov. 2025. [code](https://github.com/ESHyperscale/HyperscaleES).
 
 ### Pre-training
 
@@ -47,6 +48,7 @@
 - [Dataset decomposition: Faster LLM training with variable sequence length curriculum](https://proceedings.neurips.cc/paper_files/paper/2024/file/3f9bf45ea04c98ad7cb857f951f499e2-Paper-Conference.pdf), NeurIPS 2024. [code](https://github.com/apple/ml-dataset-decomposition).
 - [Synthetic bootstrapped pretraining](https://arxiv.org/pdf/2509.15248), Sep. 17 2025.
 - [The coverage principle: How pre-training enables post-training](https://arxiv.org/pdf/2510.15020), Oct. 16 2025.
+- [RLP: Reinforcement as a pretraining objective](https://arxiv.org/abs/2510.01265), Sep. 26 2025. [code](https://github.com/NVlabs/RLP).
 
 ### Continual pre-training, or mid-training
 
