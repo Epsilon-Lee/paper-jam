@@ -117,7 +117,7 @@
 - [Cognitive Behaviors that Enable Self-Improving Reasoners](https://arxiv.org/pdf/2503.01307), May 3 2025. [code](https://github.com/kanishkg/cognitive-behaviors).
 - [SPaR: Self-play with tree-search refinement to improve instruction-following in large language models](https://arxiv.org/pdf/2412.11605), Mar. 16 2025.
 - [Process reward models that think](https://arxiv.org/pdf/2504.16828), Apr. 23 2025. [code](https://github.com/mukhal/thinkprm).
-- [PipelineRL](https://huggingface.co/blog/ServiceNow/pipelinerl), Apr. 25 2025. [code](https://github.com/ServiceNow/PipelineRL).
+- [PipelineRL](https://huggingface.co/blog/ServiceNow/pipelinerl), Apr. 25 2025. [code](https://github.com/ServiceNow/PipelineRL). [paper](https://openreview.net/forum?id=EqlmpJYapx).
 - [Reinforcement learning for reasoning in large language models with one training example](https://arxiv.org/pdf/2504.20571), Apr. 29 2025. [code](https://github.com/ypwang61/One-Shot-RLVR).
 - [Self-improvement in language models: The sharpening mechanism](https://arxiv.org/pdf/2412.01951), Dec. 4 2024.
 - [AdaptMI: Adaptive skill-based in-context math instructions for small language models](https://arxiv.org/pdf/2505.00147), Apr. 30 2025. [code](https://github.com/princeton-pli/AdaptMI).
