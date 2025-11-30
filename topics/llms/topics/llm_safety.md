@@ -60,6 +60,7 @@
   - My two cents: I wonder after multi-turn rl, how much forgetting is there?
 - [Open technical problems in open-weight AI model risk management](https://openreview.net/pdf/e6d93dac2c9bfddfd757a6b824b47562de68dc50.pdf), TMLR 2025.
 - [Natural emergent misalignment from reward hacking in production rl](https://assets.anthropic.com/m/74342f2c96095771/original/Natural-emergent-misalignment-from-reward-hacking-paper.pdf), Nov. 2025.
+- [Poisoning attacks on LLMs require a near-constant number of poison samples](https://arxiv.org/pdf/2510.07192), Oct. 8 2025.
 
 #### Survey and definition
 
