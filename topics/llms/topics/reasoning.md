@@ -324,5 +324,6 @@
 - [Are language models efficient reasoners? A perspective from logic programming](https://arxiv.org/pdf/2510.25626), Oct. 29 2025. [code](https://github.com/rycolab/reasoning-efficiency).
 - [How reinforcement learning after next-token prediction facilitates learning](https://arxiv.org/pdf/2510.11495), Oct. 13 2025.
 - [Output supervision can obfuscate the chain-of-thought](https://arxiv.org/pdf/2511.11584), Oct. 11 2025. [code]().
+- [Reasoning models don't always say what they think](https://arxiv.org/pdf/2505.05410), May 8 2025.
 
 
