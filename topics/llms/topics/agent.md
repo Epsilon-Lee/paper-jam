@@ -90,6 +90,7 @@
 - [JoyAgents-R1: Joint evolution dynamics for versatile multi-llm agents with reinforcement learning](https://arxiv.org/pdf/2506.19846), Jun. 24 2025.
 - [Latent collaboration in multi-agent systems](https://arxiv.org/pdf/2511.20639), Nov. 25 2025. [code](https://github.com/Gen-Verse/LatentMAS).
 - [Don't lie to your friends: Learning what you know from collaborative self-play](https://openreview.net/pdf?id=2vDJiGUfhV), COLM 2025.
+- [Building the Open Agent Ecosystem Together: Introducing OpenEnv](https://huggingface.co/blog/openenv), Oct. 23 2025.
 
 #### Open-endedness
 
