@@ -116,6 +116,7 @@
 - [Build your personalized research group: A multiagent framework for continual and interactive science automation](https://arxiv.org/pdf/2510.15624), Oct. 17 2025. [code](https://github.com/ltjed/freephdlabor). [blogpost](https://freephdlabor.github.io/).
 - [Paper2Web: Let's make your paper alive!](https://arxiv.org/pdf/2510.15842), Oct. 17 2025. [code](https://github.com/YuhangChen1/Paper2All).
 - [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/pdf/2501.04227), Jun. 17 2025. [code](https://github.com/SamuelSchmidgall/AgentLaboratory).
+- [AlphaResearch: Accelerating new algorithm discovery with language models](https://arxiv.org/pdf/2511.08522), Nov. 11 2025. [code](https://github.com/answers111/alpha-research).
 
 #### Code agent
 
