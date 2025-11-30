@@ -19,5 +19,6 @@
 - [Michelangelo: Long context evaluations beyond haystacks via latent structure queries](https://arxiv.org/pdf/2409.12640), Sep. 20 2024.
 - [The role of sparsity for length generalization in LLMs](https://openreview.net/pdf?id=S9LkB0UBKb), ICML 2025. `theory`.
 - [LLMs now accept longer inputs, and the best models can use them more effectively](https://epoch.ai/data-insights/context-windows), Jun. 25 2025.
+- [Lost in the maze: Overcoming context limitations in long-horizon agentic search](https://arxiv.org/pdf/2510.18939), Oct. 21 2025.
 
 
