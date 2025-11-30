@@ -15,6 +15,7 @@
 - [INTELLECT-3: technical report](https://storage.googleapis.com/intellect-3-paper/INTELLECT_3_Technical_Report.pdf), Nov. 2025..
 - [AM-Thinking-v1: Advancing the frontier of reasoning at 32B scale](https://arxiv.org/pdf/2505.08311), May 25 2025.
 - [Gaperon: A peppered English-French generative language model suite](https://arxiv.org/pdf/2510.25771), Oct. 29 2025. [code](https://github.com/NathanGodey/gapetron).
+- [Uni-MoE-2.0-Omni: Scaling language centric omnimodal large model with advanced moe, training and data](https://arxiv.org/pdf/2511.12609), Nov. 23 2025.
 
 **Meituan**
 - [LongCat-Flash technical report](https://arxiv.org/pdf/2509.01322), Aug. 31 2025.
