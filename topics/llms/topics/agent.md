@@ -56,6 +56,7 @@
 - [How can we asses human-agent interactions? Case studies in software agent design](https://arxiv.org/pdf/2510.09801), Oct. 10 2025.
 - [Agent data protocol: Unifying datasets for diverse, effective fine-tuning of LLM agents](https://arxiv.org/pdf/2510.24702), Oct. 28 2025. [code](https://www.agentdataprotocol.com/).
 - [Putting it all into context: Simplifying agents with LCLMs](https://arxiv.org/pdf/2505.08120), May 12 2025.
+- [Generate-feedback-refine: How much does model quality in each role matter?](https://openreview.net/pdf?id=KmryHNOGP7), ICLR 2025.
 
 #### World models and planning
 
@@ -88,6 +89,7 @@
 - [GEM: A gym for agentic LLMs](https://arxiv.org/pdf/2510.01051), Oct. 1 2025. [code](https://github.com/axon-rl/gem).
 - [JoyAgents-R1: Joint evolution dynamics for versatile multi-llm agents with reinforcement learning](https://arxiv.org/pdf/2506.19846), Jun. 24 2025.
 - [Latent collaboration in multi-agent systems](https://arxiv.org/pdf/2511.20639), Nov. 25 2025. [code](https://github.com/Gen-Verse/LatentMAS).
+- [Don't lie to your friends: Learning what you know from collaborative self-play](https://openreview.net/pdf?id=2vDJiGUfhV), COLM 2025.
 
 #### Open-endedness
 
@@ -169,6 +171,7 @@
 - [PRISM: Agentic retrieval with LLMs for multi-hop question answering](https://arxiv.org/pdf/2510.14278), Oct. 16 2025.
 - [Synthesizing agentic data for web agents with progressive difficulty enhancement machenisms](https://arxiv.org/pdf/2510.13913), Oct. 15 2025.
 - [Thinking vs. doing: Improving agent reasoning by scaling test-time interaction](https://openreview.net/pdf?id=un1TRwNgiv), NeurIPS 2025. [code](https://github.com/test-time-interaction/TTI).
+- [DR Tulu: Reinforcement learning with evolving rubrics for deep research](https://www.datocms-assets.com/64837/1763496622-dr_tulu_draft.pdf), Nov. 18 2025.
 
 **toolkits**
 - [verl-tool](https://deepwiki.com/TIGER-AI-Lab/verl-tool).
