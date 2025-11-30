@@ -13,6 +13,7 @@
 - [K2-Think: A parameter-efficient reasoning system](https://arxiv.org/pdf/2509.07604v3), Sep. 9 2025.
 - [CWM: An open-weights LLM for research on code generation with world models](https://arxiv.org/pdf/2510.02387). Sep. 30 2025.
 - [INTELLECT-3: technical report](https://storage.googleapis.com/intellect-3-paper/INTELLECT_3_Technical_Report.pdf), Nov. 2025..
+- [AM-Thinking-v1: Advancing the frontier of reasoning at 32B scale](https://arxiv.org/pdf/2505.08311), May 25 2025.
 
 **Meituan**
 - [LongCat-Flash technical report](https://arxiv.org/pdf/2509.01322), Aug. 31 2025.
