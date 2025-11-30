@@ -61,5 +61,6 @@
 - [Why less is more (sometimes): A theory of data curation](https://arxiv.org/pdf/2511.03492), Nov. 5 2025.
 - [Diversity as a reward: Fine-tuning LLMs on a mixture of domain-undetermined data](https://arxiv.org/pdf/2502.04380), Oct. 30 2025. [code](https://github.com/datajuicer/data-juicer/tree/DaaR).
   - Limitations: _"existing methods based on modeling the mixture proportion of data composition often struggle with data whose domain labels are missing, imprecise or non-normalized, while methods based on data selection usually encounter difficulties in balancing multi-domain performance"_
+- [AttentionInfluence: Adopting attention head influence for weak-to-strong pretraining data selection](https://arxiv.org/pdf/2505.07293), May 12 2025.
 
 
