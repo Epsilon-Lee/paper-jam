@@ -1,5 +1,6 @@
 
 - [Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data?tab=readme-ov-file).
+- [DecorateLM: Data engineering through corpus rating, tagging, and editing with language models](https://aclanthology.org/2024.emnlp-main.83.pdf), EMNLP 2024.
 - [Large language models for data annotation and synthesis: A survey](https://aclanthology.org/2024.emnlp-main.54.pdf), EMNLP 2024.
 - [DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining](https://arxiv.org/pdf/2305.10429), Nov. 21 2023.
 - [TinyGSM: achieving > 80% on GSM8k with small language models](https://arxiv.org/pdf/2312.09241), Dec. 14 2023.
@@ -57,5 +58,7 @@
 - [BeyondWeb Lessions from scaling synthetic data fro trillion-scale pretraining](https://arxiv.org/pdf/2508.10975), Aug. 14 2025.
 - [Generative data refinement: Just ask for better data](https://arxiv.org/pdf/2509.08653v1), Sep. 10 2025.
 - [Why less is more (sometimes): A theory of data curation](https://arxiv.org/pdf/2511.03492), Nov. 5 2025.
+- [Diversity as a reward: Fine-tuning LLMs on a mixture of domain-undetermined data](https://arxiv.org/pdf/2502.04380), Oct. 30 2025. [code](https://github.com/datajuicer/data-juicer/tree/DaaR).
+  - Limitations: _"existing methods based on modeling the mixture proportion of data composition often struggle with data whose domain labels are missing, imprecise or non-normalized, while methods based on data selection usually encounter difficulties in balancing multi-domain performance"_
 
 
