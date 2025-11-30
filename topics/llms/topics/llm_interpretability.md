@@ -205,6 +205,7 @@
 
 #### Understanding MoE arch.
 
+- [The power of fine-grained experts: Granularity boosts expressivity in miture of experts](https://arxiv.org/pdf/2505.06839), May 11 2025.
 - [Sparsity and superposition in mixture of experts](https://arxiv.org/pdf/2510.23671), Oct. 26 2025. [code](https://github.com/MarmikChaudhari/superposition-moe).
 
 #### Sparse autoencoders, dictionary learning and beyond
@@ -273,6 +274,7 @@
 - [Interpretability in parameter space: Minimizing mechanistic description length with attribution-based parameter decomposition](https://arxiv.org/pdf/2501.14926), Jan. 29 2025. [code](https://github.com/ApolloResearch/apd).
 - [Position-aware automatic circuit discovery](https://arxiv.org/pdf/2502.04577), Feb. 7 2025. [code](https://github.com/technion-cs-nlp/PEAP).
 - [All for one： LLMs solve mental math at the last token with information transferred from other tokens](https://www.arxiv.org/pdf/2509.09650), Sep. 11 2025. [code](https://github.com/siddarth-pm/all-for-one).
+- [Does circuit analysis interpretability scale? Evidence from multiple choice capabilities in chinchilla](https://arxiv.org/pdf/2307.09458), Jul. 24 2023.
 
 #### Auto-intepretation
 
