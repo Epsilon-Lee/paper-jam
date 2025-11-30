@@ -323,5 +323,6 @@
   - _"We revisit this assumption through a rigorous theoretical analysis, deriving accuracy bounds for standard aggregation methods under fied generation distributions and candidate sizes"_
 - [Are language models efficient reasoners? A perspective from logic programming](https://arxiv.org/pdf/2510.25626), Oct. 29 2025. [code](https://github.com/rycolab/reasoning-efficiency).
 - [How reinforcement learning after next-token prediction facilitates learning](https://arxiv.org/pdf/2510.11495), Oct. 13 2025.
+- [Output supervision can obfuscate the chain-of-thought](https://arxiv.org/pdf/2511.11584), Oct. 11 2025. [code]().
 
 
