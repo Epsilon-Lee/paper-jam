@@ -144,6 +144,7 @@
 - [IF-Critic: Towards a fine-grained LLM critic for instruction-following evaluation](https://arxiv.org/pdf/2511.01014), Nov. 2 2025. [code](https://github.com/thu-coai/IF-CRITIC).
 - [Foundational automatic evaluatiors: Scaling multi-task generative evaluator training for reasoning-centric domains](https://arxiv.org/pdf/2510.17793), Nov. 19 2025. [code](https://huggingface.co/collections/Salesforce/fare).
 - [On evaluating LLM alignment by evaluating LLM as judges](https://arxiv.org/pdf/2511.20604), Nov. 25 2025.
+- [J1: Incentivizing thinking in LLM-as-a-judge via reinforcement learning](https://arxiv.org/pdf/2505.10320), Oct. 13 2025.
 
 #### Self-critique, self-verification
 
@@ -164,6 +165,7 @@
 
 #### Fine-tuned judge, debate, collaborate
 
+- [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/pdf/2209.14375), Sep. 28 2022.
 - [Fine-tuning language models to find agreement among humans with diverse preferences](https://openreview.net/pdf?id=G5ADoRKiTyJ), NeurIPS 2022.
 - [The goldilocks of pragmatic understanding: Fine-tuning strategy matters for implicature resolution by LLMs](https://proceedings.neurips.cc/paper_files/paper/2023/file/4241fec6e94221526b0a9b24828bb774-Paper-Conference.pdf), NeurIPS 2023.
 - [Training language models to win debates with self-play improves judge accuracy](https://arxiv.org/pdf/2409.16636), Sep. 2024.
@@ -179,6 +181,7 @@
 - [Multi-agent consensus seeking via large language models](https://arxiv.org/pdf/2310.20151), Jan. 21 2025.
 - [Great models think alike and this undermines AI oversight](https://arxiv.org/pdf/2502.04313), Feb. 6 2025. [code](https://github.com/model-similarity/lm-similarity).
 - [AI debate aids assessment of controversial claims](https://arxiv.org/pdf/2506.02175), Jun. 2 2025. [code](https://github.com/salman-lui/ai-debate).
+- [An alignment safety case sketch based on debate](https://arxiv.org/pdf/2505.03989?), May 23 2025.
 
 ### LLM-as-an-annotator
 
