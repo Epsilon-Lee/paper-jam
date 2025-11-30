@@ -55,6 +55,7 @@
 - [PolySkill: Learning generalizable skills through polymorphic abstraction](https://arxiv.org/pdf/2510.15863), Oct. 17 2025.
 - [How can we asses human-agent interactions? Case studies in software agent design](https://arxiv.org/pdf/2510.09801), Oct. 10 2025.
 - [Agent data protocol: Unifying datasets for diverse, effective fine-tuning of LLM agents](https://arxiv.org/pdf/2510.24702), Oct. 28 2025. [code](https://www.agentdataprotocol.com/).
+- [Putting it all into context: Simplifying agents with LCLMs](https://arxiv.org/pdf/2505.08120), May 12 2025.
 
 #### World models and planning
 
