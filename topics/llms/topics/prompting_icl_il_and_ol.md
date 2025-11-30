@@ -24,9 +24,11 @@
 - [Does Prompt Formatting Have Any Impact on LLM Performance?](https://arxiv.org/pdf/2411.10541), Nov. 15 2024.
 - [Rule Extrapolation in Language Models: A Study of Compositional Generalization on OOD Prompts](https://arxiv.org/pdf/2409.13728), Oct. 24 2024. [code](https://github.com/meszarosanna/rule_extrapolation).
 - [What makes a good natural language prompt?](https://arxiv.org/pdf/2506.06950), Jun. 7 2025. [code](https://github.com/dxlong2000/NLPromptEval).
+- [From prompts to reflection: Designing reflective play for genai literacy](https://arxiv.org/pdf/2509.13679), Sep. 17 2025.
 
 #### Prompt optimization
 
+- [Wizard LM: Empowering large pre-trained language models to follow complex instructions](https://arxiv.org/pdf/2304.12244), Apr. 2023.
 - [Hard prompts made easy: Gradient-based discrete optimization for prompt tuning and discovery](https://proceedings.neurips.cc/paper_files/paper/2023/file/a00548031e4647b13042c97c922fadf1-Paper-Conference.pdf), NeurIPS 2023.
 - [Automatic prompt optimization with "gradient descent" and beam search](https://arxiv.org/pdf/2305.03495), Oct. 19 2023.
 - [Prompt optimization with logged bandit data](https://arxiv.org/pdf/2504.02646), Apr. 3 2025.
@@ -49,6 +51,8 @@
 - [Are my optimized prompts compromised? Exploring vulnerabilities of LLM-based optimizer](https://arxiv.org/pdf/2510.14381), Oct. 16 2025.
   - Motivation: _"No systematic study on the risk of score-feedback-based prompt optimization, that is, the attacker can provide malicious feedback that leads to harmful prompt optimization"_
 - [Feedback descent: Open-ended text optimization via pairwise comparison](https://arxiv.org/pdf/2511.07919), Nov. 11 2025.
+- [metaTextGrad: Automatically optimizing language model optimizers](https://arxiv.org/pdf/2505.18524), NeurIPS 2025.
+- [Automatic instruction evolving for large language models](https://arxiv.org/pdf/2406.00770?), Jun. 2 2024.
 
 #### Theory
 
