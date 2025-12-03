@@ -62,5 +62,6 @@
 - [Diversity as a reward: Fine-tuning LLMs on a mixture of domain-undetermined data](https://arxiv.org/pdf/2502.04380), Oct. 30 2025. [code](https://github.com/datajuicer/data-juicer/tree/DaaR).
   - Limitations: _"existing methods based on modeling the mixture proportion of data composition often struggle with data whose domain labels are missing, imprecise or non-normalized, while methods based on data selection usually encounter difficulties in balancing multi-domain performance"_
 - [AttentionInfluence: Adopting attention head influence for weak-to-strong pretraining data selection](https://arxiv.org/pdf/2505.07293), May 12 2025.
+- [TANDEM: Bi-level data mixture optimization with twin networks](https://openreview.net/forum?id=szBFUtBzWP&referrer=%5Bthe%20profile%20of%20Zicheng%20Zhang%5D(%2Fprofile%3Fid%3D~Zicheng_Zhang3)), NeurIPS 2025.
 
 
