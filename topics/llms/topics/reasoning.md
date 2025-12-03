@@ -271,11 +271,17 @@
 - [The path not taken: RLVR provably learns off the principals](https://arxiv.org/abs/2511.08567), Nov. 11 2025.
 - [Cognitive foundations for reasoning and their manifestation in llms](https://arxiv.org/pdf/2511.16660), Nov. 24 2025.
 - [Inference-time scaling for generalist reward modeling](https://arxiv.org/pdf/2504.02495?), Sep. 25 2025.
+- [RL-Struct: A lightweight reinforcement learning framework for reliable structured output in LLMs](https://arxiv.org/pdf/2512.00319), Nov. 29 2025. [code](https://huggingface.co/Freakz3z/Qwen-JSON).
+
+#### Mode collapse
+
+- [Mode-conditioning unlocks superior test-time scaling](https://arxiv.org/pdf/2512.01127), Nov. 30 2025. [code](https://github.com/AR-FORUM/modc).
 
 #### Adaptive reasoning
 
 - [ProofOptimizer: Training language models to simplify proofs without human demonstrations](https://arxiv.org/pdf/2510.15700), Oct. 17 2025.
 - [DLER: Doing lenght penalty right - Incentivizing more intelligence per token via reinforcement learning](https://arxiv.org/pdf/2510.15110v1), Oct. 16 2025.
+- [ORION: Teaching language models to reason efficiently in the language of thought](https://arxiv.org/pdf/2511.22891), Nov. 28 2025. [code](https://github.com/Hippocratic-AI-Research/Orion).
 
 #### Latent reasoning
 
@@ -326,5 +332,7 @@
 - [How reinforcement learning after next-token prediction facilitates learning](https://arxiv.org/pdf/2510.11495), Oct. 13 2025.
 - [Output supervision can obfuscate the chain-of-thought](https://arxiv.org/pdf/2511.11584), Oct. 11 2025. [code]().
 - [Reasoning models don't always say what they think](https://arxiv.org/pdf/2505.05410), May 8 2025.
+- [How does rl post-training induce skill composition? A case study on countdown](https://arxiv.org/pdf/2512.01775), Dec. 1 2025. [code](https://github.com/princeton-pli/RL-skill-comp).
+- [ReJump: A tree-jump representation for analyzing and improving LLM reasoning](https://arxiv.org/pdf/2512.00831), Nov. 30 2025. [code](https://github.com/UW-Madison-Lee-Lab/ReJump).
 
 
