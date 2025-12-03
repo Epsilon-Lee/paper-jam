@@ -93,7 +93,6 @@
 - [Instruction Tuning for Large Language Models: A Survey](https://arxiv.org/pdf/2308.10792), Mar. 14 2024.
 - [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/pdf/2205.05638), Aug. 26 2022.
 - [The Impact of Initialization on LoRA Finetuning Dynamics](https://arxiv.org/pdf/2406.08447), Jun. 12 2024. `lora`.
-
 - [Orthogonal Finetuning for Direct Preference Optimization](https://arxiv.org/pdf/2409.14836), Sep. 23 2024.
 - [ReFT: Representation Finetuning for Language Models](https://arxiv.org/abs/2404.03592), Apr. 4 2024.
 - [ALLoRA: Adaptive learning rate mitigates LoRA fatal flaws](https://arxiv.org/pdf/2410.09692), Oct. 13 2024.
@@ -127,6 +126,8 @@
 - [Quantifying elicitation of latent capabilities in language models](https://openreview.net/pdf?id=Dkgx2pS4Ww), NeurIPS 2025. [code](https://github.com/edonoway/quantifying-elicitation-neurips25).
 
 ### Alignment, preference alignment, reward models
+
+> All rl-based training methods for large models are separatedly listed [here](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/llms/topics/reasoning.md).
 
 - [Large Language Model Alignment: A Survey](https://arxiv.org/pdf/2309.15025), Sep. 26 2023.
 - [Aligning Large Language Models with Human: A Survey](https://arxiv.org/pdf/2307.12966), Jul. 24 2023.
@@ -238,6 +239,7 @@
 - [Why DPO is a misspecified estimator and how to fix it](https://arxiv.org/pdf/2510.20413), Oct. 23 2025.
 - [Data-centric human preference with rationales for direct preference alignment](https://openreview.net/pdf?id=LH2ZKviJoI), COLM 2025.
 - [Greedy sampling is provably efficient for RLHF](https://arxiv.org/abs/2510.24700), Oct. 28 2025.
+- [On the role of preference variance in preference optimization](https://arxiv.org/pdf/2510.13022), Oct. 14 2025.
 
 ### Forgetting
 
