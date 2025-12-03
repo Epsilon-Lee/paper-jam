@@ -54,6 +54,7 @@
 - [metaTextGrad: Automatically optimizing language model optimizers](https://arxiv.org/pdf/2505.18524), NeurIPS 2025.
 - [Automatic instruction evolving for large language models](https://arxiv.org/pdf/2406.00770?), Jun. 2 2024.
 - [The art of asking: Multilingual prompt optimization for synthetic data](https://arxiv.org/pdf/2510.19806), Oct. 22 2025.
+- [Agentic policy optimization via instruction-policy co-evoluation](https://arxiv.org/pdf/2512.01945), Dec. 1 2025. [code](https://github.com/cambridgeltl/inspo).
 
 #### Theory
 
