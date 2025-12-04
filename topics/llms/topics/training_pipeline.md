@@ -76,6 +76,7 @@
 - [Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need](https://arxiv.org/pdf/2406.03216), Jun. 5 2024.
 - [Pay attention to small weights](https://arxiv.org/pdf/2506.21374), Jun. 26 2025.
 - [Loquetier: A virtualized multi-lora framework for unified llm fine-tuning and serving](https://arxiv.org/pdf/2511.00101), Oct. 30 2025. [code](https://github.com/NJUDeepEngine/Loquetier).
+- [The primacy of magnitude in low-rank adaptation](https://arxiv.org/pdf/2507.06558), Jul. 9 2025.
 
 ### Supervised fine-tuning, instruction-tuning and following
 
