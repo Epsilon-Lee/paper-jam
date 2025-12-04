@@ -144,6 +144,7 @@
 - [Natural language tools: A natural language approach to tool calling in large language agents](https://arxiv.org/pdf/2510.14453), Oct. 16 2025.
   - Challenge: _"Current tool call implementation typically require models to emit structured outputs conforming to rigid function schemas (i.e. JSON or XML), growing evidence suggests the underlying structure may come with significant drawbacks, since it simultaneously handle multiple competing demands, such as query understanding, right tool selection, format adhering and response generation"_
   - Solution: _"propose NLT, Natural Language Tools, a modular framework for tool use"_
+- [In-the-flow agentic system optimization for effective planning and tool use](https://arxiv.org/pdf/2510.05592), Oct. 7 2025. [code](https://github.com/lupantech/AgentFlow).
 
 #### GUI and computer use agent
 
