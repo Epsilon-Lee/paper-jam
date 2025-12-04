@@ -24,6 +24,7 @@
 - [A proof of learning rate transfer under muP](https://arxiv.org/pdf/2511.01734), Nov. 3 2025.
 - [Hyperparameter loss surfaces are simple near their optima](https://openreview.net/pdf?id=IAoSG4Q2xC), COLM 2025.
 - [Evolution strategies at the hyperscale](https://eshyperscale.github.io/imgs/paper.pdf), Nov. 2025. [code](https://github.com/ESHyperscale/HyperscaleES).
+- [SVRG and beyond via posterior correction](https://arxiv.org/abs/2512.01930), Dec. 1 2025.
 
 ### Pre-training
 
