@@ -62,6 +62,7 @@
 - [Natural emergent misalignment from reward hacking in production rl](https://assets.anthropic.com/m/74342f2c96095771/original/Natural-emergent-misalignment-from-reward-hacking-paper.pdf), Nov. 2025.
 - [Poisoning attacks on LLMs require a near-constant number of poison samples](https://arxiv.org/pdf/2510.07192), Oct. 8 2025.
 - [Benign samples matter! Fine-tuning on outlier benign samples severely breaks safetly](https://arxiv.org/pdf/2505.06843), May 25 2025. [code](https://github.com/GuanZihan/Benign-Samples-Matter/).
+- [Difficulties with evaluating a deception detector for AIs](https://arxiv.org/abs/2511.22662), Nov. 27 2025.
 
 #### Survey and definition
 
