@@ -272,6 +272,7 @@
 - [Cognitive foundations for reasoning and their manifestation in llms](https://arxiv.org/pdf/2511.16660), Nov. 24 2025.
 - [Inference-time scaling for generalist reward modeling](https://arxiv.org/pdf/2504.02495?), Sep. 25 2025.
 - [RL-Struct: A lightweight reinforcement learning framework for reliable structured output in LLMs](https://arxiv.org/pdf/2512.00319), Nov. 29 2025. [code](https://huggingface.co/Freakz3z/Qwen-JSON).
+- [Efficient & stable evolutionary rl](https://antheali.notion.site/eses), Nov. 23 2025.
 
 #### Mode collapse
 
@@ -334,5 +335,6 @@
 - [Reasoning models don't always say what they think](https://arxiv.org/pdf/2505.05410), May 8 2025.
 - [How does rl post-training induce skill composition? A case study on countdown](https://arxiv.org/pdf/2512.01775), Dec. 1 2025. [code](https://github.com/princeton-pli/RL-skill-comp).
 - [ReJump: A tree-jump representation for analyzing and improving LLM reasoning](https://arxiv.org/pdf/2512.00831), Nov. 30 2025. [code](https://github.com/UW-Madison-Lee-Lab/ReJump).
+- [Thought branches: Interpreting LLM reasoning requires resampling](https://arxiv.org/abs/2510.27484), Oct. 31 2025.
 
 
