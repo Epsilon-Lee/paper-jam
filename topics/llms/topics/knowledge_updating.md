@@ -150,6 +150,7 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [From noise to narrative: Tracing the origins of hallucinations in Transformers](https://arxiv.org/pdf/2509.06938v1), Sep. 8 2025.
 - [Real-time detection of hallucination entities in long-form generation](https://arxiv.org/pdf/2509.03531), Aug. 26 2025.
 - [Are hallucinations bad estimations?](https://arxiv.org/pdf/2509.21473), Sep. 22 2025. [code](https://github.com/MAGICS-LAB/hallucination).
+- [H-Neurons: On the existence, impact, and origin of hallucination-associated neurons](https://arxiv.org/abs/2512.01797), Dec. 1 2025.
 
 #### Unlearning
 
