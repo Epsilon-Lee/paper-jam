@@ -120,6 +120,7 @@
 - [AlphaResearch: Accelerating new algorithm discovery with language models](https://arxiv.org/pdf/2511.08522), Nov. 11 2025. [code](https://github.com/answers111/alpha-research).
 - [Kosmos: An ai scientist for autonomous discovery](https://arxiv.org/pdf/2511.02824), Nov. 5 2025.
 - [Scientific hypothesis generation and validation: Methods, datasetes, and future directions](https://arxiv.org/pdf/2505.04651), May 6 2025.
+- [ThetaEvolve: Test-time learning on open problems](https://arxiv.org/pdf/2511.23473), Nov. 28 2025. [code](https://github.com/ypwang61/ThetaEvolve).
 
 #### Code agent
 
@@ -145,6 +146,8 @@
   - Challenge: _"Current tool call implementation typically require models to emit structured outputs conforming to rigid function schemas (i.e. JSON or XML), growing evidence suggests the underlying structure may come with significant drawbacks, since it simultaneously handle multiple competing demands, such as query understanding, right tool selection, format adhering and response generation"_
   - Solution: _"propose NLT, Natural Language Tools, a modular framework for tool use"_
 - [In-the-flow agentic system optimization for effective planning and tool use](https://arxiv.org/pdf/2510.05592), Oct. 7 2025. [code](https://github.com/lupantech/AgentFlow).
+- [Agent0-VL: Exploring self-evolving agent for tool-integrated vision-language reasoning](https://arxiv.org/abs/2511.19900), Nov. 25 2025. [code](https://github.com/aiming-lab/Agent0/Agent0-VL).
+- [CuES: A curiosity-driven and environment-grounded synthesis framework for agentic rl](https://arxiv.org/abs/2512.01311), Dec. 1 2025. [code](https://github.com/modelscope/AgentEvolver/tree/main/research/CuES).
 
 #### GUI and computer use agent
 
