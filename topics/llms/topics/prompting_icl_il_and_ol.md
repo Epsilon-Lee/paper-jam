@@ -92,6 +92,7 @@
   - Challenge: _"traditional example-driven icl lacks explicit modules for knowledge retrieval and transfer at the abstraction level"_
   - Motivation: _"schema theory, humans interpret new info by activating pre-existing mental frameworks (schemas) to structure understanding"_
   - Solution: _"propose schema-activated icl, a framework to extract reusable Building Blocks of Cognition instilled from prior examples -- a lightweight, structured template of key inferential steps and their relationships -- which is then used to augment a model's reasoning process for novel questions"_
+- [Real-time procedural learning from experience for AI agents](https://arxiv.org/pdf/2511.22074), Nov. 27 2025.
 
 #### Empirical observation of icl
 
@@ -177,5 +178,6 @@
 ### Interactive learning
 
 - [Just-in-time objectives: A general approach for specialized AI interactions](https://arxiv.org/pdf/2510.14591), Oct. 16 2025.
+- [MaestroMotif: Skill design from artificial intellligence feedback](https://arxiv.org/pdf/2412.08542), Dec. 11 2024.
 
 
