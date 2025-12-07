@@ -274,6 +274,7 @@
 - [RL-Struct: A lightweight reinforcement learning framework for reliable structured output in LLMs](https://arxiv.org/pdf/2512.00319), Nov. 29 2025. [code](https://huggingface.co/Freakz3z/Qwen-JSON).
 - [Efficient & stable evolutionary rl](https://antheali.notion.site/eses), Nov. 23 2025.
 - [On the limits of test-time compute: Sequential reward filtering for better inference](https://arxiv.org/pdf/2512.04558), Dec. 4 2025.
+- [Archon: An architecture search framework for inference-time techniques](https://www.arxiv.org/abs/2409.15254), Sep. 23 2024.
 
 #### Mode collapse
 
