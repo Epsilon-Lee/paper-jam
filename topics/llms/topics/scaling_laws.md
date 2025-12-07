@@ -57,6 +57,7 @@
   - Challenge: _"cross-entropy loss based scaling laws fail to capture downstream task performance, due to ignorance of context or context length, that is the info provided to a model at inference time"_
   - Solution: Including a new factor n_{pmt}, the length (in tokens) of a given input query or context, excluding generated/outputted tokens, to fit more dedicated task performance prediction curves.
   - My two cents: If using many-shot learning to controll the n_{pmt}, would this fitted law only workable for narrow icl, that is, icl via ic demos?
+- [How doe large language monkeys get their power (laws)?](https://arxiv.org/pdf/2502.17578), Feb. 24 2025.
 
 #### FLOPS
 
