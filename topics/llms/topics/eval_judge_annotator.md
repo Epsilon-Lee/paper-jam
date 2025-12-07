@@ -55,6 +55,7 @@
 - [Measuring what matters: Construct validity in large language model benchmarks](https://arxiv.org/pdf/2511.04703), Nov. 3 2025.
 - [Product evals in three simple steps](https://eugeneyan.com/writing/product-evals/), Nov. 2025.
 - [Dynamioc evaluation for oversensitivity in LLMs](https://arxiv.org/pdf/2510.19005), Oct. 21 2025. [code](https://github.com/SophiaPx/Oversensitivity).
+- [Evaluating deep agents](https://blog.langchain.com/evaluating-deep-agents-our-learnings/), Dec. 3 2025.
 
 #### Eval-guided dev
 
@@ -70,6 +71,7 @@
 - [The emperor's new clothes in benchmarking? A rigorous examination of mitigation strategies for LLM benchmark data contamination](https://arxiv.org/pdf/2503.16402), Mar. 20 2025. [code](https://github.com/ASTRAL-Group/BDC_mitigation_assessment).
 - [Beyond memorization: Reasoning-driven synthesis as a mitigation strategy against benchmark contamination](https://arxiv.org/pdf/2509.00072), Aug. 26 2025. [code](https://github.com/TerryJCZhang/BeyondMemorization).
 - [Beyond the leaderboard: Understanding performance disparities in large language models via model diffing](https://arxiv.org/pdf/2509.18792), Sep. 23 2025.
+- [Evaluation data contamination in LLMs, How do we measure it and (when) does it matter?](https://arxiv.org/abs/2411.03923), Nov. 6 2024.
 
 #### Benchmark
 
