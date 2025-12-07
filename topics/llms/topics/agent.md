@@ -149,6 +149,7 @@
 - [In-the-flow agentic system optimization for effective planning and tool use](https://arxiv.org/pdf/2510.05592), Oct. 7 2025. [code](https://github.com/lupantech/AgentFlow).
 - [Agent0-VL: Exploring self-evolving agent for tool-integrated vision-language reasoning](https://arxiv.org/abs/2511.19900), Nov. 25 2025. [code](https://github.com/aiming-lab/Agent0/Agent0-VL).
 - [CuES: A curiosity-driven and environment-grounded synthesis framework for agentic rl](https://arxiv.org/abs/2512.01311), Dec. 1 2025. [code](https://github.com/modelscope/AgentEvolver/tree/main/research/CuES).
+- [ToolOrchestra: Elevating intelligence via efficient model and tool orchestration](https://arxiv.org/pdf/2511.21689), Nov. 26 2025. [code](https://github.com/NVlabs/ToolOrchestra/).
 
 #### GUI and computer use agent
 
@@ -160,6 +161,8 @@
 - [UI-TARS-2 technical report: Advancing GUI agent with multi-turn reinforcement learning](https://arxiv.org/pdf/2509.02544), Sep. 2 2025. [code](https://github.com/bytedance/UI-TARS-desktop).
 - [UI-S1: Advancing GUI automation via semi-online reinforcement learning](https://arxiv.org/abs/2509.11543), Sep. 15 2025. [code](https://github.com/X-PLUG/MobileAgent/tree/main/UI-S1).
 - [Greating general user models from computer use](https://arxiv.org/pdf/2505.10831), May 19 2025. [code](https://generalusermodels.github.io/).
+- [Mobile-agent-v3: Fundamental agents for GUI automation](https://arxiv.org/abs/2508.15144), Aug. 21 2025. [code](https://github.com/X-PLUG/MobileAgent).
+- [gelab-zero](https://github.com/stepfun-ai/gelab-zero), GELab: GUI Exploration Lab. One of the best GUI agent solutions in the galaxy, built by the StepFun-GELab team and powered by Step’s research capabilities. [project page](https://opengelab.github.io/index.html).
 
 #### Web agent
 
