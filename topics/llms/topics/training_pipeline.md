@@ -50,6 +50,7 @@
 - [Synthetic bootstrapped pretraining](https://arxiv.org/pdf/2509.15248), Sep. 17 2025.
 - [The coverage principle: How pre-training enables post-training](https://arxiv.org/pdf/2510.15020), Oct. 16 2025.
 - [RLP: Reinforcement as a pretraining objective](https://arxiv.org/abs/2510.01265), Sep. 26 2025. [code](https://github.com/NVlabs/RLP).
+- [PretrainZero: Reinforcement active pretraining](https://arxiv.org/pdf/2512.03442), Dec. 3 2025.
 
 ### Continual pre-training, or mid-training
 
