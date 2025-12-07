@@ -275,6 +275,7 @@
 - [Efficient & stable evolutionary rl](https://antheali.notion.site/eses), Nov. 23 2025.
 - [On the limits of test-time compute: Sequential reward filtering for better inference](https://arxiv.org/pdf/2512.04558), Dec. 4 2025.
 - [Archon: An architecture search framework for inference-time techniques](https://www.arxiv.org/abs/2409.15254), Sep. 23 2024.
+- [Rethinking fine-tuning when scaling test-time compute: Limiting confidence improves mathematical reasoning](https://arxiv.org/pdf/2502.07154), Nov. 24 2025.
 
 #### Mode collapse
 
