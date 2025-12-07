@@ -68,6 +68,7 @@
 - [Agent skill acquisition for large language models via CycleQD](https://arxiv.org/pdf/2410.14735), Nov. 27 2024. [code](https://github.com/SakanaAI/CycleQD).
 - [Inducing programmatic skills for agentic tasks](https://arxiv.org/pdf/2504.06821), Apr. 9 2025. [code](https://github.com/zorazrw/agent-skill-induction).
 - [MemOS: A memory OS for AI systems](https://arxiv.org/pdf/2507.03724), Jul. 4 2025. [code](https://github.com/MemTensor/MemOS).
+- [Measuring agents in production](https://arxiv.org/pdf/2512.04123), Dec. 2 2025.
 
 #### Compound AI systems
 
