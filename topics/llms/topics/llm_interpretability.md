@@ -258,6 +258,7 @@
 - [ParaScopes: What do language models activations encode about future text?](https://arxiv.org/abs/2511.00180), Oct. 31 2025.
 - [Representation surgery: Theory and practices of affine steering](https://arxiv.org/pdf/2402.09631), Jun. 4 2025. [code](https://github.com/shauli-ravfogel/affine-steering).
 - [Steering language models with weight arithmetic](https://arxiv.org/pdf/2511.05408), Nov. 7 2025. [code](https://github.com/safety-research/weight-steering).
+- [Unsupervised decoding of encoded reasoning using language model interpretability](https://openreview.net/pdf?id=OEDW0lmJTv), NeurIPS 2025.
 
 #### Parameter attribution, circuits
 
