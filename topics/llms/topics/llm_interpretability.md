@@ -194,6 +194,7 @@
 - [Inferring functionality of attention heads from their parameters](https://arxiv.org/abs/2412.11965), Dec. 16 2024.
 - [Decoposing mlp activations into interpretable features via semi-nonnegative matrix factorization](https://arxiv.org/abs/2506.10920), Jun. 12 2025.
 - [The mechanistic emergence of symbol grounding in language models](https://arxiv.org/pdf/2510.13796), Oct. 16 2025.
+- [Sparse attention post-training for machanistic interpretability](https://arxiv.org/pdf/2512.05865), Dec. 5 2025.
 
 #### Learning dynamics of fm
 
