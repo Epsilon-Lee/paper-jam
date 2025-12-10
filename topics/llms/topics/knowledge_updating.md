@@ -157,3 +157,6 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [Provable unlearning in topic modeling and downstream tasks](https://arxiv.org/pdf/2411.12600), Apr. 20 2025.
 - [Intrinsic test of unlearning using parametric knowledge traces](https://arxiv.org/pdf/2406.11614), Sep. 1 2025. [code](https://github.com/yihuaihong/ConceptVectors).
 - [On the impossibility of retrain equivalence in machine unlearning](https://arxiv.org/pdf/2510.16629), Oct. 29 2025. [code](https://princeton-pli.github.io/impossibility-unlearning/).
+- [Beyond data filtering: Knowledge localization for capability removal in LLMs](https://arxiv.org/pdf/2512.05648), Dec. 5 2025. [code](https://github.com/safety-research/selective-gradient-masking).
+
+
