@@ -341,5 +341,6 @@
 - [How does rl post-training induce skill composition? A case study on countdown](https://arxiv.org/pdf/2512.01775), Dec. 1 2025. [code](https://github.com/princeton-pli/RL-skill-comp).
 - [ReJump: A tree-jump representation for analyzing and improving LLM reasoning](https://arxiv.org/pdf/2512.00831), Nov. 30 2025. [code](https://github.com/UW-Madison-Lee-Lab/ReJump).
 - [Thought branches: Interpreting LLM reasoning requires resampling](https://arxiv.org/abs/2510.27484), Oct. 31 2025.
+- [On the interplay of pre-training, mid-training, and rl on reasoning language models](https://arxiv.org/pdf/2512.07783), Dec. 8 2025. [code](https://github.com/Interplay-LM-Reasoning/Interplay-LM-Reasoning).
 
 
