@@ -92,6 +92,7 @@
 - [Latent collaboration in multi-agent systems](https://arxiv.org/pdf/2511.20639), Nov. 25 2025. [code](https://github.com/Gen-Verse/LatentMAS).
 - [Don't lie to your friends: Learning what you know from collaborative self-play](https://openreview.net/pdf?id=2vDJiGUfhV), COLM 2025.
 - [Building the Open Agent Ecosystem Together: Introducing OpenEnv](https://huggingface.co/blog/openenv), Oct. 23 2025.
+- [Towards a science of scaling agent systems](https://arxiv.org/pdf/2512.08296), Dec. 9 2025.
 
 #### Open-endedness
 
@@ -135,6 +136,7 @@
 
 #### Tool use agent
 
+- [Toolformer: Language models can teach themselves to use tools](https://arxiv.org/pdf/2302.04761), Feb. 9 2023.
 - [MCP-Universe: Benchmarking large language models with real-world model context protocal servers](https://arxiv.org/pdf/2508.14704), Aug. 20 2025. [code](https://github.com/SalesforceAIResearch/MCP-Universe).
 - [Understanding tool-integrated reasoning](https://arxiv.org/pdf/2508.19201), Aug. 26 2025.
 - [Provable benefits of in-tool learning for large language models](https://arxiv.org/pdf/2508.20755), Aug. 28 2025.
@@ -184,6 +186,7 @@
 - [Synthesizing agentic data for web agents with progressive difficulty enhancement machenisms](https://arxiv.org/pdf/2510.13913), Oct. 15 2025.
 - [Thinking vs. doing: Improving agent reasoning by scaling test-time interaction](https://openreview.net/pdf?id=un1TRwNgiv), NeurIPS 2025. [code](https://github.com/test-time-interaction/TTI).
 - [DR Tulu: Reinforcement learning with evolving rubrics for deep research](https://www.datocms-assets.com/64837/1763496622-dr_tulu_draft.pdf), Nov. 18 2025.
+- [SID-1 technical report: Test-time compute for retrieval](https://www.sid.ai/research/sid-1-technical-report), Dec. 4 2025.
 
 **toolkits**
 - [verl-tool](https://deepwiki.com/TIGER-AI-Lab/verl-tool).
