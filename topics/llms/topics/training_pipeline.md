@@ -25,6 +25,7 @@
 - [Hyperparameter loss surfaces are simple near their optima](https://openreview.net/pdf?id=IAoSG4Q2xC), COLM 2025.
 - [Evolution strategies at the hyperscale](https://eshyperscale.github.io/imgs/paper.pdf), Nov. 2025. [code](https://github.com/ESHyperscale/HyperscaleES).
 - [SVRG and beyond via posterior correction](https://arxiv.org/abs/2512.01930), Dec. 1 2025.
+- [Hyperparameter transfer enables consistent gains of matrix-preconditioned optimizers across scales](https://arxiv.org/pdf/2512.05620), Dec. 5 2025.
 
 ### Pre-training
 
@@ -51,6 +52,7 @@
 - [The coverage principle: How pre-training enables post-training](https://arxiv.org/pdf/2510.15020), Oct. 16 2025.
 - [RLP: Reinforcement as a pretraining objective](https://arxiv.org/abs/2510.01265), Sep. 26 2025. [code](https://github.com/NVlabs/RLP).
 - [PretrainZero: Reinforcement active pretraining](https://arxiv.org/pdf/2512.03442), Dec. 3 2025.
+- [Language models scale reliably with over-training and on downstream tasks](https://arxiv.org/pdf/2403.08540?), Jun. 14 2024. [code](https://github.com/mlfoundations/scaling).
 
 ### Continual pre-training, or mid-training
 
