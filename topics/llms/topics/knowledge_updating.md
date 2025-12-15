@@ -107,6 +107,7 @@ Finetuned Facts](https://arxiv.org/pdf/2412.04614), Dec. 5 2024.
 - [Fine-tuning or retrieval? Comparing knowledge injection in LLMs](https://aclanthology.org/2024.emnlp-main.15.pdf), EMNLP 2024.
 - [FineTuneBench: How well do commercial fine-tuning APIs infuse knowledge into LLMs?](https://arxiv.org/pdf/2411.05059?), Nov. 11 2024.
 - [Believe it or not: How deeply do LLMs believe implanted facts?](https://arxiv.org/pdf/2510.17941), Oct. 20 2025.
+- [Unified concept editing in diffusion models](https://arxiv.org/pdf/2308.14761), 2023. [code](https://github.com/rohitgandikota/unified-concept-editing?tab=readme-ov-file).
 
 #### RAG and knowledge graph
 
