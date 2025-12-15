@@ -278,6 +278,7 @@
 - [Rethinking fine-tuning when scaling test-time compute: Limiting confidence improves mathematical reasoning](https://arxiv.org/pdf/2502.07154), Nov. 24 2025.
 - [Algorithmic thinking theory](https://arxiv.org/pdf/2512.04923), Dec. 4 2025.
 - [SkillFactory: Self-distillation for learning cognitive behaviors](https://arxiv.org/pdf/2512.04072), Dec. 3 2025. [code](https://github.com/Zayne-sprague/SkillFactory).
+- [Sleep-time compute: Beyond inference scaling at test-time](https://arxiv.org/abs/2504.13171), Apr. 17 2025.
 
 #### Mode collapse
 
