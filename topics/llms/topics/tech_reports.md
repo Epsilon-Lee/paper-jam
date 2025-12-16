@@ -100,6 +100,7 @@
 - [DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search](https://arxiv.org/pdf/2408.08152), Aug. 2024.
 - [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437), Dec. 26 2024.
 - [DeepSeek-R1: Incentivizing reasoning ability in LLMs via reinforcement learning](https://arxiv.org/abs/2501.12948), Jan. 22 2025.
+- [DeepSeekMath-V2: Towards self-veriable mathematical reasoning](https://arxiv.org/pdf/2511.22570v1), Nov. 27 2025. [code](https://github.com/deepseek-ai/DeepSeek-Math-V2).
 
 **AI2**
 - [Olmoe: Open mixture-of-experts language models](https://arxiv.org/pdf/2409.02060), Sep. 3 2024. [data](https://huggingface.co/datasets/allenai/OLMoE-mix-0924).
