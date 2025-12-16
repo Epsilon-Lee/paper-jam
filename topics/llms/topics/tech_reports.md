@@ -7,16 +7,23 @@
 - [Aquila2 Technical Report](https://arxiv.org/pdf/2408.07410), Aug. 14 2024.
 - [Apriel-Nemotron-15B-Thinker](https://arxiv.org/pdf/2508.10948), Aug. 13 2025.
   - To learn about details of mid-training, e.g. how cpt degrades or inreases scores on various benchmarks
-- [Motif 2.6B technical report](https://arxiv.org/pdf/2508.09148), Aug. 2 2025.
 - [Apertus tech report](https://github.com/swiss-ai/apertus-tech-report/tree/main), Sep. 1 2025.
 - [SmolLM2: When smol goes big - Data-centric training of a fully open small language model](https://openreview.net/pdf?id=3JiCl2A14H), COLM 2025. [code](https://openreview.net/pdf?id=3JiCl2A14H).
-- [K2-Think: A parameter-efficient reasoning system](https://arxiv.org/pdf/2509.07604v3), Sep. 9 2025.
 - [CWM: An open-weights LLM for research on code generation with world models](https://arxiv.org/pdf/2510.02387). Sep. 30 2025.
 - [INTELLECT-3: technical report](https://storage.googleapis.com/intellect-3-paper/INTELLECT_3_Technical_Report.pdf), Nov. 2025..
 - [AM-Thinking-v1: Advancing the frontier of reasoning at 32B scale](https://arxiv.org/pdf/2505.08311), May 25 2025.
 - [Gaperon: A peppered English-French generative language model suite](https://arxiv.org/pdf/2510.25771), Oct. 29 2025. [code](https://github.com/NathanGodey/gapetron).
 - [Uni-MoE-2.0-Omni: Scaling language centric omnimodal large model with advanced moe, training and data](https://arxiv.org/pdf/2511.12609), Nov. 23 2025.
 - [LFM2 technical report](https://arxiv.org/abs/2511.23404), Nov. 28 2025.
+- [Nanbeige4-3b technical report: Exploring the frontier of small language models](https://arxiv.org/pdf/2512.06266), Dec. 6 2025.
+
+**Motif**
+- [Motif 2.6B technical report](https://arxiv.org/pdf/2508.09148), Aug. 2 2025.
+- [Motif-2-12.7b-reasoning: A practioner's guide to rl training recipe](https://arxiv.org/pdf/2512.11463), Dec. 11 2025.
+
+**LLM360**
+- [K2-Think: A parameter-efficient reasoning system](https://arxiv.org/pdf/2509.07604v3), Sep. 9 2025.
+- [K2-V2: A 360-open, reasoning-enhanced LLM](https://arxiv.org/pdf/2512.06201), Dec. 5 2025.
 
 **Meituan**
 - [LongCat-Flash technical report](https://arxiv.org/pdf/2509.01322), Aug. 31 2025.
@@ -50,6 +57,7 @@
   - The partial pre-training data is available, e.g. Nemotron-CC-v2/Math-v1/Code-v1/SFT-v1, as well as the post-training dataset.
 - [Jet-Nemotron: Efficient language model with post neural architecture search](https://arxiv.org/pdf/2508.15884), Aug. 21 2025. [code](https://github.com/NVlabs/Jet-Nemotron).
 - [NVIDIA Nemotron nano v2 vl](https://arxiv.org/pdf/2511.03929), Nov. 6 2025.
+- [Nemotron 3 nano: Open, efficient mixture-of-experts hybrid Mamba-Transformer model for agentic reasoning](https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Nano-Technical-Report.pdf), Dec. 15 2025.
 
 **Llama series**
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971), Feb. 27 2023.
@@ -162,6 +170,7 @@
 - [Med42-v2: A suite of clinical LLMs](https://arxiv.org/pdf/2408.06142), Aug. 12 2024.
 - [MedGemma technical report](https://arxiv.org/pdf/2507.05201), Jul. 7 2025.
 - [Fleming-R1: Toward expert-level medical reasoning via reinforcement learning](https://arxiv.org/pdf/2509.15279), Sep. 18 2025. [code](https://github.com/UbiquantAI/Fleming-R1).
+- [VulnLLM-R: Specialized reasoning LLM with agent scaffold for vulnerability detection](https://arxiv.org/pdf/2512.07533), Dec. 8 2025.
 
 ### Audio LLMs
 
