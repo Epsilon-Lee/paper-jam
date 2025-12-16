@@ -58,6 +58,7 @@
   - Solution: Including a new factor n_{pmt}, the length (in tokens) of a given input query or context, excluding generated/outputted tokens, to fit more dedicated task performance prediction curves.
   - My two cents: If using many-shot learning to controll the n_{pmt}, would this fitted law only workable for narrow icl, that is, icl via ic demos?
 - [How doe large language monkeys get their power (laws)?](https://arxiv.org/pdf/2502.17578), Feb. 24 2025.
+- [Revisiting the scaling properties of downstream metrics in large language model training](https://arxiv.org/pdf/2512.08894), Dec. 9 2025. [code](https://github.com/apple/ml-scaling-downstream-metrics).
 
 #### FLOPS
 
