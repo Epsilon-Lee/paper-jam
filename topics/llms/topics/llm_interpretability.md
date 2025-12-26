@@ -262,6 +262,7 @@
 - [Unsupervised decoding of encoded reasoning using language model interpretability](https://openreview.net/pdf?id=OEDW0lmJTv), NeurIPS 2025.
 - [Activation oracles: Training and evaluating llms as general-purpose activation explainers](https://arxiv.org/pdf/2512.15674), Dec. 17 2025. [code](https://github.com/adamkarvonen/activation_oracles).
 - [Predictive concept decoders: Training scalable end-to-end interpretability assistants](https://arxiv.org/pdf/2512.15712), Dec. 17 2025.
+- [In-context algebra](https://arxiv.org/pdf/2512.16902), Dec. 18 2025. [code](https://algebra.baulab.info/).
 
 #### Parameter attribution, circuits
 
