@@ -101,6 +101,7 @@
 - [OKBench: Democratizing LLM evaluation with fully automated, on-demand, open knowledge benchmarking](https://arxiv.org/pdf/2511.08598), Oct. 31 2025.
 - [ProfBench: Multi-domain rubrics requiring professional knowledge to answer and judge](https://arxiv.org/pdf/2510.18941), Oct. 21 2025. [code](https://github.com/NVlabs/ProfBench).
 - [A Rosetta stone for AI benchmarks](https://arxiv.org/pdf/2512.00193), Nov. 28 2025.
+- [FrontierCS: Evolving challenges for evolving intelligence](https://arxiv.org/pdf/2512.15699), Dec. 17 2025. [code](https://github.com/FrontierCS/Frontier-CS).
 
 #### Evaluation for agents
 
