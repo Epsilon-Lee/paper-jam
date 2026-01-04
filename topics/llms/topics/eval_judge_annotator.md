@@ -56,6 +56,8 @@
 - [Product evals in three simple steps](https://eugeneyan.com/writing/product-evals/), Nov. 2025.
 - [Dynamioc evaluation for oversensitivity in LLMs](https://arxiv.org/pdf/2510.19005), Oct. 21 2025. [code](https://github.com/SophiaPx/Oversensitivity).
 - [Evaluating deep agents](https://blog.langchain.com/evaluating-deep-agents-our-learnings/), Dec. 3 2025.
+- [Uncovering competency gaps in large language models and their benchmarks](https://arxiv.org/pdf/2512.20638), Dec. 6 2025. [code](https://competency-gaps.github.io/).
+- [Measuring all the noises of llm evals](https://arxiv.org/pdf/2512.21326), Dec. 24 2025.
 
 #### Eval-guided dev
 
