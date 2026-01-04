@@ -114,6 +114,7 @@
 - [The AI scientist-v2: Workshop-level automated scientific discovery via agentic tree search](https://pub.sakana.ai/ai-scientist-v2/paper/paper.pdf), Apr. 8 2025.
 - [AI research agents for machine learning: Search, exploration, and generalization in MLE-bench](https://arxiv.org/pdf/2507.02554), Jul. 3 2025. [code](https://arxiv.org/pdf/2507.02554).
 - [ShinkaEvolve: Towards open-ended and sample-efficient program evolution](https://arxiv.org/abs/2509.19349), Sep. 17 2025. [code](https://github.com/SakanaAI/ShinkaEvolve).
+- [SIMA 2: A generalist embodied agent for virtual worlds](https://arxiv.org/pdf/2512.04797), Dec. 4 2025.
 
 #### Research agent
 
