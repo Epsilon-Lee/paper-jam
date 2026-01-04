@@ -279,6 +279,7 @@
 - [Algorithmic thinking theory](https://arxiv.org/pdf/2512.04923), Dec. 4 2025.
 - [SkillFactory: Self-distillation for learning cognitive behaviors](https://arxiv.org/pdf/2512.04072), Dec. 3 2025. [code](https://github.com/Zayne-sprague/SkillFactory).
 - [Sleep-time compute: Beyond inference scaling at test-time](https://arxiv.org/abs/2504.13171), Apr. 17 2025.
+- [AI-assisted generation of difficult math questions](https://arxiv.org/pdf/2407.21009v4), Feb. 3 2025. [code](https://math-squared.github.io/).
 
 #### Mode collapse
 
