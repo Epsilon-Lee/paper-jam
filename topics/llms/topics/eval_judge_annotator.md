@@ -102,6 +102,9 @@
 - [ProfBench: Multi-domain rubrics requiring professional knowledge to answer and judge](https://arxiv.org/pdf/2510.18941), Oct. 21 2025. [code](https://github.com/NVlabs/ProfBench).
 - [A Rosetta stone for AI benchmarks](https://arxiv.org/pdf/2512.00193), Nov. 28 2025.
 - [FrontierCS: Evolving challenges for evolving intelligence](https://arxiv.org/pdf/2512.15699), Dec. 17 2025. [code](https://github.com/FrontierCS/Frontier-CS).
+- [officeqa](https://github.com/databricks/officeqa/tree/main).
+  - _"OfficeQA is a benchmark by Databricks, built for evaluating model / agent performance on end to end Grounded Reasoning tasks."_
+  - _"OfficeQA evaluates how well AI systems can reason over real-world documents to answer complex questions. The benchmark uses historical U.S. Treasury Bulletin PDFs (1939-2025), which contain dense financial tables, charts, and text data."_
 
 #### Evaluation for agents
 
