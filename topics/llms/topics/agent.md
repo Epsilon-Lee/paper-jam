@@ -93,6 +93,7 @@
 - [Don't lie to your friends: Learning what you know from collaborative self-play](https://openreview.net/pdf?id=2vDJiGUfhV), COLM 2025.
 - [Building the Open Agent Ecosystem Together: Introducing OpenEnv](https://huggingface.co/blog/openenv), Oct. 23 2025.
 - [Towards a science of scaling agent systems](https://arxiv.org/pdf/2512.08296), Dec. 9 2025.
+- [Training versatile coding agents in synthetic environments](https://arxiv.org/pdf/2512.12216), Dec. 13 2025. [code](https://neulab.github.io/SWE-Playground/).
 
 #### Open-endedness
 
