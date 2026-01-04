@@ -283,6 +283,7 @@
 - [A comedy of estimators: On kl regularization in rl training of llms](SWE-RM: EXECUTION-FREE FEEDBACK FOR SOFTWARE ENGINEERING AGENTS), Dec. 26 2025.
 - [SPICE: Self-play in corpus environments improves reasoning](https://arxiv.org/pdf/2510.24684), Oct. 28 2025. [code](https://github.com/sail-sg/oat).
   - [VisPlay: Self-evolving vision-language models from images](https://arxiv.org/pdf/2511.15661), Nov. 20 2025. [code](https://github.com/bruno686/VisPlay).
+- [Reasoning with exploration: An entropy perspective](https://arxiv.org/pdf/2506.14758?), Nov. 8 2025.
 
 #### Mode collapse
 
