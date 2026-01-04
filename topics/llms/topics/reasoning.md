@@ -280,6 +280,9 @@
 - [SkillFactory: Self-distillation for learning cognitive behaviors](https://arxiv.org/pdf/2512.04072), Dec. 3 2025. [code](https://github.com/Zayne-sprague/SkillFactory).
 - [Sleep-time compute: Beyond inference scaling at test-time](https://arxiv.org/abs/2504.13171), Apr. 17 2025.
 - [AI-assisted generation of difficult math questions](https://arxiv.org/pdf/2407.21009v4), Feb. 3 2025. [code](https://math-squared.github.io/).
+- [A comedy of estimators: On kl regularization in rl training of llms](SWE-RM: EXECUTION-FREE FEEDBACK FOR SOFTWARE ENGINEERING AGENTS), Dec. 26 2025.
+- [SPICE: Self-play in corpus environments improves reasoning](https://arxiv.org/pdf/2510.24684), Oct. 28 2025. [code](https://github.com/sail-sg/oat).
+  - [VisPlay: Self-evolving vision-language models from images](https://arxiv.org/pdf/2511.15661), Nov. 20 2025. [code](https://github.com/bruno686/VisPlay).
 
 #### Mode collapse
 
@@ -344,5 +347,6 @@
 - [ReJump: A tree-jump representation for analyzing and improving LLM reasoning](https://arxiv.org/pdf/2512.00831), Nov. 30 2025. [code](https://github.com/UW-Madison-Lee-Lab/ReJump).
 - [Thought branches: Interpreting LLM reasoning requires resampling](https://arxiv.org/abs/2510.27484), Oct. 31 2025.
 - [On the interplay of pre-training, mid-training, and rl on reasoning language models](https://arxiv.org/pdf/2512.07783), Dec. 8 2025. [code](https://github.com/Interplay-LM-Reasoning/Interplay-LM-Reasoning).
+- [From f(x) and g(x) to f(g(x)): LLMs learn new skill in RL by composing old ones](https://arxiv.org/pdf/2509.25123), Dec. 19 2025.
 
 
